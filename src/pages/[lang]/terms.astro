@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+---
+
+<BaseLayout title={l === 'zh' ? '使用条款' : 'Terms of Use'} lang={l}>
+  <div class="about-content">
+    {l === 'zh' ? (
+      <>
+        <h1>使用条款</h1>
+        <p><em>最后更新：2026年6月</em></p>
+
+        <p>访问和使用 HuaxiaInk（华夏墨韵，域名 huaxiaink.com）即表示你同意以下条款。如果你不同意，请停止使用本网站。</p>
+
+        <h2>1. 内容性质</h2>
+        <p>本网站发布的内容仅供参考和娱乐目的，不构成专业建议。我们尽力确保信息准确，但不保证内容的完整性、及时性或准确性。</p>
+
+        <h2>2. 知识产权</h2>
+        <p>本网站的原创文字、设计和排版受版权保护。未经我们书面许可，不得复制、转载或分发本站原创内容。</p>
+        <p>本站引用的视频、图片等第三方内容版权归原始创作者所有。我们通过嵌入或链接方式引用，不主张对这些内容的所有权。</p>
+
+        <h2>3. 联盟链接</h2>
+        <p>本网站包含亚马逊及其他联盟营销链接。你通过这些链接购买商品，我们可能获得佣金，不增加你的支出。详见<a href={`/${l}/affiliate-disclosure`}>联盟推广披露</a>。</p>
+
+        <h2>4. 外部链接</h2>
+        <p>本站可能包含指向第三方网站的链接。我们不对这些网站的内容、隐私政策或安全性负责。</p>
+
+        <h2>5. 免责声明</h2>
+        <p>使用本网站信息的风险由你自行承担。我们对因使用本站内容而造成的任何直接或间接损失不承担责任。</p>
+
+        <h2>6. 条款修改</h2>
+        <p>我们保留随时修改这些条款的权利。继续使用本网站即表示接受修改后的条款。</p>
+
+        <h2>7. 适用法律</h2>
+        <p>这些条款受中华人民共和国法律管辖。</p>
+
+        <h2>联系我们</h2>
+        <p>如有关于这些条款的问题，请联系 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+      </>
+    ) : (
+      <>
+        <h1>Terms of Use</h1>
+        <p><em>Last updated: June 2026</em></p>
+
+        <p>By accessing and using HuaxiaInk (huaxiaink.com), you agree to the following terms. If you do not agree, please discontinue use of this site.</p>
+
+        <h2>1. Content Nature</h2>
+        <p>Content on this website is provided for informational and entertainment purposes only and does not constitute professional advice. We strive for accuracy but do not guarantee the completeness, timeliness, or accuracy of any content.</p>
+
+        <h2>2. Intellectual Property</h2>
+        <p>Original text, design, and layout on this website are copyrighted. You may not copy, reproduce, or distribute our original content without written permission.</p>
+        <p>Third-party videos, images, and other media referenced on this site belong to their original creators. We reference them through embedding or linking and do not claim ownership.</p>
+
+        <h2>3. Affiliate Links</h2>
+        <p>This website contains Amazon and other affiliate marketing links. When you purchase through these links, we may earn a commission at no additional cost to you. See our <a href={`/${l}/affiliate-disclosure`}>Affiliate Disclosure</a> for details.</p>
+
+        <h2>4. External Links</h2>
+        <p>This site may contain links to third-party websites. We are not responsible for the content, privacy practices, or security of those sites.</p>
+
+        <h2>5. Disclaimer</h2>
+        <p>You use information on this website at your own risk. We shall not be liable for any direct or indirect damages arising from the use of our content.</p>
+
+        <h2>6. Changes to Terms</h2>
+        <p>We reserve the right to modify these terms at any time. Continued use of the website constitutes acceptance of the modified terms.</p>
+
+        <h2>7. Governing Law</h2>
+        <p>These terms are governed by the laws of the People's Republic of China.</p>
+
+        <h2>Contact</h2>
+        <p>For questions about these terms, contact <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+      </>
+    )}
+  </div>
+</BaseLayout>

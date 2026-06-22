@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+---
+
+<BaseLayout title={l === 'zh' ? '联盟推广披露' : 'Affiliate Disclosure'} lang={l}>
+  <div class="about-content">
+    {l === 'zh' ? (
+      <>
+        <h1>联盟推广披露</h1>
+        <p><em>最后更新：2026年6月</em></p>
+
+        <h2>亚马逊联盟计划</h2>
+        <p>HuaxiaInk（华夏墨韵）是 Amazon Services LLC Associates Program 的参与方。这是一项联盟广告计划，旨在为网站提供通过广告和链接指向 Amazon.com 及其关联网站而赚取广告费的方式。</p>
+        <p>这意味着，当你在本网站点击亚马逊联盟链接并完成购买时，我们将从亚马逊获得少量佣金，<strong>你不会因此产生任何额外费用</strong>。</p>
+
+        <h2>其他联盟计划</h2>
+        <p>除亚马逊外，我们可能参与其他联盟营销计划。这些计划同样遵循相同原则：你通过我们的链接购买商品时，我们可能获得佣金，价格不受影响。</p>
+
+        <h2>我们的原则</h2>
+        <ul>
+          <li><strong>真实推荐</strong>：我们只推荐与内容主题真正相关、我们认为读者会有兴趣的产品。</li>
+          <li><strong>透明公开</strong>：所有包含联盟链接的页面都会标注此披露声明。</li>
+          <li><strong>无溢价</strong>：通过联盟链接购买不会增加你的支出，商品价格与直接访问亚马逊相同。</li>
+          <li><strong>编辑独立</strong>：联盟佣金不影响我们的内容选择和编辑判断。</li>
+        </ul>
+
+        <h2>如何识别联盟链接</h2>
+        <p>本站文章页面中标注为"深入了解"或"Dive Deeper"板块下的产品链接通常为联盟链接。链接可能包含如 <code>tag=</code> 或 <code>ref=</code> 等追踪参数。</p>
+
+        <h2>问题与反馈</h2>
+        <p>如果你对本披露声明有任何疑问，请联系 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+      </>
+    ) : (
+      <>
+        <h1>Affiliate Disclosure</h1>
+        <p><em>Last updated: June 2026</em></p>
+
+        <h2>Amazon Associates Program</h2>
+        <p>HuaxiaInk is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and its affiliated sites.</p>
+        <p>This means that when you click on an Amazon affiliate link on our site and make a purchase, we receive a small commission at <strong>no additional cost to you</strong>.</p>
+
+        <h2>Other Affiliate Programs</h2>
+        <p>In addition to Amazon, we may participate in other affiliate marketing programs. These programs follow the same principle: when you purchase through our links, we may earn a commission, and the price you pay remains the same.</p>
+
+        <h2>Our Principles</h2>
+        <ul>
+          <li><strong>Genuine Recommendations</strong>: We only recommend products genuinely related to our content that we believe our readers will find valuable.</li>
+          <li><strong>Transparency</strong>: All pages containing affiliate links reference this disclosure.</li>
+          <li><strong>No Markup</strong>: Purchasing through affiliate links does not increase your cost — prices are identical to visiting Amazon directly.</li>
+          <li><strong>Editorial Independence</strong>: Affiliate commissions do not influence our content selection or editorial judgment.</li>
+        </ul>
+
+        <h2>How to Identify Affiliate Links</h2>
+        <p>Product links in the "Dive Deeper" sections of our articles are typically affiliate links. These links may contain tracking parameters such as <code>tag=</code> or <code>ref=</code>.</p>
+
+        <h2>Questions</h2>
+        <p>If you have questions about this disclosure, please contact <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+      </>
+    )}
+  </div>
+</BaseLayout>

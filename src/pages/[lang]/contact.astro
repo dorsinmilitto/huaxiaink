@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+---
+
+<BaseLayout title={l === 'zh' ? '联系我们' : 'Contact Us'} lang={l}>
+  <div class="about-content">
+    {l === 'zh' ? (
+      <>
+        <h1>联系我们</h1>
+        <p>我们很乐意听到你的声音！无论是内容建议、合作意向还是其他反馈，都可以通过以下方式联系我们。</p>
+
+        <h2>电子邮件</h2>
+        <p>如需一般咨询或合作洽谈，请发送邮件至 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+
+        <h2>内容投稿</h2>
+        <p>如果你发现了一个值得分享的中国文化故事——一段视频、一篇文章或一个新闻事件——欢迎投稿至 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>，邮件标题请注明「内容投稿」。</p>
+
+        <h2>商务合作</h2>
+        <p>品牌合作、广告投放及其他商务事宜，请联系 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>，邮件标题请注明「商务合作」。</p>
+
+        <h2>反馈与建议</h2>
+        <p>网站体验、内容方向、功能建议——你的每一条反馈都对我们很重要。请发送至 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+      </>
+    ) : (
+      <>
+        <h1>Contact Us</h1>
+        <p>We'd love to hear from you! Whether you have content suggestions, partnership inquiries, or general feedback, here's how to reach us.</p>
+
+        <h2>Email</h2>
+        <p>For general inquiries or collaboration, email us at <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+
+        <h2>Content Submissions</h2>
+        <p>Found a Chinese culture story worth sharing — a video, article, or news event? Submit it to <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a> with "Content Submission" in the subject line.</p>
+
+        <h2>Business Partnerships</h2>
+        <p>For brand collaborations, advertising, and other business inquiries, contact <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a> with "Partnership" in the subject line.</p>
+
+        <h2>Feedback</h2>
+        <p>Site experience, content direction, feature requests — every piece of feedback matters. Send it to <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+      </>
+    )}
+  </div>
+</BaseLayout>

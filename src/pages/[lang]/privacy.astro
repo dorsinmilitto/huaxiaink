@@ -1,0 +1,145 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+---
+
+<BaseLayout title={l === 'zh' ? '隐私政策' : 'Privacy Policy'} lang={l}>
+  <div class="about-content">
+    {l === 'zh' ? (
+      <>
+        <h1>隐私政策</h1>
+        <p><em>最后更新：2026年6月</em></p>
+
+        <p>本隐私政策说明 HuaxiaInk（华夏墨韵，域名 huaxiaink.com）如何收集、使用和保护你的信息。</p>
+
+        <h2>1. 我们收集的信息</h2>
+        <h3>自动收集的信息</h3>
+        <p>当你访问本网站时，我们的托管服务商和服务提供商可能自动收集以下信息：</p>
+        <ul>
+          <li>IP 地址</li>
+          <li>浏览器类型和版本</li>
+          <li>操作系统</li>
+          <li>访问的页面和停留时间</li>
+          <li>引荐来源网址</li>
+        </ul>
+
+        <h3>你主动提供的信息</h3>
+        <p>当你通过电子邮件联系我们时，我们会收集你提供的姓名、邮箱地址和邮件内容。</p>
+
+        <h2>2. 第三方服务</h2>
+        <h3>Cloudflare</h3>
+        <p>本网站通过 Cloudflare 提供内容分发和安全服务。Cloudflare 可能收集访问数据以优化性能和安全。详见 <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer">Cloudflare 隐私政策</a>。</p>
+
+        <h3>YouTube</h3>
+        <p>本网站嵌入 YouTube 视频播放器。当你观看视频时，YouTube 可能根据其隐私政策收集数据。详见 <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google 隐私政策</a>。</p>
+
+        <h3>亚马逊联盟</h3>
+        <p>本网站包含亚马逊联盟链接。当你点击这些链接时，亚马逊可能通过 Cookie 追踪你的浏览行为。详见 <a href="https://www.amazon.com/privacy" target="_blank" rel="noopener noreferrer">亚马逊隐私声明</a>。</p>
+
+        <h3>Google Analytics</h3>
+        <p>我们可能使用 Google Analytics 分析网站流量。该服务使用 Cookie 收集匿名访问数据。你可通过浏览器设置禁用 Cookie。</p>
+
+        <h2>3. Cookie</h2>
+        <p>本网站及其第三方服务可能使用 Cookie 和类似技术：</p>
+        <ul>
+          <li><strong>必要 Cookie</strong>：保证网站基本功能运行</li>
+          <li><strong>分析 Cookie</strong>：帮助我们了解网站使用情况</li>
+          <li><strong>联盟 Cookie</strong>：追踪联盟链接点击和转化</li>
+        </ul>
+        <p>你可以通过浏览器设置管理或禁用 Cookie。</p>
+
+        <h2>4. 信息使用</h2>
+        <p>我们收集的信息仅用于：</p>
+        <ul>
+          <li>优化网站内容和用户体验</li>
+          <li>分析网站流量和访问模式</li>
+          <li>回复你的咨询和反馈</li>
+          <li>遵守法律要求</li>
+        </ul>
+
+        <h2>5. 信息保护</h2>
+        <p>我们采取合理的技术和管理措施保护你的信息不被未经授权的访问、使用或泄露。</p>
+
+        <h2>6. 儿童隐私</h2>
+        <p>本网站不面向 13 岁以下儿童，我们不会故意收集儿童的个人信息。</p>
+
+        <h2>7. 政策修改</h2>
+        <p>我们保留随时修改本隐私政策的权利。重大变更将在本页面更新。</p>
+
+        <h2>8. 联系我们</h2>
+        <p>如对本隐私政策有任何疑问，请联系 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+      </>
+    ) : (
+      <>
+        <h1>Privacy Policy</h1>
+        <p><em>Last updated: June 2026</em></p>
+
+        <p>This Privacy Policy explains how HuaxiaInk (huaxiaink.com) collects, uses, and protects your information.</p>
+
+        <h2>1. Information We Collect</h2>
+        <h3>Automatically Collected Information</h3>
+        <p>When you visit this website, our hosting provider and service providers may automatically collect:</p>
+        <ul>
+          <li>IP address</li>
+          <li>Browser type and version</li>
+          <li>Operating system</li>
+          <li>Pages visited and time spent</li>
+          <li>Referring URL</li>
+        </ul>
+
+        <h3>Information You Provide</h3>
+        <p>When you contact us via email, we collect the name, email address, and message content you provide.</p>
+
+        <h2>2. Third-Party Services</h2>
+        <h3>Cloudflare</h3>
+        <p>This website is served through Cloudflare for content delivery and security. Cloudflare may collect visit data for performance and security optimization. See <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer">Cloudflare's Privacy Policy</a>.</p>
+
+        <h3>YouTube</h3>
+        <p>This website embeds YouTube video players. When you watch a video, YouTube may collect data in accordance with its privacy policy. See <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google's Privacy Policy</a>.</p>
+
+        <h3>Amazon Associates</h3>
+        <p>This website contains Amazon affiliate links. When you click these links, Amazon may track your browsing behavior through cookies. See <a href="https://www.amazon.com/privacy" target="_blank" rel="noopener noreferrer">Amazon's Privacy Notice</a>.</p>
+
+        <h3>Google Analytics</h3>
+        <p>We may use Google Analytics to analyze website traffic. This service uses cookies to collect anonymous visit data. You can disable cookies through your browser settings.</p>
+
+        <h2>3. Cookies</h2>
+        <p>This website and its third-party services may use cookies and similar technologies:</p>
+        <ul>
+          <li><strong>Essential Cookies</strong>: Required for basic website functionality</li>
+          <li><strong>Analytics Cookies</strong>: Help us understand site usage</li>
+          <li><strong>Affiliate Cookies</strong>: Track affiliate link clicks and conversions</li>
+        </ul>
+        <p>You can manage or disable cookies through your browser settings.</p>
+
+        <h2>4. How We Use Information</h2>
+        <p>The information we collect is used only to:</p>
+        <ul>
+          <li>Improve website content and user experience</li>
+          <li>Analyze traffic and visit patterns</li>
+          <li>Respond to your inquiries and feedback</li>
+          <li>Comply with legal requirements</li>
+        </ul>
+
+        <h2>5. Data Protection</h2>
+        <p>We take reasonable technical and administrative measures to protect your information from unauthorized access, use, or disclosure.</p>
+
+        <h2>6. Children's Privacy</h2>
+        <p>This website is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+
+        <h2>7. Policy Changes</h2>
+        <p>We reserve the right to modify this privacy policy at any time. Significant changes will be reflected on this page.</p>
+
+        <h2>8. Contact</h2>
+        <p>For questions about this privacy policy, contact <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+      </>
+    )}
+  </div>
+</BaseLayout>

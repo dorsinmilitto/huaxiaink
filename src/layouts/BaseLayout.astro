@@ -9,8 +9,8 @@ export interface Props {
 const { title, description, image, lang } = Astro.props;
 const l = lang as 'en' | 'zh';
 const defaultDesc = l === 'zh'
-  ? '用当代视角，发现真实中国 — 精选YouTube视频配文化解读'
-  : 'Discover China Through Authentic Voices — Curated YouTube videos with cultural context';
+  ? '用当代视角，发现真实中国 — 精选故事配文化解读'
+  : 'Discover China Through Authentic Voices — Stories of Chinese culture with context you won\'t find anywhere else';
 const desc = description || defaultDesc;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
@@ -81,6 +81,13 @@ const altURL = new URL(altPath, Astro.site);
         <span class="logo-ink">墨</span> {l === 'zh' ? '华夏墨韵' : 'HuaxiaInk'}
       </div>
       <p class="footer-tagline">{l === 'zh' ? '用当代视角，发现真实中国' : 'Discover China Through Authentic Voices'}</p>
+      <nav class="footer-links">
+        <a href={`/${l}/about`}>{l === 'zh' ? '关于我们' : 'About'}</a>
+        <a href={`/${l}/contact`}>{l === 'zh' ? '联系我们' : 'Contact'}</a>
+        <a href={`/${l}/terms`}>{l === 'zh' ? '使用条款' : 'Terms'}</a>
+        <a href={`/${l}/privacy`}>{l === 'zh' ? '隐私政策' : 'Privacy'}</a>
+        <a href={`/${l}/affiliate-disclosure`}>{l === 'zh' ? '联盟披露' : 'Affiliate Disclosure'}</a>
+      </nav>
       <p class="footer-copy">&copy; {new Date().getFullYear()} HuaxiaInk. {l === 'zh' ? '版权所有' : 'All rights reserved.'}</p>
     </div>
   </footer>
