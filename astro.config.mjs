@@ -9,13 +9,6 @@ export default defineConfig({
       locales: { en: 'en-US', zh: 'zh-CN' },
     },
   })],
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh'],
-    routing: {
-      prefixDefaultLocale: true,
-    },
-  },
   build: {
     format: 'directory',
   },
