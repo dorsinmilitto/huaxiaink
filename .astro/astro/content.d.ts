@@ -140,22 +140,14 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"events": {
-"deepseek-viral-zh.md": {
-	id: "deepseek-viral-zh.md";
-  slug: "deepseek-viral-zh";
+		"events": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "events";
-  data: InferEntrySchema<"events">
-} & { render(): Render[".md"] };
-"deepseek-viral.md": {
-	id: "deepseek-viral.md";
-  slug: "deepseek-viral";
-  body: string;
-  collection: "events";
-  data: InferEntrySchema<"events">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"events">;
+  render(): Render[".md"];
+}>;
 "festivals": Record<string, {
   id: string;
   slug: string;
@@ -172,33 +164,25 @@ declare module 'astro:content' {
   data: InferEntrySchema<"food">;
   render(): Render[".md"];
 }>;
-"games": {
-"black-myth-wukong-zh.md": {
-	id: "black-myth-wukong-zh.md";
-  slug: "black-myth-wukong-zh";
+"games": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "games";
-  data: InferEntrySchema<"games">
-} & { render(): Render[".md"] };
-"black-myth-wukong.md": {
-	id: "black-myth-wukong.md";
-  slug: "black-myth-wukong";
-  body: string;
-  collection: "games";
-  data: InferEntrySchema<"games">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"games">;
+  render(): Render[".md"];
+}>;
 "music": {
-"guzheng-cover-zh.md": {
-	id: "guzheng-cover-zh.md";
-  slug: "guzheng-cover-zh";
+"buran-guqin-zh.md": {
+	id: "buran-guqin-zh.md";
+  slug: "buran-guqin-zh";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
-"guzheng-cover.md": {
-	id: "guzheng-cover.md";
-  slug: "guzheng-cover";
+"buran-guqin.md": {
+	id: "buran-guqin.md";
+  slug: "buran-guqin";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
