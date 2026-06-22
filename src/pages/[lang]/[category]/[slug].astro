@@ -67,14 +67,12 @@ const schema = {
       <span>{frontmatter.title}</span>
     </nav>
 
-    <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
-
     <div class="video-info">
       <h1>{frontmatter.title}</h1>
       <div class="video-meta-detail">
         <span>{t(l, 'detail.by')} {frontmatter.channel}</span>
         <span>{frontmatter.publishedAt.toLocaleDateString(l === 'zh' ? 'zh-CN' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-        <span>{frontmatter.duration}</span>
+        {frontmatter.duration && <span>{frontmatter.duration}</span>}
       </div>
       <div>
         {frontmatter.tags.map((tag: string) => <span class="video-tag">{tag}</span>)}
@@ -116,6 +114,12 @@ const schema = {
             />
           ))}
         </div>
+      </section>
+    )}
+
+    {frontmatter.youtubeId && (
+      <section class="section" style="padding-left:0;padding-right:0">
+        <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
       </section>
     )}
   </div>

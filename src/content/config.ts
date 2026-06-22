@@ -1,10 +1,11 @@
 import { defineCollection, z } from 'astro:content';
 
-const videoSchema = z.object({
+const contentSchema = z.object({
   title: z.string(),
-  youtubeId: z.string(),
+  youtubeId: z.string().optional(),
+  coverImage: z.string().optional(),
   channel: z.string(),
-  duration: z.string(),
+  duration: z.string().optional(),
   publishedAt: z.date(),
   lang: z.enum(['en', 'zh']).default('en'),
   tags: z.array(z.string()).default([]),
@@ -16,11 +17,11 @@ const videoSchema = z.object({
   })).default([]),
 });
 
-const events = defineCollection({ type: 'content', schema: videoSchema });
-const games = defineCollection({ type: 'content', schema: videoSchema });
-const music = defineCollection({ type: 'content', schema: videoSchema });
-const travel = defineCollection({ type: 'content', schema: videoSchema });
-const festivals = defineCollection({ type: 'content', schema: videoSchema });
-const food = defineCollection({ type: 'content', schema: videoSchema });
+const events = defineCollection({ type: 'content', schema: contentSchema });
+const games = defineCollection({ type: 'content', schema: contentSchema });
+const music = defineCollection({ type: 'content', schema: contentSchema });
+const travel = defineCollection({ type: 'content', schema: contentSchema });
+const festivals = defineCollection({ type: 'content', schema: contentSchema });
+const food = defineCollection({ type: 'content', schema: contentSchema });
 
 export const collections = { events, games, music, travel, festivals, food };

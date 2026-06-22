@@ -19,17 +19,17 @@ const translations = {
 
     // Hero
     'hero.title': 'Discover China Through Authentic Voices',
-    'hero.tagline': 'Curated YouTube videos with cultural context you won\'t find anywhere else',
+    'hero.tagline': 'Stories of Chinese culture, with context you won\'t find anywhere else',
 
     // Sections
     'section.featured': 'Featured',
-    'section.latest': 'Latest Videos',
-    'section.related': 'Related Videos',
+    'section.latest': 'Latest Stories',
+    'section.related': 'You May Also Like',
     'section.cultural_context': 'Cultural Context',
     'section.dive_deeper': 'Dive Deeper',
     'section.dive_deeper_desc': 'Explore related products handpicked for this topic:',
     'section.affiliate_disclosure': 'As an Amazon Associate, we earn from qualifying purchases.',
-    'section.no_videos': 'No videos yet. Check back soon!',
+    'section.no_videos': 'No stories yet. Check back soon!',
 
     // Category headers
     'cat.events': 'Hot Events',
@@ -55,7 +55,7 @@ const translations = {
 
     // Detail page
     'detail.by': 'by',
-    'detail.video_analysis': 'Watch and learn about',
+    'detail.video_analysis': 'Explore and learn about',
     'detail.on': 'on HuaxiaInk',
 
     // About
@@ -82,17 +82,17 @@ const translations = {
 
     // Hero
     'hero.title': '用当代视角，发现真实中国',
-    'hero.tagline': '精挑YouTube视频，附带你找不到的文化解读',
+    'hero.tagline': '精选中国故事，附带你找不到的文化解读',
 
     // Sections
     'section.featured': '精选推荐',
-    'section.latest': '最新视频',
-    'section.related': '相关视频',
+    'section.latest': '最新发布',
+    'section.related': '相关推荐',
     'section.cultural_context': '文化背景',
     'section.dive_deeper': '深入了解',
     'section.dive_deeper_desc': '为你精选的相关产品：',
     'section.affiliate_disclosure': '作为亚马逊联盟成员，我们通过符合条件的购买获得收益。',
-    'section.no_videos': '暂无视频，敬请期待！',
+    'section.no_videos': '暂无内容，敬请期待！',
 
     // Category headers
     'cat.events': '热点事件',
