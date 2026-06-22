@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import VideoCard from '../../components/VideoCard.astro';
+import { getCollection } from 'astro:content';
+
+const categoryMeta: Record<string, { name: string; icon: string; seal: string; desc: string }> = {
+  events: { name: 'Hot Events', icon: '🔥', seal: '事', desc: 'Viral trends, social phenomena, and cultural moments shaking China right now.' },
+  games: { name: 'Games', icon: '🎮', seal: '游', desc: 'From Black Myth: Wukong to mobile esports — the Chinese gaming scene decoded.' },
+  music: { name: 'Music', icon: '🎵', seal: '乐', desc: 'Guzheng covers, C-pop hits, and the sounds of ancient instruments reborn.' },
+  travel: { name: 'Travel', icon: '🏔️', seal: '行', desc: 'Breathtaking landscapes, hidden villages, and the real China off the tourist trail.' },
+  festivals: { name: 'Festivals', icon: '🏮', seal: '节', desc: 'Spring Festival, Dragon Boat, Mid-Autumn — traditions explained and experienced.' },
+  food: { name: 'Food', icon: '🍜', seal: '食', desc: 'Hotpot, dim sum, street snacks — the culinary soul of China.' },
+};
+
+export async function getStaticPaths() {
+  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food'];
+  return cats.map(cat => ({
+    params: { category: cat },
+  }));
+}
+
+const { category } = Astro.params;
+const meta = categoryMeta[category!];
+
+const entries = await getCollection(category as any);
+const videos = entries.map(e => ({
+  ...e.data,
+  slug: e.slug,
+  category,
+})).sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
+---
+
+<BaseLayout title={meta.name} description={meta.desc}>
+  <div class="category-header">
+    <div class="seal">{meta.seal}</div>
+    <h1>{meta.name}</h1>
+    <p>{meta.desc}</p>
+  </div>
+
+  {videos.length > 0 ? (
+    <section class="section">
+      <div class="video-grid">
+        {videos.map(v => (
+          <VideoCard
+            id={v.youtubeId}
+            title={v.title}
+            channel={v.channel}
+            duration={v.duration}
+            category={v.category}
+            tags={v.tags}
+            slug={v.slug}
+          />
+        ))}
+      </div>
+    </section>
+  ) : (
+    <section class="section" style="text-align:center;color:var(--text-muted);padding:3rem 0">
+      <p>No videos yet. Check back soon!</p>
+    </section>
+  )}
+</BaseLayout>

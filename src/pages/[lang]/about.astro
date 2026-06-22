@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { t, type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+---
+
+<BaseLayout title={t(l, 'about.title')} lang={l}>
+  <div class="about-content">
+    {l === 'zh' ? (
+      <>
+        <h1>关于华夏墨韵</h1>
+        <p>华夏墨韵（HuaxiaInk）是一个精心策划的文化空间，让英语世界的观众通过YouTube这个全球最活跃的视频平台，深度探索中国文化。</p>
+        <p>我们不仅仅是分享视频。每一条内容都附有<strong>文化解读</strong>，帮助你理解你看到的画面为何重要。无论是一条刷屏中国社交媒体的病毒式热点、一处令人窒息的旅行目的地，还是一个千年节日背后的故事——我们为你串联起文化线索。</p>
+        <p>我们的名字融合了"华夏"——中国古老的自称，意为"辉煌的文明"，与"墨"——定义中国美学的笔墨传统。合在一起：<strong>华夏墨韵——传统与现代交汇之处。</strong></p>
+        <h2>你会在这里找到什么</h2>
+        <p>六大栏目涵盖中国文化最迷人的面向：<strong>热点事件、游戏、音乐、旅行、传统节日</strong>和<strong>美食</strong>。每段视频都经过精心挑选，并附有超越表面观察的原创解读。</p>
+        <h2>我们的理念</h2>
+        <p>中国常被简化为新闻头条和刻板印象。我们相信，理解它最好的方式是通过那些亲历者的声音——创作者、玩家、音乐家、厨师，以及在YouTube上分享自己世界的普通人。</p>
+        <h2>联系我们</h2>
+        <p>有视频推荐或合作意向？联系 <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>。</p>
+      </>
+    ) : (
+      <>
+        <h1>About HuaxiaInk</h1>
+        <p>HuaxiaInk (华夏墨韵) is a curated space where English-speaking audiences can explore Chinese culture through the lens of YouTube — the world's most vibrant video platform.</p>
+        <p>We don't just share videos. Every entry comes with <strong>cultural context</strong> that helps you understand what you're watching and why it matters. Whether it's a viral trend sweeping Chinese social media, a breathtaking travel destination, or the story behind a thousand-year-old festival — we connect the dots.</p>
+        <p>Our name blends <em>Huaxia</em> (华夏), an ancient name for China meaning "the magnificent civilization," with <em>Ink</em> (墨), representing the brush-and-ink tradition that defines Chinese aesthetics. Together: <strong>HuaxiaInk — where tradition meets the modern world.</strong></p>
+        <h2>What You'll Find Here</h2>
+        <p>Six categories covering the most fascinating aspects of Chinese culture: <strong>Hot Events, Games, Music, Travel, Festivals,</strong> and <strong>Food</strong>. Each video is handpicked and accompanied by original analysis that goes beyond surface-level observations.</p>
+        <h2>Our Philosophy</h2>
+        <p>China is often reduced to headlines and stereotypes. We believe the best way to understand it is through the voices of people who live it — creators, gamers, musicians, chefs, and everyday people sharing their world on YouTube.</p>
+        <h2>Get in Touch</h2>
+        <p>Have a video suggestion or want to collaborate? Reach out at <a href="mailto:hello@huaxiaink.com">hello@huaxiaink.com</a>.</p>
+      </>
+    )}
+  </div>
+</BaseLayout>

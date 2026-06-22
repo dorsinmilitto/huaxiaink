@@ -1,0 +1,16 @@
+---
+export interface Props {
+  title: string;
+  asin?: string;
+  url?: string;
+}
+
+const { title, asin, url } = Astro.props;
+const link = url || (asin ? `https://www.amazon.com/dp/${asin}?tag=huaxiaink-20` : '#');
+---
+
+<div class="affiliate-link-wrap">
+  <a href={link} target="_blank" rel="noopener noreferrer sponsored" class="affiliate-link">
+    {title} &rarr;
+  </a>
+</div>

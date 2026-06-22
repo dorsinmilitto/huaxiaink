@@ -1,0 +1,59 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import VideoCard from '../../../components/VideoCard.astro';
+import { getCollection } from 'astro:content';
+import { t, type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food'];
+  const paths: any[] = [];
+  for (const cat of cats) {
+    paths.push(
+      { params: { lang: 'en', category: cat } },
+      { params: { lang: 'zh', category: cat } },
+    );
+  }
+  return paths;
+}
+
+const { lang, category } = Astro.params;
+const l = lang as Lang;
+
+const entries = await getCollection(category as any, ({ data }) => data.lang === l);
+const videos = entries.map(e => ({
+  ...e.data,
+  slug: e.data.lang === 'zh' ? e.slug.replace(/-zh$/, '') : e.slug,
+  category,
+})).sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
+---
+
+<BaseLayout title={t(l, `cat.${category}` as any)} description={t(l, `cat.${category}.desc` as any)} lang={l}>
+  <div class="category-header">
+    <div class="seal">{t(l, `seal.${category}` as any)}</div>
+    <h1>{t(l, `cat.${category}` as any)}</h1>
+    <p>{t(l, `cat.${category}.desc` as any)}</p>
+  </div>
+
+  {videos.length > 0 ? (
+    <section class="section">
+      <div class="video-grid">
+        {videos.map(v => (
+          <VideoCard
+            id={v.youtubeId}
+            title={v.title}
+            channel={v.channel}
+            duration={v.duration}
+            category={v.category}
+            tags={v.tags}
+            slug={v.slug}
+            lang={l}
+          />
+        ))}
+      </div>
+    </section>
+  ) : (
+    <section class="section" style="text-align:center;color:var(--text-muted);padding:3rem 0">
+      <p>{t(l, 'section.no_videos')}</p>
+    </section>
+  )}
+</BaseLayout>

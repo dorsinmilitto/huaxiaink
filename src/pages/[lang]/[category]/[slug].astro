@@ -1,0 +1,122 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
+import AffiliateCard from '../../../components/AffiliateCard.astro';
+import VideoCard from '../../../components/VideoCard.astro';
+import { getCollection } from 'astro:content';
+import { t, type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food'] as const;
+  const paths: any[] = [];
+
+  for (const cat of cats) {
+    for (const lang of ['en', 'zh'] as const) {
+      const entries = await getCollection(cat, ({ data }) => data.lang === lang);
+      for (const entry of entries) {
+        const slug = entry.data.lang === 'zh' ? entry.slug.replace(/-zh$/, '') : entry.slug;
+        const { Content } = await entry.render();
+        paths.push({
+          params: { lang, category: cat, slug },
+          props: { frontmatter: entry.data, Content },
+        });
+      }
+    }
+  }
+  return paths;
+}
+
+const { lang, category, slug } = Astro.params;
+const { frontmatter, Content } = Astro.props;
+const l = lang as Lang;
+
+// Get related videos from same category and language
+const relatedEntries = await getCollection(category as any, ({ data }) => data.lang === l);
+const related = relatedEntries
+  .filter(e => {
+    const s = e.data.lang === 'zh' ? e.slug.replace(/-zh$/, '') : e.slug;
+    return s !== slug;
+  })
+  .map(e => ({
+    ...e.data,
+    slug: e.data.lang === 'zh' ? e.slug.replace(/-zh$/, '') : e.slug,
+    category,
+  }))
+  .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
+  .slice(0, 4);
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": frontmatter.title,
+  "description": `${t(l, 'detail.video_analysis')} ${frontmatter.title} ${t(l, 'detail.on')}`,
+  "thumbnailUrl": `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg`,
+  "embedUrl": `https://www.youtube.com/embed/${frontmatter.youtubeId}`,
+  "uploadDate": frontmatter.publishedAt.toISOString(),
+  "contentUrl": `https://www.youtube.com/watch?v=${frontmatter.youtubeId}`,
+};
+---
+
+<BaseLayout title={frontmatter.title} description={`${frontmatter.title} — ${t(l, 'detail.on')}`} lang={l}>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+  <div class="video-detail">
+    <nav class="breadcrumb">
+      <a href={`/${l}`}>{t(l, 'breadcrumb.home')}</a> <span>/</span>
+      <a href={`/${l}/${category}`}>{t(l, `cat.${category}` as any)}</a> <span>/</span>
+      <span>{frontmatter.title}</span>
+    </nav>
+
+    <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
+
+    <div class="video-info">
+      <h1>{frontmatter.title}</h1>
+      <div class="video-meta-detail">
+        <span>{t(l, 'detail.by')} {frontmatter.channel}</span>
+        <span>{frontmatter.publishedAt.toLocaleDateString(l === 'zh' ? 'zh-CN' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        <span>{frontmatter.duration}</span>
+      </div>
+      <div>
+        {frontmatter.tags.map((tag: string) => <span class="video-tag">{tag}</span>)}
+      </div>
+    </div>
+
+    <div class="analysis">
+      <h2>{t(l, 'section.cultural_context')}</h2>
+      <Content />
+    </div>
+
+    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
+      <div class="affiliate-section">
+        <h3>{t(l, 'section.dive_deeper')}</h3>
+        <p>{t(l, 'section.dive_deeper_desc')}</p>
+        {frontmatter.affiliate.map((item: any) => (
+          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
+        ))}
+        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
+          {t(l, 'section.affiliate_disclosure')}
+        </p>
+      </div>
+    )}
+
+    {related.length > 0 && (
+      <section class="section" style="padding-left:0;padding-right:0">
+        <h2 class="section-title">{t(l, 'section.related')}</h2>
+        <div class="video-grid">
+          {related.map(v => (
+            <VideoCard
+              id={v.youtubeId}
+              title={v.title}
+              channel={v.channel}
+              duration={v.duration}
+              category={v.category}
+              tags={v.tags}
+              slug={v.slug}
+              lang={l}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>

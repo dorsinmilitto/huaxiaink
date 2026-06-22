@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import VideoCard from '../../components/VideoCard.astro';
+import { getCollection } from 'astro:content';
+import { t, type Lang } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+
+const categories = [
+  { slug: 'events', icon: '🔥' },
+  { slug: 'games', icon: '🎮' },
+  { slug: 'music', icon: '🎵' },
+  { slug: 'travel', icon: '🏔️' },
+  { slug: 'festivals', icon: '🏮' },
+  { slug: 'food', icon: '🍜' },
+];
+
+const collNames = ['events', 'games', 'music', 'travel', 'festivals', 'food'] as const;
+let allVideos: any[] = [];
+
+for (const name of collNames) {
+  const entries = await getCollection(name, ({ data }) => data.lang === l);
+  allVideos.push(...entries.map(e => ({
+    ...e.data,
+    slug: e.data.lang === 'zh' ? e.slug.replace(/-zh$/, '') : e.slug,
+    category: name,
+  })));
+}
+
+allVideos.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
+const latest = allVideos.slice(0, 12);
+const featured = allVideos.find(v => v.featured) || allVideos[0];
+---
+
+<BaseLayout title={l === 'zh' ? '首页' : 'Home'} lang={l}>
+  <section class="hero">
+    <h1>{t(l, 'hero.title')}</h1>
+    <p class="tagline">{t(l, 'hero.tagline')}</p>
+  </section>
+
+  <div class="category-grid">
+    {categories.map(cat => (
+      <a href={`/${l}/${cat.slug}`} class="category-card">
+        <span class="category-icon">{cat.icon}</span>
+        <h3>{t(l, `cat.${cat.slug}` as any)}</h3>
+      </a>
+    ))}
+  </div>
+
+  {featured && (
+    <section class="section">
+      <h2 class="section-title">{t(l, 'section.featured')}</h2>
+      <div class="video-grid" style="max-width:420px">
+        <VideoCard
+          id={featured.youtubeId}
+          title={featured.title}
+          channel={featured.channel}
+          duration={featured.duration}
+          category={featured.category}
+          tags={featured.tags}
+          slug={featured.slug}
+          lang={l}
+        />
+      </div>
+    </section>
+  )}
+
+  {latest.length > 0 && (
+    <section class="section">
+      <h2 class="section-title">{t(l, 'section.latest')}</h2>
+      <div class="video-grid">
+        {latest.map(v => (
+          <VideoCard
+            id={v.youtubeId}
+            title={v.title}
+            channel={v.channel}
+            duration={v.duration}
+            category={v.category}
+            tags={v.tags}
+            slug={v.slug}
+            lang={l}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>
