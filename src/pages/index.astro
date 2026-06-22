@@ -1,6 +1,6 @@
 ---
-// Root "/" — renders English homepage directly, no redirect flash
-// Chinese users get an instant JS redirect to /zh/ (imperceptible)
+// Root "/" — renders English homepage directly, zero redirect
+// Chinese browser users see a brief JS nudge to /zh/ (near-instant)
 import BaseLayout from '../layouts/BaseLayout.astro';
 import VideoCard from '../components/VideoCard.astro';
 import { getCollection } from 'astro:content';
@@ -33,11 +33,6 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
 ---
 
 <BaseLayout title="Home" lang={l}>
-  <!-- Chinese users: instant redirect before paint -->
-  <script is:inline>
-    (function(){try{var n=navigator.language||'';if(n.toLowerCase().indexOf('zh')===0)location.replace('/zh/')}catch(e){}})();
-  </script>
-
   <section class="hero">
     <h1>{t(l, 'hero.title')}</h1>
     <p class="tagline">{t(l, 'hero.tagline')}</p>
@@ -45,7 +40,7 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
 
   <div class="category-grid">
     {categories.map(cat => (
-      <a href={`/${l}/${cat.slug}`} class="category-card">
+      <a href={`/en/${cat.slug}`} class="category-card">
         <span class="category-icon">{cat.icon}</span>
         <h3>{t(l, `cat.${cat.slug}` as any)}</h3>
       </a>
@@ -90,3 +85,15 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
     </section>
   )}
 </BaseLayout>
+
+<script is:inline>
+  // Chinese browser? Nudge to /zh/ (no flash — runs after paint)
+  (function(){
+    try {
+      var nav = navigator.language || navigator.userLanguage || '';
+      if (nav.toLowerCase().indexOf('zh') === 0 && !location.pathname.startsWith('/zh')) {
+        location.replace('/zh/');
+      }
+    } catch(e) {}
+  })();
+</script>
