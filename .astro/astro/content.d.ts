@@ -187,6 +187,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"dangchao-guzheng-zh.md": {
+	id: "dangchao-guzheng-zh.md";
+  slug: "dangchao-guzheng-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"dangchao-guzheng.md": {
+	id: "dangchao-guzheng.md";
+  slug: "dangchao-guzheng";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 };
 "travel": Record<string, {
   id: string;
