@@ -84,17 +84,10 @@ const schema = {
       <Content />
     </div>
 
-    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
-      <div class="affiliate-section">
-        <h3>{t(l, 'section.dive_deeper')}</h3>
-        <p>{t(l, 'section.dive_deeper_desc')}</p>
-        {frontmatter.affiliate.map((item: any) => (
-          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
-        ))}
-        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
-          {t(l, 'section.affiliate_disclosure')}
-        </p>
-      </div>
+    {frontmatter.youtubeId && (
+      <section class="section" style="padding-left:0;padding-right:0">
+        <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
+      </section>
     )}
 
     {related.length > 0 && (
@@ -117,10 +110,17 @@ const schema = {
       </section>
     )}
 
-    {frontmatter.youtubeId && (
-      <section class="section" style="padding-left:0;padding-right:0">
-        <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
-      </section>
+    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
+      <div class="affiliate-section">
+        <h3>{t(l, 'section.dive_deeper')}</h3>
+        <p>{t(l, 'section.dive_deeper_desc')}</p>
+        {frontmatter.affiliate.map((item: any) => (
+          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
+        ))}
+        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
+          {t(l, 'section.affiliate_disclosure')}
+        </p>
+      </div>
     )}
   </div>
 </BaseLayout>

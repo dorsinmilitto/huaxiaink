@@ -86,18 +86,11 @@ const schema = {
       <Content />
     </div>
 
-    <!-- Affiliate -->
-    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
-      <div class="affiliate-section">
-        <h3>Dive Deeper</h3>
-        <p>Explore related products handpicked for this topic:</p>
-        {frontmatter.affiliate.map((item: any) => (
-          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
-        ))}
-        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
-          As an Amazon Associate, we earn from qualifying purchases.
-        </p>
-      </div>
+    <!-- Video Player -->
+    {frontmatter.youtubeId && (
+      <section class="section" style="padding-left:0;padding-right:0">
+        <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
+      </section>
     )}
 
     <!-- Related -->
@@ -120,11 +113,18 @@ const schema = {
       </section>
     )}
 
-    <!-- Video Player (last) -->
-    {frontmatter.youtubeId && (
-      <section class="section" style="padding-left:0;padding-right:0">
-        <YouTubeEmbed youtubeId={frontmatter.youtubeId} title={frontmatter.title} />
-      </section>
+    <!-- Affiliate (last) -->
+    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
+      <div class="affiliate-section">
+        <h3>Dive Deeper</h3>
+        <p>Explore related products handpicked for this topic:</p>
+        {frontmatter.affiliate.map((item: any) => (
+          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
+        ))}
+        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
+          As an Amazon Associate, we earn from qualifying purchases.
+        </p>
+      </div>
     )}
   </div>
 </BaseLayout>
