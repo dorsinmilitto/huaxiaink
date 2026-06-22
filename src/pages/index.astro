@@ -1,27 +1,28 @@
 ---
-// Root redirect: detect browser language, redirect to /en or /zh
+// Root: just redirect to English homepage
+// The www redirect rule on Cloudflare will send huaxiaink.com → www.huaxiaink.com first
+// Then browser language detection runs on /en/ or /zh/ pages via client-side
 ---
 <html>
 <head>
   <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="0;url=/en/" />
+  <title>Redirecting…</title>
+</head>
+<body>
+  <noscript>
+    <p><a href="/en/">Click here if not redirected</a></p>
+  </noscript>
   <script is:inline>
+    // Detect language and redirect
     (function() {
       var lang = 'en';
       try {
         var nav = navigator.language || navigator.userLanguage || '';
         if (nav.toLowerCase().indexOf('zh') === 0) lang = 'zh';
       } catch(e) {}
-      // Check localStorage for saved preference
-      try {
-        var saved = localStorage.getItem('huaxiaink-lang');
-        if (saved === 'zh' || saved === 'en') lang = saved;
-      } catch(e) {}
       location.replace('/' + lang + '/');
     })();
   </script>
-  <noscript>
-    <meta http-equiv="refresh" content="0;url=/en/" />
-  </noscript>
-</head>
-<body></body>
+</body>
 </html>
