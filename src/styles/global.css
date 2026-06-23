@@ -482,6 +482,17 @@ main {
   color: #fff;
 }
 
+/* ===== Comments Section ===== */
+.comments-section {
+  margin: 2rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.comments-section hyvor-talk-comments {
+  --hyvor-font-family: var(--font-sans);
+}
+
 /* ===== Category Listing ===== */
 .category-header {
   text-align: center;

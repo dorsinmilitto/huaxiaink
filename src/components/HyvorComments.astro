@@ -1,0 +1,19 @@
+---
+interface Props {
+  websiteId: number;
+  pageId: string;
+  lang: 'en' | 'zh';
+}
+
+const { websiteId, pageId, lang } = Astro.props;
+const colorsJson = JSON.stringify({ accent: '#c41e3a' });
+---
+
+<hyvor-talk-comments
+  website-id={websiteId}
+  page-id={pageId}
+  page-lang={lang}
+  colors={colorsJson}
+></hyvor-talk-comments>
+
+<script is:inline src="https://talk.hyvor.com/embed/embed.js" async></script>
