@@ -10,18 +10,24 @@ featured: true
 affiliate:
   - title: "Standards of the Guqin"
     asin: "0986622508"
+    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
+    price: "$33"
   - title: "I-MART Chinese Calligraphy Set for Beginners"
     asin: "B074FL5D9X"
+    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg"
+    price: "$21"
   - title: "G Key Dizi Bamboo Flute"
     asin: "B07DC4Z7XR"
+    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
+    price: "$24"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '76faa2d0-831f-49f0-9207-3ec9c8589df1'
-  PropagateID: '76faa2d0-831f-49f0-9207-3ec9c8589df1'
-  ReservedCode1: 'a5fbb4c7-2ace-4f62-b49b-b1f5c7361d8d'
-  ReservedCode2: 'a5fbb4c7-2ace-4f62-b49b-b1f5c7361d8d'
+  ProduceID: 'a5dbf2f2-3620-4d28-a177-6ee2c964b0ab'
+  PropagateID: 'a5dbf2f2-3620-4d28-a177-6ee2c964b0ab'
+  ReservedCode1: 'eaa38188-78fa-4935-9f09-839611878d73'
+  ReservedCode2: 'eaa38188-78fa-4935-9f09-839611878d73'
 ---
 
 ## 一首流行歌，遇上中国最古老的乐器

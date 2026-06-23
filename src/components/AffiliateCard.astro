@@ -3,14 +3,25 @@ export interface Props {
   title: string;
   asin?: string;
   url?: string;
+  imageUrl?: string;
+  price?: string;
 }
 
-const { title, asin, url } = Astro.props;
+const { title, asin, url, imageUrl, price } = Astro.props;
 const link = url || (asin ? `https://www.amazon.com/dp/${asin}?tag=huaxiaink-20` : '#');
 ---
 
-<div class="affiliate-link-wrap">
-  <a href={link} target="_blank" rel="noopener noreferrer sponsored" class="affiliate-link">
-    {title} &rarr;
+<div class="affiliate-card">
+  <a href={link} target="_blank" rel="noopener noreferrer sponsored" class="affiliate-card-link">
+    {imageUrl && (
+      <div class="affiliate-card-img">
+        <img src={imageUrl} alt={title} loading="lazy" width="160" height="160" />
+      </div>
+    )}
+    <div class="affiliate-card-body">
+      <span class="affiliate-card-title">{title}</span>
+      {price && <span class="affiliate-card-price">{price}</span>}
+      <span class="affiliate-card-btn">Amazon &rarr;</span>
+    </div>
   </a>
 </div>

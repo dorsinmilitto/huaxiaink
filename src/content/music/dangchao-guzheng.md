@@ -10,18 +10,24 @@ featured: false
 affiliate:
   - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
     asin: "1973409194"
+    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
+    price: "$9"
   - title: "13PCS Chinese Calligraphy Brush Set"
     asin: "B0FMQCS389"
+    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
+    price: "$12"
   - title: "Chinese Fairy Tales and Legends"
     asin: "1912392151"
+    imageUrl: "https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg"
+    price: "$18"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'b407f4a4-9128-4fae-94ec-74a91afc6be2'
-  PropagateID: 'b407f4a4-9128-4fae-94ec-74a91afc6be2'
-  ReservedCode1: 'be69313f-fc86-4b0e-acca-d803ddbec1e5'
-  ReservedCode2: 'be69313f-fc86-4b0e-acca-d803ddbec1e5'
+  ProduceID: 'e91ce947-df0e-47c6-83ec-4664d5b4c87b'
+  PropagateID: 'e91ce947-df0e-47c6-83ec-4664d5b4c87b'
+  ReservedCode1: 'cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f'
+  ReservedCode2: 'cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f'
 ---
 
 ## The Guzheng Goes Hip-Hop

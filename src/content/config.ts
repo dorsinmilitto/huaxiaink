@@ -14,6 +14,8 @@ const contentSchema = z.object({
     title: z.string(),
     asin: z.string().optional(),
     url: z.string().optional(),
+    imageUrl: z.string().optional(),
+    price: z.string().optional(),
   })).default([]),
 });
 

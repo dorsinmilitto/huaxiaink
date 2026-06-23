@@ -10,18 +10,24 @@ featured: false
 affiliate:
   - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
     asin: "1973409194"
+    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
+    price: "$9"
   - title: "13PCS Chinese Calligraphy Brush Set"
     asin: "B0FMQCS389"
+    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
+    price: "$12"
   - title: "Chinese Fairy Tales and Legends"
     asin: "1912392151"
+    imageUrl: "https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg"
+    price: "$18"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'cb6b5586-72d5-4cc2-9e66-1da08e3a7697'
-  PropagateID: 'cb6b5586-72d5-4cc2-9e66-1da08e3a7697'
-  ReservedCode1: '088d6602-e548-4bb0-9c2e-7275d36c4c8d'
-  ReservedCode2: '088d6602-e548-4bb0-9c2e-7275d36c4c8d'
+  ProduceID: 'c7804e56-c477-49f7-b326-a633b22d86b2'
+  PropagateID: 'c7804e56-c477-49f7-b326-a633b22d86b2'
+  ReservedCode1: '18a1230c-8a5f-4f22-b280-d8befe2e2d7e'
+  ReservedCode2: '18a1230c-8a5f-4f22-b280-d8befe2e2d7e'
 ---
 
 ## 古筝，原来可以这样"燥"

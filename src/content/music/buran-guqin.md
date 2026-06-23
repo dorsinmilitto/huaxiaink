@@ -10,18 +10,24 @@ featured: true
 affiliate:
   - title: "Standards of the Guqin"
     asin: "0986622508"
+    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
+    price: "$33"
   - title: "I-MART Chinese Calligraphy Set for Beginners"
     asin: "B074FL5D9X"
+    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg"
+    price: "$21"
   - title: "G Key Dizi Bamboo Flute"
     asin: "B07DC4Z7XR"
+    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
+    price: "$24"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5d4adcc7-2610-4e66-b8de-5e81e9b57036'
-  PropagateID: '5d4adcc7-2610-4e66-b8de-5e81e9b57036'
-  ReservedCode1: 'aad10382-033e-49b0-871b-5291a9edc4a0'
-  ReservedCode2: 'aad10382-033e-49b0-871b-5291a9edc4a0'
+  ProduceID: 'bbd27180-0ad0-48dc-85da-89bed73e40cf'
+  PropagateID: 'bbd27180-0ad0-48dc-85da-89bed73e40cf'
+  ReservedCode1: '429f8865-0de9-4bb2-8b09-6118b74d8310'
+  ReservedCode2: '429f8865-0de9-4bb2-8b09-6118b74d8310'
 ---
 
 ## A Pop Song Meets China's Oldest Instrument

@@ -137,9 +137,11 @@ const ogImage = frontmatter.youtubeId
       <div class="affiliate-section" id="affiliate-section">
         <h3>{t(l, 'section.dive_deeper')}</h3>
         <p>{t(l, 'section.dive_deeper_desc')}</p>
-        {frontmatter.affiliate.map((item: any) => (
-          <AffiliateCard title={item.title} asin={item.asin} url={item.url} />
-        ))}
+        <div class="affiliate-cards">
+          {frontmatter.affiliate.map((item: any) => (
+            <AffiliateCard title={item.title} asin={item.asin} url={item.url} imageUrl={item.imageUrl} price={item.price} />
+          ))}
+        </div>
         <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
           {t(l, 'section.affiliate_disclosure')}
         </p>
