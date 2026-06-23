@@ -99,6 +99,7 @@ const ogImage = frontmatter.youtubeId
       <div>
         {frontmatter.tags.map((tag: string) => <span class="video-tag">{tag}</span>)}
       </div>
+      <ShareButtons url={`https://www.huaxiaink.com/${l}/${category}/${slug}`} title={frontmatter.title} lang={l} />
     </div>
 
     <div class="analysis">
