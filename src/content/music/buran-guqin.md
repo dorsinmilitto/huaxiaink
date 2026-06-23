@@ -7,15 +7,21 @@ publishedAt: 2018-12-27
 lang: en
 tags: ["guqin", "chinese-music", "ashes-of-love", "traditional-instrument", "crossover"]
 featured: true
-affiliate: []
+affiliate:
+  - title: "Standards of the Guqin"
+    asin: "0986622508"
+  - title: "I-MART Chinese Calligraphy Set for Beginners"
+    asin: "B074FL5D9X"
+  - title: "G Key Dizi Bamboo Flute"
+    asin: "B07DC4Z7XR"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'ad37df91-f0a8-4921-89ce-4b8019656380'
-  PropagateID: 'ad37df91-f0a8-4921-89ce-4b8019656380'
-  ReservedCode1: 'c11194f2-3052-4c68-9c32-be6cdd60238b'
-  ReservedCode2: 'c11194f2-3052-4c68-9c32-be6cdd60238b'
+  ProduceID: '5d4adcc7-2610-4e66-b8de-5e81e9b57036'
+  PropagateID: '5d4adcc7-2610-4e66-b8de-5e81e9b57036'
+  ReservedCode1: 'aad10382-033e-49b0-871b-5291a9edc4a0'
+  ReservedCode2: 'aad10382-033e-49b0-871b-5291a9edc4a0'
 ---
 
 ## A Pop Song Meets China's Oldest Instrument

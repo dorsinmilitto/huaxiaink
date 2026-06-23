@@ -7,15 +7,21 @@ publishedAt: 2021-11-20
 lang: zh
 tags: ["古筝", "国乐", "说唱", "跨界", "传统新生"]
 featured: false
-affiliate: []
+affiliate:
+  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
+    asin: "1973409194"
+  - title: "13PCS Chinese Calligraphy Brush Set"
+    asin: "B0FMQCS389"
+  - title: "Chinese Fairy Tales and Legends"
+    asin: "1912392151"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '30d15eb8-e42b-428b-b1d3-73c22667e6c8'
-  PropagateID: '30d15eb8-e42b-428b-b1d3-73c22667e6c8'
-  ReservedCode1: 'b9d273ae-7441-4b56-8b76-a0704d99df15'
-  ReservedCode2: 'b9d273ae-7441-4b56-8b76-a0704d99df15'
+  ProduceID: 'cb6b5586-72d5-4cc2-9e66-1da08e3a7697'
+  PropagateID: 'cb6b5586-72d5-4cc2-9e66-1da08e3a7697'
+  ReservedCode1: '088d6602-e548-4bb0-9c2e-7275d36c4c8d'
+  ReservedCode2: '088d6602-e548-4bb0-9c2e-7275d36c4c8d'
 ---
 
 ## 古筝，原来可以这样"燥"

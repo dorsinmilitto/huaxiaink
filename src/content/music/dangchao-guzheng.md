@@ -7,15 +7,21 @@ publishedAt: 2021-11-20
 lang: en
 tags: ["guzheng", "chinese-music", "rap", "crossover", "tradition-meets-modern"]
 featured: false
-affiliate: []
+affiliate:
+  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
+    asin: "1973409194"
+  - title: "13PCS Chinese Calligraphy Brush Set"
+    asin: "B0FMQCS389"
+  - title: "Chinese Fairy Tales and Legends"
+    asin: "1912392151"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '6ea24cb9-2d5d-43ce-84d1-db2613c9c613'
-  PropagateID: '6ea24cb9-2d5d-43ce-84d1-db2613c9c613'
-  ReservedCode1: '0f1633f9-686b-4cbd-9b53-d54da1cdc1b2'
-  ReservedCode2: '0f1633f9-686b-4cbd-9b53-d54da1cdc1b2'
+  ProduceID: 'b407f4a4-9128-4fae-94ec-74a91afc6be2'
+  PropagateID: 'b407f4a4-9128-4fae-94ec-74a91afc6be2'
+  ReservedCode1: 'be69313f-fc86-4b0e-acca-d803ddbec1e5'
+  ReservedCode2: 'be69313f-fc86-4b0e-acca-d803ddbec1e5'
 ---
 
 ## The Guzheng Goes Hip-Hop

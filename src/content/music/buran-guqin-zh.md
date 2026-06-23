@@ -7,15 +7,21 @@ publishedAt: 2018-12-27
 lang: zh
 tags: ["古琴", "国乐", "香蜜沉沉烬如霜", "传统乐器", "跨界"]
 featured: true
-affiliate: []
+affiliate:
+  - title: "Standards of the Guqin"
+    asin: "0986622508"
+  - title: "I-MART Chinese Calligraphy Set for Beginners"
+    asin: "B074FL5D9X"
+  - title: "G Key Dizi Bamboo Flute"
+    asin: "B07DC4Z7XR"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '2de1e1eb-b855-4b1e-a7fc-4dc58e344899'
-  PropagateID: '2de1e1eb-b855-4b1e-a7fc-4dc58e344899'
-  ReservedCode1: 'a27749b0-2263-44a1-8f04-e3112ec141c8'
-  ReservedCode2: 'a27749b0-2263-44a1-8f04-e3112ec141c8'
+  ProduceID: '76faa2d0-831f-49f0-9207-3ec9c8589df1'
+  PropagateID: '76faa2d0-831f-49f0-9207-3ec9c8589df1'
+  ReservedCode1: 'a5fbb4c7-2ace-4f62-b49b-b1f5c7361d8d'
+  ReservedCode2: 'a5fbb4c7-2ace-4f62-b49b-b1f5c7361d8d'
 ---
 
 ## 一首流行歌，遇上中国最古老的乐器
