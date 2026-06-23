@@ -1,0 +1,83 @@
+---
+interface Props {
+  url: string;
+  title: string;
+  lang: 'en' | 'zh';
+}
+
+const { url, title, lang } = Astro.props;
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+
+const labels = lang === 'zh'
+  ? { share: '分享', twitter: '推特', facebook: '脸书', pinterest: 'Pinterest', reddit: 'Reddit', copy: '复制链接', copied: '已复制!' }
+  : { share: 'Share', twitter: 'Twitter', facebook: 'Facebook', pinterest: 'Pinterest', reddit: 'Reddit', copy: 'Copy Link', copied: 'Copied!' };
+---
+
+<div class="share-buttons">
+  <span class="share-label">{labels.share}</span>
+  <a
+    href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-twitter"
+    title={labels.twitter}
+    aria-label={labels.twitter}
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+  <a
+    href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-facebook"
+    title={labels.facebook}
+    aria-label={labels.facebook}
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.923-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+  </a>
+  <a
+    href={`https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-pinterest"
+    title={labels.pinterest}
+    aria-label={labels.pinterest}
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12.017 0C5.396 0 .029 5.397.029 12.017c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.653 2.567-.992 3.992-.285 1.193.599 2.165 1.773 2.165 2.129 0 3.722-2.229 3.722-5.412 0-2.828-2.031-4.809-4.928-4.809-3.356 0-5.328 2.518-5.328 5.118 0 1.015.391 2.104.878 2.694.097.118.112.223.083.345l-.333 1.373c-.053.221-.174.268-.401.165-1.499-.698-2.436-2.575-2.436-4.148 0-3.381 2.454-6.483 7.071-6.483 3.708 0 6.594 2.645 6.594 6.183 0 3.685-2.327 6.657-5.539 6.657-1.083 0-2.1-.561-2.447-1.225l-.665 2.537c-.242.933-.893 1.834-1.339 2.159.413.152.848.237 1.303.237 6.593 0 11.97-5.373 11.97-11.97C24.029 5.397 18.622.001 12.017.001z"/></svg>
+  </a>
+  <a
+    href={`https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-reddit"
+    title={labels.reddit}
+    aria-label={labels.reddit}
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.56 1.25 1.249a1.25 1.25 0 0 1-2.498.061 2.497 2.497 0 0 1-2.497-2.497c0-.688.56-1.249 1.249-1.249a1.25 1.25 0 0 1 .061 2.498 1.249 1.249 0 0 1 1.936 1.436zM6.99 7.744a2.497 2.497 0 0 1 2.497 2.497 2.497 2.497 0 0 1-2.497 2.497 2.497 2.497 0 0 1-2.497-2.497 2.497 2.497 0 0 1 2.497-2.497zm10.02 0a2.497 2.497 0 0 1 2.497 2.497 2.497 2.497 0 0 1-2.497 2.497 2.497 2.497 0 0 1-2.497-2.497 2.497 2.497 0 0 1 2.497-2.497zM12 15.49a4.995 4.995 0 0 1-3.99-1.99l1.33-1.33A3.328 3.328 0 0 0 12 14.16a3.328 3.328 0 0 0 2.66-1.33l1.33 1.33A4.995 4.995 0 0 1 12 15.49z"/></svg>
+  </a>
+  <button
+    class="share-btn share-copy"
+    title={labels.copy}
+    aria-label={labels.copy}
+    data-url={url}
+    data-label-copy={labels.copy}
+    data-label-copied={labels.copied}
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+  </button>
+</div>
+
+<script is:inline>
+  document.querySelectorAll('.share-copy').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const url = btn.getAttribute('data-url') || '';
+      const labelCopy = btn.getAttribute('data-label-copy') || 'Copy';
+      const labelCopied = btn.getAttribute('data-label-copied') || 'Copied!';
+      navigator.clipboard.writeText(url).then(() => {
+        btn.setAttribute('title', labelCopied);
+        setTimeout(() => btn.setAttribute('title', labelCopy), 2000);
+      });
+    });
+  });
+</script>

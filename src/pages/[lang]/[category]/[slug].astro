@@ -4,6 +4,7 @@ import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
 import AffiliateCard from '../../../components/AffiliateCard.astro';
 import VideoCard from '../../../components/VideoCard.astro';
 import GiscusComments from '../../../components/GiscusComments.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
 import { getCollection } from 'astro:content';
 import { t, type Lang } from '../../../i18n/utils';
 
@@ -46,7 +47,7 @@ const related = relatedEntries
   .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
   .slice(0, 4);
 
-const schema = {
+const videoSchema = frontmatter.youtubeId ? {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": frontmatter.title,
@@ -55,11 +56,28 @@ const schema = {
   "embedUrl": `https://www.youtube.com/embed/${frontmatter.youtubeId}`,
   "uploadDate": frontmatter.publishedAt.toISOString(),
   "contentUrl": `https://www.youtube.com/watch?v=${frontmatter.youtubeId}`,
+} : null;
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": frontmatter.title,
+  "description": `${frontmatter.title} — ${t(l, 'detail.on')}`,
+  "datePublished": frontmatter.publishedAt.toISOString(),
+  "author": { "@type": "Organization", "name": "HuaxiaInk" },
+  "publisher": { "@type": "Organization", "name": "HuaxiaInk", "url": "https://www.huaxiaink.com" },
+  "mainEntityOfPage": `https://www.huaxiaink.com/${l}/${category}/${slug}`,
+  ...(frontmatter.youtubeId ? { "image": `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg` } : {}),
 };
+
+const ogImage = frontmatter.youtubeId
+  ? `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg`
+  : undefined;
 ---
 
-<BaseLayout title={frontmatter.title} description={`${frontmatter.title} — ${t(l, 'detail.on')}`} lang={l}>
-  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+<BaseLayout title={frontmatter.title} description={`${frontmatter.title} — ${t(l, 'detail.on')}`} lang={l} image={ogImage}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  {videoSchema && <script type="application/ld+json" set:html={JSON.stringify(videoSchema)} />}
 
   <div class="video-detail">
     <nav class="breadcrumb">
@@ -123,6 +141,8 @@ const schema = {
         </p>
       </div>
     )}
+
+    <ShareButtons url={`https://www.huaxiaink.com/${l}/${category}/${slug}`} title={frontmatter.title} lang={l} />
 
     <div class="comments-section">
       <GiscusComments lang={l} mapping="pathname" term={`/${l}/${category}/${slug}`} />
