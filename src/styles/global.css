@@ -522,6 +522,55 @@ main {
 .share-pinterest:hover { background: #e60023; border-color: #e60023; color: #fff; }
 .share-reddit:hover { background: #ff4500; border-color: #ff4500; color: #fff; }
 
+/* ===== Floating Sidebar ===== */
+.floating-sidebar {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 6px;
+  background: rgba(253, 246, 227, 0.92);
+  border-right: 2px solid var(--pale-ink);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 2px 0 12px rgba(0,0,0,0.06);
+  backdrop-filter: blur(4px);
+}
+
+.fs-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s;
+  text-decoration: none;
+  padding: 0;
+}
+
+.fs-btn:hover {
+  background: var(--ink-black);
+  color: #fff;
+  border-color: var(--ink-black);
+}
+
+.fs-twitter:hover { background: #1da1f2; border-color: #1da1f2; color: #fff; }
+.fs-facebook:hover { background: #1877f2; border-color: #1877f2; color: #fff; }
+.fs-pinterest:hover { background: #e60023; border-color: #e60023; color: #fff; }
+.fs-reddit:hover { background: #ff4500; border-color: #ff4500; color: #fff; }
+.fs-shop { border-top: 1px solid var(--pale-ink); margin-top: 2px; border-radius: 6px; }
+.fs-shop:hover { background: var(--gold); border-color: var(--gold); color: #fff; }
+.fs-copied { background: var(--jade-green) !important; color: #fff !important; border-color: var(--jade-green) !important; }
+
 /* ===== Comments Section ===== */
 .comments-section {
   margin: 2rem 0;
@@ -590,6 +639,7 @@ main {
   .video-grid { grid-template-columns: 1fr; }
   .category-grid { grid-template-columns: repeat(2, 1fr); }
   .video-meta-detail { flex-direction: column; gap: 0.5rem; }
+  .floating-sidebar { display: none; }
 }
 
 @media (max-width: 480px) {

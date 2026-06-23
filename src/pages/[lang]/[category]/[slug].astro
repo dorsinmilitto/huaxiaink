@@ -5,6 +5,7 @@ import AffiliateCard from '../../../components/AffiliateCard.astro';
 import VideoCard from '../../../components/VideoCard.astro';
 import GiscusComments from '../../../components/GiscusComments.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
+import FloatingSidebar from '../../../components/FloatingSidebar.astro';
 import { getCollection } from 'astro:content';
 import { t, type Lang } from '../../../i18n/utils';
 
@@ -79,6 +80,8 @@ const ogImage = frontmatter.youtubeId
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   {videoSchema && <script type="application/ld+json" set:html={JSON.stringify(videoSchema)} />}
 
+  <FloatingSidebar url={`https://www.huaxiaink.com/${l}/${category}/${slug}`} title={frontmatter.title} lang={l} hasAffiliate={frontmatter.affiliate && frontmatter.affiliate.length > 0} />
+
   <div class="video-detail">
     <nav class="breadcrumb">
       <a href={`/${l}`}>{t(l, 'breadcrumb.home')}</a> <span>/</span>
@@ -130,7 +133,7 @@ const ogImage = frontmatter.youtubeId
     )}
 
     {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
-      <div class="affiliate-section">
+      <div class="affiliate-section" id="affiliate-section">
         <h3>{t(l, 'section.dive_deeper')}</h3>
         <p>{t(l, 'section.dive_deeper_desc')}</p>
         {frontmatter.affiliate.map((item: any) => (
@@ -141,8 +144,6 @@ const ogImage = frontmatter.youtubeId
         </p>
       </div>
     )}
-
-    <ShareButtons url={`https://www.huaxiaink.com/${l}/${category}/${slug}`} title={frontmatter.title} lang={l} />
 
     <div class="comments-section">
       <GiscusComments lang={l} mapping="pathname" term={`/${l}/${category}/${slug}`} />
