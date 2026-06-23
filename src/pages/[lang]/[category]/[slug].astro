@@ -3,7 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
 import AffiliateCard from '../../../components/AffiliateCard.astro';
 import VideoCard from '../../../components/VideoCard.astro';
-import HyvorComments from '../../../components/HyvorComments.astro';
+import GiscusComments from '../../../components/GiscusComments.astro';
 import { getCollection } from 'astro:content';
 import { t, type Lang } from '../../../i18n/utils';
 
@@ -125,7 +125,7 @@ const schema = {
     )}
 
     <div class="comments-section">
-      <HyvorComments websiteId={15568} pageId={`${category}/${slug}`} lang={l} />
+      <GiscusComments lang={l} mapping="pathname" term={`/${l}/${category}/${slug}`} />
     </div>
   </div>
 </BaseLayout>
