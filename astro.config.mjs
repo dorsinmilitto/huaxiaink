@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://huaxiaink.com',
+  site: 'https://www.huaxiaink.com',
   integrations: [sitemap({
     i18n: {
       defaultLocale: 'en',
