@@ -8,10 +8,11 @@ lang: en
 tags: ["erhu", "chinese-music", "inuyasha", "anime", "crossover", "french-musician"]
 featured: true
 affiliate:
-  - title: "Erhu Beginner Instrument Set"
-    asin: "B0CGHX44JW"
-    url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
-    price: "$75"
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
   - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
     asin: "1973409194"
     imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '8c272625-cf30-4796-a5ab-d3df7e292c29'
-  PropagateID: '8c272625-cf30-4796-a5ab-d3df7e292c29'
-  ReservedCode1: '5d9e17e0-ff38-4a23-94d2-c3d3e5ec2874'
-  ReservedCode2: '5d9e17e0-ff38-4a23-94d2-c3d3e5ec2874'
+  ProduceID: 'ed1e796b-faeb-4f6b-b445-7efe3a6cfe3d'
+  PropagateID: 'ed1e796b-faeb-4f6b-b445-7efe3a6cfe3d'
+  ReservedCode1: 'b9087426-b9eb-4f47-9fbe-9135000142c7'
+  ReservedCode2: 'b9087426-b9eb-4f47-9fbe-9135000142c7'
 ---
 
 ## Three Cultures, One Instrument

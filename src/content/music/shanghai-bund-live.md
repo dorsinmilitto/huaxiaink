@@ -1,5 +1,5 @@
 ---
-title: "二胡竹笛古筝，奏响《上海滩》的时代回响"
+title: "Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn"
 youtubeId: "2EhTnwxg9y4"
 channel: "Erhu Peiyao Live Music"
 duration: "3:08"
@@ -8,10 +8,11 @@ lang: en
 tags: ["erhu", "guzheng", "dizi", "chinese-music", "shanghai-bund", "live-performance", "classic"]
 featured: false
 affiliate:
-  - title: "Erhu Beginner Instrument Set"
-    asin: "B0CGHX44JW"
-    url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
-    price: "$75"
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
   - title: "Standards of the Guqin"
     asin: "0986622508"
     imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '32fb2f89-d449-4f56-9b08-a6f67461284c'
-  PropagateID: '32fb2f89-d449-4f56-9b08-a6f67461284c'
-  ReservedCode1: '961924a4-8aa1-498e-9701-779d2cc53545'
-  ReservedCode2: '961924a4-8aa1-498e-9701-779d2cc53545'
+  ProduceID: 'ed52ce78-7b3f-42d0-9710-74d36732519d'
+  PropagateID: 'ed52ce78-7b3f-42d0-9710-74d36732519d'
+  ReservedCode1: '8ff30b73-107a-43e7-8b74-afc9c0568ac4'
+  ReservedCode2: '8ff30b73-107a-43e7-8b74-afc9c0568ac4'
 ---
 
 ## A 1980s Hong Kong Anthem, Live in 2026

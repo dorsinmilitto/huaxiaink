@@ -1,5 +1,5 @@
 ---
-title: "当二胡遇见《大鱼海棠》：法国人的中国动画情结"
+title: "When the Erhu Meets Big Fish & Begonia: A Frenchman's Chinese Animation Odyssey"
 youtubeId: "4CAFafOUyX0"
 channel: "Eliott Tordo Erhu Player"
 duration: "5:44"
@@ -8,10 +8,11 @@ lang: en
 tags: ["erhu", "chinese-music", "big-fish", "animation", "chinese-orchestra", "crossover", "paris"]
 featured: true
 affiliate:
-  - title: "Erhu Beginner Instrument Set"
-    asin: "B0CGHX44JW"
-    url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
-    price: "$75"
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
   - title: "Standards of the Guqin"
     asin: "0986622508"
     imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '3449bf5e-c7b1-4f8d-9adc-6a6198cad87e'
-  PropagateID: '3449bf5e-c7b1-4f8d-9adc-6a6198cad87e'
-  ReservedCode1: '1379d296-4ae4-426a-a674-22615b8bca15'
-  ReservedCode2: '1379d296-4ae4-426a-a674-22615b8bca15'
+  ProduceID: '665ee4fb-e683-4875-864c-f212af90e227'
+  PropagateID: '665ee4fb-e683-4875-864c-f212af90e227'
+  ReservedCode1: 'cd7bf671-2681-402d-a503-84e923c347d3'
+  ReservedCode2: 'cd7bf671-2681-402d-a503-84e923c347d3'
 ---
 
 ## A French Erhu in a Chinese Fairy Tale

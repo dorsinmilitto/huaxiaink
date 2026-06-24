@@ -173,6 +173,20 @@ declare module 'astro:content' {
   render(): Render[".md"];
 }>;
 "music": {
+"big-fish-erhu-zh.md": {
+	id: "big-fish-erhu-zh.md";
+  slug: "big-fish-erhu-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"big-fish-erhu.md": {
+	id: "big-fish-erhu.md";
+  slug: "big-fish-erhu";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "buran-guqin-zh.md": {
 	id: "buran-guqin-zh.md";
   slug: "buran-guqin-zh";
@@ -197,6 +211,76 @@ declare module 'astro:content' {
 "dangchao-guzheng.md": {
 	id: "dangchao-guzheng.md";
   slug: "dangchao-guzheng";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"inuyasha-erhu-zh.md": {
+	id: "inuyasha-erhu-zh.md";
+  slug: "inuyasha-erhu-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"inuyasha-erhu.md": {
+	id: "inuyasha-erhu.md";
+  slug: "inuyasha-erhu";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"lemon-tree-guzheng-cello-zh.md": {
+	id: "lemon-tree-guzheng-cello-zh.md";
+  slug: "lemon-tree-guzheng-cello-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"lemon-tree-guzheng-cello.md": {
+	id: "lemon-tree-guzheng-cello.md";
+  slug: "lemon-tree-guzheng-cello";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"quan-yu-tianxia-zh.md": {
+	id: "quan-yu-tianxia-zh.md";
+  slug: "quan-yu-tianxia-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"quan-yu-tianxia.md": {
+	id: "quan-yu-tianxia.md";
+  slug: "quan-yu-tianxia";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"shanghai-bund-live-zh.md": {
+	id: "shanghai-bund-live-zh.md";
+  slug: "shanghai-bund-live-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"shanghai-bund-live.md": {
+	id: "shanghai-bund-live.md";
+  slug: "shanghai-bund-live";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"sound-of-silence-folk-zh.md": {
+	id: "sound-of-silence-folk-zh.md";
+  slug: "sound-of-silence-folk-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"sound-of-silence-folk.md": {
+	id: "sound-of-silence-folk.md";
+  slug: "sound-of-silence-folk";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
