@@ -164,14 +164,22 @@ declare module 'astro:content' {
   data: InferEntrySchema<"food">;
   render(): Render[".md"];
 }>;
-"games": Record<string, {
-  id: string;
-  slug: string;
+"games": {
+"where-winds-meet-zh.md": {
+	id: "where-winds-meet-zh.md";
+  slug: "where-winds-meet-zh";
   body: string;
   collection: "games";
-  data: InferEntrySchema<"games">;
-  render(): Render[".md"];
-}>;
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"where-winds-meet.md": {
+	id: "where-winds-meet.md";
+  slug: "where-winds-meet";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+};
 "music": {
 "big-fish-erhu-zh.md": {
 	id: "big-fish-erhu-zh.md";
