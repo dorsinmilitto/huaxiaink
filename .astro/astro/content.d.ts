@@ -165,6 +165,20 @@ declare module 'astro:content' {
   render(): Render[".md"];
 }>;
 "games": {
+"black-myth-wukong-zh.md": {
+	id: "black-myth-wukong-zh.md";
+  slug: "black-myth-wukong-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"black-myth-wukong.md": {
+	id: "black-myth-wukong.md";
+  slug: "black-myth-wukong";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
 "where-winds-meet-zh.md": {
 	id: "where-winds-meet-zh.md";
   slug: "where-winds-meet-zh";
