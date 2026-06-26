@@ -206,6 +206,20 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "festivals": {
+"chongyang-double-ninth-zh.md": {
+	id: "chongyang-double-ninth-zh.md";
+  slug: "chongyang-double-ninth-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"chongyang-double-ninth.md": {
+	id: "chongyang-double-ninth.md";
+  slug: "chongyang-double-ninth";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "dragon-boat-festival-zh.md": {
 	id: "dragon-boat-festival-zh.md";
   slug: "dragon-boat-festival-zh";
@@ -248,6 +262,34 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"qingming-tomb-sweeping-zh.md": {
+	id: "qingming-tomb-sweeping-zh.md";
+  slug: "qingming-tomb-sweeping-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"qingming-tomb-sweeping.md": {
+	id: "qingming-tomb-sweeping.md";
+  slug: "qingming-tomb-sweeping";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"qixi-chinese-valentine-zh.md": {
+	id: "qixi-chinese-valentine-zh.md";
+  slug: "qixi-chinese-valentine-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"qixi-chinese-valentine.md": {
+	id: "qixi-chinese-valentine.md";
+  slug: "qixi-chinese-valentine";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 };
 "food": {
 "art-chinese-dumplings-zh.md": {
@@ -264,6 +306,34 @@ declare module 'astro:content' {
   collection: "food";
   data: InferEntrySchema<"food">
 } & { render(): Render[".md"] };
+"chinese-hot-pot-communal-zh.md": {
+	id: "chinese-hot-pot-communal-zh.md";
+  slug: "chinese-hot-pot-communal-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chinese-hot-pot-communal.md": {
+	id: "chinese-hot-pot-communal.md";
+  slug: "chinese-hot-pot-communal";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"dim-sum-morning-tea-zh.md": {
+	id: "dim-sum-morning-tea-zh.md";
+  slug: "dim-sum-morning-tea-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"dim-sum-morning-tea.md": {
+	id: "dim-sum-morning-tea.md";
+  slug: "dim-sum-morning-tea";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
 "gong-fu-tea-ceremony-zh.md": {
 	id: "gong-fu-tea-ceremony-zh.md";
   slug: "gong-fu-tea-ceremony-zh";
@@ -274,6 +344,20 @@ declare module 'astro:content' {
 "gong-fu-tea-ceremony.md": {
 	id: "gong-fu-tea-ceremony.md";
   slug: "gong-fu-tea-ceremony";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"peking-duck-imperial-cuisine-zh.md": {
+	id: "peking-duck-imperial-cuisine-zh.md";
+  slug: "peking-duck-imperial-cuisine-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"peking-duck-imperial-cuisine.md": {
+	id: "peking-duck-imperial-cuisine.md";
+  slug: "peking-duck-imperial-cuisine";
   body: string;
   collection: "food";
   data: InferEntrySchema<"food">
@@ -308,6 +392,34 @@ declare module 'astro:content' {
   collection: "games";
   data: InferEntrySchema<"games">
 } & { render(): Render[".md"] };
+"chinese-mahjong-culture-zh.md": {
+	id: "chinese-mahjong-culture-zh.md";
+  slug: "chinese-mahjong-culture-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"chinese-mahjong-culture.md": {
+	id: "chinese-mahjong-culture.md";
+  slug: "chinese-mahjong-culture";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"weiqi-ancient-game-of-go-zh.md": {
+	id: "weiqi-ancient-game-of-go-zh.md";
+  slug: "weiqi-ancient-game-of-go-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"weiqi-ancient-game-of-go.md": {
+	id: "weiqi-ancient-game-of-go.md";
+  slug: "weiqi-ancient-game-of-go";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
 "where-winds-meet-zh.md": {
 	id: "where-winds-meet-zh.md";
   slug: "where-winds-meet-zh";
@@ -318,6 +430,20 @@ declare module 'astro:content' {
 "where-winds-meet.md": {
 	id: "where-winds-meet.md";
   slug: "where-winds-meet";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"xiangqi-chinese-chess-zh.md": {
+	id: "xiangqi-chinese-chess-zh.md";
+  slug: "xiangqi-chinese-chess-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"xiangqi-chinese-chess.md": {
+	id: "xiangqi-chinese-chess.md";
+  slug: "xiangqi-chinese-chess";
   body: string;
   collection: "games";
   data: InferEntrySchema<"games">
@@ -352,6 +478,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"chinese-drum-heartbeat-zh.md": {
+	id: "chinese-drum-heartbeat-zh.md";
+  slug: "chinese-drum-heartbeat-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"chinese-drum-heartbeat.md": {
+	id: "chinese-drum-heartbeat.md";
+  slug: "chinese-drum-heartbeat";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "dangchao-guzheng-zh.md": {
 	id: "dangchao-guzheng-zh.md";
   slug: "dangchao-guzheng-zh";
@@ -380,6 +520,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"kunqu-opera-peony-pavilion-zh.md": {
+	id: "kunqu-opera-peony-pavilion-zh.md";
+  slug: "kunqu-opera-peony-pavilion-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"kunqu-opera-peony-pavilion.md": {
+	id: "kunqu-opera-peony-pavilion.md";
+  slug: "kunqu-opera-peony-pavilion";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "lemon-tree-guzheng-cello-zh.md": {
 	id: "lemon-tree-guzheng-cello-zh.md";
   slug: "lemon-tree-guzheng-cello-zh";
@@ -390,6 +544,20 @@ declare module 'astro:content' {
 "lemon-tree-guzheng-cello.md": {
 	id: "lemon-tree-guzheng-cello.md";
   slug: "lemon-tree-guzheng-cello";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"peking-opera-face-of-china-zh.md": {
+	id: "peking-opera-face-of-china-zh.md";
+  slug: "peking-opera-face-of-china-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"peking-opera-face-of-china.md": {
+	id: "peking-opera-face-of-china.md";
+  slug: "peking-opera-face-of-china";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
@@ -462,6 +630,48 @@ declare module 'astro:content' {
 "secrets-great-wall.md": {
 	id: "secrets-great-wall.md";
   slug: "secrets-great-wall";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"suzhou-classical-gardens-zh.md": {
+	id: "suzhou-classical-gardens-zh.md";
+  slug: "suzhou-classical-gardens-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"suzhou-classical-gardens.md": {
+	id: "suzhou-classical-gardens.md";
+  slug: "suzhou-classical-gardens";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"terracotta-warriors-xian-zh.md": {
+	id: "terracotta-warriors-xian-zh.md";
+  slug: "terracotta-warriors-xian-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"terracotta-warriors-xian.md": {
+	id: "terracotta-warriors-xian.md";
+  slug: "terracotta-warriors-xian";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"yellow-mountain-huangshan-zh.md": {
+	id: "yellow-mountain-huangshan-zh.md";
+  slug: "yellow-mountain-huangshan-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"yellow-mountain-huangshan.md": {
+	id: "yellow-mountain-huangshan.md";
+  slug: "yellow-mountain-huangshan";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
