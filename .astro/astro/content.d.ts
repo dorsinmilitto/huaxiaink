@@ -197,6 +197,20 @@ declare module 'astro:content' {
   collection: "events";
   data: InferEntrySchema<"events">
 } & { render(): Render[".md"] };
+"saturation-rescue-china-earthquake-zh.md": {
+	id: "saturation-rescue-china-earthquake-zh.md";
+  slug: "saturation-rescue-china-earthquake-zh";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
+"saturation-rescue-china-earthquake.md": {
+	id: "saturation-rescue-china-earthquake.md";
+  slug: "saturation-rescue-china-earthquake";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
 "spring-festival-traditions-zh.md": {
 	id: "spring-festival-traditions-zh.md";
   slug: "spring-festival-traditions-zh";
@@ -323,6 +337,20 @@ declare module 'astro:content' {
 "chinese-hot-pot-communal.md": {
 	id: "chinese-hot-pot-communal.md";
   slug: "chinese-hot-pot-communal";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chongqing-hotpot-spicy-soul-zh.md": {
+	id: "chongqing-hotpot-spicy-soul-zh.md";
+  slug: "chongqing-hotpot-spicy-soul-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chongqing-hotpot-spicy-soul.md": {
+	id: "chongqing-hotpot-spicy-soul.md";
+  slug: "chongqing-hotpot-spicy-soul";
   body: string;
   collection: "food";
   data: InferEntrySchema<"food">
@@ -613,6 +641,20 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "travel": {
+"chongqing-8d-mountain-city-zh.md": {
+	id: "chongqing-8d-mountain-city-zh.md";
+  slug: "chongqing-8d-mountain-city-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"chongqing-8d-mountain-city.md": {
+	id: "chongqing-8d-mountain-city.md";
+  slug: "chongqing-8d-mountain-city";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
 "forbidden-city-beijing-zh.md": {
 	id: "forbidden-city-beijing-zh.md";
   slug: "forbidden-city-beijing-zh";
@@ -665,6 +707,20 @@ declare module 'astro:content' {
 "terracotta-warriors-xian.md": {
 	id: "terracotta-warriors-xian.md";
   slug: "terracotta-warriors-xian";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"three-gorges-yangtze-river-zh.md": {
+	id: "three-gorges-yangtze-river-zh.md";
+  slug: "three-gorges-yangtze-river-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"three-gorges-yangtze-river.md": {
+	id: "three-gorges-yangtze-river.md";
+  slug: "three-gorges-yangtze-river";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
