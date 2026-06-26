@@ -155,6 +155,13 @@ declare module 'astro:content' {
   collection: "events";
   data: InferEntrySchema<"events">
 } & { render(): Render[".md"] };
+"dragon-boat-festival-traditions-liziqi-zh.md": {
+	id: "dragon-boat-festival-traditions-liziqi-zh.md";
+  slug: "dragon-boat-festival-traditions-liziqi-zh";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
 "dragon-boat-festival-traditions-liziqi.md": {
 	id: "dragon-boat-festival-traditions-liziqi.md";
   slug: "dragon-boat-festival-traditions-liziqi";

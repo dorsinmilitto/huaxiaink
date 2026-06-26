@@ -11,6 +11,7 @@ affiliate:
   - title: "Erhu Beginner Instrument Set"
     asin: "B0CGHX44JW"
     url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51NgxJlxhzL._AC_UL640_.jpg"
     price: "$75"
   - title: "Standards of the Guqin"
     asin: "0986622508"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '3113be74-7a84-426e-9beb-e989b8faf422'
-  PropagateID: '3113be74-7a84-426e-9beb-e989b8faf422'
-  ReservedCode1: '6e029d06-6411-4db9-94f0-826abc3f1635'
-  ReservedCode2: '6e029d06-6411-4db9-94f0-826abc3f1635'
+  ProduceID: '83b76112-b41c-4eee-8ead-63b4744c73e4'
+  PropagateID: '83b76112-b41c-4eee-8ead-63b4744c73e4'
+  ReservedCode1: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
+  ReservedCode2: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
 ---
 
 ## 一位法国人，一把二胡，一部中国神话

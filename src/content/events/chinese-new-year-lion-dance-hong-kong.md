@@ -11,26 +11,26 @@ affiliate:
   - title: "24 Pcs Red Silk Hanging Lantern Set"
     asin: "B0B8NTPBB4"
     url: "https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QF3P3fEaL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg"
     price: "$36.99"
   - title: "Whaline 72Pcs Red Envelopes"
     asin: "B07L1HZHHC"
     url: "https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81GhK3QYi6L._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg"
     price: "$16.99"
   - title: "I-MART Chinese Calligraphy Set"
     asin: "B074FL5D9X"
     url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Jqv1N1cwL._AC_SY450_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
     price: "$21.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '57bc9181-ce73-4b98-b1e6-b2ebdde8a71a'
-  PropagateID: '57bc9181-ce73-4b98-b1e6-b2ebdde8a71a'
-  ReservedCode1: '533e052e-dd27-4519-8e79-f02330672952'
-  ReservedCode2: '533e052e-dd27-4519-8e79-f02330672952'
+  ProduceID: '8c2e8393-4799-4fbb-af86-54f8bd46b2d2'
+  PropagateID: '8c2e8393-4799-4fbb-af86-54f8bd46b2d2'
+  ReservedCode1: '36bf8799-7bb0-49c9-b01b-3d178a1f3a09'
+  ReservedCode2: '36bf8799-7bb0-49c9-b01b-3d178a1f3a09'
 ---
 
 ## When the Lions Take the Streets

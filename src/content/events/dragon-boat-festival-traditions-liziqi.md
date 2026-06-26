@@ -11,26 +11,26 @@ affiliate:
   - title: "Bamboo Steamer 10 Inch 2 Tier"
     asin: "B09YWK6CWW"
     url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61bS+FL+G3L._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
     price: "$29.99"
   - title: "Chinese Tea Pot Cup Set with Tray"
     asin: "B0881KTP8J"
     url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71dCuJQ4FqL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
     price: "$22.99"
   - title: "Dumpling Bamboo Steamer 10 Inch"
     asin: "B0CC6C5S5H"
     url: "https://www.amazon.com/dp/B0CC6C5S5H?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Vx0oBtKdL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81pe+IHLurL._AC_UL640_.jpg"
     price: "$29.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'fb0e58fb-2f93-4801-a6ba-668c17b450cb'
-  PropagateID: 'fb0e58fb-2f93-4801-a6ba-668c17b450cb'
-  ReservedCode1: '1ad7189f-7252-41ed-ac0c-718f163879d1'
-  ReservedCode2: '1ad7189f-7252-41ed-ac0c-718f163879d1'
+  ProduceID: '07dad050-4e52-4bec-8846-3af3e4d3014c'
+  PropagateID: '07dad050-4e52-4bec-8846-3af3e4d3014c'
+  ReservedCode1: '6b1b05aa-aa11-432b-971c-205e25354a44'
+  ReservedCode2: '6b1b05aa-aa11-432b-971c-205e25354a44'
 ---
 
 ## A Festival Told Through Sticky Rice and Bamboo Leaves

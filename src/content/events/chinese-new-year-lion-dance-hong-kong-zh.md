@@ -11,26 +11,26 @@ affiliate:
   - title: "24 Pcs Red Silk Hanging Lantern Set"
     asin: "B0B8NTPBB4"
     url: "https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QF3P3fEaL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg"
     price: "$36.99"
   - title: "Whaline 72Pcs Red Envelopes"
     asin: "B07L1HZHHC"
     url: "https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81GhK3QYi6L._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg"
     price: "$16.99"
   - title: "I-MART Chinese Calligraphy Set"
     asin: "B074FL5D9X"
     url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Jqv1N1cwL._AC_SY450_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
     price: "$21.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5dc8487b-1266-438e-a3be-83e7805f0f49'
-  PropagateID: '5dc8487b-1266-438e-a3be-83e7805f0f49'
-  ReservedCode1: '7645078d-13ec-47b2-9637-8305fce5afbd'
-  ReservedCode2: '7645078d-13ec-47b2-9637-8305fce5afbd'
+  ProduceID: 'd67da943-29b2-430a-b013-6c56958c1ff2'
+  PropagateID: 'd67da943-29b2-430a-b013-6c56958c1ff2'
+  ReservedCode1: '5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f'
+  ReservedCode2: '5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f'
 ---
 
 ## 狮子上街的时刻

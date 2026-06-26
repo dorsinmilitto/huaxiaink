@@ -11,26 +11,26 @@ affiliate:
   - title: "Bamboo Steamer 10 Inch 2 Tier"
     asin: "B09YWK6CWW"
     url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61bS+FL+G3L._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
     price: "$29.99"
   - title: "Chinese Tea Pot Cup Set with Tray"
     asin: "B0881KTP8J"
     url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71dCuJQ4FqL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
     price: "$22.99"
   - title: "Dumpling Bamboo Steamer 10 Inch"
     asin: "B0CC6C5S5H"
     url: "https://www.amazon.com/dp/B0CC6C5S5H?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Vx0oBtKdL._AC_SX679_.jpg"
+    imageUrl: "https://m.media-amazon.com/images/I/81pe+IHLurL._AC_UL640_.jpg"
     price: "$29.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '0ce557ae-e718-49ae-a14a-cc7f65789644'
-  PropagateID: '0ce557ae-e718-49ae-a14a-cc7f65789644'
-  ReservedCode1: 'a84e6623-938b-4010-8e26-2e33fc0f9a1b'
-  ReservedCode2: 'a84e6623-938b-4010-8e26-2e33fc0f9a1b'
+  ProduceID: 'bc7c7444-e5ad-48f2-813c-0913d8f1a60f'
+  PropagateID: 'bc7c7444-e5ad-48f2-813c-0913d8f1a60f'
+  ReservedCode1: '9d3a271e-7cd9-400d-8a61-5896dab75874'
+  ReservedCode2: '9d3a271e-7cd9-400d-8a61-5896dab75874'
 ---
 
 ## 糯米和竹叶讲述的节日

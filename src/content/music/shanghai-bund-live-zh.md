@@ -11,6 +11,7 @@ affiliate:
   - title: "Erhu Beginner Instrument Set"
     asin: "B0CGHX44JW"
     url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51NgxJlxhzL._AC_UL640_.jpg"
     price: "$75"
   - title: "Standards of the Guqin"
     asin: "0986622508"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '9c292410-fe48-4de3-8ac0-001a12e05fcf'
-  PropagateID: '9c292410-fe48-4de3-8ac0-001a12e05fcf'
-  ReservedCode1: 'c3161a06-0ac5-4be1-939c-7b16f7b4dc8d'
-  ReservedCode2: 'c3161a06-0ac5-4be1-939c-7b16f7b4dc8d'
+  ProduceID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
+  PropagateID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
+  ReservedCode1: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
+  ReservedCode2: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
 ---
 
 ## 1980年代的香港传奇，在2026年现场响起

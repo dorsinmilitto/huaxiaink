@@ -11,6 +11,7 @@ affiliate:
   - title: "Erhu Beginner Instrument Set"
     asin: "B0CGHX44JW"
     url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51NgxJlxhzL._AC_UL640_.jpg"
     price: "$75"
   - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
     asin: "1973409194"
@@ -24,10 +25,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '2da3aa7f-8d4f-457b-bb86-af98f68205d5'
-  PropagateID: '2da3aa7f-8d4f-457b-bb86-af98f68205d5'
-  ReservedCode1: 'cbebf675-f634-499c-9d72-b7256265edfd'
-  ReservedCode2: 'cbebf675-f634-499c-9d72-b7256265edfd'
+  ProduceID: 'e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc'
+  PropagateID: 'e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc'
+  ReservedCode1: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
+  ReservedCode2: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
 ---
 
 ## 三种文化，一件乐器
