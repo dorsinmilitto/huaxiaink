@@ -1,8 +1,8 @@
 ---
 title: "笛子：一根竹管吹出的山水长卷"
-youtubeId: "TluSeibiveM"
-channel: "Zide Guqin Studio"
-duration: "10:28"
+youtubeId: "lI1L2l6vi-4"
+channel: "Musical Moments - East"
+duration: "7:22"
 publishedAt: 2022-01-15
 lang: zh
 tags: ["笛子", "竹笛", "中国乐器", "传统音乐", "吹奏乐器", "洞箫"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'ee55eded-9e28-4eab-b37f-36c956d52d7c'
-  PropagateID: 'ee55eded-9e28-4eab-b37f-36c956d52d7c'
-  ReservedCode1: '51a001df-ba12-4fdc-9d0e-63863621d19f'
-  ReservedCode2: '51a001df-ba12-4fdc-9d0e-63863621d19f'
+  ProduceID: 'b08e6176-04e2-47b1-91ce-02ede61327c7'
+  PropagateID: 'b08e6176-04e2-47b1-91ce-02ede61327c7'
+  ReservedCode1: '5f949f41-3569-49ba-b8da-73468026f5f6'
+  ReservedCode2: '5f949f41-3569-49ba-b8da-73468026f5f6'
 ---
 
 ## 竹声溯源：笛子的古老身世

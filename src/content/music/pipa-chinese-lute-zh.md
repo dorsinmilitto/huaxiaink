@@ -1,8 +1,8 @@
 ---
 title: "琵琶：大珠小珠落玉盘的千年绝响"
-youtubeId: "99V-KHikQSs"
-channel: "Traditional Craft"
-duration: "7:42"
+youtubeId: "M4Ye7AisnFM"
+channel: "Musical Moments - East"
+duration: "8:51"
 publishedAt: 2021-11-15
 lang: zh
 tags: ["琵琶", "中国乐器", "古典音乐", "民乐", "白居易", "传统音乐"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '4b8a190b-74d0-4593-ae0b-6c86ec1df232'
-  PropagateID: '4b8a190b-74d0-4593-ae0b-6c86ec1df232'
-  ReservedCode1: 'd4fed129-3002-405e-8458-4598bc5a5a36'
-  ReservedCode2: 'd4fed129-3002-405e-8458-4598bc5a5a36'
+  ProduceID: 'c43cced4-42a1-43bf-b6a2-2419264b17f3'
+  PropagateID: 'c43cced4-42a1-43bf-b6a2-2419264b17f3'
+  ReservedCode1: '78f476a6-fa80-4157-83e5-f3c57de3e956'
+  ReservedCode2: '78f476a6-fa80-4157-83e5-f3c57de3e956'
 ---
 
 ## 弦起千年：琵琶的前世今生

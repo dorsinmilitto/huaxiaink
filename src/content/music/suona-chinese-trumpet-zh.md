@@ -1,8 +1,8 @@
 ---
 title: "唢呐：百乐之王的狂放与深情"
-youtubeId: "iMlHPv8XGXw"
-channel: "Chinese Craftsmanship"
-duration: "8:35"
+youtubeId: "FYbNqSXZPd0"
+channel: "CGTN"
+duration: "5:49"
 publishedAt: 2020-12-25
 lang: zh
 tags: ["唢呐", "中国乐器", "传统音乐", "婚丧嫁娶", "民间音乐", "百乐之王"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '8230b87e-1480-4f2e-b8e8-c5f15616a437'
-  PropagateID: '8230b87e-1480-4f2e-b8e8-c5f15616a437'
-  ReservedCode1: '5d140545-75d3-4a63-886f-b69e03918a68'
-  ReservedCode2: '5d140545-75d3-4a63-886f-b69e03918a68'
+  ProduceID: '4282c7b7-b82c-4e81-a5ef-d818f9499ab7'
+  PropagateID: '4282c7b7-b82c-4e81-a5ef-d818f9499ab7'
+  ReservedCode1: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
+  ReservedCode2: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
 ---
 
 ## 西来东渐：唢呐的丝路旅程

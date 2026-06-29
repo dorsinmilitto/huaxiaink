@@ -1,8 +1,8 @@
 ---
 title: "悬空寺：挂在悬崖上的千年奇迹"
-youtubeId: "bsHT63s7kwU"
-channel: "Star Research Institute"
-duration: "8:12"
+youtubeId: "Je9Y3pRyfX8"
+channel: "Travel East"
+duration: "23:09"
 publishedAt: 2025-03-22
 lang: zh
 tags: ["悬空寺", "恒山", "山西", "古建筑", "佛教", "道教", "悬崖建筑"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '6a97f13a-bd22-4994-b5df-5cb577faf9c3'
-  PropagateID: '6a97f13a-bd22-4994-b5df-5cb577faf9c3'
-  ReservedCode1: 'b2bb02bc-18b6-495f-9f01-d03eaed91ae0'
-  ReservedCode2: 'b2bb02bc-18b6-495f-9f01-d03eaed91ae0'
+  ProduceID: 'c32bc031-e13b-4904-abe8-5cdca8909873'
+  PropagateID: 'c32bc031-e13b-4904-abe8-5cdca8909873'
+  ReservedCode1: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
+  ReservedCode2: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
 ---
 
 ## 凌空而立的建筑奇观

@@ -1,8 +1,8 @@
 ---
 title: "踢毽子：从汉代宫廷到街头巷尾的国民运动"
-youtubeId: "hlFFU397AhQ"
-channel: "Jianzi Culture"
-duration: "3:28"
+youtubeId: "JVSC2qmDQjM"
+channel: "CGTN"
+duration: "5:47"
 publishedAt: 2020-12-22
 lang: zh
 tags: ["踢毽子", "传统体育", "民间游戏", "毽子", "中国运动", "花毽"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '7b6753fe-3bb6-4191-ad85-4e8613136255'
-  PropagateID: '7b6753fe-3bb6-4191-ad85-4e8613136255'
-  ReservedCode1: 'e50a99e6-f8b6-4c66-830b-30d037dd27c4'
-  ReservedCode2: 'e50a99e6-f8b6-4c66-830b-30d037dd27c4'
+  ProduceID: '629a6142-397a-4518-966c-dee1691e57fe'
+  PropagateID: '629a6142-397a-4518-966c-dee1691e57fe'
+  ReservedCode1: '169f7820-6110-4a7a-ad14-0ddb007bc87e'
+  ReservedCode2: '169f7820-6110-4a7a-ad14-0ddb007bc87e'
 ---
 
 ## 汉宫中的蹴羽之戏
