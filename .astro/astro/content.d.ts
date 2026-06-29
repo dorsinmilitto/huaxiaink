@@ -255,6 +255,20 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"ghost-festival-zhongyuan-zh.md": {
+	id: "ghost-festival-zhongyuan-zh.md";
+  slug: "ghost-festival-zhongyuan-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"ghost-festival-zhongyuan.md": {
+	id: "ghost-festival-zhongyuan.md";
+  slug: "ghost-festival-zhongyuan";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "lantern-festival-zh.md": {
 	id: "lantern-festival-zh.md";
   slug: "lantern-festival-zh";
@@ -311,6 +325,34 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"twenty-four-solar-terms-zh.md": {
+	id: "twenty-four-solar-terms-zh.md";
+  slug: "twenty-four-solar-terms-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"twenty-four-solar-terms.md": {
+	id: "twenty-four-solar-terms.md";
+  slug: "twenty-four-solar-terms";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"winter-solstice-dongzhi-zh.md": {
+	id: "winter-solstice-dongzhi-zh.md";
+  slug: "winter-solstice-dongzhi-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"winter-solstice-dongzhi.md": {
+	id: "winter-solstice-dongzhi.md";
+  slug: "winter-solstice-dongzhi";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 };
 "food": {
 "art-chinese-dumplings-zh.md": {
@@ -323,6 +365,20 @@ declare module 'astro:content' {
 "art-chinese-dumplings.md": {
 	id: "art-chinese-dumplings.md";
   slug: "art-chinese-dumplings";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chinese-bbq-chuanr-zh.md": {
+	id: "chinese-bbq-chuanr-zh.md";
+  slug: "chinese-bbq-chuanr-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chinese-bbq-chuanr.md": {
+	id: "chinese-bbq-chuanr.md";
+  slug: "chinese-bbq-chuanr";
   body: string;
   collection: "food";
   data: InferEntrySchema<"food">
@@ -383,6 +439,34 @@ declare module 'astro:content' {
   collection: "food";
   data: InferEntrySchema<"food">
 } & { render(): Render[".md"] };
+"hand-pulled-noodles-lamian-zh.md": {
+	id: "hand-pulled-noodles-lamian-zh.md";
+  slug: "hand-pulled-noodles-lamian-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"hand-pulled-noodles-lamian.md": {
+	id: "hand-pulled-noodles-lamian.md";
+  slug: "hand-pulled-noodles-lamian";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"mapo-tofu-history-zh.md": {
+	id: "mapo-tofu-history-zh.md";
+  slug: "mapo-tofu-history-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"mapo-tofu-history.md": {
+	id: "mapo-tofu-history.md";
+  slug: "mapo-tofu-history";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
 "peking-duck-imperial-cuisine-zh.md": {
 	id: "peking-duck-imperial-cuisine-zh.md";
   slug: "peking-duck-imperial-cuisine-zh";
@@ -437,6 +521,48 @@ declare module 'astro:content' {
 "chinese-mahjong-culture.md": {
 	id: "chinese-mahjong-culture.md";
   slug: "chinese-mahjong-culture";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"chinese-shadow-puppetry-piying-zh.md": {
+	id: "chinese-shadow-puppetry-piying-zh.md";
+  slug: "chinese-shadow-puppetry-piying-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"chinese-shadow-puppetry-piying.md": {
+	id: "chinese-shadow-puppetry-piying.md";
+  slug: "chinese-shadow-puppetry-piying";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"jianzi-shuttlecock-kicking-zh.md": {
+	id: "jianzi-shuttlecock-kicking-zh.md";
+  slug: "jianzi-shuttlecock-kicking-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"jianzi-shuttlecock-kicking.md": {
+	id: "jianzi-shuttlecock-kicking.md";
+  slug: "jianzi-shuttlecock-kicking";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"tangram-seven-boards-zh.md": {
+	id: "tangram-seven-boards-zh.md";
+  slug: "tangram-seven-boards-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"tangram-seven-boards.md": {
+	id: "tangram-seven-boards.md";
+  slug: "tangram-seven-boards";
   body: string;
   collection: "games";
   data: InferEntrySchema<"games">
@@ -541,6 +667,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"dizi-bamboo-flute-zh.md": {
+	id: "dizi-bamboo-flute-zh.md";
+  slug: "dizi-bamboo-flute-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"dizi-bamboo-flute.md": {
+	id: "dizi-bamboo-flute.md";
+  slug: "dizi-bamboo-flute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "inuyasha-erhu-zh.md": {
 	id: "inuyasha-erhu-zh.md";
   slug: "inuyasha-erhu-zh";
@@ -597,6 +737,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"pipa-chinese-lute-zh.md": {
+	id: "pipa-chinese-lute-zh.md";
+  slug: "pipa-chinese-lute-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"pipa-chinese-lute.md": {
+	id: "pipa-chinese-lute.md";
+  slug: "pipa-chinese-lute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "quan-yu-tianxia-zh.md": {
 	id: "quan-yu-tianxia-zh.md";
   slug: "quan-yu-tianxia-zh";
@@ -639,6 +793,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"suona-chinese-trumpet-zh.md": {
+	id: "suona-chinese-trumpet-zh.md";
+  slug: "suona-chinese-trumpet-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"suona-chinese-trumpet.md": {
+	id: "suona-chinese-trumpet.md";
+  slug: "suona-chinese-trumpet";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 };
 "travel": {
 "chongqing-8d-mountain-city-zh.md": {
@@ -665,6 +833,48 @@ declare module 'astro:content' {
 "forbidden-city-beijing.md": {
 	id: "forbidden-city-beijing.md";
   slug: "forbidden-city-beijing";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"fujian-tulou-earth-building-zh.md": {
+	id: "fujian-tulou-earth-building-zh.md";
+  slug: "fujian-tulou-earth-building-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"fujian-tulou-earth-building.md": {
+	id: "fujian-tulou-earth-building.md";
+  slug: "fujian-tulou-earth-building";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"hanging-temple-xuankong-si-zh.md": {
+	id: "hanging-temple-xuankong-si-zh.md";
+  slug: "hanging-temple-xuankong-si-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"hanging-temple-xuankong-si.md": {
+	id: "hanging-temple-xuankong-si.md";
+  slug: "hanging-temple-xuankong-si";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"li-river-guilin-karst-zh.md": {
+	id: "li-river-guilin-karst-zh.md";
+  slug: "li-river-guilin-karst-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"li-river-guilin-karst.md": {
+	id: "li-river-guilin-karst.md";
+  slug: "li-river-guilin-karst";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
