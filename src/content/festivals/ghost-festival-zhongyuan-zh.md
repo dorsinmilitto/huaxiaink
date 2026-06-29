@@ -1,8 +1,8 @@
 ---
 title: "中元节：阴阳交界的七月十五"
-youtubeId: "H7k2N3Lm9PQ"
-channel: "China Unseen"
-duration: "17:25"
+youtubeId: "e-ceOYtIRFI"
+channel: "Chinese Culture"
+duration: "5:42"
 publishedAt: 2023-08-24
 lang: zh
 tags: ["中元节", "鬼节", "传统节日", "盂兰盆", "祭祀", "七月半", "民俗"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '52189199-9398-4b44-9ca9-16468365b9dd'
-  PropagateID: '52189199-9398-4b44-9ca9-16468365b9dd'
-  ReservedCode1: 'da7b386c-6229-4b11-9c89-cdd686bdc37b'
-  ReservedCode2: 'da7b386c-6229-4b11-9c89-cdd686bdc37b'
+  ProduceID: 'e1d31762-3845-4933-9d0d-0d9be3257ec1'
+  PropagateID: 'e1d31762-3845-4933-9d0d-0d9be3257ec1'
+  ReservedCode1: '4b5200a0-5505-4a62-b776-7b0421fc4c97'
+  ReservedCode2: '4b5200a0-5505-4a62-b776-7b0421fc4c97'
 ---
 
 ## 七月半：一扇打开的门

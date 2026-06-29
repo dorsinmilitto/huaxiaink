@@ -1,8 +1,8 @@
 ---
 title: "二十四节气：中国人与天地对话的千年历法"
-youtubeId: "X9n8m2P3qRS"
-channel: "CCTV Culture"
-duration: "28:30"
+youtubeId: "cKlNXD36Ggs"
+channel: "CGTN"
+duration: "3:58"
 publishedAt: 2016-11-30
 lang: zh
 tags: ["二十四节气", "节气", "传统历法", "非遗", "农历", "农耕文化", "天人合一"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'cb79a536-a834-4ef8-8423-5dae41405c83'
-  PropagateID: 'cb79a536-a834-4ef8-8423-5dae41405c83'
-  ReservedCode1: '4ce46e80-ce41-4d28-9d0a-debaa0f52d56'
-  ReservedCode2: '4ce46e80-ce41-4d28-9d0a-debaa0f52d56'
+  ProduceID: '97f90e4f-74df-4d39-b53b-a71ceb8d25a0'
+  PropagateID: '97f90e4f-74df-4d39-b53b-a71ceb8d25a0'
+  ReservedCode1: 'eac0371f-3283-49fe-9765-dcacbba88797'
+  ReservedCode2: 'eac0371f-3283-49fe-9765-dcacbba88797'
 ---
 
 ## 用太阳写诗的人

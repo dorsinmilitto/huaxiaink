@@ -1,8 +1,8 @@
 ---
 title: "冬至：一年中最长的夜与最暖的团圆"
-youtubeId: "W3m4K5nL2RT"
-channel: "China Life"
-duration: "14:50"
+youtubeId: "VI3B2GcHhtI"
+channel: "Chinese Holiday"
+duration: "4:36"
 publishedAt: 2020-12-10
 lang: zh
 tags: ["冬至", "传统节日", "二十四节气", "饺子", "汤圆", "数九", "民俗"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '98613979-9a41-4906-b284-75d19f19a605'
-  PropagateID: '98613979-9a41-4906-b284-75d19f19a605'
-  ReservedCode1: '6aa60c3a-39a6-4901-b24e-dedaff78189d'
-  ReservedCode2: '6aa60c3a-39a6-4901-b24e-dedaff78189d'
+  ProduceID: '0d12610a-fc3f-4a40-8548-84dfd14a2cb4'
+  PropagateID: '0d12610a-fc3f-4a40-8548-84dfd14a2cb4'
+  ReservedCode1: '798b2e71-68a2-4b4d-ae76-60c4f6c65f5d'
+  ReservedCode2: '798b2e71-68a2-4b4d-ae76-60c4f6c65f5d'
 ---
 
 ## 最长的夜，最早的春

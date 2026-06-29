@@ -1,8 +1,8 @@
 ---
 title: "福建土楼：大山深处的圆形城堡"
-youtubeId: "dKGG3YLtJXk"
-channel: "National Geographic"
-duration: "22:40"
+youtubeId: "fb9L5zXvGbI"
+channel: "Travel China"
+duration: "6:18"
 publishedAt: 2023-01-26
 lang: zh
 tags: ["土楼", "福建", "客家", "世界遗产", "圆形建筑", "传统建筑", "漳州"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '1d909780-b2d3-4efe-b187-747c2b92b49c'
-  PropagateID: '1d909780-b2d3-4efe-b187-747c2b92b49c'
-  ReservedCode1: '27cb8532-0fcf-4e9a-b285-5b5df7f37934'
-  ReservedCode2: '27cb8532-0fcf-4e9a-b285-5b5df7f37934'
+  ProduceID: 'b8bbeec4-febf-4509-86c6-66ba9acb7e70'
+  PropagateID: 'b8bbeec4-febf-4509-86c6-66ba9acb7e70'
+  ReservedCode1: '5a2bd6b9-144c-4268-b51c-7c5aa37ca976'
+  ReservedCode2: '5a2bd6b9-144c-4268-b51c-7c5aa37ca976'
 ---
 
 ## 客家的堡垒与家园
