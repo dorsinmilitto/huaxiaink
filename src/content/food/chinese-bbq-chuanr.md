@@ -8,29 +8,29 @@ lang: en
 tags: ["chuanr", "Chinese-BBQ", "street-food", "skewers", "Xinjiang", "night-market", "cumin-lamb"]
 featured: false
 affiliate:
-  - title: "Bamboo Skewer Set for Grilling (500 Pack)"
-    asin: "B07K4R8Q3M"
-    url: "https://www.amazon.com/dp/B07K4R8Q3M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61T3Zq8VpWL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Cumin Spice Blend for Middle Eastern & Asian Cooking"
-    asin: "B09LF6Q3X7"
-    url: "https://www.amazon.com/dp/B09LF6Q3X7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71J8mN3pKRL._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "Portable Charcoal Grill for Outdoor BBQ"
-    asin: "B08GHL3T5K"
-    url: "https://www.amazon.com/dp/B08GHL3T5K?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71vBk7R2GXL._AC_UL640_.jpg"
-    price: "$46.99"
+  - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
+    asin: "B0931JFMRC"
+    url: "https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag"
+    asin: "B001VNECGI"
+    url: "https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg"
+    price: "$10.49"
+  - title: "Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack"
+    asin: "B0BV6MPHGM"
+    url: "https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg"
+    price: "$49.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'dafe1e2d-2bd6-4c3a-85f3-cb4c2019b1cb'
-  PropagateID: 'dafe1e2d-2bd6-4c3a-85f3-cb4c2019b1cb'
-  ReservedCode1: '4172bccb-9c92-4b6a-89c8-d1da0e6c176e'
-  ReservedCode2: '4172bccb-9c92-4b6a-89c8-d1da0e6c176e'
+  ProduceID: 'bda861a7-85bb-484b-b175-6206192c888d'
+  PropagateID: 'bda861a7-85bb-484b-b175-6206192c888d'
+  ReservedCode1: '763be2ca-dbaa-48ce-baa2-44ed0ad7d2f8'
+  ReservedCode2: '763be2ca-dbaa-48ce-baa2-44ed0ad7d2f8'
 ---
 
 ## The Smoke That Rises From the Steppe

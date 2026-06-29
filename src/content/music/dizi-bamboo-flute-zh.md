@@ -8,29 +8,29 @@ lang: zh
 tags: ["笛子", "竹笛", "中国乐器", "传统音乐", "吹奏乐器", "洞箫"]
 featured: false
 affiliate:
-  - title: "专业竹笛 苦竹笛子 初学者款"
-    asin: "B08H1F3R7T"
-    url: "https://www.amazon.com/dp/B08H1F3R7T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51sK8HpNxPL._AC_UL640_.jpg"
-    price: "$45.99"
-  - title: "The Dizi: Chinese Bamboo Flute Method"
-    asin: "B09YZ6PL4K"
-    url: "https://www.amazon.com/dp/B09YZ6PL4K?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41CwkGqH2ZL._AC_UL640_.jpg"
-    price: "$22.00"
-  - title: "笛膜套装 芦苇膜贴膜工具"
-    asin: "B07S8X2Y4W"
-    url: "https://www.amazon.com/dp/B07S8X2Y4W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/31vK5mXZdHL._AC_UL640_.jpg"
+  - title: "C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue Set"
+    asin: "B07KXBJHWF"
+    url: "https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg"
+    price: "$25.99"
+  - title: "Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key D"
+    asin: "B08HQ9ML9R"
+    url: "https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg"
+    price: "$19.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
     price: "$9.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a437c08d-314b-42c0-ad92-68b01dd5e800'
-  PropagateID: 'a437c08d-314b-42c0-ad92-68b01dd5e800'
-  ReservedCode1: '3e35c4b2-5451-4c7b-aba8-aefb48c4e2ff'
-  ReservedCode2: '3e35c4b2-5451-4c7b-aba8-aefb48c4e2ff'
+  ProduceID: 'f2d69122-8e09-49e4-a60f-a00e96780a4f'
+  PropagateID: 'f2d69122-8e09-49e4-a60f-a00e96780a4f'
+  ReservedCode1: 'ec775705-711f-4ed6-bc81-a786076b509a'
+  ReservedCode2: 'ec775705-711f-4ed6-bc81-a786076b509a'
 ---
 
 ## 竹声溯源：笛子的古老身世

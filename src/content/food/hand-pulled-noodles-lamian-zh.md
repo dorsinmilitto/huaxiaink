@@ -8,29 +8,29 @@ lang: zh
 tags: ["拉面", "手工面", "兰州拉面", "面食", "中国美食", "小麦", "面条"]
 featured: false
 affiliate:
-  - title: "Noodle Making Tool Set"
-    asin: "B07PN8K5Q2"
-    url: "https://www.amazon.com/dp/B07PN8K5Q2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61vF5kN3wPL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Asian Noodle Cookbook"
-    asin: "B08LM4R3T9"
-    url: "https://www.amazon.com/dp/B08LM4R3T9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Y6Rk8QmwL._AC_UL640_.jpg"
+  - title: "Nuvantee Pasta Maker with Adjustable Thickness - 3 in 1 Noodle Maker"
+    asin: "B01JIUH2OY"
+    url: "https://www.amazon.com/dp/B01JIUH2OY?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81CJwYOBzkL._AC_UL640_.jpg"
+    price: "$24.99"
+  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
+    asin: "B0049B1VRW"
+    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
+    price: "$16.99"
+  - title: "Lightweight Durable Bamboo Cutting Board with Non-Slip Feet, Juice Groove"
+    asin: "B0FNMGJ2SL"
+    url: "https://www.amazon.com/dp/B0FNMGJ2SL?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81XzeSsY+BL._AC_UL640_.jpg"
     price: "$19.99"
-  - title: "Bamboo Cutting Board Set"
-    asin: "B09RKT7Z6L"
-    url: "https://www.amazon.com/dp/B09RKT7Z6L?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
-    price: "$22.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a15b693a-215b-42e6-922a-9389c2b28b2c'
-  PropagateID: 'a15b693a-215b-42e6-922a-9389c2b28b2c'
-  ReservedCode1: '967e3a84-4dfb-4f53-b02d-864735ddb73e'
-  ReservedCode2: '967e3a84-4dfb-4f53-b02d-864735ddb73e'
+  ProduceID: 'a8f92d5f-50ba-4d65-824a-013097cdfd83'
+  PropagateID: 'a8f92d5f-50ba-4d65-824a-013097cdfd83'
+  ReservedCode1: '261e5cb7-398a-415b-a215-ebf456d5328d'
+  ReservedCode2: '261e5cb7-398a-415b-a215-ebf456d5328d'
 ---
 
 ## 一把面，拉出整部文明史

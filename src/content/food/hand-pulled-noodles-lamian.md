@@ -8,29 +8,29 @@ lang: en
 tags: ["lamian", "hand-pulled-noodles", "Chinese-noodles", "Lanzhou", "dough-art", "wheat", "Chinese-cuisine"]
 featured: false
 affiliate:
-  - title: "Noodle Making Tool Set with Scraper and Rod"
-    asin: "B08TQ5Z3P7"
-    url: "https://www.amazon.com/dp/B08TQ5Z3P7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71nL4R8xGJL._AC_UL640_.jpg"
-    price: "$22.99"
-  - title: "Noodle Soup: Recipes, Techniques, Traditions"
-    asin: "1607744213"
-    url: "https://www.amazon.com/dp/1607744213?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81U5l4WQzPL._AC_UL640_.jpg"
-    price: "$29.95"
-  - title: "Extra Large Bamboo Cutting Board"
-    asin: "B07S2QKV3Z"
-    url: "https://www.amazon.com/dp/B07S2QKV3Z?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81FpR3K2G5L._AC_UL640_.jpg"
-    price: "$27.99"
+  - title: "Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings"
+    asin: "B07DP15B53"
+    url: "https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg"
+    price: "$29.99"
+  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
+    asin: "B0049B1VRW"
+    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
+    price: "$16.99"
+  - title: "Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch"
+    asin: "B08LCXZ3WD"
+    url: "https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg"
+    price: "$15.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'e3e0e0a1-5d10-458a-90f8-d24a0179d37b'
-  PropagateID: 'e3e0e0a1-5d10-458a-90f8-d24a0179d37b'
-  ReservedCode1: '84a066b8-8cff-468d-896a-8f6598bad0e7'
-  ReservedCode2: '84a066b8-8cff-468d-896a-8f6598bad0e7'
+  ProduceID: '391195f5-51f0-4b9d-88d4-abe95a0ca7ea'
+  PropagateID: '391195f5-51f0-4b9d-88d4-abe95a0ca7ea'
+  ReservedCode1: 'e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84'
+  ReservedCode2: 'e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84'
 ---
 
 ## Wheat, Water, and Three Millennia of Patience

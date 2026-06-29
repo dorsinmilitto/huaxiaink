@@ -8,29 +8,29 @@ lang: zh
 tags: ["中元节", "鬼节", "传统节日", "盂兰盆", "祭祀", "七月半", "民俗"]
 featured: false
 affiliate:
-  - title: "The Chinese Festivals Handbook - Traditions Rituals and Meanings"
-    asin: "B08K2M9Q7R"
-    url: "https://www.amazon.com/dp/B08K2M9Q7R?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71MqK3Np8sL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Traditional Chinese Incense Gift Set - Sandalwood and Agarwood"
-    asin: "B07WXL4T3N"
-    url: "https://www.amazon.com/dp/B07WXL4T3N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61RwXL4T3NL._AC_UL640_.jpg"
-    price: "$26.50"
-  - title: "Chinese Paper Craft Kit - Joss Paper and Folding Templates"
-    asin: "B09PM8R5K2"
-    url: "https://m.media-amazon.com/dp/B09PM8R5K2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51PM8R5K2L._AC_UL640_.jpg"
-    price: "$14.99"
+  - title: "Chinese Ghost Stories for Language Learners: New Adaptations of Folklore Tales"
+    asin: "B0CW1CYLFS"
+    url: "https://www.amazon.com/dp/B0CW1CYLFS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/8156buvdKHL._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "Agarwood Incense Sticks Approx 120 Sticks with Brass Holder, Chinese Incense"
+    asin: "B0GS53CXHR"
+    url: "https://www.amazon.com/dp/B0GS53CXHR?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/616A4d9NqrL._AC_UL640_.jpg"
+    price: "$19.99"
+  - title: "Incense Gift Set with Bamboo Incense Holder - Nha Trang Agarwood and Sandalwood"
+    asin: "B0GV4MHBB5"
+    url: "https://www.amazon.com/dp/B0GV4MHBB5?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71rbtlJbOHL._AC_UL640_.jpg"
+    price: "$24.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5cad4a8d-38bc-49f8-89b9-f2fa74df40fb'
-  PropagateID: '5cad4a8d-38bc-49f8-89b9-f2fa74df40fb'
-  ReservedCode1: '062c3d0c-f96d-409a-8ec6-12362aeafa92'
-  ReservedCode2: '062c3d0c-f96d-409a-8ec6-12362aeafa92'
+  ProduceID: '52189199-9398-4b44-9ca9-16468365b9dd'
+  PropagateID: '52189199-9398-4b44-9ca9-16468365b9dd'
+  ReservedCode1: 'da7b386c-6229-4b11-9c89-cdd686bdc37b'
+  ReservedCode2: 'da7b386c-6229-4b11-9c89-cdd686bdc37b'
 ---
 
 ## 七月半：一扇打开的门

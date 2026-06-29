@@ -8,29 +8,29 @@ lang: en
 tags: ["shadow-puppetry", "piying", "UNESCO", "chinese-theater", "folk-art", "animation", "intangible-heritage"]
 featured: false
 affiliate:
-  - title: "Shadow Puppets Set - Chinese Traditional Leather Shadow Puppet Figures"
-    asin: B0D9QZ5K7X
-    url: "https://www.amazon.com/dp/B0D9QZ5K7X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qJvK3p0sL._AC_UL640_.jpg"
-    price: "$24.99"
-  - title: "DIY Shadow Puppet Theater Kit with Light Box and Screen"
-    asin: B09N6YH2R1
-    url: "https://www.amazon.com/dp/B09N6YH2R1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81xM4VdWzSL._AC_UL640_.jpg"
-    price: "$32.99"
-  - title: "Chinese Folk Art Book - Traditional Crafts and Performing Arts"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$18.95"
+  - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
+    asin: "B0C3G6HTLR"
+    url: "https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
+    asin: "B0BWRYFVFC"
+    url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg"
+    price: "$14.99"
+  - title: "Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater"
+    asin: "B0H1N15CLD"
+    url: "https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg"
+    price: "$29.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'e867a6f1-cdfc-4c81-a905-4d62a448e9ed'
-  PropagateID: 'e867a6f1-cdfc-4c81-a905-4d62a448e9ed'
-  ReservedCode1: 'c9aba62b-5ae6-4462-ad31-0786fc313919'
-  ReservedCode2: 'c9aba62b-5ae6-4462-ad31-0786fc313919'
+  ProduceID: '91612055-6fb8-47c3-956f-1d62f215fe46'
+  PropagateID: '91612055-6fb8-47c3-956f-1d62f215fe46'
+  ReservedCode1: 'd76cb190-8231-42a9-a175-b709af9b6559'
+  ReservedCode2: 'd76cb190-8231-42a9-a175-b709af9b6559'
 ---
 
 ## A Screen Made of Goat Skin

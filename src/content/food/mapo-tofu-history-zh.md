@@ -8,29 +8,29 @@ lang: zh
 tags: ["麻婆豆腐", "川菜", "豆腐", "中国美食", "陈麻婆", "麻辣", "成都"]
 featured: false
 affiliate:
-  - title: "Sichuan Peppercorn Variety Set"
-    asin: "B08H1R5K7T"
-    url: "https://www.amazon.com/dp/B08H1R5K7T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71GqV3k2JlL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Cast Iron Wok 14 Inch"
-    asin: "B07QKV3J5S"
-    url: "https://www.amazon.com/dp/B07QKV3J5S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61RLJ5ZnpnL._AC_UL640_.jpg"
-    price: "$42.99"
-  - title: "The Food of Sichuan Cookbook"
-    asin: "B09WXL6R8N"
-    url: "https://www.amazon.com/dp/B09WXL6R8N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81eF7qX7JNL._AC_UL640_.jpg"
-    price: "$24.99"
+  - title: "52USA Szechuan Peppercorns 8OZ, Authentic Sichuan Peppercorns, Mala Pepper"
+    asin: "B0821SJM4X"
+    url: "https://www.amazon.com/dp/B0821SJM4X?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71pRbd5-T-L._AC_UL640_.jpg"
+    price: "$18.11"
+  - title: "Craft Wok Traditional Hand Hammered Chinese Carbon Steel Wok 14 Inch"
+    asin: "B00PUZT9MU"
+    url: "https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg"
+    price: "$39.99"
+  - title: "Chinese Food At Home: Simple and Authentic Sichuan Family Cookbook"
+    asin: "B07DFLNTT8"
+    url: "https://www.amazon.com/dp/B07DFLNTT8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91H9OOvvTTL._AC_UL640_.jpg"
+    price: "$9.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'cefe1738-d5e0-494e-8b5e-cb9ae05159f3'
-  PropagateID: 'cefe1738-d5e0-494e-8b5e-cb9ae05159f3'
-  ReservedCode1: 'be6a04f5-e0ab-40fc-93d0-d3d3755178c9'
-  ReservedCode2: 'be6a04f5-e0ab-40fc-93d0-d3d3755178c9'
+  ProduceID: '8c1075b8-4fa6-4e24-b0da-82818e272c6b'
+  PropagateID: '8c1075b8-4fa6-4e24-b0da-82818e272c6b'
+  ReservedCode1: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
+  ReservedCode2: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
 ---
 
 ## 麻子脸女人的传奇

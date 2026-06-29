@@ -8,29 +8,29 @@ lang: en
 tags: ["Solar-Terms", "24-Jieqi", "Chinese-calendar", "agriculture", "UNESCO-heritage", "lunisolar", "traditional-wisdom"]
 featured: false
 affiliate:
-  - title: "The 24 Solar Terms in China - UNESCO Heritage Illustrated Book"
-    asin: B07PQZ8L3S
-    url: "https://www.amazon.com/dp/B07PQZ8L3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61K8mQz3JTL._AC_UL640_.jpg"
-    price: "$29.95"
-  - title: "Chinese Almanac and Farmer's Calendar - Traditional Agricultural Guide"
-    asin: B09N6YH2R1
-    url: "https://www.amazon.com/dp/B09N6YH2R1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81xM4VdWzSL._AC_UL640_.jpg"
-    price: "$22.00"
-  - title: "Ancient Chinese Science and Technology - Astronomy and Calendar Systems"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$34.95"
+  - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
+    asin: "B0FHLTCL98"
+    url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "24 Solar Terms of China (2nd Edition) (Chinese Edition)"
+    asin: "B00BP0ILA0"
+    url: "https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg"
+    price: "$15.99"
+  - title: "The Tao of Tea Oolong Tea Sampler, 3-Count Box"
+    asin: "B004NP1I40"
+    url: "https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg"
+    price: "$12.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '35dd06d9-6002-4575-af24-c00fb50018a4'
-  PropagateID: '35dd06d9-6002-4575-af24-c00fb50018a4'
-  ReservedCode1: '6138b2bf-921c-45b0-83bd-ea9d67fee608'
-  ReservedCode2: '6138b2bf-921c-45b0-83bd-ea9d67fee608'
+  ProduceID: '2a107c88-1a21-4d1d-a33d-938b0bcf04a9'
+  PropagateID: '2a107c88-1a21-4d1d-a33d-938b0bcf04a9'
+  ReservedCode1: '446da713-340c-4833-a494-21cd64347213'
+  ReservedCode2: '446da713-340c-4833-a494-21cd64347213'
 ---
 
 ## A Calendar Written by the Sun

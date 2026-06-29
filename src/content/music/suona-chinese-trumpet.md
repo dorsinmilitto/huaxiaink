@@ -8,29 +8,29 @@ lang: en
 tags: ["suona", "chinese-trumpet", "double-reed", "wedding-music", "funeral-music", "folk-instrument", "loud-instrument"]
 featured: false
 affiliate:
-  - title: "Professional Suona Chinese Horn - Double Reed with Case"
-    asin: B07PQZ8L3S
-    url: "https://www.amazon.com/dp/B07PQZ8L3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61K8mQz3JTL._AC_UL640_.jpg"
-    price: "$58.99"
-  - title: "Chinese Traditional Music Collection - Suona and Folk Songs"
-    asin: B0CJY9LHK4
-    url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "World Music Encyclopedia - Folk Instruments of Asia"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$26.50"
+  - title: "D Key Suona Chinese Traditional Musical Instrument for Beginners and Professionals"
+    asin: "B0CXDWYWC2"
+    url: "https://www.amazon.com/dp/B0CXDWYWC2?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61sfvj6mEOL._AC_UL640_.jpg"
+    price: "$35.99"
+  - title: "angwang Suona Reed Mouth, 4 Pcs Chinese National Musical Instrument Suona Reed"
+    asin: "B08JCBY597"
+    url: "https://www.amazon.com/dp/B08JCBY597?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/619q4OeN7lL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
+    price: "$9.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '7518e29e-356a-4ce0-8bb3-2b0e947ae558'
-  PropagateID: '7518e29e-356a-4ce0-8bb3-2b0e947ae558'
-  ReservedCode1: '4619b3fa-6f47-42c6-ac49-b286b95bfbe5'
-  ReservedCode2: '4619b3fa-6f47-42c6-ac49-b286b95bfbe5'
+  ProduceID: '4cb6782d-2ee7-4e4b-a04a-2423ade3b483'
+  PropagateID: '4cb6782d-2ee7-4e4b-a04a-2423ade3b483'
+  ReservedCode1: '2e18f99d-5974-4c21-9f7f-b2f4d6149ff4'
+  ReservedCode2: '2e18f99d-5974-4c21-9f7f-b2f4d6149ff4'
 ---
 
 ## 140 Decibels of Human Emotion

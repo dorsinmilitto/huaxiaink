@@ -8,29 +8,29 @@ lang: en
 tags: ["Winter-Solstice", "Dongzhi", "Chinese-festival", "dumplings", "shortest-day", "solar-term", "winter-tradition"]
 featured: false
 affiliate:
-  - title: "Chinese Dumpling Maker - Automatic Jiaozi Wrapper Machine"
-    asin: B07PQZ8L3S
-    url: "https://www.amazon.com/dp/B07PQZ8L3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61K8mQz3JTL._AC_UL640_.jpg"
+  - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
+    asin: "B09DYP7J76"
+    url: "https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
+    asin: "B0049B1VRW"
+    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
+    price: "$16.99"
+  - title: "3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W"
+    asin: "B0BPLRK1LN"
+    url: "https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg"
     price: "$39.99"
-  - title: "Traditional Chinese Cooking Wok - Carbon Steel 14 Inch Hand Hammered"
-    asin: B09N6YH2R1
-    url: "https://www.amazon.com/dp/B09N6YH2R1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81xM4VdWzSL._AC_UL640_.jpg"
-    price: "$51.75"
-  - title: "Chinese Winter Solstice Recipe Book - Dongzhi Festival Dishes"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$18.50"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '009a37a0-bd60-4f86-975c-fa98051fb729'
-  PropagateID: '009a37a0-bd60-4f86-975c-fa98051fb729'
-  ReservedCode1: '0a8ab906-1294-4a19-841d-34b674d4c570'
-  ReservedCode2: '0a8ab906-1294-4a19-841d-34b674d4c570'
+  ProduceID: '12e02e9d-9f16-4606-9661-53443e14d267'
+  PropagateID: '12e02e9d-9f16-4606-9661-53443e14d267'
+  ReservedCode1: '7c4f0526-28a5-464c-a5ff-2b4ab28469b0'
+  ReservedCode2: '7c4f0526-28a5-464c-a5ff-2b4ab28469b0'
 ---
 
 ## The Shortest Day, the Longest Tradition

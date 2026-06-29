@@ -8,29 +8,29 @@ lang: zh
 tags: ["土楼", "福建", "客家", "世界遗产", "圆形建筑", "传统建筑", "漳州"]
 featured: false
 affiliate:
-  - title: "福建旅行指南"
-    asin: "B09RKT5Z8L"
-    url: "https://www.amazon.com/dp/B09RKT5Z8L?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81XK7FR3JNL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "中国传统建筑图鉴"
-    asin: "0262516308"
-    url: "https://www.amazon.com/dp/0262516308?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71W5V3RQP8L._AC_UL640_.jpg"
-    price: "$29.95"
-  - title: "世界遗产纪录片合集"
-    asin: "B07VN6JF8P"
-    url: "https://www.amazon.com/dp/B07VN6JFF8P?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Z9BM4KP5L._AC_UL640_.jpg"
+  - title: "The Fujian Adventure: Guide to Fujian Province"
+    asin: "B00J22FA98"
+    url: "https://www.amazon.com/dp/B00J22FA98?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/917S99VFHQL._AC_UL640_.jpg"
     price: "$14.99"
+  - title: "Yin Yu Tang: The Architecture and Daily Life of a Chinese House"
+    asin: "B00ADOGAE8"
+    url: "https://www.amazon.com/dp/B00ADOGAE8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81U3n+JTTBL._AC_UL640_.jpg"
+    price: "$35.00"
+  - title: "Chinese Ancient Architecture (Chinese Edition)"
+    asin: "B006Z15J9K"
+    url: "https://www.amazon.com/dp/B006Z15J9K?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/21VKJ48JuoL._AC_UL640_.jpg"
+    price: "$25.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'fcbe7237-a9b4-44de-84e8-a4c814d9ad4e'
-  PropagateID: 'fcbe7237-a9b4-44de-84e8-a4c814d9ad4e'
-  ReservedCode1: '76a4c362-0f0e-49d5-852c-87af97e42273'
-  ReservedCode2: '76a4c362-0f0e-49d5-852c-87af97e42273'
+  ProduceID: '1d909780-b2d3-4efe-b187-747c2b92b49c'
+  PropagateID: '1d909780-b2d3-4efe-b187-747c2b92b49c'
+  ReservedCode1: '27cb8532-0fcf-4e9a-b285-5b5df7f37934'
+  ReservedCode2: '27cb8532-0fcf-4e9a-b285-5b5df7f37934'
 ---
 
 ## 客家的堡垒与家园

@@ -8,29 +8,29 @@ lang: zh
 tags: ["漓江", "桂林", "山水", "喀斯特", "中国旅游", "阳朔", "广西"]
 featured: false
 affiliate:
-  - title: "Lonely Planet China旅行指南"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81V8YKF4KFL._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "National Geographic中国旅行地图"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QKQZK5Z2L._AC_UL640_.jpg"
-    price: "$13.95"
-  - title: "桂林山水摄影画册"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ABZMW3GQL._AC_UL640_.jpg"
-    price: "$34.99"
+  - title: "CHINA TRAVEL GUIDE 2026 - Smart Explorer Travel Guide"
+    asin: "B0H3HQ161J"
+    url: "https://www.amazon.com/dp/B0H3HQ161J?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61y17FGZSML._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "China Travel Guide 2026: The Ultimate Insider Guide to Culture, Food, Hidden Gems"
+    asin: "B0H21X5CP7"
+    url: "https://www.amazon.com/dp/B0H21X5CP7?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81ujWSEg2NL._AC_UL640_.jpg"
+    price: "$14.99"
+  - title: "China Travel Guide: Everything You Need to Know about the Culture, Lifestyle"
+    asin: "B073VYKZ69"
+    url: "https://www.amazon.com/dp/B073VYKZ69?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81HvuV79LCL._AC_UL640_.jpg"
+    price: "$13.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a2640c3a-4cec-4a4a-be7e-261031053b7d'
-  PropagateID: 'a2640c3a-4cec-4a4a-be7e-261031053b7d'
-  ReservedCode1: '66661269-c299-4ced-9f20-a0b6519d5590'
-  ReservedCode2: '66661269-c299-4ced-9f20-a0b6519d5590'
+  ProduceID: 'd6233ad7-c996-4105-94eb-607376301ed8'
+  PropagateID: 'd6233ad7-c996-4105-94eb-607376301ed8'
+  ReservedCode1: 'df445717-f3f5-454d-8ca3-03d136585cad'
+  ReservedCode2: 'df445717-f3f5-454d-8ca3-03d136585cad'
 ---
 
 ## 千年水墨的诞生

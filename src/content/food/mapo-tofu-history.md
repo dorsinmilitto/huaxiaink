@@ -8,29 +8,29 @@ lang: en
 tags: ["Mapo-Tofu", "Sichuan-cuisine", "tofu", "Chinese-food", "Chen-Mapo", "mala", "Chengdu"]
 featured: false
 affiliate:
-  - title: "Sichuan Peppercorn Variety Set"
-    asin: "B08R9K3X5L"
-    url: "https://www.amazon.com/dp/B08R9K3X5L?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71GqV3k2JlL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Lodge Pre-Seasoned Cast Iron Wok"
-    asin: "B07GQJQ5BQ"
-    url: "https://www.amazon.com/dp/B07GQJQ5BQ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61RLJ5ZnpnL._AC_UL640_.jpg"
-    price: "$39.90"
-  - title: "The Food of Sichuan Cookbook"
-    asin: "0393356207"
-    url: "https://www.amazon.com/dp/0393356207?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81eF7qX7JNL._AC_UL640_.jpg"
-    price: "$23.99"
+  - title: "52USA Sichuan Peppercorns, 4OZ Authentic Szechuan Red Peppercorn"
+    asin: "B0FQF5ZZCL"
+    url: "https://www.amazon.com/dp/B0FQF5ZZCL?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71pIlCSAe3L._AC_UL640_.jpg"
+    price: "$10.99"
+  - title: "14 Inch Cast Iron Wok with Flat Base and Handles - Pre-Seasoned"
+    asin: "B07H7XNFP8"
+    url: "https://www.amazon.com/dp/B07H7XNFP8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/710TLXFAf7L._AC_UL640_.jpg"
+    price: "$49.99"
+  - title: "Chinese Food At Home: Simple and Authentic Sichuan Family Cookbook"
+    asin: "B07DFLNTT8"
+    url: "https://www.amazon.com/dp/B07DFLNTT8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91H9OOvvTTL._AC_UL640_.jpg"
+    price: "$9.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'fefe7195-cc99-4cda-9f45-4b80abdbfd74'
-  PropagateID: 'fefe7195-cc99-4cda-9f45-4b80abdbfd74'
-  ReservedCode1: 'bb54d748-7d3d-4ada-8bd3-8e2bfeea3d64'
-  ReservedCode2: 'bb54d748-7d3d-4ada-8bd3-8e2bfeea3d64'
+  ProduceID: '8ac9f714-517d-47b5-99ed-494e01d60dbd'
+  PropagateID: '8ac9f714-517d-47b5-99ed-494e01d60dbd'
+  ReservedCode1: '8d1e9451-610f-4d16-a664-4b4e51c2baa4'
+  ReservedCode2: '8d1e9451-610f-4d16-a664-4b4e51c2baa4'
 ---
 
 ## The Pockmarked Woman and Her Legend

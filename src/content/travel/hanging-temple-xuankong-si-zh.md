@@ -8,29 +8,29 @@ lang: zh
 tags: ["悬空寺", "恒山", "山西", "古建筑", "佛教", "道教", "悬崖建筑"]
 featured: false
 affiliate:
-  - title: "山西旅行指南"
-    asin: "B08LPM9Q3T"
-    url: "https://www.amazon.com/dp/B08LPM9Q3T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71R5KN9PVXL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "中国古代建筑解析"
-    asin: "0262561646"
-    url: "https://www.amazon.com/dp/0262561646?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61W8D3NQ7YL._AC_UL640_.jpg"
-    price: "$25.50"
-  - title: "轻量登山杖套装"
-    asin: "B07F3K5R2W"
-    url: "https://www.amazon.com/dp/B07F3K5R2W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81C5HTKVQSL._AC_UL640_.jpg"
-    price: "$32.99"
+  - title: "China Travel Guide: Everything You Need to Know about Culture, Lifestyle and Cities"
+    asin: "B073VYKZ69"
+    url: "https://www.amazon.com/dp/B073VYKZ69?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81HvuV79LCL._AC_UL640_.jpg"
+    price: "$13.99"
+  - title: "Imperial Interiors of Ancient China: A Coffee Table Book of Chinese Palace"
+    asin: "B0FS81LL71"
+    url: "https://www.amazon.com/dp/B0FS81LL71?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71rtqYiPBQL._AC_UL640_.jpg"
+    price: "$29.99"
+  - title: "TrailBuddy Trekking Poles - Lightweight 7075 Aluminum Hiking Poles"
+    asin: "B01MRQCENJ"
+    url: "https://www.amazon.com/dp/B01MRQCENJ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71X1VxL5NZL._AC_UL640_.jpg"
+    price: "$24.97"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'c4da0a33-6181-45ca-9b08-63cd742de578'
-  PropagateID: 'c4da0a33-6181-45ca-9b08-63cd742de578'
-  ReservedCode1: 'bac3871d-7a76-44ba-8025-5d56cd344dfa'
-  ReservedCode2: 'bac3871d-7a76-44ba-8025-5d56cd344dfa'
+  ProduceID: '206a5eb5-389c-469b-a625-42e8c6f050cc'
+  PropagateID: '206a5eb5-389c-469b-a625-42e8c6f050cc'
+  ReservedCode1: 'a3902c66-b66f-45ae-a29f-e871271dcd69'
+  ReservedCode2: 'a3902c66-b66f-45ae-a29f-e871271dcd69'
 ---
 
 ## 凌空而立的建筑奇观

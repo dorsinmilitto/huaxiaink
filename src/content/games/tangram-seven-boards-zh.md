@@ -8,29 +8,29 @@ lang: zh
 tags: ["七巧板", "智力游戏", "中国传统", "拼图", "益智", "古代游戏"]
 featured: false
 affiliate:
-  - title: "Wooden Tangram Puzzle Set"
-    asin: "B00SDLNKTO"
-    url: "https://www.amazon.com/dp/B00SDLNKTO?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61wC5R3VJSL._AC_UL640_.jpg"
+  - title: "Wooden Pentominoes Puzzle Games - Tangram Geometry Math Pattern Blocks"
+    asin: "B082MQ67ZP"
+    url: "https://www.amazon.com/dp/B082MQ67ZP?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81+Kk2rQVrL._AC_UL640_.jpg"
     price: "$12.99"
-  - title: "The Tangram Book: The Story of the Chinese Puzzle"
-    asin: "1402719981"
-    url: "https://www.amazon.com/dp/1402719981?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51NKYZFG5RL._AC_UL640_.jpg"
-    price: "$16.95"
-  - title: "Magnetic Tangram Travel Set"
-    asin: "B07QF5TL8W"
-    url: "https://www.amazon.com/dp/B07QF5TL8W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61mxZ5RKXYL._AC_UL640_.jpg"
-    price: "$9.99"
+  - title: "Yunsailing 3 Pack Large Wooden Hexagon Tangram Puzzle for Adult Challenge"
+    asin: "B0B519MHNP"
+    url: "https://www.amazon.com/dp/B0B519MHNP?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ks3txxq4L._AC_UL640_.jpg"
+    price: "$13.99"
+  - title: "AIUAZA Wooden Number Sliding Puzzle, Brain Teasers Tangram Slide Game"
+    asin: "B0F287CHWS"
+    url: "https://www.amazon.com/dp/B0F287CHWS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81qJJt9YsBL._AC_UL640_.jpg"
+    price: "$8.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5faa0b98-3b87-43b5-a29b-52868efc758c'
-  PropagateID: '5faa0b98-3b87-43b5-a29b-52868efc758c'
-  ReservedCode1: '520ae4ff-0375-49fd-ba1c-c0b5df0596e2'
-  ReservedCode2: '520ae4ff-0375-49fd-ba1c-c0b5df0596e2'
+  ProduceID: '3c5a60d9-3ed8-40a5-84fb-24a985a6341d'
+  PropagateID: '3c5a60d9-3ed8-40a5-84fb-24a985a6341d'
+  ReservedCode1: '965bb63d-9327-457f-b06b-0652df634d29'
+  ReservedCode2: '965bb63d-9327-457f-b06b-0652df634d29'
 ---
 
 ## 从宋代的宴席到世界的书桌

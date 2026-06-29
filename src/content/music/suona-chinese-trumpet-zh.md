@@ -8,29 +8,29 @@ lang: zh
 tags: ["唢呐", "中国乐器", "传统音乐", "婚丧嫁娶", "民间音乐", "百乐之王"]
 featured: false
 affiliate:
-  - title: "初学者唢呐 入门练习款"
-    asin: "B08TVR5LM2"
-    url: "https://www.amazon.com/dp/B08TVR5LM2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51p2HqnR8WL._AC_UL640_.jpg"
-    price: "$68.00"
-  - title: "唢呐哨片套装 优质芦苇哨"
-    asin: "B07PNK9R4Q"
-    url: "https://www.amazon.com/dp/B07PNK9R4Q?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/31tWkM5nPsL._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "Chinese Folk Music: Traditions and Sounds"
-    asin: "B09WXL8R3J"
-    url: "https://www.amazon.com/dp/B09WXL8R3J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41JmHpNqKWL._AC_UL640_.jpg"
-    price: "$29.95"
+  - title: "D Key Suona Chinese Traditional Musical Instrument for Beginners and Professionals"
+    asin: "B0CXDWYWC2"
+    url: "https://www.amazon.com/dp/B0CXDWYWC2?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61sfvj6mEOL._AC_UL640_.jpg"
+    price: "$35.99"
+  - title: "angwang Suona Reed Mouth, 4 Pcs Chinese National Musical Instrument Suona Reed"
+    asin: "B08JCBY597"
+    url: "https://www.amazon.com/dp/B08JCBY597?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/619q4OeN7lL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Chinese Musical Instruments (Traditional Chinese Edition)"
+    asin: "B00HIDG6AA"
+    url: "https://www.amazon.com/dp/B00HIDG6AA?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61kLx0dZgIL._AC_UL640_.jpg"
+    price: "$19.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'f01ad9c8-0ed1-4b9c-917a-e2678faeca4c'
-  PropagateID: 'f01ad9c8-0ed1-4b9c-917a-e2678faeca4c'
-  ReservedCode1: '7a6a4bff-2165-4167-9f4c-9a055b2689cf'
-  ReservedCode2: '7a6a4bff-2165-4167-9f4c-9a055b2689cf'
+  ProduceID: '8426604c-3d90-4cdc-8991-8da879706199'
+  PropagateID: '8426604c-3d90-4cdc-8991-8da879706199'
+  ReservedCode1: 'b5d1a8c7-a936-4ff1-9398-9218257ba991'
+  ReservedCode2: 'b5d1a8c7-a936-4ff1-9398-9218257ba991'
 ---
 
 ## 西来东渐：唢呐的丝路旅程

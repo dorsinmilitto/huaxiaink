@@ -8,29 +8,29 @@ lang: zh
 tags: ["冬至", "传统节日", "二十四节气", "饺子", "汤圆", "数九", "民俗"]
 featured: false
 affiliate:
-  - title: "Dumpling Maker Press Set - Stainless Steel Mold Tool"
-    asin: "B08RN6P3K5"
-    url: "https://www.amazon.com/dp/B08RN6P3K5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61RN6P3K5L._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "Chinese Festival Foods - Recipes and Cultural Stories"
-    asin: "B09WXL8T7N"
-    url: "https://www.amazon.com/dp/B09WXL8T7N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81WXL8T7NL._AC_UL640_.jpg"
-    price: "$22.95"
-  - title: "Electric Food Steamer - 3-Tier BPA-Free Veggie Dumpling Steamer"
-    asin: "B07QKV8R3J"
-    url: "https://www.amazon.com/dp/B07QKV8R3J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QKV8R3JL._AC_UL640_.jpg"
-    price: "$39.99"
+  - title: "Stainless Steel Dumpling Ravioli Maker Press, 2 Pack Pierogi Mold"
+    asin: "B07W6FC48X"
+    url: "https://www.amazon.com/dp/B07W6FC48X?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61HCMKj7pGL._AC_UL640_.jpg"
+    price: "$7.99"
+  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
+    asin: "B0049B1VRW"
+    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
+    price: "$16.99"
+  - title: "Hamilton Beach Digital Electric Food Steamer and Rice Cooker, 8.25 Quart"
+    asin: "B0BLT2ST9B"
+    url: "https://www.amazon.com/dp/B0BLT2ST9B?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81Sg2C-iHZL._AC_UL640_.jpg"
+    price: "$44.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'e6b105c8-4996-465d-830e-c7be46fc7b0f'
-  PropagateID: 'e6b105c8-4996-465d-830e-c7be46fc7b0f'
-  ReservedCode1: '72e5f315-dc90-4beb-833b-23c0272c9888'
-  ReservedCode2: '72e5f315-dc90-4beb-833b-23c0272c9888'
+  ProduceID: '98613979-9a41-4906-b284-75d19f19a605'
+  PropagateID: '98613979-9a41-4906-b284-75d19f19a605'
+  ReservedCode1: '6aa60c3a-39a6-4901-b24e-dedaff78189d'
+  ReservedCode2: '6aa60c3a-39a6-4901-b24e-dedaff78189d'
 ---
 
 ## 最长的夜，最早的春

@@ -8,29 +8,29 @@ lang: en
 tags: ["dizi", "bamboo-flute", "chinese-flute", "traditional-music", "wind-instrument", "nature-sound", "folk-music"]
 featured: false
 affiliate:
-  - title: "Professional Dizi Bamboo Flute - Key of G with Membrane"
-    asin: B07PQZ8L3S
-    url: "https://www.amazon.com/dp/B07PQZ8L3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61K8mQz3JTL._AC_UL640_.jpg"
-    price: "$34.99"
-  - title: "Traditional Chinese Bamboo Flute Set - Dizi + Xiao Combo Pack"
-    asin: B0CJY9LHK4
-    url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg"
-    price: "$42.90"
-  - title: "Learn Chinese Flute Dizi Method Book with Online Audio"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$19.95"
+  - title: "C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue Set"
+    asin: "B07KXBJHWF"
+    url: "https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg"
+    price: "$25.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key D"
+    asin: "B08HQ9ML9R"
+    url: "https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg"
+    price: "$19.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '40aab843-a56e-4fd1-a20e-d0329694a5e0'
-  PropagateID: '40aab843-a56e-4fd1-a20e-d0329694a5e0'
-  ReservedCode1: 'ab9bc2c4-330e-4113-80e0-dc39b97c3b05'
-  ReservedCode2: 'ab9bc2c4-330e-4113-80e0-dc39b97c3b05'
+  ProduceID: '2eb82f24-c85c-4f7b-8b38-28ce1fc74fb6'
+  PropagateID: '2eb82f24-c85c-4f7b-8b38-28ce1fc74fb6'
+  ReservedCode1: '8b6a9071-347c-4d7d-98b5-ae1bfc319274'
+  ReservedCode2: '8b6a9071-347c-4d7d-98b5-ae1bfc319274'
 ---
 
 ## An Instrument Carved from Wind

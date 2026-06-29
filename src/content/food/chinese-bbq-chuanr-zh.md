@@ -8,29 +8,29 @@ lang: zh
 tags: ["烤串", "烧烤", "街头小吃", "新疆", "夜市", "孜然羊肉", "串儿"]
 featured: false
 affiliate:
-  - title: "Bamboo Skewers Set 200 Pack"
-    asin: "B08TV5RM7P"
-    url: "https://www.amazon.com/dp/B08TV5RM7P?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61S6Z5pRqPL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Cumin Spice Blend"
-    asin: "B07F3K7N2W"
-    url: "https://www.amazon.com/dp/B07F3K7N2W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "Portable Charcoal Grill"
-    asin: "B09XK4TW9J"
-    url: "https://www.amazon.com/dp/B09XK4TW9J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71W3M5R8QNL._AC_UL640_.jpg"
-    price: "$39.99"
+  - title: "GoodCook Everyday 12-Inch Bamboo Skewers, 100-Count"
+    asin: "B0028LRKJI"
+    url: "https://www.amazon.com/dp/B0028LRKJI?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71KyzZ+rL+L._AC_UL640_.jpg"
+    price: "$3.49"
+  - title: "Rani Cumin (Jeera) Powder Spice 16oz PET Jar"
+    asin: "B00307JW2W"
+    url: "https://www.amazon.com/dp/B00307JW2W?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91Uk+SDj4SL._AC_UL640_.jpg"
+    price: "$7.99"
+  - title: "Gas One 14-inch Portable Barbecue Grill with 3-Point Locking Lid"
+    asin: "B0B4PY2MDQ"
+    url: "https://www.amazon.com/dp/B0B4PY2MDQ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61Gw04Nb-QL._AC_UL640_.jpg"
+    price: "$29.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '0d3e93d8-b7b8-48c6-b83d-6ccd6ee25b6b'
-  PropagateID: '0d3e93d8-b7b8-48c6-b83d-6ccd6ee25b6b'
-  ReservedCode1: 'e828fd27-7fb6-4772-b336-4d570559c122'
-  ReservedCode2: 'e828fd27-7fb6-4772-b336-4d570559c122'
+  ProduceID: '7188d005-dda7-437f-87e1-9bc1c275539a'
+  PropagateID: '7188d005-dda7-437f-87e1-9bc1c275539a'
+  ReservedCode1: '537a6076-c543-4386-9af0-ef686bc7e8d1'
+  ReservedCode2: '537a6076-c543-4386-9af0-ef686bc7e8d1'
 ---
 
 ## 火与签的古老对话

@@ -8,29 +8,29 @@ lang: zh
 tags: ["二十四节气", "节气", "传统历法", "非遗", "农历", "农耕文化", "天人合一"]
 featured: false
 affiliate:
-  - title: "The Twenty-Four Solar Terms - Art and Culture of Chinese Calendar"
-    asin: "B08M4SY8K5"
-    url: "https://www.amazon.com/dp/B08M4SY8K5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81M4SY8K5L._AC_UL640_.jpg"
-    price: "$32.00"
-  - title: "Traditional Chinese Calendar - Solar Terms and Almanac"
-    asin: "B07F3K9R2W"
-    url: "https://www.amazon.com/dp/B07F3K9R2W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71F3K9R2WL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Chinese Tea Sampler Gift Set - Seasonal Selection"
-    asin: "B09XK7TWLC"
-    url: "https://www.amazon.com/dp/B09XK7TWLC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61XK7TWLCL._AC_UL640_.jpg"
-    price: "$28.50"
+  - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
+    asin: "B0FHLTCL98"
+    url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "The Magic of China's 24 Solar Terms: A Journey Through the Seasons"
+    asin: "B0BZZXKPDT"
+    url: "https://www.amazon.com/dp/B0BZZXKPDT?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81bejhKNwIL._AC_UL640_.jpg"
+    price: "$11.99"
+  - title: "Tea Forte Premium Presentation Box Gift Set Sampler, 20 Count Assorted Blends"
+    asin: "B0GM1MN2LZ"
+    url: "https://www.amazon.com/dp/B0GM1MN2LZ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/714K8WVLY7L._AC_UL640_.jpg"
+    price: "$29.95"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '77b05004-d1a0-4bbf-9885-a01b842adb5b'
-  PropagateID: '77b05004-d1a0-4bbf-9885-a01b842adb5b'
-  ReservedCode1: 'dfb96488-890c-4d2e-8ad0-ebb63ba34694'
-  ReservedCode2: 'dfb96488-890c-4d2e-8ad0-ebb63ba34694'
+  ProduceID: 'cb79a536-a834-4ef8-8423-5dae41405c83'
+  PropagateID: 'cb79a536-a834-4ef8-8423-5dae41405c83'
+  ReservedCode1: '4ce46e80-ce41-4d28-9d0a-debaa0f52d56'
+  ReservedCode2: '4ce46e80-ce41-4d28-9d0a-debaa0f52d56'
 ---
 
 ## 用太阳写诗的人

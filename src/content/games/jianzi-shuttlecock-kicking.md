@@ -8,29 +8,29 @@ lang: en
 tags: ["jianzi", "shuttlecock", "chinese-sport", "traditional-game", "featherball", "folk-sport", "street-game"]
 featured: false
 affiliate:
-  - title: "Chinese Jianzi Shuttlecock - Professional Feather Ball with Weighted Base"
-    asin: B07PQZ8L3S
-    url: "https://www.amazon.com/dp/B07PQZ8L3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61K8mQz3JTL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Hacky Sack Footbag - Pro Sand Filled Juggling Ball"
-    asin: B001VE7E3O
-    url: "https://www.amazon.com/dp/B001VE7E3O?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg"
-    price: "$18.95"
-  - title: "Featherball Jianzi Set - 3 Pack Colorful Chinese Shuttlecock Kicking Game"
-    asin: B0CJY9LHK4
-    url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg"
-    price: "$22.90"
+  - title: "5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch"
+    asin: "B0DBFZDRGC"
+    url: "https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport"
+    asin: "B0D13S11BZ"
+    url: "https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi"
+    asin: "B0CXDHQWXC"
+    url: "https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg"
+    price: "$10.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '695a48f9-dfcf-40fd-aec7-191192f0a157'
-  PropagateID: '695a48f9-dfcf-40fd-aec7-191192f0a157'
-  ReservedCode1: '3740f7fb-e696-4fa4-9fb4-fa305ff78af0'
-  ReservedCode2: '3740f7fb-e696-4fa4-9fb4-fa305ff78af0'
+  ProduceID: '9591ca63-01cf-4224-96b9-a720574f9284'
+  PropagateID: '9591ca63-01cf-4224-96b9-a720574f9284'
+  ReservedCode1: '6161f247-8d73-4e9a-a066-f7b93e65def1'
+  ReservedCode2: '6161f247-8d73-4e9a-a066-f7b93e65def1'
 ---
 
 ## Four Feathers, One Rule: Don't Let It Touch the Ground

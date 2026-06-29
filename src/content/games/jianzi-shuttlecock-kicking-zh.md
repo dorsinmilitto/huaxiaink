@@ -8,29 +8,29 @@ lang: zh
 tags: ["踢毽子", "传统体育", "民间游戏", "毽子", "中国运动", "花毽"]
 featured: false
 affiliate:
-  - title: "Professional Jianzi Shuttlecocks (6-Pack)"
-    asin: "B08LYGQ5J7"
-    url: "https://www.amazon.com/dp/B08LYGQ5J7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QH5TFKN8L._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Traditional Chinese Sports and Games"
-    asin: "1138587909"
-    url: "https://www.amazon.com/dp/1138587909?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51sxJNqpKRL._AC_UL640_.jpg"
-    price: "$48.95"
-  - title: "Ankle Training Resistance Bands"
-    asin: "B07T3FL7PW"
-    url: "https://www.amazon.com/dp/B07T3FL7PW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61nRJhFJ5XL._AC_UL640_.jpg"
-    price: "$11.99"
+  - title: "5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch"
+    asin: "B0DBFZDRGC"
+    url: "https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport"
+    asin: "B0D13S11BZ"
+    url: "https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi"
+    asin: "B0CXDHQWXC"
+    url: "https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg"
+    price: "$10.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '306cf78c-ab7a-480d-9407-92fea4eaf046'
-  PropagateID: '306cf78c-ab7a-480d-9407-92fea4eaf046'
-  ReservedCode1: '5ff33056-2335-4a4f-9ea4-1ad4644a4b30'
-  ReservedCode2: '5ff33056-2335-4a4f-9ea4-1ad4644a4b30'
+  ProduceID: 'a47cb0e9-e35e-43bf-902c-a74bb61ae56d'
+  PropagateID: 'a47cb0e9-e35e-43bf-902c-a74bb61ae56d'
+  ReservedCode1: '269d709b-7dbc-4e5a-9d00-69278f5faeb9'
+  ReservedCode2: '269d709b-7dbc-4e5a-9d00-69278f5faeb9'
 ---
 
 ## 汉宫中的蹴羽之戏

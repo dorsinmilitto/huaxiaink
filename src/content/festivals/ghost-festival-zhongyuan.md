@@ -8,29 +8,29 @@ lang: en
 tags: ["Ghost-Festival", "Zhongyuan", "Hungry-Ghosts", "Chinese-festival", "ancestors", "Buddhism-Taoism", "afterlife"]
 featured: false
 affiliate:
-  - title: "Chinese Ghost Stories Collection - Classic Tales of the Supernatural"
-    asin: B0D9QZ5K7X
-    url: "https://www.amazon.com/dp/B0D9QZ5K7X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qJvK3p0sL._AC_UL640_.jpg"
-    price: "$16.95"
-  - title: "The Chinese Religion Reader - Ancestral Worship and Afterlife Beliefs"
-    asin: B09N6YH2R1
-    url: "https://www.amazon.com/dp/B09N6YH2R1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81xM4VdWzSL._AC_UL640_.jpg"
-    price: "$38.00"
-  - title: "World Religions Encyclopedia - Eastern Traditions and Folk Beliefs"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$45.00"
+  - title: "Chinese Ghost Stories for Language Learners: New Adaptations of Folklore Tales"
+    asin: "B0CW1CYLFS"
+    url: "https://www.amazon.com/dp/B0CW1CYLFS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/8156buvdKHL._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "Strange Tales from a Chinese Studio - Classic Ghost Stories"
+    asin: "B00FVE9WL8"
+    url: "https://www.amazon.com/dp/B00FVE9WL8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91kxRUVG4KL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Some Chinese Ghosts: A Library of America eBook Classic"
+    asin: "B07C6T996J"
+    url: "https://www.amazon.com/dp/B07C6T996J?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71GGC-aEQNL._AC_UL640_.jpg"
+    price: "$2.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '0f49ade1-65ad-42fa-a152-147df4dd2f39'
-  PropagateID: '0f49ade1-65ad-42fa-a152-147df4dd2f39'
-  ReservedCode1: '5e242c9e-ac0f-40a1-85a2-440664868825'
-  ReservedCode2: '5e242c9e-ac0f-40a1-85a2-440664868825'
+  ProduceID: 'dae4dcf6-a352-477a-989b-25e377b2be09'
+  PropagateID: 'dae4dcf6-a352-477a-989b-25e377b2be09'
+  ReservedCode1: '10988050-038b-4e15-96d4-ded750402045'
+  ReservedCode2: '10988050-038b-4e15-96d4-ded750402045'
 ---
 
 ## One Night a Year, the Dead Come Home

@@ -8,29 +8,29 @@ lang: zh
 tags: ["琵琶", "中国乐器", "古典音乐", "民乐", "白居易", "传统音乐"]
 featured: false
 affiliate:
-  - title: "初学者琵琶 入门练习琴"
-    asin: "B09XK5TWLC"
-    url: "https://www.amazon.com/dp/B09XK5TWLC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51pzVKVxnLL._AC_UL640_.jpg"
-    price: "$129.99"
-  - title: "Chinese Music Theory: An Introduction"
-    asin: "B08M4SYW3F"
-    url: "https://www.amazon.com/dp/B08M4SYW3F?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41mTrN6qYWL._AC_UL640_.jpg"
-    price: "$24.95"
-  - title: "琵琶弦套装 专业演奏弦"
-    asin: "B07QKV2J3S"
-    url: "https://www.amazon.com/dp/B07QKV2J3S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/31nR7FdB8EL._AC_UL640_.jpg"
-    price: "$18.50"
+  - title: "LANDTOM Professional Chinese Lute Traditional National Stringed Instrument PiPa"
+    asin: "B085MFNYMN"
+    url: "https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg"
+    price: "$159.99"
+  - title: "Chinese Musical Instruments (Traditional Chinese Edition)"
+    asin: "B00HIDG6AA"
+    url: "https://www.amazon.com/dp/B00HIDG6AA?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61kLx0dZgIL._AC_UL640_.jpg"
+    price: "$19.99"
+  - title: "Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model"
+    asin: "B09835Z8DS"
+    url: "https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51nOP9rUqUL._AC_UL640_.jpg"
+    price: "$15.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '14d228be-3765-4766-9e72-2cc0d26727c2'
-  PropagateID: '14d228be-3765-4766-9e72-2cc0d26727c2'
-  ReservedCode1: '18f91701-bd45-44eb-8e02-92d086757d5c'
-  ReservedCode2: '18f91701-bd45-44eb-8e02-92d086757d5c'
+  ProduceID: 'd2f0ab13-69b3-4103-a978-6e4431d37c3e'
+  PropagateID: 'd2f0ab13-69b3-4103-a978-6e4431d37c3e'
+  ReservedCode1: 'dfaa6256-bb3b-4f01-9cdf-3af94558cabf'
+  ReservedCode2: 'dfaa6256-bb3b-4f01-9cdf-3af94558cabf'
 ---
 
 ## 弦起千年：琵琶的前世今生

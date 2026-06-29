@@ -8,29 +8,29 @@ lang: zh
 tags: ["皮影戏", "民间艺术", "非遗", "中国传统", "光影", "皮影", "陕西"]
 featured: false
 affiliate:
-  - title: "Chinese Shadow Puppet Craft Kit"
-    asin: "B08T7YQZ3K"
-    url: "https://www.amazon.com/dp/B08T7YQZ3K?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71KxLmQR3WL._AC_UL640_.jpg"
-    price: "$24.99"
-  - title: "Chinese Folk Art: A Living Tradition"
-    asin: "0295985169"
-    url: "https://www.amazon.com/dp/0295985169?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51XvJ9FpZQL._AC_UL640_.jpg"
-    price: "$35.00"
-  - title: "LED Shadow Projector Lamp"
-    asin: "B09CGKL2MN"
-    url: "https://www.amazon.com/dp/B09CGKL2MN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61PLnHv3SYL._AC_UL640_.jpg"
-    price: "$19.99"
+  - title: "Kisangel 1 Set DIY Chinese Shadow Puppets Kit, Interactive Puppet Theater"
+    asin: "B0F89LLX71"
+    url: "https://www.amazon.com/dp/B0F89LLX71?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61yDHDKBsxL._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
+    asin: "B0BWRYFVFC"
+    url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg"
+    price: "$14.99"
+  - title: "Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater"
+    asin: "B0H1N15CLD"
+    url: "https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg"
+    price: "$29.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a9b05e71-b088-473d-b519-a10b053ccb6b'
-  PropagateID: 'a9b05e71-b088-473d-b519-a10b053ccb6b'
-  ReservedCode1: '66524062-c071-4966-b084-3ea0449be0b6'
-  ReservedCode2: '66524062-c071-4966-b084-3ea0449be0b6'
+  ProduceID: '402b8388-79aa-48f6-9eaa-d246f2224fa8'
+  PropagateID: '402b8388-79aa-48f6-9eaa-d246f2224fa8'
+  ReservedCode1: '00e7ce4c-5f19-4732-ac20-1b69e29e49c3'
+  ReservedCode2: '00e7ce4c-5f19-4732-ac20-1b69e29e49c3'
 ---
 
 ## 光与影的诞生

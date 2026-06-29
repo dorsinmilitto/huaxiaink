@@ -8,29 +8,29 @@ lang: en
 tags: ["pipa", "chinese-lute", "ambush-on-ten-sides", "traditional-music", "plucked-instrument", "chinese-classical", "string-instrument"]
 featured: false
 affiliate:
-  - title: "Professional Pipa Chinese Lute Instrument with Accessories"
-    asin: B0D9QZ5K7X
-    url: "https://www.amazon.com/dp/B0D9QZ5K7X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qJvK3p0sL._AC_UL640_.jpg"
-    price: "$189.00"
-  - title: "Chinese Traditional Music CD Collection - Pipa Masterpieces"
-    asin: B001VE7E3O
-    url: "https://www.amazon.com/dp/B001VE7E3O?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81xM4VdWzSL._AC_UL640_.jpg"
-    price: "$14.99"
-  - title: "World Music Instrument Guide Book - Strings of the World"
-    asin: "1602200093"
-    url: "https://www.amazon.com/dp/1602200093?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51G8wK3FjPL._AC_UL640_.jpg"
-    price: "$22.95"
+  - title: "LANDTOM Professional Chinese Lute Traditional National Stringed Instrument PiPa"
+    asin: "B085MFNYMN"
+    url: "https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg"
+    price: "$159.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model"
+    asin: "B09835Z8DS"
+    url: "https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51nOP9rUqUL._AC_UL640_.jpg"
+    price: "$15.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '8a002418-893a-4e36-bc05-7bbe0f35055c'
-  PropagateID: '8a002418-893a-4e36-bc05-7bbe0f35055c'
-  ReservedCode1: '5b89a2f7-6504-44c1-8b29-7c17f1107310'
-  ReservedCode2: '5b89a2f7-6504-44c1-8b29-7c17f1107310'
+  ProduceID: '3988525e-caf8-49a7-9231-99e985e9572d'
+  PropagateID: '3988525e-caf8-49a7-9231-99e985e9572d'
+  ReservedCode1: 'ee3b0cd7-8ee6-45cd-9408-61b883e2592c'
+  ReservedCode2: 'ee3b0cd7-8ee6-45cd-9408-61b883e2592c'
 ---
 
 ## The Instrument That Sounds Like a Battle
