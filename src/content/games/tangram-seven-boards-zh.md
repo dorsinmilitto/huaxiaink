@@ -1,8 +1,8 @@
 ---
 title: "七巧板：七块木板拼出的千年智慧"
-youtubeId: "G5qOjC5XL2g"
-channel: "Asian Art Museum"
-duration: "8:42"
+youtubeId: "tUC7_JuMlic"
+channel: "Puzzle History"
+duration: "6:25"
 publishedAt: 2010-03-08
 lang: zh
 tags: ["七巧板", "智力游戏", "中国传统", "拼图", "益智", "古代游戏"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '3c5a60d9-3ed8-40a5-84fb-24a985a6341d'
-  PropagateID: '3c5a60d9-3ed8-40a5-84fb-24a985a6341d'
-  ReservedCode1: '965bb63d-9327-457f-b06b-0652df634d29'
-  ReservedCode2: '965bb63d-9327-457f-b06b-0652df634d29'
+  ProduceID: '2570c162-4e86-4d51-816e-611f1191e2af'
+  PropagateID: '2570c162-4e86-4d51-816e-611f1191e2af'
+  ReservedCode1: '02207811-40db-46fa-972e-e42b90fa73a7'
+  ReservedCode2: '02207811-40db-46fa-972e-e42b90fa73a7'
 ---
 
 ## 从宋代的宴席到世界的书桌

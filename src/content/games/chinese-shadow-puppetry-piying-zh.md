@@ -1,8 +1,8 @@
 ---
 title: "皮影戏：光影之间流传千年的民间艺术"
-youtubeId: "z2-f8O6hOHY"
-channel: "CCTV Documentary"
-duration: "25:16"
+youtubeId: "RUZwNRNbW3E"
+channel: "Chinese Culture"
+duration: "5:16"
 publishedAt: 2011-11-22
 lang: zh
 tags: ["皮影戏", "民间艺术", "非遗", "中国传统", "光影", "皮影", "陕西"]
@@ -27,10 +27,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '402b8388-79aa-48f6-9eaa-d246f2224fa8'
-  PropagateID: '402b8388-79aa-48f6-9eaa-d246f2224fa8'
-  ReservedCode1: '00e7ce4c-5f19-4732-ac20-1b69e29e49c3'
-  ReservedCode2: '00e7ce4c-5f19-4732-ac20-1b69e29e49c3'
+  ProduceID: 'c5a1f078-82a0-4b46-a82d-807f0ace236e'
+  PropagateID: 'c5a1f078-82a0-4b46-a82d-807f0ace236e'
+  ReservedCode1: '87ad3c51-be01-4062-8e0b-99187afad958'
+  ReservedCode2: '87ad3c51-be01-4062-8e0b-99187afad958'
 ---
 
 ## 光与影的诞生
