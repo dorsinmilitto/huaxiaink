@@ -8,11 +8,11 @@ lang: zh
 tags: ["皮影戏", "民间艺术", "非遗", "中国传统", "光影", "皮影", "陕西"]
 featured: false
 affiliate:
-  - title: "Kisangel 1 Set DIY Chinese Shadow Puppets Kit, Interactive Puppet Theater"
-    asin: "B0F89LLX71"
-    url: "https://www.amazon.com/dp/B0F89LLX71?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61yDHDKBsxL._AC_UL640_.jpg"
-    price: "$12.99"
+  - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
+    asin: "B0C3G6HTLR"
+    url: "https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg"
+    price: "$9.99"
   - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
     asin: "B0BWRYFVFC"
     url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: '0ad71c50-2d99-425e-8e1a-9c51e0e80135'
   ReservedCode1: 'f4c52e81-f7e4-4628-beb1-39614e23fe9c'
   ReservedCode2: 'f4c52e81-f7e4-4628-beb1-39614e23fe9c'
+  affiliate:
+  - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
+    asin: "B0C3G6HTLR"
+    url: "https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
+    asin: "B0BWRYFVFC"
+    url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg"
+    price: "$14.99"
+  - title: "Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater"
+    asin: "B0H1N15CLD"
+    url: "https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg"
+    price: "$29.99"
+
 ---
 
 ## 光与影的诞生

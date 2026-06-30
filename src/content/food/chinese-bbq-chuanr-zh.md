@@ -8,21 +8,21 @@ lang: zh
 tags: ["烤串", "烧烤", "街头小吃", "新疆", "夜市", "孜然羊肉", "串儿"]
 featured: false
 affiliate:
-  - title: "GoodCook Everyday 12-Inch Bamboo Skewers, 100-Count"
-    asin: "B0028LRKJI"
-    url: "https://www.amazon.com/dp/B0028LRKJI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71KyzZ+rL+L._AC_UL640_.jpg"
-    price: "$3.49"
-  - title: "Rani Cumin (Jeera) Powder Spice 16oz PET Jar"
-    asin: "B00307JW2W"
-    url: "https://www.amazon.com/dp/B00307JW2W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91Uk+SDj4SL._AC_UL640_.jpg"
-    price: "$7.99"
-  - title: "Gas One 14-inch Portable Barbecue Grill with 3-Point Locking Lid"
-    asin: "B0B4PY2MDQ"
-    url: "https://www.amazon.com/dp/B0B4PY2MDQ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61Gw04Nb-QL._AC_UL640_.jpg"
-    price: "$29.99"
+  - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
+    asin: "B0931JFMRC"
+    url: "https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag"
+    asin: "B001VNECGI"
+    url: "https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg"
+    price: "$10.49"
+  - title: "Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack"
+    asin: "B0BV6MPHGM"
+    url: "https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg"
+    price: "$49.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: '7188d005-dda7-437f-87e1-9bc1c275539a'
   ReservedCode1: '537a6076-c543-4386-9af0-ef686bc7e8d1'
   ReservedCode2: '537a6076-c543-4386-9af0-ef686bc7e8d1'
+  affiliate:
+  - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
+    asin: "B0931JFMRC"
+    url: "https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag"
+    asin: "B001VNECGI"
+    url: "https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg"
+    price: "$10.49"
+  - title: "Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack"
+    asin: "B0BV6MPHGM"
+    url: "https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg"
+    price: "$49.99"
+
 ---
 
 ## 火与签的古老对话

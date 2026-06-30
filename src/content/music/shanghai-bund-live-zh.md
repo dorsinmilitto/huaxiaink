@@ -8,11 +8,11 @@ lang: zh
 tags: ["二胡", "古筝", "竹笛", "国乐", "上海滩", "现场演出", "经典"]
 featured: false
 affiliate:
-  - title: "Erhu Beginner Instrument Set"
-    asin: "B0CGHX44JW"
-    url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51NgxJlxhzL._AC_UL640_.jpg"
-    price: "$75"
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
   - title: "Standards of the Guqin"
     asin: "0986622508"
     imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
@@ -29,6 +29,21 @@ AIGC:
   PropagateID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
   ReservedCode1: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
   ReservedCode2: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
+  affiliate:
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
+  - title: "Standards of the Guqin"
+    asin: "0986622508"
+    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
+    price: "$33"
+  - title: "13PCS Chinese Calligraphy Brush Set"
+    asin: "B0FMQCS389"
+    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
+    price: "$12"
+
 ---
 
 ## 1980年代的香港传奇，在2026年现场响起

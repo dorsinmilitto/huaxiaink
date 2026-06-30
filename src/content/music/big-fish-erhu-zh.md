@@ -8,11 +8,11 @@ lang: zh
 tags: ["二胡", "国乐", "大鱼海棠", "中国动画", "巴黎中国乐团", "跨界"]
 featured: true
 affiliate:
-  - title: "Erhu Beginner Instrument Set"
-    asin: "B0CGHX44JW"
-    url: "https://www.amazon.com/dp/B0CGHX44JW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51NgxJlxhzL._AC_UL640_.jpg"
-    price: "$75"
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
   - title: "Standards of the Guqin"
     asin: "0986622508"
     imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
@@ -29,6 +29,21 @@ AIGC:
   PropagateID: '83b76112-b41c-4eee-8ead-63b4744c73e4'
   ReservedCode1: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
   ReservedCode2: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
+  affiliate:
+  - title: "Playing Erhu: Bridging the Gap"
+    asin: "B0CP6V9473"
+    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
+    price: "$35"
+  - title: "Standards of the Guqin"
+    asin: "0986622508"
+    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
+    price: "$33"
+  - title: "G Key Dizi Bamboo Flute"
+    asin: "B07DC4Z7XR"
+    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
+    price: "$24"
+
 ---
 
 ## 一位法国人，一把二胡，一部中国神话

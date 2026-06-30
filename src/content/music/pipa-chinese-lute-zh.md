@@ -13,11 +13,11 @@ affiliate:
     url: "https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg"
     price: "$159.99"
-  - title: "Chinese Musical Instruments (Traditional Chinese Edition)"
-    asin: "B00HIDG6AA"
-    url: "https://www.amazon.com/dp/B00HIDG6AA?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61kLx0dZgIL._AC_UL640_.jpg"
-    price: "$19.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
+    price: "$9.99"
   - title: "Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model"
     asin: "B09835Z8DS"
     url: "https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20"
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: 'c43cced4-42a1-43bf-b6a2-2419264b17f3'
   ReservedCode1: '78f476a6-fa80-4157-83e5-f3c57de3e956'
   ReservedCode2: '78f476a6-fa80-4157-83e5-f3c57de3e956'
+  affiliate:
+  - title: "LANDTOM Professional Chinese Lute Traditional National Stringed Instrument PiPa"
+    asin: "B085MFNYMN"
+    url: "https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg"
+    price: "$159.99"
+  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
+    asin: "B0CQN9TVWD"
+    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model"
+    asin: "B09835Z8DS"
+    url: "https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51nOP9rUqUL._AC_UL640_.jpg"
+    price: "$15.99"
+
 ---
 
 ## 弦起千年：琵琶的前世今生

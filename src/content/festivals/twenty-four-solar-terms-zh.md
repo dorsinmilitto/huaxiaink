@@ -13,16 +13,16 @@ affiliate:
     url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
     price: "$9.99"
-  - title: "The Magic of China's 24 Solar Terms: A Journey Through the Seasons"
-    asin: "B0BZZXKPDT"
-    url: "https://www.amazon.com/dp/B0BZZXKPDT?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81bejhKNwIL._AC_UL640_.jpg"
-    price: "$11.99"
-  - title: "Tea Forte Premium Presentation Box Gift Set Sampler, 20 Count Assorted Blends"
-    asin: "B0GM1MN2LZ"
-    url: "https://www.amazon.com/dp/B0GM1MN2LZ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/714K8WVLY7L._AC_UL640_.jpg"
-    price: "$29.95"
+  - title: "24 Solar Terms of China (2nd Edition) (Chinese Edition)"
+    asin: "B00BP0ILA0"
+    url: "https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg"
+    price: "$15.99"
+  - title: "The Tao of Tea Oolong Tea Sampler, 3-Count Box"
+    asin: "B004NP1I40"
+    url: "https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg"
+    price: "$12.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: 'f0931f10-2083-4070-93b6-2ef82312a4b0'
   ReservedCode1: '69f9ebd7-b778-43e8-9ccd-e03f385bd906'
   ReservedCode2: '69f9ebd7-b778-43e8-9ccd-e03f385bd906'
+  affiliate:
+  - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
+    asin: "B0FHLTCL98"
+    url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "24 Solar Terms of China (2nd Edition) (Chinese Edition)"
+    asin: "B00BP0ILA0"
+    url: "https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg"
+    price: "$15.99"
+  - title: "The Tao of Tea Oolong Tea Sampler, 3-Count Box"
+    asin: "B004NP1I40"
+    url: "https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg"
+    price: "$12.99"
+
 ---
 
 ## 用太阳写诗的人

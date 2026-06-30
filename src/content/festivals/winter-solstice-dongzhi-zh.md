@@ -8,21 +8,21 @@ lang: zh
 tags: ["冬至", "传统节日", "二十四节气", "饺子", "汤圆", "数九", "民俗"]
 featured: false
 affiliate:
-  - title: "Stainless Steel Dumpling Ravioli Maker Press, 2 Pack Pierogi Mold"
-    asin: "B07W6FC48X"
-    url: "https://www.amazon.com/dp/B07W6FC48X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61HCMKj7pGL._AC_UL640_.jpg"
-    price: "$7.99"
+  - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
+    asin: "B09DYP7J76"
+    url: "https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg"
+    price: "$9.99"
   - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
     asin: "B0049B1VRW"
     url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
     price: "$16.99"
-  - title: "Hamilton Beach Digital Electric Food Steamer and Rice Cooker, 8.25 Quart"
-    asin: "B0BLT2ST9B"
-    url: "https://www.amazon.com/dp/B0BLT2ST9B?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Sg2C-iHZL._AC_UL640_.jpg"
-    price: "$44.99"
+  - title: "3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W"
+    asin: "B0BPLRK1LN"
+    url: "https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg"
+    price: "$39.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: '7fc444ae-6590-422c-886e-782d67ea6088'
   ReservedCode1: 'cdbd30b2-89d1-4510-8463-4a3f77504b38'
   ReservedCode2: 'cdbd30b2-89d1-4510-8463-4a3f77504b38'
+  affiliate:
+  - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
+    asin: "B09DYP7J76"
+    url: "https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg"
+    price: "$9.99"
+  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
+    asin: "B0049B1VRW"
+    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
+    price: "$16.99"
+  - title: "3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W"
+    asin: "B0BPLRK1LN"
+    url: "https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg"
+    price: "$39.99"
+
 ---
 
 ## 最长的夜，最早的春

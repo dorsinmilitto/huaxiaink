@@ -8,21 +8,21 @@ lang: zh
 tags: ["漓江", "桂林", "山水", "喀斯特", "中国旅游", "阳朔", "广西"]
 featured: false
 affiliate:
-  - title: "CHINA TRAVEL GUIDE 2026 - Smart Explorer Travel Guide"
-    asin: "B0H3HQ161J"
-    url: "https://www.amazon.com/dp/B0H3HQ161J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61y17FGZSML._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "China Travel Guide 2026: The Ultimate Insider Guide to Culture, Food, Hidden Gems"
-    asin: "B0H21X5CP7"
-    url: "https://www.amazon.com/dp/B0H21X5CP7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81ujWSEg2NL._AC_UL640_.jpg"
-    price: "$14.99"
-  - title: "China Travel Guide: Everything You Need to Know about the Culture, Lifestyle"
-    asin: "B073VYKZ69"
-    url: "https://www.amazon.com/dp/B073VYKZ69?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81HvuV79LCL._AC_UL640_.jpg"
-    price: "$13.99"
+  - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
+    asin: "1788687930"
+    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
+    price: "$28.99"
+  - title: "National Geographic China Adventure Map - Waterproof Tear-Resistant"
+    asin: "1566955920"
+    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
+    price: "$28.99"
+  - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
+    asin: B084WVWNK1
+    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
+    price: "$24.97"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: 'd6233ad7-c996-4105-94eb-607376301ed8'
   ReservedCode1: 'df445717-f3f5-454d-8ca3-03d136585cad'
   ReservedCode2: 'df445717-f3f5-454d-8ca3-03d136585cad'
+  affiliate:
+  - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
+    asin: "1788687930"
+    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
+    price: "$28.99"
+  - title: "National Geographic China Adventure Map - Waterproof Tear-Resistant"
+    asin: "1566955920"
+    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
+    price: "$28.99"
+  - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
+    asin: B084WVWNK1
+    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
+    price: "$24.97"
+
 ---
 
 ## 千年水墨的诞生

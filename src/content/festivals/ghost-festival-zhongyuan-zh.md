@@ -13,16 +13,16 @@ affiliate:
     url: "https://www.amazon.com/dp/B0CW1CYLFS?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/8156buvdKHL._AC_UL640_.jpg"
     price: "$12.99"
-  - title: "Agarwood Incense Sticks Approx 120 Sticks with Brass Holder, Chinese Incense"
-    asin: "B0GS53CXHR"
-    url: "https://www.amazon.com/dp/B0GS53CXHR?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/616A4d9NqrL._AC_UL640_.jpg"
-    price: "$19.99"
-  - title: "Incense Gift Set with Bamboo Incense Holder - Nha Trang Agarwood and Sandalwood"
-    asin: "B0GV4MHBB5"
-    url: "https://www.amazon.com/dp/B0GV4MHBB5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71rbtlJbOHL._AC_UL640_.jpg"
-    price: "$24.99"
+  - title: "Strange Tales from a Chinese Studio - Classic Ghost Stories"
+    asin: "B00FVE9WL8"
+    url: "https://www.amazon.com/dp/B00FVE9WL8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91kxRUVG4KL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Some Chinese Ghosts: A Library of America eBook Classic"
+    asin: "B07C6T996J"
+    url: "https://www.amazon.com/dp/B07C6T996J?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71GGC-aEQNL._AC_UL640_.jpg"
+    price: "$2.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: '879b0c8b-1da7-4232-8aa8-719109eae4f0'
   ReservedCode1: 'a983b023-351b-48d5-b466-ec4a92aeb93b'
   ReservedCode2: 'a983b023-351b-48d5-b466-ec4a92aeb93b'
+  affiliate:
+  - title: "Chinese Ghost Stories for Language Learners: New Adaptations of Folklore Tales"
+    asin: "B0CW1CYLFS"
+    url: "https://www.amazon.com/dp/B0CW1CYLFS?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/8156buvdKHL._AC_UL640_.jpg"
+    price: "$12.99"
+  - title: "Strange Tales from a Chinese Studio - Classic Ghost Stories"
+    asin: "B00FVE9WL8"
+    url: "https://www.amazon.com/dp/B00FVE9WL8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91kxRUVG4KL._AC_UL640_.jpg"
+    price: "$8.99"
+  - title: "Some Chinese Ghosts: A Library of America eBook Classic"
+    asin: "B07C6T996J"
+    url: "https://www.amazon.com/dp/B07C6T996J?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71GGC-aEQNL._AC_UL640_.jpg"
+    price: "$2.99"
+
 ---
 
 ## 七月半：一扇打开的门

@@ -8,21 +8,21 @@ lang: zh
 tags: ["七巧板", "智力游戏", "中国传统", "拼图", "益智", "古代游戏"]
 featured: false
 affiliate:
-  - title: "Wooden Pentominoes Puzzle Games - Tangram Geometry Math Pattern Blocks"
-    asin: "B082MQ67ZP"
-    url: "https://www.amazon.com/dp/B082MQ67ZP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81+Kk2rQVrL._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "Yunsailing 3 Pack Large Wooden Hexagon Tangram Puzzle for Adult Challenge"
-    asin: "B0B519MHNP"
-    url: "https://www.amazon.com/dp/B0B519MHNP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ks3txxq4L._AC_UL640_.jpg"
-    price: "$13.99"
-  - title: "AIUAZA Wooden Number Sliding Puzzle, Brain Teasers Tangram Slide Game"
-    asin: "B0F287CHWS"
-    url: "https://www.amazon.com/dp/B0F287CHWS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81qJJt9YsBL._AC_UL640_.jpg"
-    price: "$8.99"
+  - title: "Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers"
+    asin: B0CWS6XHJJ
+    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
+    price: "$27.04"
+  - title: "Melissa & Doug Classic Tangram Wooden Puzzle"
+    asin: B000GKUXX0
+    url: "https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
+    price: "$15.99"
+  - title: "Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition"
+    asin: B0B426KSXP
+    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
+    price: "$23.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
@@ -31,6 +31,23 @@ AIGC:
   PropagateID: 'a9d03b15-3574-47c4-83a9-e9e94704ba07'
   ReservedCode1: 'fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23'
   ReservedCode2: 'fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23'
+  affiliate:
+  - title: "Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers"
+    asin: B0CWS6XHJJ
+    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
+    price: "$27.04"
+  - title: "Melissa & Doug Classic Tangram Wooden Puzzle"
+    asin: B000GKUXX0
+    url: "https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
+    price: "$15.99"
+  - title: "Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition"
+    asin: B0B426KSXP
+    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
+    price: "$23.99"
+
 ---
 
 ## 从宋代的宴席到世界的书桌
