@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese New Year Lion Dance in Hong Kong — The Heartbeat of Spring Festival"
+description: "Experience Hong Kong's electrifying Chinese New Year lion dance — the tradition that kicks off Spring Festival with thundering drums and acrobatic lions."
 youtubeId: "Bs0GuU0cUtw"
 coverImage: "https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg"
 channel: "Asia HOT"
@@ -73,3 +74,5 @@ In Hong Kong's narrow streets, the sound bounces off buildings and amplifies unt
 In an era of screens and virtual entertainment, the lion dance should, by all logic, be fading. Instead, it's growing. Young people in Hong Kong and across the Chinese diaspora are joining lion dance teams at record numbers. Social media has given the art form global reach — TikTok clips of pole-jumping lions routinely go viral, introducing millions to a tradition they never knew existed.
 
 The reason is simple: the lion dance is not a museum piece. It's alive. It evolves, competes, surprises, and — most importantly — requires you to stand in a crowd and feel the drums in your bones. No algorithm can replace that.
+
+**Explore more:** [Spring Festival's 15-day ritual](/en/events/spring-festival-traditions) · [the legend of the Nien monster](/en/events/nien-legend-spring-festival)

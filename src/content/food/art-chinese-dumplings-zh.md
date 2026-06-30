@@ -1,5 +1,6 @@
 ﻿---
 title: "饺子之道：把一千八百年的故事包进面皮里"
+description: "饺子把一千八百年的故事包进面皮——从汉代战场救急到春节团圆饭的绝对主角。"
 youtubeId: "EcqqhQqemxU"
 coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
 channel: "Tasty"
@@ -65,3 +66,5 @@ AIGC:
 张仲景最初的洞见——温暖就是药——至今仍是饺子最深层的真相。每年冬天，气温一降、新闻一糟，中国厨房就开始飘面粉，手开始安静地包。灶台嘶嘶响，蒸汽糊了窗户。总有谁煮过了头，三只饺子破了——"笑了"，长辈们说，这是原谅犯错最体面的方式。
 
 一千八百年后，一个医生把耳朵形状的面食递给冻僵的陌生人，配方基本上没变。我们仍然把温暖包进面皮，仍然递给在乎的人。形状仍然代表好运，馅料仍然代表心意，一起动手仍然代表——你不是一个人。
+
+**Explore more:** [春节团圆饭](/zh/events/spring-festival-traditions) · [冬至庆祝](/zh/festivals/winter-solstice-dongzhi)

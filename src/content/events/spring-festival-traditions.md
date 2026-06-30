@@ -1,5 +1,6 @@
 ﻿---
 title: "Spring Festival Traditions: The 15-Day Ritual of Renewal"
+description: "From reunion dinner to Lantern Festival, explore the 15-day ritual of Spring Festival — the world's largest annual human migration and celebration."
 youtubeId: "r4Ql5MsSBT4"
 coverImage: "https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg"
 channel: "CGTN"
@@ -69,3 +70,5 @@ The fifteenth and final day is Yuanxiao, the Lantern Festival. Families eat tang
 It's the most visually stunning moment of the entire festival — and also the most bittersweet. The lanterns carry wishes written on their frames. As they float upward, you release the year you've just begun.
 
 Fifteen days. From cleaning house to setting wishes free. From enforced harmony to luminous hope. The Spring Festival isn't a holiday — it's a system for starting over, tested across 4,000 years and still running.
+
+**Explore more:** [the Nien monster legend](/en/events/nien-legend-spring-festival) · [the lion dance tradition](/en/events/chinese-new-year-lion-dance-hong-kong) · [Lantern Festival](/en/festivals/lantern-festival) · [dumplings at reunion dinner](/en/food/art-chinese-dumplings)

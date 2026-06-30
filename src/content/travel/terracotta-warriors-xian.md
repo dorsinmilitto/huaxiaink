@@ -1,5 +1,6 @@
 ﻿---
 title: "Terracotta Warriors — The Emperor Who Tried to Conquer Death"
+description: "Terracotta Warriors — 8,000 clay soldiers guarding China's first emperor for 2,200 years, accidentally discovered by a farmer in 1974 and still being excavated."
 youtubeId: "mP5p4QbvPtc"
 coverImage: "https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg"
 channel: "TED-Ed"
@@ -59,3 +60,5 @@ The Terracotta Army faced east — the direction from which the six conquered ki
 ## Standing Before the Silent Legion
 
 Visit in the early morning when the light slants through the hangar-like roof of Pit One, and the soldiers seem almost alive. Shadows shift across their faces. The dust of two thousand years hangs in the air. You are looking at the largest funerary art project in human history, commissioned by a man who refused to believe his story would end. In a way, he was right. He is still here, still surrounded by his army, still commanding attention.
+
+**Explore more:** [the Great Wall's Qin dynasty origins](/en/travel/secrets-great-wall) · [Chinese drum military traditions](/en/music/chinese-drum-heartbeat)

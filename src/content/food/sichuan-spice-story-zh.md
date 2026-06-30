@@ -1,5 +1,6 @@
 ﻿---
 title: "川辣传奇：一个省份如何把痛苦熬成哲学"
+description: "四川把痛苦熬成哲学——麻唇的花椒和灼舌的辣椒，塑造了数十亿人追捧的川菜之魂。"
 youtubeId: "e0mW5CJWHWk"
 coverImage: "https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg"
 channel: "Food Ranger"
@@ -67,3 +68,5 @@ AIGC:
 四川与辣的关系，说到底是与苦日子的关系。这个省扛过军阀混战、大饥荒、日军轰炸、"文革"动荡。四川人学会了一件事：把苦难变成味道——痛里找热，外来物变成骨子里的本地味。
 
 每一盘麻婆豆腐、每一锅翻滚的火锅、每一碗红油担担面，都带着这条血脉。辣不是刁难，是可以尝到的韧性。四川人问你"吃得了辣不？"——问的不是你对辣椒素的耐受度，是你愿不愿意在不适待上一阵，等到另一头的滋味露出来。
+
+**Explore more:** [麻婆豆腐的火辣历史](/zh/food/mapo-tofu-history) · [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul)

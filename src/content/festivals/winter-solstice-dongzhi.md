@@ -1,5 +1,6 @@
 ﻿---
 title: "Winter Solstice: Why Northern China Calls It 'Bigger Than New Year'"
+description: "Northern China calls Winter Solstice 'bigger than New Year' — discover the tangyuan and dumpling traditions that make the longest night the warmest reunion."
 youtubeId: "_6qel02Hw4c"
 coverImage: "https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg"
 channel: "SCCC"
@@ -81,3 +82,5 @@ The solstice timing shifts slightly each year due to the difference between the 
 In a world obsessed with new beginnings at January 1st, the Winter Solstice offers a more honest starting point: the actual astronomical turning of the year, grounded in observable reality rather than arbitrary calendar convention. It doesn't require gifts, decorations, or elaborate preparations. It requires only awareness — noticing that the light is returning, that warmth will come again, that darkness, however deep, has limits.
 
 The next time December 21 rolls around, consider making dumplings. Or tangyuan. Or simply pausing to notice that the sunset will come a few seconds earlier than yesterday, but tomorrow it will come a few seconds later. That is the promise of the Winter Solstice: the worst is over. The best is beginning.
+
+**Explore more:** [the 24 Solar Terms system](/en/festivals/twenty-four-solar-terms) · [dumplings and tangyuan traditions](/en/food/art-chinese-dumplings)

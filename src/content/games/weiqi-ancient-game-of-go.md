@@ -1,5 +1,6 @@
 ﻿---
 title: "Weiqi — The 4,000-Year Game of Black and White That Teaches You Nothing (and Everything)"
+description: "Weiqi (Go) is 4,000 years of black and white territory wars on a wooden board — the game that teaches strategy, patience, and knowing when to lose."
 youtubeId: "oZTdT8MQexk"
 coverImage: "https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg"
 channel: "Go Magic"
@@ -57,3 +58,5 @@ In China, Weiqi was one of the Four Arts of the Chinese Scholar, alongside the g
 In 2016, Google's AlphaGo defeated world champion Lee Sedol, and the world gasped. But Weiqi players did something unexpected: they studied AlphaGo's moves and discovered new strategies. A 4,000-year-old game, it turned out, still had secrets to reveal. The machine did not kill the art. It deepened it.
 
 Today, Weiqi is experiencing a quiet renaissance. Online platforms have made the game accessible to anyone with a screen. Universities run Weiqi clubs. Tech executives swear by it as mental training. The board remains the same — 361 intersections, two colors, infinite possibility.
+
+**Explore more:** [Xiangqi — Chinese Chess](/en/games/xiangqi-chinese-chess) · [the guqin's meditative art](/en/music/buran-guqin)

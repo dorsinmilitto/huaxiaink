@@ -1,5 +1,6 @@
 ﻿---
 title: "当中国古筝与西方大提琴在法国街头相遇"
+description: "中国古筝与西方大提琴在法国街头合奏《Lemon Tree》——当东西方乐器在同一条街角即兴，音乐无需翻译。"
 youtubeId: "lfZcIe4s0C4"
 coverImage: "https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg"
 channel: "碰碰彭碰彭古筝"
@@ -66,3 +67,5 @@ AIGC:
 而他们停下来了。他们总会停下来。古筝视觉上的美（修长的矩形琴身、雁柱与丝弦、演奏者专注的指法）先抓住目光；声音留住脚步；歌曲——足够熟悉而平易近人，又足够陌生而引人入胜——完成剩余一切。
 
 这是文化交流最有机的形态：不由机构策划，不由政策推动，只是一位音乐人在与恰巧路过的陌生人分享她所热爱的东西。
+
+**Explore more:** [古筝说唱节拍](/zh/music/dangchao-guzheng)

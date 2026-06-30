@@ -1,5 +1,6 @@
 ﻿---
 title: "重阳节——让你为爷爷奶奶爬山的节日"
+description: "重阳节让你为爷爷奶奶爬山——探索这个两千年传统如何将敬老与秋日登高融为一体。"
 youtubeId: "wj2hUzJmdsA"
 coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
 channel: "China Culture"
@@ -65,3 +66,5 @@ AIGC:
 重阳没让你买花、写贺卡。它让你用自己的身体往高处走，往空气更稀薄、视野更开阔的地方走，带上爸妈——如果他们还走得动。走不动了，你替他们爬。到了山顶，望着他们帮你建起的这个世界，掏出手机给他们打个电话。
 
 这不叫传统。这叫换了个更好的背景的爱。
+
+**Explore more:** [清明节扫墓传统](/zh/festivals/qingming-tomb-sweeping) · [黄山登高](/zh/travel/yellow-mountain-huangshan)

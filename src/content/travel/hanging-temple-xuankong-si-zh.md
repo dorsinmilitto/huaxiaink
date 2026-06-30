@@ -1,5 +1,6 @@
 ﻿---
 title: "悬空寺：挂在悬崖上的千年奇迹"
+description: "悬空寺挂在悬崖上一千五百年——离地50米的木构寺庙融合佛道儒三教，世界建筑史上的悬空奇迹。"
 youtubeId: "Je9Y3pRyfX8"
 coverImage: "https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg"
 channel: "Travel East"
@@ -74,3 +75,5 @@ AIGC:
 登临悬空寺，最深的触动不是恐惧，而是时间。木板上磨出的脚印、廊柱间烟熏的痕迹、崖壁上风化又重描的题刻，每一道印记都是某个朝代某个清晨或黄昏的来人留下的。一千五百年间，香火未曾断绝，修缮未曾停歇，悬空寺像一棵长在崖壁上的树，一边枯朽一边新生，始终没有凋落。
 
 下山回望，夕阳将整面翠屏峰染成金红，悬空寺的飞檐在光影中若隐若现，恍如蜃景。那一刻你会明白，古人为何将它建在这里——不是为了让它被看见，而是为了让山与天之间，有一个可供人驻足的中间之地，在绝壁与深渊的夹缝中，安放一点不坠落的人间。
+
+**Explore more:** [福建土楼的集体建筑](/zh/travel/fujian-tulou-earth-building) · [黄山](/zh/travel/yellow-mountain-huangshan)

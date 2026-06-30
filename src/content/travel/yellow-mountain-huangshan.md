@@ -1,5 +1,6 @@
 ﻿---
 title: "Yellow Mountain — The Real-Life Ink Painting You Can Walk Through"
+description: "Yellow Mountain (Huangshan) is a real-life ink painting you can walk through — sea of clouds, twisted pines, and granite peaks inspiring Chinese art for 1,200 years."
 youtubeId: "T_gAPaN6IKQ"
 coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
@@ -59,3 +60,5 @@ Huangshan's influence on Chinese art is impossible to overstate. The Anhui schoo
 ## Staying Overnight for the Dawn
 
 Most visitors stay one night on the summit to watch the sunrise. You wake at four in the morning and walk in darkness to a viewing platform. The crowd is silent, shivering in rented coats. Then the horizon turns gold, the clouds below begin to glow, and the peaks emerge one by one from the dark like a photograph developing in acid. For a few minutes, the entire mountain is a different color from anything you have ever seen. Then the sun clears the ridge, the clouds thin, and it becomes a mountain again — magnificent, but familiar. The magic was in the transition.
+
+**Explore more:** [the Li River's karst scenery](/en/travel/li-river-guilin-karst) · [Chongyang's mountain-climbing tradition](/en/festivals/chongyang-double-ninth)

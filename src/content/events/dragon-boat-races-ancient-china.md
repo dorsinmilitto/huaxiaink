@@ -1,5 +1,6 @@
 ﻿---
 title: "Dragon Boat Races: The Ancient Sport Born From Grief"
+description: "Discover how Dragon Boat racing was born from the grief of a poet's drowning 2,000 years ago — and became China's most thrilling water sport."
 youtubeId: "YlPExNPyPwQ"
 coverImage: "https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg"
 channel: "National Geographic"
@@ -73,3 +74,5 @@ Modern sports celebrate winning. Dragon boat racing celebrates showing up. In a 
 Today, dragon boat teams train year-round. Competitions draw crowds in Hong Kong, Toronto, London, and Sydney. The boats have carved dragon heads and painted scales, and the drummers sit at the bow setting a rhythm that echoes across water.
 
 Listen carefully. That beat hasn't changed in two millennia. It's the sound of people who refused to let the river have the last word.
+
+**Explore more:** [Dragon Boat Festival traditions](/en/festivals/dragon-boat-festival) · [traditional Chinese drum rhythms](/en/music/chinese-drum-heartbeat)

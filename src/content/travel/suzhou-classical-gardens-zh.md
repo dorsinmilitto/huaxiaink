@@ -1,5 +1,6 @@
 ﻿---
 title: "苏州园林——中国人如何把宇宙装进后院"
+description: "苏州园林把宇宙装进后院——列入世界遗产的古典园林，石为山、池为海，每一步都是一幅画。"
 youtubeId: "xsPOs-yCJ3g"
 coverImage: "https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg"
 channel: "UNESCO"
@@ -61,3 +62,5 @@ AIGC:
 ## 园子是一面镜子
 
 今天去逛，最强烈的感受是：这些空间什么都不要求你。没有喷泉，没有几何花坛，没有权力纪念碑。只有水、石、植物、建筑，排得恰好，像不费力似的。它让你慢下来，坐下来，看看。在一个什么都要快的时代，这大概是最激进的事。
+
+**Explore more:** [诞生于苏州的昆曲](/zh/music/kunqu-opera-peony-pavilion) · [古琴的园林冥想](/zh/music/buran-guqin)

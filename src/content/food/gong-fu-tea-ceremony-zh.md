@@ -1,5 +1,6 @@
 ﻿---
 title: "功夫茶道：一门拒绝快的慢艺术"
+description: "功夫茶道用20分钟泡三杯——潮州四百年茶道传承中一门拒绝快的慢艺术。"
 youtubeId: "yA3SQdDQp6o"
 coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
 channel: "China Tea"
@@ -65,3 +66,5 @@ AIGC:
 时间就是金钱？功夫茶是浪费。时间是唯一不可再生的资源？那二十分钟的全神贯注——看蒸汽升腾，感受杯壁温热，品一片叶子的完整自传——可能是一天中最值得做的事。
 
 潮州老师傅懂一件事：有时候，注意力最有力量的用法，就是把它全部给一个小东西。
+
+**Explore more:** [早茶点心](/zh/food/dim-sum-morning-tea) · [中秋茶道传统](/zh/festivals/mid-autumn-festival)

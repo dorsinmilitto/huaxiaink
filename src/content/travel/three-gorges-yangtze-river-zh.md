@@ -1,5 +1,6 @@
 ﻿---
 title: "三峡：大坝重塑了一条河，也重塑了一个文明"
+description: "三峡大坝重塑了长江和一个文明——世界最大水利工程让百万移民搬迁，却为一个国家提供了足够的电力。"
 youtubeId: "gBobfHlvAVc"
 coverImage: "https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg"
 channel: "Lifeder"
@@ -75,3 +76,5 @@ AIGC:
 在长江边涪陵住了两年的何伟写道："江是唯一在动的东西。其他都静止——城、人、经济。但江一直在往某个地方去。"三峡大坝试图止住那个运动。它部分地成功了。而江，部分地，仍在往某个地方去。
 
 今天坐游轮穿三峡，你就坐在两个真相之间：人可以重塑大地，而大地重塑之后，仍然像是先于我们而在、后于我们而在的东西。
+
+**Explore more:** [漓江的喀斯特山水](/zh/travel/li-river-guilin-karst) · [峡谷入口的重庆](/zh/travel/chongqing-8d-mountain-city)

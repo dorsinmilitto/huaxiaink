@@ -1,5 +1,6 @@
 ﻿---
 title: "黑神话：悟空——一款中国游戏如何让全世界开始读西游记"
+description: "黑神话：悟空让全世界开始读西游记——一款中国3A游戏如何卖出1500万份，把孙悟空推上世界舞台。"
 youtubeId: "rQW2C4iQwTQ"
 coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
 channel: "NeddyTheNoodle"
@@ -83,3 +84,5 @@ AIGC:
 几十年来，全球游戏行业有一个不成文的假设：要触达全球受众，游戏必须剥离文化特有元素，追求"普世"（实际上是西方）审美。《黑神话：悟空》粉碎了这个假设。它毫不妥协、甚至带着骄傲地中国化——在故事、美术、音乐、哲学上——世界不仅接受了它，世界在午夜排队等候。
 
 道理很简单，也远超游戏领域：当你做出真正有文化深度的东西时，你不需要把文化翻译掉。你只需要做得足够好，让世界自己把文化翻译进去。
+
+**Explore more:** [中国象棋](/zh/games/xiangqi-chinese-chess) · [皮影戏的史诗叙事](/zh/games/chinese-shadow-puppetry-piying)

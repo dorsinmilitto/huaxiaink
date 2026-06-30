@@ -1,5 +1,6 @@
 ﻿---
 title: "When a Guzheng and Drum Dismantle a Virtual Idol's Empire"
+description: "A guzheng and drum dismantle a virtual idol's empire — when traditional Chinese instruments cover virtual singer hits, the real versus digital debate ignites."
 youtubeId: "IxM1tjTvFAc"
 coverImage: "https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg"
 channel: "Saberbutterfly"
@@ -84,3 +85,5 @@ This cover represents a curious cultural loop. Chinese traditional instruments �
 Each pass through the loop adds something. The Vocaloid version gave the guzheng repertoire a new kind of song to play — one with the speed and complexity of digital music, demanding new techniques. The guzheng cover gives the Vocaloid community a reminder that the emotional core of their songs doesn't require a computer — just hands, strings, and a willingness to push beyond what's comfortable.
 
 In the end, *Quan Yu Tian Xia* — "The Emperor Rules Under Heaven" — turns out to be about more than Sun Quan. It's about the shifting balance of power between the digital and the acoustic, the programmed and the performed, the virtual and the real. And in this guzheng-and-drum cover, the real wins — not by rejecting the digital, but by absorbing it.
+
+**Explore more:** [guzheng virtuosity](/en/music/dangchao-guzheng)

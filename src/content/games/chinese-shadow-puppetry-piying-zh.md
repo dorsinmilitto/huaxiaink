@@ -1,5 +1,6 @@
 ﻿---
 title: "皮影戏：光影之间流传千年的民间艺术"
+description: "皮影戏是世界最古老的动画——在灯火背后，皮革人影讲述中国史诗，比迪士尼早了两千年。"
 youtubeId: "8-mzqxZNp2g"
 coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
 channel: "UNESCO"
@@ -66,3 +67,5 @@ AIGC:
 ## 传承中的灯火
 
 随着电影、电视的普及，皮影戏一度走向衰落，许多老艺人不得不放下操纵杆另谋生路。但近年来，皮影戏作为非物质文化遗产重新受到关注。陕西、河北等地的皮影戏班开始走进校园、走向海外舞台。一些年轻的创作者将皮影与现代动画、数字技术结合，让古老的光影艺术在当代语境中焕发新生。那一盏灯、一方幕、千军万马的影子，穿越了两千年的风尘，依然在寻找愿意驻足观看的目光。
+
+**Explore more:** [京剧的视觉叙事](/zh/music/peking-opera-face-of-china) · [中元节传统](/zh/festivals/ghost-festival-zhongyuan)

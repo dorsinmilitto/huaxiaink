@@ -1,5 +1,6 @@
 ﻿---
 title: "春节习俗：十五天的重生仪式"
+description: "从年夜饭到元宵灯会，探索春节十五天的完整仪式——全球最大规模年度人口迁徙与庆典背后的文化密码。"
 youtubeId: "r4Ql5MsSBT4"
 coverImage: "https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg"
 channel: "CGTN"
@@ -69,3 +70,5 @@ AIGC:
 这是整个春节最壮观的画面，也是最怅然的时刻。灯笼上写满了心愿，升上去的那一瞬间，你把刚刚开始的这一年放飞了——信不信由你，天会收。
 
 十五天。从打扫屋子到放飞心愿，从强制的和气到明亮的心动。春节不是一个假日，是一套运行了四千年的重启系统——至今仍在运转。
+
+**Explore more:** [年兽传说](/zh/events/nien-legend-spring-festival) · [舞狮传统](/zh/events/chinese-new-year-lion-dance-hong-kong) · [元宵节](/zh/festivals/lantern-festival) · [年夜饭上的饺子](/zh/food/art-chinese-dumplings)

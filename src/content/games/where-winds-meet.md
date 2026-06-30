@@ -1,5 +1,6 @@
 ﻿---
 title: "Where Winds Meet: How a Chinese Wuxia Game Conquered 15 Million Players Worldwide"
+description: "Where Winds Meet brought wuxia to 15 million global players — the open-world Tang dynasty adventure that made the world fall for Chinese martial arts fantasy."
 youtubeId: "cpY_JFJRA9Q"
 coverImage: "https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg"
 channel: "IGN"
@@ -73,3 +74,5 @@ For many international players, this was their first sustained exposure to tradi
 The game's success suggests something profound: that cultural specificity isn't a barrier to global appeal — it's the *source* of it. Players didn't flock to *Where Winds Meet* despite its Chinese identity. They came because of it. The Wuxia tradition — with its code of honor, its romantic individualism, its poetic violence — turned out to be universal, waiting for the right medium to carry it across borders.
 
 The wind, as they say, is finally meeting the world.
+
+**Explore more:** [Black Myth: Wukong](/en/games/black-myth-wukong) · [Chinese drum traditions](/en/music/chinese-drum-heartbeat)

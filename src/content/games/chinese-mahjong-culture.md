@@ -1,5 +1,6 @@
 ﻿---
 title: "Mahjong — The Game That Built Chinese Social Life"
+description: "Mahjong built Chinese social life — from Qing dynasty salons to family living rooms, the tile game that's been shuffling relationships for 150 years."
 youtubeId: "qpYF-xmNMew"
 coverImage: "https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg"
 channel: "South China Morning Post"
@@ -57,3 +58,5 @@ The rules vary wildly. Shanghai mahjong differs from Taiwanese mahjong, which di
 In the age of smartphones and short attention spans, mahjong has not merely survived — it has adapted. Online mahjong platforms boast hundreds of millions of users across China. Young professionals organize weekend games the way their grandparents did, except now they coordinate on WeChat and keep score digitally. The clatter of tiles has been digitized, but the social contract remains untouched.
 
 Perhaps that is mahjong's true genius. It was never about the tiles. It was always about the people sitting around the table — sharing tea, exchanging gossip, and quietly preserving a social tradition that no technology has managed to replace.
+
+**Explore more:** [Spring Festival family gatherings](/en/events/spring-festival-traditions) · [tea ceremony traditions](/en/food/gong-fu-tea-ceremony)

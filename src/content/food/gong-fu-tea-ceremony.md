@@ -1,5 +1,6 @@
 ﻿---
 title: "Gong Fu Tea Ceremony: The Slow Art That Refuses to Rush"
+description: "Gong Fu tea ceremony takes 20 minutes to brew three cups — the slow art that refuses to rush, rooted in Chaozhou's 400-year tea mastery tradition."
 youtubeId: "yA3SQdDQp6o"
 coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
 channel: "China Tea"
@@ -65,3 +66,5 @@ Gong fu cha takes twenty minutes to produce what a tea bag delivers in two. In a
 If time is money, gong fu cha is a waste. If time is the only non-renewable resource you actually own, then twenty minutes of focused, sensory attention — watching steam curl, feeling cup warmth, tasting a leaf's full autobiography — might be the most efficient thing you do all day.
 
 The Chaozhou masters understood something that modern productivity culture refuses to admit: sometimes the most powerful thing you can do with your attention is give all of it to one small thing.
+
+**Explore more:** [Dim Sum morning tea](/en/food/dim-sum-morning-tea) · [Mid-Autumn Festival tea traditions](/en/festivals/mid-autumn-festival)

@@ -1,5 +1,6 @@
 ﻿---
 title: "京剧——变成另一个人的艺术"
+description: "京剧是变成另一个人的艺术——脸谱、武打、假声，两百年传统中的极致变身术。"
 youtubeId: "yzAdZDK4XKA"
 coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
 channel: "CrashCourse"
@@ -59,3 +60,5 @@ AIGC:
 但有趣的事情正在发生。当代中国艺术家正在拆解京剧，在出人意料的领域重新拼装——电子音乐融入京剧唱腔，时装秀场用脸谱纹样做设计，电影武打编排的根基不是香港动作片，而是唱念做打。
 
 变成另一个人的艺术——通过色彩、身段、声音——原来是无穷可塑的。脸在变，而化身本身不变。
+
+**Explore more:** [昆曲的更古老传统](/zh/music/kunqu-opera-peony-pavilion) · [皮影戏的视觉叙事](/zh/games/chinese-shadow-puppetry-piying) · [皇帝御膳房的北京烤鸭](/zh/food/peking-duck-imperial-cuisine)

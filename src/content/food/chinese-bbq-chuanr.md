@@ -1,5 +1,6 @@
 ﻿---
 title: "Chuanr: How China's Street-Side Skewers Became a Midnight Institution"
+description: "Chuanr — China's cumin-dusted lamb skewers sizzling on midnight streets — the street food that turned midnight snacking into a cultural institution."
 youtubeId: "V0B8gz7kZTA"
 coverImage: "https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg"
 channel: "Blondie in China"
@@ -63,3 +64,5 @@ The adaptation was ruthless and creative. In landlocked Sichuan, far from any oc
 There is a sociology to **串儿 (chuànr)** that no restaurant can replicate. The skewer is democratic — each stick costs one or two yuan, and everyone eats the same meat from the same grill, seasoned by the same hand. There are no courses, no plating, no ceremony. You drink **啤酒 (píjiǔ)** — cheap lager, freezing cold, poured into glass mugs that sweat in the humid night — and you tear the meat from the stick with your teeth, and you drop the empty skewers onto the table where they accumulate like fallen branches, and you talk or don't talk, and the smoke curls overhead and the vendor turns the next batch and the night deepens and the city, which seemed to be sleeping, reveals itself as fully awake, alive, hungry, and unashamed.
 
 This is the gift of **串儿 (chuànr)**: it restores eating to its most elemental form. Fire. Meat. Stick. Smoke. Salt and cumin and the company of strangers who are, for the length of a skewer, not strangers at all. The steppe horsemen who invented the technique would not recognize the eggplant or the chicken hearts or the freezing beer, but they would recognize the impulse — the primal human need to gather around flame when the world goes dark, to feed the body and, in doing so, to feed something older and less articulate that lives in the spaces between people and can only be nourished by sharing.
+
+**Explore more:** [Chongqing hotpot](/en/food/chongqing-hotpot-spicy-soul) · [Chongqing's 8D mountain city](/en/travel/chongqing-8d-mountain-city)

@@ -1,5 +1,6 @@
 ﻿---
 title: "龙舟竞渡：从悲愤中诞生的千年竞速"
+description: "龙舟竞渡如何从一个诗人的悲壮殉国演变为中国最热血的水上运动——跨越两千年的竞速传奇。"
 youtubeId: "YlPExNPyPwQ"
 coverImage: "https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg"
 channel: "National Geographic"
@@ -73,3 +74,5 @@ AIGC:
 今天的龙舟队全年训练，赛场遍及全球。船首雕着龙头，鼓手坐在最前方，节奏划一，响彻水面。
 
 仔细听，那个鼓点两千年来没有变过——那是拒绝让江水拥有最终发言权的声音。
+
+**Explore more:** [端午节的传统习俗](/zh/festivals/dragon-boat-festival) · [中国鼓的节奏力量](/zh/music/chinese-drum-heartbeat)

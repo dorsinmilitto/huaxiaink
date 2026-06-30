@@ -1,5 +1,6 @@
 ﻿---
 title: "象棋——楚河汉界上的千年对弈"
+description: "象棋以楚河汉界分割棋盘——炮要翻山、象不过河、将不离宫的中国千年棋局。"
 youtubeId: "vklqOLf6mtU"
 coverImage: "https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg"
 channel: "Xiangqi Chinese Chess"
@@ -57,3 +58,5 @@ AIGC:
 象棋至今仍是全球玩家最多的棋类游戏之一，超过五亿人会下。线上平台办职业联赛，超级计算机分析局面——和当年DeepMind攻克围棋的阵仗一样。但象棋不像围棋那样带着精神修行的气质，它更直接——就是打仗，人人都懂打仗。
 
 河还在那里。将帅还在对峙。在中国千万张公园石桌上，楚汉的战争每天都在重演。
+
+**Explore more:** [围棋](/zh/games/weiqi-ancient-game-of-go) · [长城的军事战略](/zh/travel/secrets-great-wall)

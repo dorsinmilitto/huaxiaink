@@ -1,5 +1,6 @@
 ﻿---
 title: "When a 3,000-Year-Old Instrument Plays a Pop Drama Theme"
+description: "A 3,000-year-old guqin plays a pop drama theme — when China's most ancient stringed instrument meets modern TV, tradition doesn't die, it evolves."
 youtubeId: "h0AAFhx3RmA"
 coverImage: "https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg"
 channel: "Zi De Guqin Studio"
@@ -80,3 +81,5 @@ The video has resonated especially strongly with international audiences. Commen
 - "I came for the drama OST, stayed for the guqin rabbit hole."
 
 That's the alchemy of what Zi De Guqin Studio does. They don't just preserve tradition — they translate it. And sometimes, a 3,000-year-old instrument speaking a modern pop language is the most universal thing you can hear.
+
+**Explore more:** [Kunqu Opera's ancient melodies](/en/music/kunqu-opera-peony-pavilion) · [Weiqi's meditative philosophy](/en/games/weiqi-ancient-game-of-go)

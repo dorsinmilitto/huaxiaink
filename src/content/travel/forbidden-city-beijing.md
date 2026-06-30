@@ -1,5 +1,6 @@
 ﻿---
-title: "Forbidden City"
+title: "Forbidden City — The 9,999-Room Imperial Palace of China's Emperors"
+description: "Explore the Forbidden City, Beijing's 9,999-room imperial palace that housed 24 emperors across 500 years of Ming and Qing dynasty rule."
 youtubeId: "sHypO2ISPas"
 coverImage: "https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg"
 channel: "Documentary Hub"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '8706fdd6-ddb2-4a08-8e42-e0ae2c843653'
-  PropagateID: '8706fdd6-ddb2-4a08-8e42-e0ae2c843653'
-  ReservedCode1: 'cf11efc1-34c4-4b98-8746-f25ce9ecc71e'
-  ReservedCode2: 'cf11efc1-34c4-4b98-8746-f25ce9ecc71e'
+  ProduceID: 'aed82882-5b0c-4c03-904d-0cd9356f6be4'
+  PropagateID: 'aed82882-5b0c-4c03-904d-0cd9356f6be4'
+  ReservedCode1: '600d3e3e-232b-445c-bc6a-667f24c1e019'
+  ReservedCode2: '600d3e3e-232b-445c-bc6a-667f24c1e019'
 ---
 
 ## A City Built on a Single Vision
@@ -61,3 +62,5 @@ Over a million artifacts survived the transition — jade seals, imperial robes,
 ## The Silence Between the Halls
 
 Visit at dawn, before the crowds arrive, and you will hear what the emperors heard — wind through the courtyards, crows on the eaves, and a silence so vast it swallows centuries. Five hundred years of decisions that shaped East Asia were made in these halls. The weight of that history is palpable, even in the quiet.
+
+**Explore more:** [Peking Duck's imperial origins](/en/food/peking-duck-imperial-cuisine) · [Peking Opera at the imperial court](/en/music/peking-opera-face-of-china) · [the Great Wall's defense of the capital](/en/travel/secrets-great-wall)

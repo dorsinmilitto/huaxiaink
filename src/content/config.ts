@@ -2,6 +2,7 @@ import { defineCollection, z } from 'astro:content';
 
 const contentSchema = z.object({
   title: z.string(),
+  description: z.string().optional(),
   youtubeId: z.string().optional(),
   coverImage: z.string().optional(),
   channel: z.string(),

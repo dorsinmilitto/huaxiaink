@@ -1,5 +1,6 @@
 ﻿---
 title: "Dragon Boat Festival Through Liziqi's Eyes — Zongzi, Rice Fields, and a 2,000-Year Memory"
+description: "Watch Liziqi bring Dragon Boat Festival to life — hand-wrapping zongzi, racing dragon boats, and preserving 2,000 years of tradition in rural Sichuan."
 youtubeId: "vusE2HqaAEY"
 coverImage: "https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg"
 channel: "李子柒 Liziqi"
@@ -73,3 +74,5 @@ The festival is also profoundly practical. Duanwu marks the transition from spri
 Compared to the fireworks and fanfare of Spring Festival, Duanwu is quiet. The zongzi are made at home, often across generations — grandmothers teaching grandchildren how to fold the leaves, fathers arguing about whether savory or sweet filling is better. The dragon boat races are communal but not commercial. There are no gift-giving obligations, no pressure to spend.
 
 And perhaps that's why Liziqi's video resonated so deeply. She didn't explain the history or analyze the symbolism. She simply showed the festival as it is lived — hands in water, steam rising, the patience of making something by hand that could be bought in minutes. In her world, the fastest way and the right way are not the same, and the difference matters.
+
+**Explore more:** [Dragon Boat Festival's ancient origins](/en/festivals/dragon-boat-festival) · [the history of zongzi](/en/food/art-chinese-dumplings)

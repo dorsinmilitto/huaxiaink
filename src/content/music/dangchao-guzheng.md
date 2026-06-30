@@ -1,5 +1,6 @@
 ﻿---
 title: "This Guzheng Player Drops Beats Like a Rapper"
+description: "This guzheng player drops beats like a rapper — when the 2,500-year-old zither meets trap rhythms, Chinese tradition gets its wildest upgrade."
 youtubeId: "HSaJdXxn7zU"
 coverImage: "https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg"
 channel: "Moyun Official"
@@ -88,3 +89,5 @@ One comment, translated from Japanese, simply reads: "China's music technology t
 Moyun isn't alone. She's part of a wave of Chinese musicians — from Zi De Guqin Studio's classical-meets-pop covers to street performers blending erhu with EDM — who are proving that traditional Chinese instruments don't need to be "preserved" behind glass. They need to be *played* — loudly, inventively, and sometimes with total disregard for what anyone thinks a 2,500-year-old instrument should sound like.
 
 *Dang Chao Bu Rang* translates to something like "when the tide comes, hold nothing back." It's a good motto — for a song, for an instrument, and for an entire generation refusing to choose between old and new.
+
+**Explore more:** [traditional guzheng artistry](/en/music/lemon-tree-guzheng-cello)

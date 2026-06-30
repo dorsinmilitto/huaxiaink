@@ -1,5 +1,6 @@
 ﻿---
 title: "冬至：一年中最长的夜与最暖的团圆"
+description: "北方称冬至'大如年'——汤圆与饺子让一年中最长的夜变成最暖的团圆。"
 youtubeId: "_6qel02Hw4c"
 coverImage: "https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg"
 channel: "SCCC"
@@ -90,3 +91,5 @@ AIGC:
 冬至的天文意义很精确：太阳直射南回归线。但它的文化意义更精确——它是中国人对黑暗最优雅的回答。不逃避，不抗拒，只是安安静静地在一起，煮一锅热食，数着日子等天亮。
 
 最长的夜配最暖的团圆，这不是巧合，是安排。中国人把一年中离太阳最远的一天，过成了离彼此最近的一天。
+
+**Explore more:** [二十四节气体系](/zh/festivals/twenty-four-solar-terms) · [饺子与汤圆传统](/zh/food/art-chinese-dumplings)

@@ -1,5 +1,6 @@
 ﻿---
 title: "七夕——写在星星上的爱情故事（字面意义上的）"
+description: "七夕——被银河隔开的两颗星每年相会一次。两千六百年前写在星座里的中国情人节。"
 youtubeId: "WCbztd58LLE"
 coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
 channel: "chinahighlights"
@@ -65,3 +66,5 @@ AIGC:
 在秒回和闪送的时代，等364天只为说一晚上的话，听起来近乎荒唐。但也许正是这种荒唐让七夕至今动人。它提醒我们：最深的联系从来不是靠便利维持的——那些在缺席中活下来的联系才是真的。
 
 牛郎织女没有一个美满的结局。他们始终没能住到一起，没能白头偕老。但他们得到了一种更奇异、也许更深沉的东西：一种确信——无论隔着多远，真正的爱总能找到一座桥，哪怕要一千只喜鹊才能搭成。
+
+**Explore more:** [元宵节的浪漫传统](/zh/festivals/lantern-festival) · [琵琶的爱情叙事](/zh/music/pipa-chinese-lute)

@@ -1,5 +1,6 @@
 ﻿---
 title: "燕云十六声：一款中国武侠游戏如何征服全球1500万玩家"
+description: "燕云十六声把武侠带给全球1500万玩家——开放世界大唐冒险如何让世界爱上中国武侠幻想。"
 youtubeId: "cpY_JFJRA9Q"
 coverImage: "https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg"
 channel: "IGN"
@@ -73,3 +74,5 @@ AIGC:
 这款游戏的成功揭示了一个深刻的道理：文化独特性不是全球化的障碍——而是其*源头*。玩家涌向《燕云十六声》，不是因为它的中国身份需要被原谅，而是因为正是这身份吸引了他们。武侠传统——其荣誉准则、浪漫个人主义、诗意暴力——原来是普世的，只是一直在等待合适的媒介将它带过边界。
 
 风，终于遇到了世界。
+
+**Explore more:** [黑神话：悟空](/zh/games/black-myth-wukong) · [中国鼓传统](/zh/music/chinese-drum-heartbeat)

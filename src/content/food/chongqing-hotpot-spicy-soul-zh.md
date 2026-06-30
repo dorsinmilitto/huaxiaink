@@ -1,5 +1,6 @@
 ﻿---
 title: "重庆火锅：山城之辣，灵魂之沸"
+description: "重庆火锅把一切浸入麻辣汤底——码头工人的粗犷一锅如何变成山城的灵魂之辣。"
 youtubeId: "EewnoXvCzgE"
 coverImage: "https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg"
 channel: "Best Ever Food Review Show"
@@ -79,3 +80,5 @@ AIGC:
 ## 你该试一次
 
 你会出汗。嘴唇会肿。第一口毛肚下去你可能会怀疑人生。但如果你留下来——让麻椒、滚油和一桌人声鼎沸的混乱完成它们的功——你会懂一件天际线教不了你的事：这座城市拿世界给它的东西，让它滚沸。
+
+**Explore more:** [重庆8D魔幻城](/zh/travel/chongqing-8d-mountain-city) · [川辣哲学](/zh/food/sichuan-spice-story) · [麻婆豆腐的火辣起源](/zh/food/mapo-tofu-history)

@@ -1,5 +1,6 @@
 ﻿---
 title: "Lantern Festival — China's Original Night of a Thousand Lights"
+description: "Before Valentine's Day, China had the Lantern Festival — a night of a thousand lights where lovers once met under riddle-lit lanterns 2,000 years ago."
 youtubeId: "kFQKWYGZNlE"
 coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
 channel: "CGTN"
@@ -59,3 +60,5 @@ Unlike mooncakes, which are gifts and statements, tangyuan are pure comfort. You
 Modern Lantern Festivals are among the most visually overwhelming events on the planet. Zigong in Sichuan hosts installations the size of apartment blocks: LED dragons rippling across reservoirs, kinetic lotuses opening and closing on water, entire mythological ecosystems reconstructed in tens of thousands of bulbs.
 
 But the deepest tradition remains the simplest. Somewhere tonight, a child will hold a paper lantern, feel its warmth against the cold air, and understand for the first time that light changes everything it touches. That revelation is the real gift of Yuánxiāo. It needs no power source beyond a flame and a pair of eyes willing to look up.
+
+**Explore more:** [Spring Festival traditions](/en/events/spring-festival-traditions) · [shadow puppetry performances](/en/games/chinese-shadow-puppetry-piying) · [tangyuan dumplings](/en/food/art-chinese-dumplings)

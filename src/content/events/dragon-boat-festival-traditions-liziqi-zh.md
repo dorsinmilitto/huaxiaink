@@ -1,5 +1,6 @@
 ﻿---
 title: "李子柒镜头下的端午节——粽子、稻田与两千年的记忆"
+description: "李子柒镜头下的端午节——手工包粽子、龙舟竞渡，在四川乡间延续两千年的传统记忆。"
 youtubeId: "vusE2HqaAEY"
 coverImage: "https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg"
 channel: "李子柒 Liziqi"
@@ -73,3 +74,5 @@ AIGC:
 与春节的烟火喧天相比，端午是安静的。粽子在家做，常常代际传承——奶奶教孙辈折叶，父亲争论咸甜之争。龙舟赛是公共的，但不商业化。没有送礼的义务，没有消费的压力。
 
 也许正是因此，李子柒的视频才能引发如此深的共鸣。她没有讲解历史，没有分析象征。她只是展示节日如何被真实地过——手入水中，蒸汽升腾，用半天做出几分钟就能买到的东西的耐心。在她的世界里，最快的方式和正确的方式不是同一件事，而这区别至关重要。
+
+**Explore more:** [端午节的古老起源](/zh/festivals/dragon-boat-festival) · [粽子的包法](/zh/food/art-chinese-dumplings)

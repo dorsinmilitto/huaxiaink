@@ -1,5 +1,6 @@
 ﻿---
 title: "漓江：山水甲天下的千年画卷"
+description: "漓江是山水画活过来的地方——桂林喀斯特峰林、竹筏、薄雾，一千五百年来不断激发诗人灵感。"
 youtubeId: "EIrV9JX5_mA"
 coverImage: "https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg"
 channel: "TRACKS - Travel Documentaries"
@@ -74,3 +75,5 @@ AIGC:
 漓江的山水不仅是美学奇迹，更是一部壮阔的地质史诗。峰林洼地、石芽漏斗、暗河溶洞——每一处地貌都记录着水与岩亿万年间的博弈。芦笛岩的钟乳石在灯光下如珊瑚绽放，冠岩的地下河乘舟可深入山腹。喀斯特把坚硬的石灰岩变成了最柔软的曲线，把千万年的溶解变成了最精致的雕塑。
 
 漓江终年碧绿，是因为喀斯特地区土壤含铁量低，悬浮物稀少。这抹绿，是地质、气候与生态共同酿造的颜色，是大自然用三亿年调出的底色，也是每一个站在江边的人都会沉默片刻的理由——在漓江面前，语言永远嫌多。
+
+**Explore more:** [黄山的水墨山水](/zh/travel/yellow-mountain-huangshan) · [笛子的山水旋律](/zh/music/dizi-bamboo-flute)

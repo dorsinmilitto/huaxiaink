@@ -1,5 +1,6 @@
 ﻿---
 title: "Chongyang — The Festival That Asks You to Climb a Mountain for Your Grandparents"
+description: "Chongyang Festival asks you to climb a mountain for your grandparents — discover the 2,000-year-old tradition honoring elders and autumn's beauty."
 youtubeId: "wj2hUzJmdsA"
 coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
 channel: "China Culture"
@@ -65,3 +66,5 @@ You could argue that in the age of escalators and elevators, climbing a mountain
 Chongyang does not ask you to buy flowers or write a card. It asks you to move your body upward, toward thinner air and wider views, and to bring your parents along if they can still walk. If they cannot, you climb for them, and when you reach the top, you look out at the world they helped build for you, and you call them on the phone.
 
 That is not tradition. That is just love with better scenery.
+
+**Explore more:** [Qingming tomb-sweeping traditions](/en/festivals/qingming-tomb-sweeping) · [Yellow Mountain](/en/travel/yellow-mountain-huangshan)

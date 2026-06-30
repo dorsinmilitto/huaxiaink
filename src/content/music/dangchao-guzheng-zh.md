@@ -1,5 +1,6 @@
 ﻿---
 title: "古筝说唱：当千年乐器炸出说唱节拍"
+description: "古筝炸出说唱节拍——当2500年的古筝遇上trap节奏，中国传统音乐迎来最狂野的升级。"
 youtubeId: "HSaJdXxn7zU"
 coverImage: "https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg"
 channel: "墨韻 Moyun Official"
@@ -88,3 +89,5 @@ YouTube评论区的故事似曾相识：
 墨韵不是一个人。她是一波中国音乐人的缩影——从自得琴社的古琴跨界翻弹到街头艺人用二胡混搭电子乐——他们证明了一件事：中国传统乐器不需要被"保护"在玻璃后面。它们需要被*弹*——大声地、创造性地、有时完全不顾两千五百年"应该"怎么响。
 
 "當潮不讓"——潮水来时，一寸不让。这是一个好的信条——为了一首曲子，为了一件乐器，也为了整整一代不愿在旧与新之间做选择的人。
+
+**Explore more:** [传统古筝技艺](/zh/music/lemon-tree-guzheng-cello)

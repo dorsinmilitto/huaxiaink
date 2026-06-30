@@ -1,5 +1,6 @@
 ﻿---
 title: "The Suona: China's Loudest Instrument and the Sound of Life and Death"
+description: "The suona is China's loudest instrument — the sound of weddings, funerals, and everything in between, shattering eardrums with one brass bell for 1,700 years."
 youtubeId: "FYbNqSXZPd0"
 coverImage: "https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg"
 channel: "CGTN"
@@ -73,3 +74,5 @@ But the suona survived underground. Village musicians hid their horns. Secret pe
 In 2013, the documentary *Suan Tian* ("Making Heaven Weep") introduced the suona to global audiences, following a family of suona masters across generations. The film won awards at international festivals and proved that this "primitive" instrument had artistic depth that transcended cultural boundaries.
 
 Today, young Chinese musicians are rediscovering the suona not as a relic but as a voice — one that can cut through modern noise, that demands attention, that refuses to be background music. In a world of carefully curated, politely mixed audio experiences, the suona is a reminder: sometimes music should be too loud. Sometimes it should hurt a little. Sometimes that's exactly what you need to feel alive.
+
+**Explore more:** [Chinese drum traditions](/en/music/chinese-drum-heartbeat) · [Ghost Festival ceremonies](/en/festivals/ghost-festival-zhongyuan)

@@ -1,5 +1,6 @@
 ﻿---
 title: "黄山——你可以走进去的水墨画"
+description: "黄山是你可以走进去的水墨画——云海、奇松、花岗岩峰林，一千两百年来不断激发中国艺术灵感。"
 youtubeId: "T_gAPaN6IKQ"
 coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
@@ -59,3 +60,5 @@ AIGC:
 ## 在山顶等一次日出
 
 大多数人在山顶住一晚，为了看日出。凌晨四点摸黑走到观景台。人群安静，裹着租来的大衣发抖。然后地平线变金，云海开始发光，山峰一座座从暗中浮出来，像一张照片在显影液里慢慢成形。有那么几分钟，整座山的颜色是你从没见过的。然后太阳越过山脊，云变薄，它又变回一座山——壮丽，但熟悉了。魔力全在那几分钟的过渡里。
+
+**Explore more:** [漓江的喀斯特风光](/zh/travel/li-river-guilin-karst) · [重阳登高传统](/zh/festivals/chongyang-double-ninth)

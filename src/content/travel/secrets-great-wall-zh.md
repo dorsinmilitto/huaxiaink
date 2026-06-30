@@ -1,5 +1,6 @@
 ﻿---
-title: "长城秘史"
+title: "长城秘史——两万公里的王朝、战败与糯米灰浆"
+description: "揭秘长城隐藏的真相：糯米灰浆配方、烽火台通信网络，以及两千年间横跨两万公里的王朝防御。"
 youtubeId: "quLhkqwtOg8"
 coverImage: "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg"
 channel: "National Geographic"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5db62fc0-8e69-48f1-ab99-4d09da517edf'
-  PropagateID: '5db62fc0-8e69-48f1-ab99-4d09da517edf'
-  ReservedCode1: '2e0e5d59-f1fa-4e12-80d1-ecbd15a8031c'
-  ReservedCode2: '2e0e5d59-f1fa-4e12-80d1-ecbd15a8031c'
+  ProduceID: '2b310360-6a3b-4657-9da8-03f03eff8e20'
+  PropagateID: '2b310360-6a3b-4657-9da8-03f03eff8e20'
+  ReservedCode1: 'f01069fe-8441-4037-a7b3-efb173e7d5e5'
+  ReservedCode2: 'f01069fe-8441-4037-a7b3-efb173e7d5e5'
 ---
 
 ## 不止一道墙
@@ -63,3 +64,5 @@ AIGC:
 黄昏时站在明代的敌楼上，看长城沉入谷底又从对面的山脊上翻出来，你会懂一件历史书写不出的事：这从来不只是屏障，这是刻在大陆脊梁上的宣言——农耕文明不会对草原的风低头。
 
 这场仗打了两千年。墙还在。
+
+**Explore more:** [紫禁城的皇家防御](/zh/travel/forbidden-city-beijing) · [象棋中的边境战争](/zh/games/xiangqi-chinese-chess) · [中国鼓的军号](/zh/music/chinese-drum-heartbeat)

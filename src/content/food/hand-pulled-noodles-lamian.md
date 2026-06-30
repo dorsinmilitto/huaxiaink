@@ -1,5 +1,6 @@
 ﻿---
 title: "Hand-Pulled Noodles: The 3,000-Year-Old Art of Stretching Dough Into Silk"
+description: "Hand-pulled noodles stretch dough into silk with a 3,000-year technique — no machinery, just hands, flour, and the rhythm of a thousand pulls."
 youtubeId: "E_TMp6w8MkU"
 coverImage: "https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg"
 channel: "Topic"
@@ -61,3 +62,5 @@ This is the paradox of **拉面 (lāmiàn)**: it is at once the most reproducibl
 ## The Living Thread
 
 In the early morning, before the city fully wakes, the noodle shops of Lanzhou are already lit. Steam rises from vats the size of bathtubs. The masters stand at their boards, sleeves rolled past the elbow, hands dusted white, pulling threads of wheat into silk. Customers sit on plastic stools and eat standing up sometimes, the broth scalding their lips, the noodles slippery and alive between their teeth, and for a few minutes the whole harsh geometry of the Silk Road — the deserts, the distances, the centuries of carrying goods across the roof of the world — collapses into a single bowl, a single gesture, a single unbroken thread stretching from some unknown hand three thousand years ago to this one, right now, pulling dough into light.
+
+**Explore more:** [dumpling-making techniques](/en/food/art-chinese-dumplings)

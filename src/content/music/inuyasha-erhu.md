@@ -1,5 +1,6 @@
 ﻿---
 title: "A Frenchman Plays Anime's Most Heartbreaking Song on a Chinese Erhu"
+description: "A Frenchman plays Inuyasha's most heartbreaking song on a Chinese erhu — when anime emotion meets traditional timbre, bridges get built."
 youtubeId: "lSCHU3kwrm8"
 coverImage: "https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg"
 channel: "Eliott Tordo Erhu Player"
@@ -79,3 +80,5 @@ Eliott Tordo represents something genuinely new in the history of musical exchan
 His *Inuyasha* cover isn't appropriation — it's translation. He's taking a piece of Japanese popular culture, filtering it through a Chinese instrument's unique voice, and presenting it to a global audience with French sensibility. Three cultures, one performance, zero borders.
 
 In a world where cultural boundaries are simultaneously eroding and hardening, this kind of organic, musician-driven exchange matters more than ever. It doesn't come from policy or institution. It comes from one person falling in love with an instrument and asking: *What would this song sound like if it had been written for you?*
+
+**Explore more:** [Big Fish & Begonia on the erhu](/en/music/big-fish-erhu) · [the dizi's mountain sounds](/en/music/dizi-bamboo-flute)

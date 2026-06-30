@@ -1,5 +1,6 @@
 ﻿---
 title: "Hot Pot — Why the Chinese Eat Their Meals Literally Boiling Together"
+description: "Hot pot is how the Chinese eat literally boiling together — a shared pot that turns dining into bonding across 1,000 years of communal cooking history."
 youtubeId: "gBr_1YWMOLA"
 coverImage: "https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg"
 channel: "China Matters"
@@ -61,3 +62,5 @@ Purists grumble that the broth is sweeter, the peppers milder, the soul diluted.
 ## Set Up Your Own Circle
 
 A divided hot pot pot, a portable induction burner, and a group of friends is all you need. Buy pre-sliced hot pot meat from any Asian grocery, prep a platter of mushrooms, bok choy, and tofu, and mix your own dipping sauce (sesame paste, chili oil, cilantro, garlic — adjust ratios until it tastes like yours). The broth can be as simple as chicken stock with a couple of dried chilies. The magic isn't in the recipe; it's in the circle of people around the pot.
+
+**Explore more:** [Chongqing's fiery hotpot culture](/en/food/chongqing-hotpot-spicy-soul) · [Sichuan spice philosophy](/en/food/sichuan-spice-story)

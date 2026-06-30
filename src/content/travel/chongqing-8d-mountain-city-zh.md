@@ -1,5 +1,6 @@
 ﻿---
 title: "重庆8D魔幻城：物理定律在这里失效"
+description: "重庆是8D魔幻城——轻轨穿楼、桥梁盖楼、屋顶当街，中国赛博朋克山城让物理定律失效。"
 youtubeId: "IbnSuon2nrI"
 coverImage: "https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg"
 channel: "CoolVision"
@@ -77,3 +78,5 @@ AIGC:
 答案是：它运转着。地铁在跑。美食名扬天下。夜生活让人触电。3200万人过着和任何城市居民一样庸常的节奏——只是通勤可能经过穿楼列车、跨河桥、桥上路、路下商场。
 
 重庆证明人的适应力没有天花板。有足够的必要和足够的意志，我们在任何地方都能建一座城——哪怕在山上，哪怕在雾里，哪怕物理定律客气地建议我们别这么做。
+
+**Explore more:** [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul) · [川辣文化](/zh/food/sichuan-spice-story)

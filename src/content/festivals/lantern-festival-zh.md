@@ -1,5 +1,6 @@
 ﻿---
 title: "元宵节：灯火里藏着的浪漫与自由"
+description: "在情人节出现之前，中国有元宵节——两千年前花灯下猜灯谜相会的浪漫之夜。"
 youtubeId: "kFQKWYGZNlE"
 coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
 channel: "CGTN"
@@ -76,3 +77,5 @@ AIGC:
 如今的元宵节，早已制造出这颗星球上最壮观的人造灯景。四川自贡灯会每年吸引数百万游客，电动巨龙在湖面蜿蜒，仿古塔楼用LED重塑，整片整片的神话生物在水天之间复活。
 
 但最有力量的，始终是那个最古老的画面：一个孩子提着一盏纸灯笼，看着它摇摇晃晃地亮起来，第一次觉得——这个世界比想象中更大、更奇怪、也更美。这就是元宵真正的遗产，它不需要通电。
+
+**Explore more:** [春节传统](/zh/events/spring-festival-traditions) · [皮影戏表演](/zh/games/chinese-shadow-puppetry-piying) · [汤圆饺子](/zh/food/art-chinese-dumplings)

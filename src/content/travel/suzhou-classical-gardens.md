@@ -1,5 +1,6 @@
 ﻿---
 title: "Suzhou Gardens — How the Chinese Fit the Universe Into a Backyard"
+description: "Suzhou Gardens fit the universe into a backyard — UNESCO-listed classical gardens where rocks become mountains, ponds become oceans, and every view is a painting."
 youtubeId: "xsPOs-yCJ3g"
 coverImage: "https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg"
 channel: "UNESCO"
@@ -61,3 +62,5 @@ Suzhou produced more gardens than any other Chinese city because it sat at the c
 ## The Garden as a Mirror
 
 What strikes a modern visitor is how little these spaces demand. There are no grand fountains, no geometric flower beds, no monuments to power. Just water, stone, plants, and architecture arranged with such precision that the whole feels effortless. The garden asks you to slow down, sit, and notice. In a century of speed, that may be the most radical thing about it.
+
+**Explore more:** [Kunqu Opera born in Suzhou](/en/music/kunqu-opera-peony-pavilion) · [the guqin's garden meditation](/en/music/buran-guqin)

@@ -1,5 +1,6 @@
 ﻿---
 title: "年兽传说：一头怪兽如何催生了春节"
+description: "年兽曾吞噬村庄——直到红纸、爆竹和舞狮把它赶走。春节最古老的传说，揭露中国年的真正起源。"
 youtubeId: "GVPHdFX9iHY"
 coverImage: "https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg"
 channel: "PandaExpressTV"
@@ -67,3 +68,5 @@ AIGC:
 年兽传说之所以绵延至今，不是因为人们还相信有怪兽，而是因为它回答了一个永恒的人类命题：冬天终会过去，黑暗终会退散，只要我们聚在一起，发出足够大的声音。
 
 所以下次你在街边看到舞龙，或被午夜的鞭炮声吵醒，别只觉得热闹——你正在见证一场持续了四千年的胜利巡游。
+
+**Explore more:** [春节十五天传统](/zh/events/spring-festival-traditions) · [舞狮传统](/zh/events/chinese-new-year-lion-dance-hong-kong)

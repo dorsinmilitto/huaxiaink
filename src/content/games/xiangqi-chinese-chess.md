@@ -1,5 +1,6 @@
 ﻿---
 title: "Xiangqi — Chinese Chess and the River That Divides Two Kingdoms"
+description: "Xiangqi splits the board with the Chu-Han border — Chinese chess where cannons jump, elephants can't cross rivers, and generals never leave the palace."
 youtubeId: "vklqOLf6mtU"
 coverImage: "https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg"
 channel: "Xiangqi Chinese Chess"
@@ -57,3 +58,5 @@ The game's popularity endures because it mirrors something deeply Chinese: the b
 Xiangqi remains one of the most played board games on Earth, with over half a billion players worldwide. Online platforms host professional leagues. China's Xiangxiang supercomputers analyze positions with the same intensity that DeepMind brought to Go. But unlike Go, which carries a spiritual weight, Xiangqi wears its heart on its sleeve — it is war, pure and simple, and everyone understands war.
 
 The river is still there. The generals still face each other. And on a thousand park benches across China, the battle of Chu and Han is fought again every single day.
+
+**Explore more:** [Weiqi (Go)](/en/games/weiqi-ancient-game-of-go) · [the Great Wall's military strategy](/en/travel/secrets-great-wall)

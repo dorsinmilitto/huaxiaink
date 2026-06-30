@@ -1,5 +1,6 @@
 ﻿---
-title: "张家界阿凡达峰"
+title: "张家界：阿凡达悬浮山的真实原型"
+description: "探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。"
 youtubeId: "Na3ToBLUfFk"
 coverImage: "https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg"
 channel: "Wonder World"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '760e53ff-69c4-4e5b-861a-372381c30a2f'
-  PropagateID: '760e53ff-69c4-4e5b-861a-372381c30a2f'
-  ReservedCode1: 'bec9a740-6f9a-4f1b-9c73-49fd21123ac0'
-  ReservedCode2: 'bec9a740-6f9a-4f1b-9c73-49fd21123ac0'
+  ProduceID: '08584a64-31c9-44f3-af20-36a53ec7c59f'
+  PropagateID: '08584a64-31c9-44f3-af20-36a53ec7c59f'
+  ReservedCode1: '45651f6c-8328-47b8-a62c-9b63840b3c32'
+  ReservedCode2: '45651f6c-8328-47b8-a62c-9b63840b3c32'
 ---
 
 ## 不该站着的石头
@@ -57,3 +58,5 @@ AIGC:
 阿凡达和玻璃桥都不算早。更早的是住在这些山谷里的土家人。吊脚楼、织锦、摆手舞，比景区早了几百年。土家语管石柱叫"从地里长出来的石头"——它们确实像活物。
 
 旅游改变了土家生活，有些村子更像文化展示区。但人与山的关系还在。土家信仰里，每座峰都有灵。叫它哈利路亚山也好，叫更老的名字也好，山灵一直在看着。
+
+**Explore more:** [黄山的云海景观](/zh/travel/yellow-mountain-huangshan) · [古琴的自然灵韵](/zh/music/buran-guqin)

@@ -1,5 +1,6 @@
 ﻿---
 title: "Jianzi: The Chinese Hacky Sack That Predates Football by Two Millennia"
+description: "Jianzi — the Chinese hacky sack that predates football by 2,000 years — from Han dynasty royal courts to modern street corners, a national sport requiring no field."
 youtubeId: "JVSC2qmDQjM"
 coverImage: "https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg"
 channel: "CGTN"
@@ -69,3 +70,5 @@ But perhaps that's fine. The best games don't need medals. They need players. An
 Jianzi requires nothing you don't already have: feet, gravity, patience. A beginner can keep the shuttlecock alive for 3–5 kicks after ten minutes of practice. After a week, 20–30 kicks is achievable. After a month, you'll start understanding why old men in Beijing parks look so peaceful doing something that looks impossibly difficult.
 
 It is exercise disguised as meditation. Coordination disguised as play. And a connection to a tradition that survived dynasties, wars, revolutions, and smartphones — because sometimes the simplest games are the ones hardest to put down.
+
+**Explore more:** [Spring Festival celebrations](/en/events/spring-festival-traditions)

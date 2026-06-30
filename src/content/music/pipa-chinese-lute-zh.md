@@ -1,5 +1,6 @@
 ﻿---
 title: "琵琶：大珠小珠落玉盘的千年绝响"
+description: "琵琶教会中国用声音讲故事——四根弦、两千年，五指齐拨的瀑布音效震撼至今。"
 youtubeId: "M4Ye7AisnFM"
 coverImage: "https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg"
 channel: "Musical Moments - East"
@@ -70,3 +71,5 @@ AIGC:
 ## 弦歌不辍：琵琶在当代的回响
 
 时至今日，琵琶早已走出古典的庭院，在新的舞台上焕发着蓬勃的生命力。从与交响乐团合作协奏曲，到融入流行、爵士乃至电子音乐的跨界实验，琵琶正以开放的姿态拥抱多元的音乐语汇。而那些愿意拿起琵琶的年轻人，也在古老的琴弦上弹奏属于这个时代的新声。千年前白居易听到的那个声音，从未消逝——它只是换了一种方式，继续落玉盘。
+
+**Explore more:** [二胡的叙事力量](/zh/music/inuyasha-erhu)

@@ -1,5 +1,6 @@
 ﻿---
 title: "饱和式救援：中国如何改写灾难响应的规则"
+description: "饱和式救援如何以压倒性资源投入拯救地震生命——中国改写全球灾难响应规则的壮举。"
 youtubeId: "AaXYmt6qrbM"
 coverImage: "https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg"
 channel: "Al Jazeera English"
@@ -77,3 +78,5 @@ AIGC:
 "一方有难，八方支援。"这不是政府标语，是比一切现代制度更早的两千年古训。饱和式救援，不过是这条古训被21世纪国家能力放大后的形态。
 
 装备是现代的。本能不是。
+
+**Explore more:** [长城的军事防御体系](/zh/travel/secrets-great-wall)

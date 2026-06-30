@@ -1,5 +1,6 @@
 ﻿---
 title: "火锅——为什么中国人真的要围在一起沸腾着吃饭"
+description: "火锅——中国人围在一起沸腾着吃饭的方式，一千年共享锅底背后的社交哲学。"
 youtubeId: "gBr_1YWMOLA"
 coverImage: "https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg"
 channel: "China Matters"
@@ -61,3 +62,5 @@ AIGC:
 ## 在家支起你的锅圈
 
 一口鸳鸯锅、一个电磁炉、一群朋友，够了。亚洲超市买现成的火锅肉片，备一盘蘑菇、小白菜和豆腐，自己调蘸料（芝麻酱、辣油、香菜、蒜泥——比例随你，调到是你自己的味）。汤底可以简单到鸡汤加几颗干辣椒。火锅的魔法不在配方，在围锅而坐的那一圈人。
+
+**Explore more:** [重庆火锅文化](/zh/food/chongqing-hotpot-spicy-soul) · [川辣哲学](/zh/food/sichuan-spice-story)

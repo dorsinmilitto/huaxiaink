@@ -1,5 +1,6 @@
 ﻿---
 title: "Fujian Tulou: When 800 People Live Inside One Building"
+description: "Fujian Tulou — when 800 people live inside one circular earthen building, a UNESCO fortress-home that housed entire clans for 600 years of communal defense."
 youtubeId: "0nZue4_ceSY"
 coverImage: "https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
@@ -85,3 +86,5 @@ In an era when most humans live in households of 2–4 people, the tulou represe
 The Hakka people didn't choose this arrangement because they loved communal living. They chose it because survival required it. And in requiring it, they discovered something that modern urban planners are only beginning to relearn: that density, when designed with intention, creates community in ways that sprawl never can.
 
 Visit a tulou today, and you'll find WiFi, air conditioning, and satellite dishes mounted on 600-year-old earthen walls. The contradiction is the point. These buildings were never meant to be museums. They were meant to be lived in. And as long as people live in them, they remain alive — not relics of the past, but ongoing experiments in how humans might dwell together.
+
+**Explore more:** [the Hanging Temple's architectural wonder](/en/travel/hanging-temple-xuankong-si) · [Mahjong's communal traditions](/en/games/chinese-mahjong-culture)

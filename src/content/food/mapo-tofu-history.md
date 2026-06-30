@@ -1,5 +1,6 @@
 ﻿---
 title: "Mapo Tofu: The Dish That Set Sichuan on Fire — Then Conquered the World"
+description: "Mapo Tofu set Sichuan on fire in 1862 — then conquered the world. The pockmarked grandmother's tofu that became the planet's favorite Chinese dish."
 youtubeId: "uL_YQMkkbUg"
 coverImage: "https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg"
 channel: "Chinese Cooking Demystified"
@@ -63,3 +64,5 @@ There is no secret ingredient. There is only the accumulation of a hundred and s
 Sit down at a formica table in Chengdu. The bowl arrives, a volcanic lake of crimson oil studded with pale tofu islands and dark crumbles of minced beef. The steam carries the grapefruit-zip of peppercorns and the toasty depth of fermented bean. You lift a piece of tofu with your chopsticks — it wobbles, resists, nearly slips back. Into your mouth. The numbness arrives first, a hum across your lips, then the heat blooms, then the rich meaty depth, then the cooling tofu center, and then the peppercorn echo, a tingling aftershock that lingers long after you have swallowed.
 
 This is **麻婆豆腐 (Mápó Dòufu)**. It does not comfort. It does not soothe. It wakes you up — violently, joyfully, completely — and for that, it has been loved for a hundred and sixty years across every continent where humans eat with pleasure and courage.
+
+**Explore more:** [Sichuan's spice philosophy](/en/food/sichuan-spice-story) · [Chongqing hotpot culture](/en/food/chongqing-hotpot-spicy-soul)

@@ -1,5 +1,6 @@
 ﻿---
 title: "The Pipa: How Four Strings Taught China to Tell Stories in Sound"
+description: "The pipa taught China to tell stories in sound — four strings, 2,000 years, and the technique of playing all five fingers simultaneously in cascading notes."
 youtubeId: "M4Ye7AisnFM"
 coverImage: "https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg"
 channel: "Musical Moments - East"
@@ -87,3 +88,5 @@ Its revival began in the 1980s when conservatories reopened and overseas Chinese
 In an era of digital production where any sound can be synthesized, sampled, or auto-tuned, the pipa reminds us that some sounds require human hands. You cannot fake a *lunzhi* tremolo — each finger strike produces micro-variations in timing and dynamics that give the note its living quality. You cannot sample the way a bent string resists and then yields under finger pressure. These are analog experiences in a digital world.
 
 The next time you hear a pipa recording — whether it's the war drums of "Ambush on Ten Sides" or a contemporary fusion piece blending pipa with electronic beats — remember: you're listening to 2,000 years of refinement compressed into four strings and two hands. That's not just music. That's engineering.
+
+**Explore more:** [the erhu's storytelling power](/en/music/inuyasha-erhu)

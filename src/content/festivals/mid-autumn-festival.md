@@ -1,5 +1,6 @@
 ﻿---
 title: "Mid-Autumn Festival — Why the Chinese Look at the Moon and Think of Home"
+description: "Why do 1.4 billion people look at the same full moon and think of home? Mid-Autumn Festival reveals the deepest yearning in Chinese culture."
 youtubeId: "iuzbA2I4KO8"
 coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
 channel: "CGTN"
@@ -63,3 +64,5 @@ It is also the only major Chinese holiday where doing almost nothing is the trad
 In the age of WeChat and high-speed rail, physical distance is smaller than ever. But the emotional geometry of Mid-Autumn has not changed. The round table, the round cake, the round moon — they are all saying the same thing: however far you roam, there is a shape that waits for you to fill it.
 
 Perhaps that is why Mid-Autumn endures while other traditions fade. It does not ask you to believe anything. It only asks you to miss someone — and then gives you permission to say it out loud.
+
+**Explore more:** [mooncakes](/en/food/art-chinese-dumplings) · [tea ceremony traditions](/en/food/gong-fu-tea-ceremony) · [the Qixi love story](/en/festivals/qixi-chinese-valentine)

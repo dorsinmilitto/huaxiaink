@@ -1,5 +1,6 @@
 ﻿---
-title: "紫禁城"
+title: "紫禁城——中国皇帝的9999间宫殿"
+description: "探索紫禁城，这座拥有9999间房屋的帝王宫殿，见证明清两代24位皇帝、500年王朝兴衰。"
 youtubeId: "sHypO2ISPas"
 coverImage: "https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg"
 channel: "Documentary Hub"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '01c6e1f5-590a-40c2-90be-30ba8abf21ba'
-  PropagateID: '01c6e1f5-590a-40c2-90be-30ba8abf21ba'
-  ReservedCode1: 'b298c760-b28b-4353-ba9c-f4c451b284b9'
-  ReservedCode2: 'b298c760-b28b-4353-ba9c-f4c451b284b9'
+  ProduceID: '9d7ad14e-dbe6-429c-aa9b-e6d35b1cb21f'
+  PropagateID: '9d7ad14e-dbe6-429c-aa9b-e6d35b1cb21f'
+  ReservedCode1: 'a523bbbb-41f0-41e4-bb2f-b909fa3cff50'
+  ReservedCode2: 'a523bbbb-41f0-41e4-bb2f-b909fa3cff50'
 ---
 
 ## 按一张图纸造出的宇宙
@@ -61,3 +62,5 @@ AIGC:
 ## 大殿之间的寂静
 
 在游客还没到的黎明来，你能听见皇帝们听过的声音——风穿过庭院，乌鸦蹲在飞檐上，以及一种能把几百年吞下去的安静。左右东亚五百年命运的决定，就在这些殿里做出的。那份分量，安静时反而更清楚。
+
+**Explore more:** [北京烤鸭的宫廷起源](/zh/food/peking-duck-imperial-cuisine) · [宫廷京剧演出](/zh/music/peking-opera-face-of-china) · [长城对京城的防御](/zh/travel/secrets-great-wall)

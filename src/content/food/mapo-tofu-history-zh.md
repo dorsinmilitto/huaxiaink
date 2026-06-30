@@ -1,5 +1,6 @@
 ﻿---
 title: "麻婆豆腐：让世界着迷的川菜之魂"
+description: "麻婆豆腐1862年点燃四川——然后征服世界。麻脸婆婆的豆腐如何成为全球最受欢迎的中国菜。"
 youtubeId: "uL_YQMkkbUg"
 coverImage: "https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg"
 channel: "Chinese Cooking Demystified"
@@ -84,3 +85,5 @@ AIGC:
 坐下来。碗来了，一湖红油，几块豆腐似白玉浮沉，牛肉末如碎金铺底。蒸汽带着花椒的柑橘气和豆瓣酱的焦香扑面。你夹起一块豆腐——它在筷尖晃了一下，差点滑回去。入口。先是麻，嘴唇震动如触电；然后是辣，从舌根烧到喉咙；再然后是肉末的焦香和酱的深邃；最后，豆腐的温凉在口腔里散开，压住一切，等下一口。
 
 这就是麻婆豆腐。它不安慰人，不讨好舌头。它把你叫醒——粗暴地、快乐地、彻底地——然后你发现，你对"好吃"的理解，从这碗开始就不一样了。
+
+**Explore more:** [川辣哲学](/zh/food/sichuan-spice-story) · [重庆火锅文化](/zh/food/chongqing-hotpot-spicy-soul)

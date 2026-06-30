@@ -1,5 +1,6 @@
 ﻿---
 title: "Dragon Boat Festival — How a Poet's Grief Became China's Most Exciting Holiday"
+description: "Dragon Boat Festival turned a poet's tragic drowning into China's most exciting holiday — zongzi, dragon boats, and 2,000 years of remembrance."
 youtubeId: "oKHLDPuI98Q"
 coverImage: "https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg"
 channel: "Off the Great Wall"
@@ -69,3 +70,5 @@ The drum is the heart of the boat. A single drummer sits at the bow, setting the
 Qu Yuan's story endures because it articulates something that resonates across cultures: the grief of being right and being ignored. Every generation produces its own Qu Yuan — the whistleblower, the Cassandra, the loyal dissident. The Dragon Boat Festival doesn't celebrate his death. It celebrates the fact that people rowed out to save him, that they would not let the river take him quietly.
 
 The holiday takes sorrow and transforms it into noise, speed, and flavor. That alchemy — grief into celebration — may be the most Chinese festival tradition of all.
+
+**Explore more:** [dragon boat racing history](/en/events/dragon-boat-races-ancient-china) · [traditional Chinese drums](/en/music/chinese-drum-heartbeat)

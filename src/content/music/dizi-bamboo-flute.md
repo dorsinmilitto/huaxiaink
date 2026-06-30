@@ -1,5 +1,6 @@
 ﻿---
 title: "The Dizi: One Bamboo Tube, Six Holes, and the Sound of Mountains"
+description: "The dizi — one bamboo tube, six holes, and the sound of Chinese mountains — the flute that's been painting landscapes in sound for 8,000 years."
 youtubeId: "lI1L2l6vi-4"
 coverImage: "https://i.ytimg.com/vi/lI1L2l6vi-4/hqdefault.jpg"
 channel: "Musical Moments - East"
@@ -73,3 +74,5 @@ Today, the dizi is taught worldwide. YouTube videos of dizi performances accumul
 You can buy a beginner dizi for under $15. You can learn to produce a clear note in an afternoon. You can play simple folk songs within a week. But the dizi's simplicity is deceptive. Its six holes contain more possibilities than many instruments with twice as many keys.
 
 The dizi teaches patience. Breath control cannot be rushed. Finger placement must be precise. The membrane must be tended like a living thing. In return, it gives back something rare: the feeling that you are making music not despite your limitations, but through them — one breath, one hole, one membrane vibration at a time.
+
+**Explore more:** [the erhu's emotional range](/en/music/inuyasha-erhu)

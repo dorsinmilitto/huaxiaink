@@ -1,5 +1,6 @@
 ﻿---
 title: "围棋——4000年的黑白博弈，教你什么都学不到（却学到了一切）"
+description: "围棋是四千年的黑白领土战争——一种教你战略、耐心和知道何时认输的棋盘艺术。"
 youtubeId: "oZTdT8MQexk"
 coverImage: "https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg"
 channel: "Go Magic"
@@ -57,3 +58,5 @@ AIGC:
 2016年AlphaGo击败李世石，全世界震惊。但围棋手们做了件出人意料的事：他们研究AlphaGo的棋谱，发现了全新的策略。一个四千年的游戏，居然还有秘密没被揭开。机器没有杀死艺术，反而深化了它。
 
 如今围棋正经历一场安静的复兴。在线平台让任何人都能上手，大学里有围棋社，科技圈大佬把它当思维训练。棋盘还是那张棋盘——361个交叉点，两种颜色，无限可能。
+
+**Explore more:** [中国象棋](/zh/games/xiangqi-chinese-chess) · [古琴的冥想艺术](/zh/music/buran-guqin)

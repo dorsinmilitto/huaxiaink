@@ -1,5 +1,6 @@
 ﻿---
 title: "烤串：中国夜宵摊上的烟火传奇"
+description: "孜然羊肉串在午夜街头滋滋作响——中国夜宵如何把烤串变成深夜文化的灵魂。"
 youtubeId: "V0B8gz7kZTA"
 coverImage: "https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg"
 channel: "Blondie in China"
@@ -80,3 +81,5 @@ AIGC:
 烤串是中国城市化进程里最顽强的食物形式。它不需要门面，不需要执照齐全的厨房，不需要精致的摆盘。一口炭炉、一把签、几味调料，就能在任何一个城市的缝隙里活下来。城管来了收摊，城管走了支起来，第二天烟火照旧。
 
 这股韧性本身就是文化。烤串没有传承体系，没有师徒谱系，没有非物质文化遗产的名号。但它在全国每个城市的夜晚都活着，从吐鲁番到哈尔滨，从上海巷弄到重庆坡道。孜然和炭火的气味，是中国式夜晚的通用语言——闻到这股烟，你就知道，这条街还没有睡。
+
+**Explore more:** [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul) · [重庆8D魔幻城](/zh/travel/chongqing-8d-mountain-city)

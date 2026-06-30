@@ -1,5 +1,6 @@
 ﻿---
 title: "Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the West"
+description: "Black Myth: Wukong made the world read Journey to the West — how a Chinese AAA game reached 15M copies and put Sun Wukong on the global stage."
 youtubeId: "rQW2C4iQwTQ"
 coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
 channel: "NeddyTheNoodle"
@@ -83,3 +84,5 @@ And then there's the silence. The game is full of it — the quiet of a mountain
 For decades, the global gaming industry operated on an unspoken assumption: to reach a worldwide audience, a game needed to strip away culturally specific elements and aim for a "universal" (read: Western) aesthetic. *Black Myth: Wukong* shattered that assumption. It was unapologetically, almost defiantly Chinese — in its story, its art, its music, its philosophy — and the world didn't just accept it. The world lined up at midnight to play it.
 
 The lesson is simple, and it extends far beyond gaming: when you make something with genuine cultural depth, you don't need to translate the culture out of it. You need to make it good enough that the world translates the culture in.
+
+**Explore more:** [Xiangqi — Chinese Chess](/en/games/xiangqi-chinese-chess) · [shadow puppetry's epic storytelling](/en/games/chinese-shadow-puppetry-piying)

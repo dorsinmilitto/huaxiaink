@@ -1,5 +1,6 @@
 ﻿---
 title: "Kunqu Opera — The 600-Year Voice That Refuses to Die"
+description: "Kunqu Opera — the 600-year voice that refuses to die, from Ming dynasty courts to UNESCO's masterpiece list, China's most refined stage art lives on."
 youtubeId: "m1GxmBsxQ1g"
 coverImage: "https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg"
 channel: "自得琴社 Zi De Guqin Studio"
@@ -61,3 +62,5 @@ In 2001, UNESCO declared Kunqu a Masterpiece of the Oral and Intangible Heritage
 Today, there are roughly a dozen professional Kunqu troupes across China. Audiences are small. Performers train for a decade before they're allowed on stage. The economic model barely works. And yet — and this is the part that matters — the voice hasn't stopped. Six hundred years after it first echoed through the gardens of Suzhou, Kunqu is still being sung. Not as a museum piece, but as living art, by people who believe that a melody this refined, this unbearably beautiful, deserves to keep going.
 
 The dreamer in *The Peony Pavilion* came back from the dead for love. Kunqu keeps coming back for the same reason.
+
+**Explore more:** [Peking Opera's theatrical spectacle](/en/music/peking-opera-face-of-china) · [the guqin's ancient voice](/en/music/buran-guqin)

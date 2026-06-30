@@ -1,5 +1,6 @@
 ﻿---
 title: "清明节——中国人如何一年一次与祖先对话"
+description: "清明节——中国人一年一次与祖先对话的日子，扫墓、焚纸、踏青，延续两千五百年的追思仪式。"
 youtubeId: "aZtZlYE5i8M"
 coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
 channel: "China Travel"
@@ -65,3 +66,5 @@ AIGC:
 在一个AI重塑一切的时代，清明顽固地保持着前现代的质感。没有APP能替你烧纸，没有算法能还原坟头那缕檀香的气味。这个节日之所以活着，因为它回答了一个技术永远答不了的问题：走了的人，怎么才能不丢？
 
 中国人的答案简单到近乎笨拙：到场。一年一次，去他们安息的地方，收拾干净，带点吃的，告诉他们你没忘。这是人类发明的最低效的通讯系统——却也是最可靠的。
+
+**Explore more:** [中元节的灵魂仪式](/zh/festivals/ghost-festival-zhongyuan) · [二十四节气历法](/zh/festivals/twenty-four-solar-terms)

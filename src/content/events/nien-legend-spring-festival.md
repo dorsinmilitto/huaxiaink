@@ -1,5 +1,6 @@
 ﻿---
 title: "The Legend of Nien: How a Monster Gave Birth to Chinese New Year"
+description: "The Nien monster once terrorized Chinese villages — until red paper, firecrackers, and lion dances drove it away. The origin story of Chinese New Year."
 youtubeId: "GVPHdFX9iHY"
 coverImage: "https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg"
 channel: "PandaExpressTV"
@@ -63,3 +64,5 @@ Today, nearly two billion people around the world observe some form of Lunar New
 The Nien legend reminds us that traditions don't survive by accident. They survive because they answer something real in the human experience. The fear of winter. The hunger for light. The need to believe that together, we can face down anything.
 
 So the next time you see a dragon dance through city streets, or hear firecrackers split the winter air, remember: you're not just watching a celebration. You're watching a 4,000-year-old victory lap.
+
+**Explore more:** [Spring Festival's 15-day traditions](/en/events/spring-festival-traditions) · [the lion dance tradition](/en/events/chinese-new-year-lion-dance-hong-kong)

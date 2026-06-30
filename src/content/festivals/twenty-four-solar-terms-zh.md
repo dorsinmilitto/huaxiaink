@@ -1,5 +1,6 @@
 ﻿---
 title: "二十四节气：中国人与天地对话的千年历法"
+description: "二十四节气教会中国农民何时播种、收获与庆祝——这套观天四千年的历法体系已被列入联合国非遗名录。"
 youtubeId: "qTrd010vMp8"
 coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
 channel: "UNESCO"
@@ -106,3 +107,5 @@ AIGC:
 联合国把二十四节气列入非遗时，用的评语里有一句值得记住：它"体现了中国人尊重自然、顺应自然的宇宙观"。
 
 在这套历法里，人不是时间的主人，而是时间的读者。你读得懂，就活得顺。读不懂，太阳也不会等你。这种谦逊，是农耕文明给世界留下的最温柔遗产。
+
+**Explore more:** [冬至传统](/zh/festivals/winter-solstice-dongzhi) · [清明的节令意义](/zh/festivals/qingming-tomb-sweeping)

@@ -1,5 +1,6 @@
 ﻿---
 title: "中元节：阴阳交界的七月十五"
+description: "每年七月，阴阳之间的门轰然洞开——中元节揭示一个不惧死亡的文化如何与逝者对话。"
 youtubeId: "7-KQNoDmz8A"
 coverImage: "https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg"
 channel: "ReligionForBreakfast"
@@ -90,3 +91,5 @@ AIGC:
 今天的中国大陆，城市里过中元节的人越来越少，年轻一代对它的印象多来自港式鬼片。但在台湾、马来西亚、新加坡的华人社区，这个节日依然盛大——街头封路搭台唱戏，公司行号集体祭祀，空椅上摆碗筷，请看不见的客人入座。
 
 有些东西不怕旧。一个民族愿意每年花一整个月去想那些不在了的人，这件事本身就值得被记住。中元节不是迷信，是中国人对生死边界最温柔的坚持：我们还记得你，所以你还没有真的走。
+
+**Explore more:** [清明的祭祖仪式](/zh/festivals/qingming-tomb-sweeping) · [皮影戏里的鬼魂角色](/zh/games/chinese-shadow-puppetry-piying)

@@ -1,5 +1,6 @@
 ﻿---
 title: "端午节——一个诗人的悲伤如何变成中国最热血的节日"
+description: "端午节如何将诗人的悲壮殉国变成中国最热血的节日——粽子、龙舟与两千年的家国记忆。"
 youtubeId: "oKHLDPuI98Q"
 coverImage: "https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg"
 channel: "Off the Great Wall"
@@ -69,3 +70,5 @@ AIGC:
 屈原的故事之所以穿越两千年，是因为它说出了某种横跨文化的痛：明明你是对的，但没有人听你。每一代人都有自己的屈原——吹哨人、预言家、忠诚的异见者。端午节不庆祝他的死亡，它庆祝的是有人划着船赶去救他，不肯让江水悄悄吞没他。
 
 把悲伤变成鼓声、变成速度、变成味道——这种"化悲痛为狂欢"的炼金术，大概才是中国节日传统中最深刻的底色。
+
+**Explore more:** [龙舟竞渡的历史](/zh/events/dragon-boat-races-ancient-china) · [传统中国鼓](/zh/music/chinese-drum-heartbeat)

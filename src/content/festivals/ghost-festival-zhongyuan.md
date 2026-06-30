@@ -1,5 +1,6 @@
 ﻿---
 title: "The Ghost Festival: When China Opens the Gates Between Worlds"
+description: "For one month each year, China believes the gates between the living and dead swing open — the Ghost Festival reveals a culture unafraid of mortality."
 youtubeId: "7-KQNoDmz8A"
 coverImage: "https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg"
 channel: "ReligionForBreakfast"
@@ -87,3 +88,5 @@ What survives even in secularized communities is the core emotional truth: that 
 Every culture has traditions around death and memory. Mexico has Día de los Muertos. Ireland has Samhain (the ancestor of Halloween). Japan has Obon. What makes the Chinese Ghost Festival distinctive is its duration — an entire month, not just one night — and its emphasis on active hospitality toward the dead rather than passive remembrance.
 
 You don't need to believe in ghosts to appreciate what the Ghost Festival represents: a civilization's refusal to let go completely, a structured way to feel grief collectively, and a reminder that the dead are only truly gone when no one remembers them anymore.
+
+**Explore more:** [Qingming's ancestor rituals](/en/festivals/qingming-tomb-sweeping) · [shadow puppetry's ghostly characters](/en/games/chinese-shadow-puppetry-piying)

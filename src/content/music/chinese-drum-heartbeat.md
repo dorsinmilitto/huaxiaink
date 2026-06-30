@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese Drum — The Heartbeat Behind Every Festival, Battle, and Dynasty"
+description: "The Chinese drum is the heartbeat behind every festival, battle, and dynasty — from Qin army signals to Spring Festival celebrations, rhythm is power."
 youtubeId: "9NSej1sFr3g"
 coverImage: "https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg"
 channel: "Gary von der Ahé"
@@ -59,3 +60,5 @@ The *Ansai waist drum* (安塞腰鼓) from Shaanxi province is perhaps the most 
 What makes the Chinese drum different from percussion traditions elsewhere isn't the instrument — it's the philosophy behind the rhythm. In Chinese musical thought, the drum doesn't keep time. It *generates* time. Each strike is a moment of creation, not a measurement of something that already exists. The drummer isn't following a beat — they're *becoming* the beat.
 
 This is why, when you hear a large Chinese drum ensemble performing at full intensity, the effect isn't just loud. It's primal. Something in your nervous system recognizes the sound before your mind can analyze it — the same way a newborn recognizes its mother's heartbeat. The Chinese drum has been speaking that language for five thousand years. It hasn't run out of things to say.
+
+**Explore more:** [Dragon Boat racing rhythms](/en/events/dragon-boat-races-ancient-china) · [the suona's festival cry](/en/music/suona-chinese-trumpet)

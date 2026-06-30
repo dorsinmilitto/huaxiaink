@@ -1,5 +1,6 @@
 ﻿---
 title: "The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years"
+description: "The Hanging Temple clings to a cliff face for 1,500 years — a wooden temple suspended 50 meters above ground that integrates Buddhism, Daoism, and Confucianism."
 youtubeId: "Je9Y3pRyfX8"
 coverImage: "https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg"
 channel: "Travel East"
@@ -91,3 +92,5 @@ From the highest platform, the view encompasses the full sweep of the Hengshan m
 The Hanging Temple is not the largest, oldest, or most beautiful religious site in China. But it may be the most audacious. It represents a civilization that looked at a vertical cliff face and said: yes, we can build there. That looked at three competing religious traditions and said: yes, they can share a roof. That looked at a timescale of millennia and said: yes, we can plan for that.
 
 In an age of disposable architecture, the Hanging Temple asks a question we have stopped asking: what if we built things meant to outlast us not by decades, but by dynasties?
+
+**Explore more:** [Fujian Tulou communal architecture](/en/travel/fujian-tulou-earth-building) · [Yellow Mountain](/en/travel/yellow-mountain-huangshan)

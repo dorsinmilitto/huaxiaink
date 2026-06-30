@@ -1,5 +1,6 @@
 ﻿---
-title: "Secrets of the Great Wall"
+title: "Secrets of the Great Wall — 20,000 km of Dynasty, Defeat, and Sticky Rice Mortar"
+description: "Uncover the Great Wall's hidden secrets: sticky rice mortar, beacon tower networks, and 2,000 years of dynasty defense across 20,000 km."
 youtubeId: "quLhkqwtOg8"
 coverImage: "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg"
 channel: "National Geographic"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '5afeadcc-228c-4e87-9b4d-dc366c5b310c'
-  PropagateID: '5afeadcc-228c-4e87-9b4d-dc366c5b310c'
-  ReservedCode1: 'd01f7a6e-eb1c-4745-b0ec-fd1fb28fc2e0'
-  ReservedCode2: 'd01f7a6e-eb1c-4745-b0ec-fd1fb28fc2e0'
+  ProduceID: 'c21cb7f5-3056-4c8a-a43a-aff6a41783b1'
+  PropagateID: 'c21cb7f5-3056-4c8a-a43a-aff6a41783b1'
+  ReservedCode1: '5002a7aa-de92-4d76-beb0-328dc104367a'
+  ReservedCode2: '5002a7aa-de92-4d76-beb0-328dc104367a'
 ---
 
 ## More Than Bricks and Mortar
@@ -63,3 +64,5 @@ That decay has its own strange beauty. Wild wall segments merge with the landsca
 Standing on a Ming watchtower at sunset, watching the wall drop into a valley and climb the next ridge, you understand something no history book conveys. This was not just a barrier. It was a statement — carved into the spine of a continent — that the settled world would not be swept away by the winds of the steppe without a fight.
 
 That fight lasted two millennia. The Wall remains.
+
+**Explore more:** [the Forbidden City's imperial defenses](/en/travel/forbidden-city-beijing) · [Xiangqi's mimicry of border warfare](/en/games/xiangqi-chinese-chess) · [Chinese drum military signals](/en/music/chinese-drum-heartbeat)

@@ -1,5 +1,6 @@
 ﻿---
 title: "When the Erhu Meets Big Fish & Begonia: A Frenchman's Chinese Animation Odyssey"
+description: "A Frenchman plays Big Fish & Begonia on the erhu — when a two-stringed Chinese fiddle meets Studio Ghibli-style animation, the result breaks cultural borders."
 youtubeId: "4CAFafOUyX0"
 coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
 channel: "Eliott Tordo Erhu Player"
@@ -77,3 +78,5 @@ The comments on this video are unusual for YouTube — less noise, more reflecti
 That last comment touches on something real but often unspoken: when an outsider embraces your culture with genuine depth and skill, it doesn't dilute the culture — it validates it. It proves that the culture's value isn't contingent on geography or ethnicity. It's universal, waiting for anyone willing to meet it halfway.
 
 Eliott Tordo met Chinese music halfway. Chinese music met him back. And *Da Yu* — the big fish — leaped.
+
+**Explore more:** [Kunqu Opera's emotional depth](/en/music/kunqu-opera-peony-pavilion)

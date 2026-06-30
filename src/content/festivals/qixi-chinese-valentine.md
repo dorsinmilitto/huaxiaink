@@ -1,5 +1,6 @@
 ﻿---
 title: "Qixi — The Love Story Written in the Stars (Literally)"
+description: "Qixi — where two stars separated by the Milky Way meet once a year. The real Chinese Valentine's Day, written in constellations 2,600 years ago."
 youtubeId: "WCbztd58LLE"
 coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
 channel: "chinahighlights"
@@ -65,3 +66,5 @@ The holiday was never just about romance. It was about skill, patience, and the 
 In an age of instant messaging and same-day delivery, the idea of waiting 364 days for a single conversation feels almost absurd. But maybe that is exactly why Qixi resonates. It reminds us that the most powerful connections are not the ones maintained by convenience — they are the ones that survive absence.
 
 Zhinü and Niulang do not get a happy ending. They never move in together, never grow old side by side. What they get is something stranger and arguably more profound: the certainty that across any distance, real love finds a bridge — even if it takes a thousand magpies to build it.
+
+**Explore more:** [Lantern Festival's romantic traditions](/en/festivals/lantern-festival) · [the pipa's love ballads](/en/music/pipa-chinese-lute)

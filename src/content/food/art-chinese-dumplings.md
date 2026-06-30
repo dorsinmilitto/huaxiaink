@@ -1,5 +1,6 @@
 ﻿---
 title: "The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough"
+description: "Chinese dumplings fold 1,800 years of story into dough — from Han dynasty battlefield medicine to the must-have dish of Spring Festival reunion dinners."
 youtubeId: "EcqqhQqemxU"
 coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
 channel: "Tasty"
@@ -65,3 +66,5 @@ This is why dumplings taste better at home than in restaurants. It's not the rec
 Zhang Zhongjing's original insight — that warmth is medicine — remains the dumpling's deepest truth. Every winter, when temperatures drop and the news is bad, Chinese kitchens fill with flour dust and the quiet concentration of hands folding dough over filling. The stove hisses. Steam fogs the windows. Someone has left the boiling pot too long and three dumplings have burst open — "smiling," older relatives say, which is a kind way of forgiving a mistake.
 
 1,800 years after a doctor handed out ear-shaped dumplings to frozen strangers, the recipe hasn't fundamentally changed. We still wrap warmth in dough. We still hand it to people we love. The shape still means luck, the filling still means care, and the shared work still means you're not alone.
+
+**Explore more:** [Spring Festival reunion dinner](/en/events/spring-festival-traditions) · [Winter Solstice celebrations](/en/festivals/winter-solstice-dongzhi)

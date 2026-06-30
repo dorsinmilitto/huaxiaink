@@ -1,5 +1,6 @@
 ﻿---
 title: "Simon & Garfunkel's Classic, Reborn Through Asian Folk Instruments"
+description: "Simon & Garfunkel's 'Sound of Silence' reborn through Asian folk instruments — when the erhu and dizi cover a Western classic, silence sounds different."
 youtubeId: "QOm1-PFsLv0"
 coverImage: "https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg"
 channel: "Nini Music"
@@ -81,3 +82,5 @@ But you gain:
 - **A reminder that music transcends language.** You don't need to understand English to feel *The Sound of Silence*. And you don't need to understand Chinese to feel this version. The emotion moves across boundaries that words can't cross.
 
 That, ultimately, may be the most faithful translation of all. Simon wrote about the failure of communication — about words that don't reach, sounds that don't connect. Nini Music's answer is: then let the music do what the words can't. Let the instruments speak in a language that bypasses the mind and goes straight to the place where loneliness lives.
+
+**Explore more:** [the erhu's cross-cultural appeal](/en/music/inuyasha-erhu)

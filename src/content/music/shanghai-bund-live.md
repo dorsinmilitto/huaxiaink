@@ -1,5 +1,6 @@
 ﻿---
 title: "Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn"
+description: "Erhu, dizi, and guzheng revive the Shanghai Bund classic — three traditional instruments play the song that defined 1930s Shanghai's golden era."
 youtubeId: "2EhTnwxg9y4"
 coverImage: "https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg"
 channel: "Erhu Peiyao Live Music"
@@ -73,3 +74,5 @@ There's a temptation to think of "traditional" and "pop" as separate categories 
 When Peiyao's ensemble plays it on erhu, dizi, and guzheng, they're not "making it traditional." They're *revealing* what was always there — the traditional bones beneath the pop flesh, the ancient aesthetic principles that the original orchestral arrangement dressed up in Western-style orchestration.
 
 The result is a song that sounds simultaneously older and newer than the original — older because the instruments carry the weight of centuries, newer because stripping away the orchestral dressing makes the melody feel fresh and unguarded. It's a cover that doesn't cover the original; it uncovers it.
+
+**Explore more:** [the pipa's storytelling tradition](/en/music/pipa-chinese-lute)

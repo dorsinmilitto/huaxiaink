@@ -1,5 +1,6 @@
 ﻿---
 title: "香港春节舞狮——农历新年的心跳"
+description: "感受香港春节舞狮的震撼力量——雷鸣般的鼓点与翻腾的醒狮，揭开农历新年最热血的序幕。"
 youtubeId: "Bs0GuU0cUtw"
 coverImage: "https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg"
 channel: "Asia HOT"
@@ -73,3 +74,5 @@ AIGC:
 在屏幕和虚拟娱乐的时代，按照一切逻辑，舞狮应该正在衰落。但它恰恰在增长。香港和全球华人社区的年轻人以前所未有的数量加入舞狮队。社交媒体让这门艺术走向世界——舞狮桩上腾跃的短视频在TikTok上屡屡爆款，让数百万人认识了这个他们从未见过的传统。
 
 原因很简单：舞狮不是博物馆里的展品。它是活的。它在进化、竞争、给人惊喜，而最重要的是——它要求你站在人群中，在骨子里感受鼓点。没有算法能替代那种体验。
+
+**Explore more:** [春节十五天的完整仪式](/zh/events/spring-festival-traditions) · [年兽传说](/zh/events/nien-legend-spring-festival)

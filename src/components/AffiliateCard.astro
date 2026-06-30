@@ -12,7 +12,7 @@ const link = url || (asin ? `https://www.amazon.com/dp/${asin}?tag=huaxiaink-20`
 ---
 
 <div class="affiliate-card">
-  <a href={link} target="_blank" rel="noopener noreferrer sponsored" class="affiliate-card-link">
+  <a href={link} target="_blank" rel="noopener noreferrer sponsored nofollow" class="affiliate-card-link">
     {imageUrl && (
       <div class="affiliate-card-img">
         <img src={imageUrl} alt={title} loading="lazy" width="160" height="160" />

@@ -1,5 +1,6 @@
 ﻿---
 title: "The 24 Solar Terms: The Calendar System That Taught Farmers Everything"
+description: "The 24 Solar Terms taught Chinese farmers when to plant, harvest, and celebrate — a UNESCO-listed calendar system born from 4,000 years of sky-watching."
 youtubeId: "qTrd010vMp8"
 coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
 channel: "UNESCO"
@@ -108,3 +109,5 @@ And yet: the growing interest in seasonal eating, circadian rhythms, and reconne
 UNESCO's recognition in 2016 acknowledged this: the Solar Terms are not just a farming calendar. They are a knowledge system — a way of knowing the world through careful, patient observation, passed down across 80+ generations, still accurate after two millennia.
 
 The next time you notice the first frost, the first thunder of spring, or the particular quality of light that means autumn has truly arrived, remember: Chinese farmers gave that moment a name 2,000 years ago. You're experiencing exactly what they experienced. The sun moves. The earth responds. And somewhere in that dance, we find our place.
+
+**Explore more:** [Winter Solstice traditions](/en/festivals/winter-solstice-dongzhi) · [Qingming's seasonal significance](/en/festivals/qingming-tomb-sweeping)

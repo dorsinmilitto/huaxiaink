@@ -1,5 +1,6 @@
 ﻿---
 title: "当二胡遇见《大鱼海棠》：法国人的中国动画情结"
+description: "法国人用二胡演奏《大鱼海棠》——当两根弦的中国胡琴遇上宫崎骏风格的动画，冲破文化边界。"
 youtubeId: "4CAFafOUyX0"
 coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
 channel: "Eliott Tordo 二胡演奏家"
@@ -92,3 +93,5 @@ Tordo并非独奏。中国东方乐团提供管弦背景——二胡、琵琶、
 最后那条评论触及了一个真实而常未言明的事实：当局外人以真诚的深度和技艺拥抱你的文化，它不是稀释——而是印证。它证明了文化的价值不取决于地理或种族，而是普世的，等待任何愿意走到半途的人。
 
 Eliott Tordo走到了中国音乐的半途。中国音乐也走向了他。而大鱼——跃出了水面。
+
+**Explore more:** [昆曲的情感深度](/zh/music/kunqu-opera-peony-pavilion)

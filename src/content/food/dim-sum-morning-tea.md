@@ -1,5 +1,6 @@
 ﻿---
 title: "Dim Sum — The Morning Ritual That Invented Brunch 200 Years Ago"
+description: "Dim sum invented brunch 200 years before the word existed — the Cantonese morning tea ritual of bamboo baskets, push carts, and steamed perfection."
 youtubeId: "qAqvfxIgCaY"
 coverImage: "https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg"
 channel: "South China Morning Post"
@@ -61,3 +62,5 @@ This precision isn't showmanship. It's the logical endpoint of a culinary tradit
 ## Steam at Home
 
 You don't need a pushcart to bring dim sum into your kitchen. A bamboo steamer over a wok of boiling water reproduces the core technique: gentle, even heat that cooks without drying. Frozen dumplings from any Asian grocery store become genuinely good with ten minutes in a bamboo basket — the steam rehydrates the wrapper and keeps the filling juicy. Stack two tiers and you've got a dim sum spread, no teahouse required.
+
+**Explore more:** [Gong Fu tea ceremony](/en/food/gong-fu-tea-ceremony)

@@ -77,7 +77,7 @@ const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": frontmatter.title,
-  "description": `${frontmatter.title} — ${t(l, 'detail.on')}`,
+  "description": frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`,
   "datePublished": frontmatter.publishedAt.toISOString(),
   "dateModified": frontmatter.publishedAt.toISOString(),
   "author": { "@type": "Organization", "name": "HuaxiaInk", "url": "https://www.huaxiaink.com" },
@@ -89,7 +89,7 @@ const articleSchema = {
   ...(ogImage ? { "image": ogImage } : {}),
 };
 
-const articleDesc = `${frontmatter.title} — ${t(l, 'detail.on')}`;
+const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`;
 ---
 
 <BaseLayout title={frontmatter.title} description={articleDesc} lang={l} image={ogImage}
@@ -127,7 +127,6 @@ const articleDesc = `${frontmatter.title} — ${t(l, 'detail.on')}`;
     </div>
 
     <div class="analysis">
-      <h2>{t(l, 'section.cultural_context')}</h2>
       <Content />
     </div>
 

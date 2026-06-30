@@ -1,5 +1,6 @@
 ﻿---
 title: "Chongqing Hotpot: The Spicy Soul of China's Mountain City"
+description: "Chongqing hotpot drowns everything in numbing chili oil — discover how a码头 workers' meal became the fiery soul of China's mountain city."
 youtubeId: "EewnoXvCzgE"
 coverImage: "https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg"
 channel: "Best Ever Food Review Show"
@@ -79,3 +80,5 @@ Over decades, what began as poverty food became identity food, the way barbecue 
 ## Why You Should Try It
 
 You will sweat. Your lips will swell. You may question your life choices halfway through the first bite of tripe. But if you stay — if you let the numbing pepper and the blazing oil and the communal chaos of a crowded table do their work — you will understand something about Chongqing that no skyline can teach you: this is a city that takes what the world gives it and makes it burn.
+
+**Explore more:** [Chongqing's 8D mountain city](/en/travel/chongqing-8d-mountain-city) · [Sichuan's spice philosophy](/en/food/sichuan-spice-story) · [Mapo Tofu's fiery origins](/en/food/mapo-tofu-history)

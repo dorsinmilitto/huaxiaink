@@ -1,5 +1,6 @@
 ﻿---
 title: "Qingming — How the Chinese Talk to Their Ancestors Once a Year"
+description: "Qingming is when China talks to its ancestors — sweeping tombs, burning paper money, and hiking spring mountains in a 2,500-year ritual of remembrance."
 youtubeId: "aZtZlYE5i8M"
 coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
 channel: "China Travel"
@@ -66,3 +67,5 @@ This duality is what makes Qingming so distinctly Chinese. Death and spring. Gri
 In a country racing toward an AI-driven future, Qingming remains stubbornly analog. No app can burn paper money for you. No algorithm can replicate the smell of incense drifting over a hillside cemetery. The holiday persists because it answers a question that technology never will: how do you stay connected to people who are gone?
 
 The Chinese answer is simple. You show up. Once a year, you go to where they are, clean the place up, bring them some food, and tell them you haven't forgotten. It is the least efficient communication system ever invented — and somehow the most reliable.
+
+**Explore more:** [Ghost Festival's spirit rituals](/en/festivals/ghost-festival-zhongyuan) · [the 24 Solar Terms calendar](/en/festivals/twenty-four-solar-terms)

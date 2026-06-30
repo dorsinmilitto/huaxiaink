@@ -1,5 +1,6 @@
 ﻿---
 title: "When a Chinese Guzheng and a Western Cello Meet on 'Lemon Tree'"
+description: "A Chinese guzheng and Western cello meet on 'Lemon Tree' — when East and West jam on the same Paris street corner, music needs no translation."
 youtubeId: "lfZcIe4s0C4"
 coverImage: "https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg"
 channel: "Pengpeng Jingxuan Guzheng"
@@ -74,3 +75,5 @@ This is cultural exchange in its most organic form: not curated by institutions,
 Jingxuan and Felix's *Lemon Tree* is a small, perfect example of what happens when we stop thinking of musical traditions as sealed rooms and start thinking of them as doors. The guzheng doesn't lose its Chinese identity by playing a German pop song — it demonstrates that its identity is more flexible, more generous, more universal than anyone assumed.
 
 As one YouTube commenter put it: "I never knew I needed to hear a Chinese harp play '90s European pop, but here we are, and it's perfect."
+
+**Explore more:** [guzheng beat-dropping](/en/music/dangchao-guzheng)

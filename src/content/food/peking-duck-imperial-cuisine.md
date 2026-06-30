@@ -1,5 +1,6 @@
 ﻿---
 title: "Peking Duck — From the Emperor's Kitchen to the World's Table"
+description: "Peking Duck traveled from the Ming emperor's kitchen to every world capital — 600 years of roasting perfection behind China's most iconic dish."
 youtubeId: "Bkt0FAOWpgc"
 coverImage: "https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg"
 channel: "saintcavish"
@@ -61,3 +62,5 @@ Today, a new generation of Beijing chefs is pushing back. Some return to the clo
 ## Bring the Wok Home
 
 You won't roast a duck in a home oven the way a Beijing master does, but you can capture some of that magic with a smoking-hot carbon steel wok. The same high-heat, fast-render principle that crisps duck skin also sears vegetables, scrambles eggs, and flash-fries noodles with that elusive *wok hei* — the breath of the wok that makes Chinese home cooking taste like restaurant food.
+
+**Explore more:** [the Forbidden City's imperial kitchens](/en/travel/forbidden-city-beijing) · [imperial Peking Opera performances](/en/music/peking-opera-face-of-china)

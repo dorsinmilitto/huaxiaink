@@ -1,5 +1,6 @@
 ﻿---
 title: "中秋节——为什么中国人看到月亮就想家"
+description: "为什么14亿人仰望同一轮圆月就想家？中秋节揭示中国文化中最深的乡愁。"
 youtubeId: "iuzbA2I4KO8"
 coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
 channel: "CGTN"
@@ -63,3 +64,5 @@ AIGC:
 微信、高铁让物理距离缩小了，但中秋的情感几何从未改变。圆桌、圆饼、圆月——它们说的是同一件事：不管你走多远，总有一个形状在等你回来填满它。
 
 也许这就是中秋节长盛不衰的原因。它不要求信仰，只要求你想一个人——然后允许你说出口。
+
+**Explore more:** [月饼](/zh/food/art-chinese-dumplings) · [功夫茶道](/zh/food/gong-fu-tea-ceremony) · [七夕爱情故事](/zh/festivals/qixi-chinese-valentine)

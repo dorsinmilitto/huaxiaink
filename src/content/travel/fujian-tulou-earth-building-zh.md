@@ -1,5 +1,6 @@
 ﻿---
 title: "福建土楼：大山深处的圆形城堡"
+description: "福建土楼——800人共居一座圆形土堡，被列为世界遗产的家族防御堡垒传承六百年。"
 youtubeId: "0nZue4_ceSY"
 coverImage: "https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
@@ -74,3 +75,5 @@ AIGC:
 如今，田螺坑的"四菜一汤"、河坑的北斗七星、裕昌楼的倾斜回廊，都已成为游人趋之若鹜的风景。但土楼最动人的时刻，不是无人机航拍的全景，而是清晨楼井中飘出的粥香，老人倚门晒太阳的闲淡，孩子在回廊追逐的笑声。那些世代居住其中的客家人，才是土楼真正的灵魂。
 
 离开南靖与永定的盘山公路上，回头望去，土楼隐入暮色与梯田之间，像大地长出的器官，与山川浑然一体。这种嵌入感，是任何现代建筑都无法复制的——因为土楼不是被放置在风景中的，它本身就是风景。
+
+**Explore more:** [悬空寺的建筑奇迹](/zh/travel/hanging-temple-xuankong-si) · [麻将的集体传统](/zh/games/chinese-mahjong-culture)

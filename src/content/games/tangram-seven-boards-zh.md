@@ -1,5 +1,6 @@
 ﻿---
 title: "七巧板：七块木板拼出的千年智慧"
+description: "七块木板在欧几里得之前就教会中国几何——七巧板如何用三千年锻炼空间思维。"
 youtubeId: "X5mc-dkYLfI"
 coverImage: "https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg"
 channel: "mathverick"
@@ -66,3 +67,5 @@ AIGC:
 ## 重返手心的温度
 
 在数字游戏充斥生活的今天，七巧板似乎显得过于安静。然而恰恰是这份安静，让它重新获得了意义。当手指触摸木板的纹理，当目光跟随形状的转换，一种缓慢而专注的思考方式被唤醒。许多教育者重新发现了七巧板在培养空间思维和几何直觉方面的价值。从宋代的燕几到今日课堂上的教具，七巧板走过了千年，它始终在做同一件事——用最简单的碎片，启发人们对整体与部分、有限与无限的永恒思考。
+
+**Explore more:** [围棋策略](/zh/games/weiqi-ancient-game-of-go)

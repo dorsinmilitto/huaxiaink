@@ -1,5 +1,6 @@
 ﻿---
-title: "Zhangjiajie Avatar Mountains"
+title: "Zhangjiajie: The Real Floating Mountains That Inspired Avatar"
+description: "Discover Zhangjiajie's quartzite pillar peaks — the real-life floating mountains that inspired James Cameron's Avatar Hallelujah Mountains."
 youtubeId: "Na3ToBLUfFk"
 coverImage: "https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg"
 channel: "Wonder World"
@@ -28,10 +29,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'cf6889c6-ae8c-46a5-ae5a-98c1be49d9cb'
-  PropagateID: 'cf6889c6-ae8c-46a5-ae5a-98c1be49d9cb'
-  ReservedCode1: '284a04a6-cf5f-4f3c-b2fe-5a153768b168'
-  ReservedCode2: '284a04a6-cf5f-4f3c-b2fe-5a153768b168'
+  ProduceID: '5f9589a1-284e-457e-bf49-cd3b657c7fa4'
+  PropagateID: '5f9589a1-284e-457e-bf49-cd3b657c7fa4'
+  ReservedCode1: '652eb2ee-5f00-4ea4-82e0-b4acb5eceda6'
+  ReservedCode2: '652eb2ee-5f00-4ea4-82e0-b4acb5eceda6'
 ---
 
 ## Stone Pillars That Defy Explanation
@@ -57,3 +58,5 @@ The bridge was designed by architect Haim Dotan to be invisible from a distance 
 Long before Avatar or glass bridges, the Tujia people lived in these valleys. Their stilted wooden houses, woven brocade, and baishou dance predate the park by centuries. The Tujia name for the pillars translates roughly to "the stones that grow from the earth," a description that captures the organic quality these formations share with living things.
 
 Tourism has reshaped Tujia life — some villages now exist primarily as cultural exhibits — but the underlying relationship between people and mountain remains. In Tujia cosmology, every peak has a spirit. Whether you call it Hallelujah Mountain or something older, the spirit is still watching.
+
+**Explore more:** [Yellow Mountain's sea-of-clouds landscapes](/en/travel/yellow-mountain-huangshan) · [the guqin's nature-inspired melodies](/en/music/buran-guqin)

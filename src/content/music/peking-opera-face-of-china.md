@@ -1,5 +1,6 @@
 ﻿---
 title: "Peking Opera — The Art of Becoming Someone Else"
+description: "Peking Opera is the art of becoming someone else — painted faces, acrobatic combat, and falsetto singing in a 200-year tradition of total transformation."
 youtubeId: "yzAdZDK4XKA"
 coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
 channel: "CrashCourse"
@@ -59,3 +60,5 @@ Here's the uncomfortable truth: Peking Opera has been declared "endangered" more
 But something interesting is happening. Contemporary Chinese artists are pulling Peking Opera apart and reassembling it in unexpected places — electronic music incorporating opera vocal techniques, fashion designers using face-paint motifs on runway collections, filmmakers choreographing fight scenes that owe more to *chang nian zuo da* than to Hong Kong action cinema.
 
 The art of becoming someone else — through paint, through movement, through voice — turns out to be endlessly adaptable. The faces change. The transformation doesn't.
+
+**Explore more:** [Kunqu Opera's older tradition](/en/music/kunqu-opera-peony-pavilion) · [shadow puppetry's visual storytelling](/en/games/chinese-shadow-puppetry-piying) · [Peking Duck from the emperor's kitchen](/en/food/peking-duck-imperial-cuisine)

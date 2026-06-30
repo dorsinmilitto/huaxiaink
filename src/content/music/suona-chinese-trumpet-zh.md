@@ -1,5 +1,6 @@
 ﻿---
 title: "唢呐：百乐之王的狂放与深情"
+description: "唢呐是百乐之王——婚礼的红、丧礼的白，一千七百年来一个铜碗震碎所有耳膜。"
 youtubeId: "FYbNqSXZPd0"
 coverImage: "https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg"
 channel: "CGTN"
@@ -70,3 +71,5 @@ AIGC:
 ## 老调新声：唢呐的当代变奏
 
 曾几何时，唢呐被视为"土气"的象征，年轻的音乐人避之不及。然而近年来的文化回归与国潮复兴，让唢呐迎来了意想不到的"出圈"时刻。从摇滚乐队中唢呐撕裂般的前奏，到短视频平台上唢呐翻奏流行曲的病毒式传播，这件古老的乐器正在以最野性的方式重新闯入大众视野。它不需要被"高雅化"，不需要被重新包装——唢呐的力量恰恰在于它的粗粝与真实，在于那种从泥土里长出来、向苍穹怒吼的生命力。百乐之王从未退位，它只是在等一个新的时代来接住它的声浪。
+
+**Explore more:** [中国鼓传统](/zh/music/chinese-drum-heartbeat) · [中元节仪式](/zh/festivals/ghost-festival-zhongyuan)

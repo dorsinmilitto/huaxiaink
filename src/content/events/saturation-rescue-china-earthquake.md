@@ -1,5 +1,6 @@
 ﻿---
 title: "Saturation Rescue: How China Rewrites the Rules of Disaster Response"
+description: "How China's 'saturation rescue' doctrine deploys overwhelming resources to save lives in earthquakes — redefining disaster response worldwide."
 youtubeId: "AaXYmt6qrbM"
 coverImage: "https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg"
 channel: "Al Jazeera English"
@@ -77,3 +78,5 @@ Beneath the logistics and doctrine lies something older than any modern state. C
 "一方有难，八方支援" — "When one place is in trouble, help comes from all eight directions." This isn't a government slogan. It's a 2,000-year-old Chinese proverb that predates every modern institution. Saturation rescue is simply this ancient principle, scaled to the capacity of a 21st-century state.
 
 The equipment is modern. The instinct is not.
+
+**Explore more:** [the Great Wall's military defense systems](/en/travel/secrets-great-wall)

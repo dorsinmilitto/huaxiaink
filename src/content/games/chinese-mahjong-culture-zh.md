@@ -1,5 +1,6 @@
 ﻿---
 title: "麻将——塑造中国人社交生活的国粹"
+description: "麻将塑造了中国人的社交生活——从清代沙龙到家庭客厅，150年来一直在洗牌人际关系。"
 youtubeId: "qpYF-xmNMew"
 coverImage: "https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg"
 channel: "South China Morning Post"
@@ -57,3 +58,5 @@ AIGC:
 在手机短视频的时代，麻将不仅没被淘汰，反而焕发了新生。国内在线麻将平台拥有数亿用户。年轻白领周末组局，和祖辈没什么两样——只不过现在用微信约局、用APP记分。牌声被数字化了，但那张桌上的社交契约，从未改变。
 
 也许这就是麻将真正的天才之处：它从来不只是牌，而是围坐在桌边的人——喝茶、聊天、传闲话，安安静静地守护着一种没有科技能替代的社交传统。
+
+**Explore more:** [春节家庭聚会](/zh/events/spring-festival-traditions) · [功夫茶道传统](/zh/food/gong-fu-tea-ceremony)

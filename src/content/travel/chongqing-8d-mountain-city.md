@@ -1,5 +1,6 @@
 ﻿---
 title: "Chongqing: The 8D City Where Physics Goes to Die"
+description: "Chongqing is the 8D city where physics goes to die — buildings stacked on bridges, trains through apartments, and streets on rooftops in China's cyberpunk mountain city."
 youtubeId: "IbnSuon2nrI"
 coverImage: "https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg"
 channel: "CoolVision"
@@ -77,3 +78,5 @@ Chongqing is the answer to a question the world hasn't fully asked yet: what hap
 The answer is: it works. The subway runs. The food is legendary. The nightlife is electric. The 32 million people go about their lives with the same mundane rhythm as any city dweller anywhere — except their commute might involve a train through a building, a bridge over a river that's also over a road that's also over a mall.
 
 Chongqing proves that human adaptation has no ceiling. Given enough necessity and enough will, we will build a city anywhere — even on a mountain, even in the fog, even when the laws of physics politely suggest we don't.
+
+**Explore more:** [Chongqing hotpot](/en/food/chongqing-hotpot-spicy-soul) · [Sichuan's spice culture](/en/food/sichuan-spice-story)

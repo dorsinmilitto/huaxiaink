@@ -1,5 +1,6 @@
 ﻿---
 title: "中国鼓——每个节日、每场战役和每个王朝背后的心跳"
+description: "中国鼓是每个节日、战役和王朝的心跳——从秦军信号到春节庆典，鼓声即是权力。"
 youtubeId: "9NSej1sFr3g"
 coverImage: "https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg"
 channel: "Gary von der Ahé"
@@ -59,3 +60,5 @@ AIGC:
 中国鼓区别于其他打击乐传统的地方，不在于乐器本身——在于节奏背后的哲学。中国音乐思维中，鼓不是打拍子，而是*生成*时间。每一击是一个创造的时刻，不是对已存在之物的度量。鼓手不是在跟节拍——他们*就是*节拍。
 
 这就是为什么，当你听到大型中国鼓队在全力演奏时，效果不只是响——而是原始。你的神经系统里有什么东西在声音被大脑分析之前就认出了它——像新生儿认出母亲心跳一样。中国鼓用这种语言说话，已经说了五千年，还没有说完。
+
+**Explore more:** [龙舟竞渡的鼓点](/zh/events/dragon-boat-races-ancient-china) · [唢呐的节庆呐喊](/zh/music/suona-chinese-trumpet)

@@ -1,5 +1,6 @@
 ﻿---
 title: "Three Gorges: The Dam That Reshaped a River and a Civilization"
+description: "Three Gorges Dam reshaped the Yangtze River and a civilization — the world's largest hydro project that displaced millions and generated enough power for a nation."
 youtubeId: "gBobfHlvAVc"
 coverImage: "https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg"
 channel: "Lifeder"
@@ -75,3 +76,5 @@ The Three Gorges Dam is China's most visible declaration that nature can be mast
 Peter Hessler, who lived in Fuling on the Yangtze for two years, wrote: "The river was the only thing that moved. Everything else was still — the city, the people, the economy. But the river was always going somewhere." The Three Gorges Dam tried to stop that motion. It succeeded, partly. And the river, partly, continues to go somewhere anyway.
 
 To cruise through the Three Gorges today is to sit between these two truths: that humans can reshape the earth, and that the earth, reshaped, still feels like something that was here before us and will be here after.
+
+**Explore more:** [the Li River's karst landscapes](/en/travel/li-river-guilin-karst) · [Chongqing at the gorge's doorstep](/en/travel/chongqing-8d-mountain-city)

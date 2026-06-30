@@ -1,5 +1,6 @@
 ﻿---
 title: "昆曲——600年不肯消逝的中国雅音"
+description: "昆曲——六百年不肯消逝的中国雅音，从明代宫廷到联合国非遗名录，最精致的舞台艺术生生不息。"
 youtubeId: "m1GxmBsxQ1g"
 coverImage: "https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg"
 channel: "自得琴社 Zi De Guqin Studio"
@@ -61,3 +62,5 @@ AIGC:
 如今全国专业昆曲院不过十余家，观众稀少，演员要训练十年才能登台，经济模式勉强运转。然而——这是关键部分——声音从未停止。六百年前苏州园林中回荡的那个声音，至今仍在被唱响。不是作为博物馆藏品，而是作为活的艺术，由相信这般精致、这般美到不可承受的旋律值得延续的人们守护。
 
 牡丹亭中的梦中人为爱还魂。昆曲不断复生，也是出于同样的理由。
+
+**Explore more:** [京剧的视觉奇观](/zh/music/peking-opera-face-of-china) · [古琴的千年音色](/zh/music/buran-guqin)

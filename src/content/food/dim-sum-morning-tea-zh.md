@@ -1,5 +1,6 @@
 ﻿---
 title: "早茶点心——200年前发明Brunch的晨间仪式"
+description: "点心在Brunch这个词出现前两百年就发明了早茶——竹笼、推车、蒸笼里的广式晨间仪式。"
 youtubeId: "qAqvfxIgCaY"
 coverImage: "https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg"
 channel: "South China Morning Post"
@@ -61,3 +62,5 @@ AIGC:
 ## 在家蒸出茶楼味
 
 没有推车也能在家复刻点心。一口炒锅烧开水，架上竹蒸笼，就是点心的核心技术——温和均匀的蒸汽把食物煮透但不烤干。超市冷柜的速冻饺子放进竹笼蒸十分钟，口感就能脱胎换骨：蒸汽让皮回软、馅锁汁。叠两层蒸笼，一壶茶，不需要茶楼也能吃出一整个早晨的从容。
+
+**Explore more:** [功夫茶道](/zh/food/gong-fu-tea-ceremony)

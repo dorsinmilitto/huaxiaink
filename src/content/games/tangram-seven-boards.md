@@ -1,5 +1,6 @@
 ﻿---
 title: "Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid"
+description: "Seven wooden pieces taught China geometry before Euclid — the tangram puzzle that's been shaping spatial thinking for 3,000 years and counting."
 youtubeId: "X5mc-dkYLfI"
 coverImage: "https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg"
 channel: "mathverick"
@@ -75,3 +76,5 @@ Digital versions of the tangram number in the thousands across app stores. Physi
 Competitive tangram solving exists. The World Puzzle Championship includes tangram categories. Speed-solvers can assemble complex figures in under 30 seconds. The current record for solving 10 random tangram figures stands at under 4 minutes.
 
 Yet the original appeal remains unchanged: seven simple pieces, a flat surface, and the quiet satisfaction of finding order in chaos. In a world of infinite digital entertainment, the tangram endures because it does something screens cannot — it puts geometry in your hands.
+
+**Explore more:** [Weiqi (Go) strategy](/en/games/weiqi-ancient-game-of-go)

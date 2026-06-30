@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese Shadow Puppetry: The World's Oldest Animation, Still Alive"
+description: "Shadow puppetry is the world's oldest animation — behind a lit screen, leather figures have told Chinese epics for 2,000 years before Disney existed."
 youtubeId: "8-mzqxZNp2g"
 coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
 channel: "UNESCO"
@@ -87,3 +88,5 @@ UNESCO's recognition in 2011 triggered government funding for preservation progr
 You don't need to be a master puppeteer to experience shadow puppetry. DIY kits exist that let you cut your own figures from cardstock, build a simple frame with a flashlight, and tell your own stories. Children who grow up making shadows on bedroom walls are participating in a tradition older than Christianity.
 
 The next time you see your own shadow on a sidewalk at sunset, remember: someone, somewhere, spent twenty years learning how to make that shadow tell a story.
+
+**Explore more:** [Peking Opera's visual storytelling](/en/music/peking-opera-face-of-china) · [Ghost Festival traditions](/en/festivals/ghost-festival-zhongyuan)

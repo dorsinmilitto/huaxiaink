@@ -1,5 +1,6 @@
 ﻿---
 title: "The Li River: Where Chinese Landscape Painting Comes Alive"
+description: "The Li River is where Chinese landscape painting comes alive — Guilin's karst peaks, bamboo rafts, and misty waters have inspired poets for 1,500 years."
 youtubeId: "EIrV9JX5_mA"
 coverImage: "https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg"
 channel: "TRACKS - Travel Documentaries"
@@ -77,3 +78,5 @@ The Li River has been commercialized. Tourist boats discharge waste into the wat
 And yet: stand on any riverbank at dawn, before the boats arrive, when the mist still clings to the peaks and the only sound is water against stone, and you will understand why people have been coming here for 1,500 years. Not because it's beautiful — though it is — but because it feels like a place where the boundary between earth and sky, between solid and fluid, between real and imagined, dissolves completely.
 
 That is what the Li River offers: not just a view, but a way of seeing.
+
+**Explore more:** [Yellow Mountain's ink-painting landscapes](/en/travel/yellow-mountain-huangshan) · [the dizi's mountain melodies](/en/music/dizi-bamboo-flute)

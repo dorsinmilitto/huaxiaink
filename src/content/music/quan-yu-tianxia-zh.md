@@ -1,5 +1,6 @@
 ﻿---
 title: "当古筝与鼓拆掉虚拟歌姬的帝国"
+description: "古筝与鼓拆掉虚拟歌姬的帝国——当中国传统乐器演奏虚拟歌手名曲，真实与数字的辩论被点燃。"
 youtubeId: "IxM1tjTvFAc"
 coverImage: "https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg"
 channel: "Saberbutterfly"
@@ -76,3 +77,5 @@ saberbutterfly的翻奏完全移除了虚拟歌手，代之以两件本身就是
 - "原曲令人赞叹。翻奏令人*动容*。"
 
 打动人的不只是技术（尽管saberbutterfly技术精湛），而是这个启示：一首为电脑创作的歌，经过人手与木弦的转导，竟能承载如此真实的情感重量。Vocaloid原作展示了技术*能做什么*。翻奏展示了音乐*需要什么*——一个身体，呼吸、用力、实时做选择。
+
+**Explore more:** [古筝演奏技艺](/zh/music/dangchao-guzheng)
