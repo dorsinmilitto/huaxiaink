@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://www.huaxiaink.com',
+  compressHTML: true,
   integrations: [sitemap({
     i18n: {
       defaultLocale: 'en',

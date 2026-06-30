@@ -25,9 +25,24 @@ const videos = entries.map(e => ({
   slug: e.data.lang === 'zh' ? e.slug.replace(/-zh$/, '') : e.slug,
   category,
 })).sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
+
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": t(l, `cat.${category}` as any),
+  "description": t(l, `cat.${category}.desc` as any),
+  "numberOfItems": videos.length,
+  "itemListElement": videos.slice(0, 10).map((v: any, i: number) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "url": `https://www.huaxiaink.com/${l}/${category}/${v.slug}`,
+    "name": v.title,
+  })),
+};
 ---
 
 <BaseLayout title={t(l, `cat.${category}` as any)} description={t(l, `cat.${category}.desc` as any)} lang={l}>
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
   <div class="category-header">
     <div class="seal">{t(l, `seal.${category}` as any)}</div>
     <h1>{t(l, `cat.${category}` as any)}</h1>
