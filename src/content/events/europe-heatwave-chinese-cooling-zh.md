@@ -13,30 +13,30 @@ affiliate:
     asin: "B0BCPFWW5M"
     url: "https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg"
-    price: ".99"
+    price: "$14.99"
   - title: "WEARXI 4把装中式折叠扇-丝绸竹骨手持扇"
     asin: "B09WY5MK6Y"
     url: "https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81n2dKqNJFL._AC_UL640_.jpg"
-    price: ".99"
+    imageUrl: "https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg"
+    price: "$9.99"
   - title: "AmyHomie冰丝凉毯-100%竹源人造丝夏季降温毯"
     asin: "B08TTFHX7W"
     url: "https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg"
-    price: ".99"
+    price: "$19.99"
   - title: "Bedsure冰丝夏季凉毯-竹源人造丝柔滑降温毯"
     asin: "B0BR567SS3"
     url: "https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qZ-LqjR2L._AC_UL640_.jpg"
-    price: ".99"
+    imageUrl: "https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg"
+    price: "$22.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '37379729-a520-4e1d-b5cd-fb0268da6626'
-  PropagateID: '37379729-a520-4e1d-b5cd-fb0268da6626'
-  ReservedCode1: '417b70bc-d397-44d1-a363-c459b3ca7214'
-  ReservedCode2: '417b70bc-d397-44d1-a363-c459b3ca7214'
+  ProduceID: 'd6616d59-367d-49a3-8694-174cc03d5cf1'
+  PropagateID: 'd6616d59-367d-49a3-8694-174cc03d5cf1'
+  ReservedCode1: '0deb9b7e-4ed1-44ef-8721-f92332616ee2'
+  ReservedCode2: '0deb9b7e-4ed1-44ef-8721-f92332616ee2'
 ---
 
 ## 当45度高温遇上500年古建筑

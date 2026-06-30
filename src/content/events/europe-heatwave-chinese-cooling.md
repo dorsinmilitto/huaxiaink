@@ -13,30 +13,30 @@ affiliate:
     asin: "B0BCPFWW5M"
     url: "https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg"
-    price: ".99"
+    price: "$14.99"
   - title: "WEARXI 4 PCS Chinese Folding Fan for Women - Silk Bamboo Hand Held Fan"
     asin: "B09WY5MK6Y"
     url: "https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81n2dKqNJFL._AC_UL640_.jpg"
-    price: ".99"
+    imageUrl: "https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg"
+    price: "$9.99"
   - title: "AmyHomie Cooling Blanket - 100% Rayon Derived from Bamboo for Hot Sleepers"
     asin: "B08TTFHX7W"
     url: "https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg"
-    price: ".99"
+    price: "$19.99"
   - title: "Bedsure Silky Soft Summer Cooling Blanket - Rayon Derived from Bamboo"
     asin: "B0BR567SS3"
     url: "https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qZ-LqjR2L._AC_UL640_.jpg"
-    price: ".99"
+    imageUrl: "https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg"
+    price: "$22.99"
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '07268e2b-1848-4c7f-9317-779147eb0d1c'
-  PropagateID: '07268e2b-1848-4c7f-9317-779147eb0d1c'
-  ReservedCode1: 'c90af483-b48b-47ba-aad0-afe22b063ed5'
-  ReservedCode2: 'c90af483-b48b-47ba-aad0-afe22b063ed5'
+  ProduceID: '804edfc9-42b3-47c7-9370-61419481503e'
+  PropagateID: '804edfc9-42b3-47c7-9370-61419481503e'
+  ReservedCode1: '354ad1d1-79be-4fc9-aa9c-4ef197655506'
+  ReservedCode2: '354ad1d1-79be-4fc9-aa9c-4ef197655506'
 ---
 
 ## When 45 Degrees Meets 500-Year-Old Architecture
