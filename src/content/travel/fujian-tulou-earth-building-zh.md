@@ -1,6 +1,7 @@
----
+﻿---
 title: "福建土楼：大山深处的圆形城堡"
 youtubeId: "0nZue4_ceSY"
+coverImage: "https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
 duration: "22:18"
 publishedAt: 2023-01-26
@@ -19,7 +20,7 @@ affiliate:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$24.99"
   - title: "Hakka Culture History Book - Migration and Architecture"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$29.50"
@@ -43,7 +44,7 @@ AIGC:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$24.99"
   - title: "Hakka Culture History Book - Migration and Architecture"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$29.50"

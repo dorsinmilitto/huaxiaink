@@ -1,6 +1,7 @@
----
+﻿---
 title: "Peking Opera — The Art of Becoming Someone Else"
 youtubeId: "yzAdZDK4XKA"
+coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
 channel: "CrashCourse"
 duration: "12:08"
 publishedAt: 2019-08-30

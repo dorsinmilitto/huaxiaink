@@ -1,6 +1,7 @@
----
+﻿---
 title: "黑神话：悟空——一款中国游戏如何让全世界开始读西游记"
 youtubeId: "rQW2C4iQwTQ"
+coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
 channel: "NeddyTheNoodle"
 duration: "1:03:50"
 publishedAt: 2024-09-20

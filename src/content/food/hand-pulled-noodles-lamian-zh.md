@@ -1,6 +1,7 @@
----
+﻿---
 title: "手工拉面：三千年揉捏出的面食绝技"
 youtubeId: "E_TMp6w8MkU"
+coverImage: "https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg"
 channel: "Topic"
 duration: "16:12"
 publishedAt: 2018-09-11

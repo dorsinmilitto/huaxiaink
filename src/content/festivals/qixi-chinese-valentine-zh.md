@@ -1,6 +1,7 @@
----
+﻿---
 title: "七夕——写在星星上的爱情故事（字面意义上的）"
 youtubeId: "WCbztd58LLE"
+coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
 channel: "chinahighlights"
 duration: "4:20"
 publishedAt: 2023-08-01

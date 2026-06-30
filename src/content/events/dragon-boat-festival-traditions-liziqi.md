@@ -1,6 +1,7 @@
----
+﻿---
 title: "Dragon Boat Festival Through Liziqi's Eyes — Zongzi, Rice Fields, and a 2,000-Year Memory"
 youtubeId: "vusE2HqaAEY"
+coverImage: "https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg"
 channel: "李子柒 Liziqi"
 duration: "6:07"
 publishedAt: 2019-06-04

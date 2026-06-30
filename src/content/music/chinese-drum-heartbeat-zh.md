@@ -1,6 +1,7 @@
----
+﻿---
 title: "中国鼓——每个节日、每场战役和每个王朝背后的心跳"
 youtubeId: "9NSej1sFr3g"
+coverImage: "https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg"
 channel: "Gary von der Ahé"
 duration: "4:15"
 publishedAt: 2023-06-01

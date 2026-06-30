@@ -65,6 +65,7 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
           tags={featured.tags}
           slug={featured.slug}
           lang={l}
+          coverImage={featured.coverImage}
         />
       </div>
     </section>
@@ -84,6 +85,7 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
             tags={v.tags}
             slug={v.slug}
             lang={l}
+            coverImage={v.coverImage}
           />
         ))}
       </div>

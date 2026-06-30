@@ -1,6 +1,7 @@
----
+﻿---
 title: "Xiangqi — Chinese Chess and the River That Divides Two Kingdoms"
 youtubeId: "vklqOLf6mtU"
+coverImage: "https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg"
 channel: "Xiangqi Chinese Chess"
 duration: "12:38"
 publishedAt: 2020-03-20
@@ -9,17 +10,17 @@ tags: ["xiangqi", "chinese-chess", "strategy", "chinese-game", "river-border", "
 featured: false
 affiliate:
   - title: "GoodPlay Beechwood Chinese Chess Set Xiangqi"
-    asin: B07K42VK4M
+    asin: "B07K42VK4M"
     url: "https://www.amazon.com/dp/B07K42VK4M?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61WF30iLdGL._AC_UL640_.jpg"
     price: "$19.90"
   - title: "15 inch Chinese Chess Set Foldable Board"
-    asin: B08B68RD31
+    asin: "B08B68RD31"
     url: "https://www.amazon.com/dp/B08B68RD31?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61rDsujUcJL._AC_UL640_.jpg"
     price: "$30.99"
   - title: "Traditional Chinese Xiangqi Portable Chess Set"
-    asin: B0BKYZT7VW
+    asin: "B0BKYZT7VW"
     url: "https://www.amazon.com/dp/B0BKYZT7VW?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71EDVAlhNBL._AC_UL640_.jpg"
     price: "$22.99"
@@ -56,11 +57,3 @@ The game's popularity endures because it mirrors something deeply Chinese: the b
 Xiangqi remains one of the most played board games on Earth, with over half a billion players worldwide. Online platforms host professional leagues. China's Xiangxiang supercomputers analyze positions with the same intensity that DeepMind brought to Go. But unlike Go, which carries a spiritual weight, Xiangqi wears its heart on its sleeve — it is war, pure and simple, and everyone understands war.
 
 The river is still there. The generals still face each other. And on a thousand park benches across China, the battle of Chu and Han is fought again every single day.
-
-{{/youtube}}
-
-## Command Your Own Army
-
-Ready to cross the river? These sets will have you deploying chariots and cannons in no time:
-
-{{affiliate}}

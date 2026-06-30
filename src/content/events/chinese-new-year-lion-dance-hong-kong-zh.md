@@ -1,6 +1,7 @@
----
+﻿---
 title: "香港春节舞狮——农历新年的心跳"
 youtubeId: "Bs0GuU0cUtw"
+coverImage: "https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg"
 channel: "Asia HOT"
 duration: "8:00"
 publishedAt: 2019-02-06

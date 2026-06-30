@@ -1,6 +1,7 @@
----
+﻿---
 title: "Zhangjiajie Avatar Mountains"
 youtubeId: "Na3ToBLUfFk"
+coverImage: "https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg"
 channel: "Wonder World"
 duration: "11:24"
 publishedAt: 2024-04-10

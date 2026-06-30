@@ -1,6 +1,7 @@
----
+﻿---
 title: "当二胡遇见《大鱼海棠》：法国人的中国动画情结"
 youtubeId: "4CAFafOUyX0"
+coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
 channel: "Eliott Tordo 二胡演奏家"
 duration: "5:44"
 publishedAt: 2023-01-10

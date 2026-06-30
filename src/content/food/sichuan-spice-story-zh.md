@@ -1,6 +1,7 @@
----
+﻿---
 title: "川辣传奇：一个省份如何把痛苦熬成哲学"
 youtubeId: "e0mW5CJWHWk"
+coverImage: "https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg"
 channel: "Food Ranger"
 duration: "15:42"
 publishedAt: 2024-07-05

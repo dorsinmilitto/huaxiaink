@@ -1,6 +1,7 @@
----
+﻿---
 title: "This Guzheng Player Drops Beats Like a Rapper"
 youtubeId: "HSaJdXxn7zU"
+coverImage: "https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg"
 channel: "Moyun Official"
 duration: "3:38"
 publishedAt: 2021-11-20

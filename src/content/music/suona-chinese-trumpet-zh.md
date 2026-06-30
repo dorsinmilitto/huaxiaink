@@ -1,6 +1,7 @@
----
+﻿---
 title: "唢呐：百乐之王的狂放与深情"
 youtubeId: "FYbNqSXZPd0"
+coverImage: "https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg"
 channel: "CGTN"
 duration: "5:49"
 publishedAt: 2020-12-25

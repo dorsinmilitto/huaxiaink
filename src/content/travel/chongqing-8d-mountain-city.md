@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chongqing: The 8D City Where Physics Goes to Die"
 youtubeId: "IbnSuon2nrI"
+coverImage: "https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg"
 channel: "CoolVision"
 duration: "1:00"
 publishedAt: 2025-06-01
@@ -14,12 +15,12 @@ affiliate:
     imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
     price: "$28.99"
   - title: "LOVEVOOK 40L Travel Backpack"
-    asin: B0CJY9LHK4
+    asin: "B0CJY9LHK4"
     url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg"
     price: "$34.18"
   - title: "coowoz Travel Backpack Waterproof"
-    asin: B0B426KSXP
+    asin: "B0B426KSXP"
     url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
     price: "$23.99"

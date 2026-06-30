@@ -1,6 +1,7 @@
----
+﻿---
 title: "Jianzi: The Chinese Hacky Sack That Predates Football by Two Millennia"
 youtubeId: "JVSC2qmDQjM"
+coverImage: "https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg"
 channel: "CGTN"
 duration: "5:47"
 publishedAt: 2020-12-22

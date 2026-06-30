@@ -1,6 +1,7 @@
----
+﻿---
 title: "二十四节气：中国人与天地对话的千年历法"
 youtubeId: "qTrd010vMp8"
+coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
 channel: "UNESCO"
 duration: "10:00"
 publishedAt: 2016-11-30

@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chinese Drum — The Heartbeat Behind Every Festival, Battle, and Dynasty"
 youtubeId: "9NSej1sFr3g"
+coverImage: "https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg"
 channel: "Gary von der Ahé"
 duration: "4:15"
 publishedAt: 2023-06-01

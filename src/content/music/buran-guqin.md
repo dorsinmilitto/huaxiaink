@@ -1,6 +1,7 @@
----
+﻿---
 title: "When a 3,000-Year-Old Instrument Plays a Pop Drama Theme"
 youtubeId: "h0AAFhx3RmA"
+coverImage: "https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg"
 channel: "Zi De Guqin Studio"
 duration: "4:09"
 publishedAt: 2018-12-27

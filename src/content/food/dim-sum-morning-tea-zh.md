@@ -1,6 +1,7 @@
----
+﻿---
 title: "早茶点心——200年前发明Brunch的晨间仪式"
 youtubeId: "qAqvfxIgCaY"
+coverImage: "https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg"
 channel: "South China Morning Post"
 duration: "7:30"
 publishedAt: 2023-05-15
@@ -9,17 +10,17 @@ tags: ["早茶", "点心", "粤菜", "饮茶", "茶楼", "香港"]
 featured: true
 affiliate:
   - title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket"
-    asin: B09YWK6CWW
+    asin: "B09YWK6CWW"
     url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
     price: "$29.59"
   - title: "Zoie + Chloe Bamboo Steamer Basket 2-Tier"
-    asin: B00WQR9N1M
+    asin: "B00WQR9N1M"
     url: "https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
     price: "$21.99"
   - title: "Empanada/Dumpling Maker Press with Dough Cutter"
-    asin: B0CZ8YS2F9
+    asin: "B0CZ8YS2F9"
     url: "https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg"
     price: "$18.99"

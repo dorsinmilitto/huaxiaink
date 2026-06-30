@@ -1,6 +1,7 @@
----
+﻿---
 title: "The Suona: China's Loudest Instrument and the Sound of Life and Death"
 youtubeId: "FYbNqSXZPd0"
+coverImage: "https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg"
 channel: "CGTN"
 duration: "5:49"
 publishedAt: 2020-12-25

@@ -1,6 +1,7 @@
----
+﻿---
 title: "燕云十六声：一款中国武侠游戏如何征服全球1500万玩家"
 youtubeId: "cpY_JFJRA9Q"
+coverImage: "https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg"
 channel: "IGN"
 duration: "2:18"
 publishedAt: 2025-11-15

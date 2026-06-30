@@ -1,6 +1,7 @@
----
+﻿---
 title: "Mid-Autumn Festival — Why the Chinese Look at the Moon and Think of Home"
 youtubeId: "iuzbA2I4KO8"
+coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
 channel: "CGTN"
 duration: "24:58"
 publishedAt: 2024-09-15

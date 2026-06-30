@@ -1,6 +1,7 @@
----
+﻿---
 title: "漓江：山水甲天下的千年画卷"
 youtubeId: "EIrV9JX5_mA"
+coverImage: "https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg"
 channel: "TRACKS - Travel Documentaries"
 duration: "46:08"
 publishedAt: 2019-09-12
@@ -19,7 +20,7 @@ affiliate:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$28.99"
   - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$24.97"
@@ -43,7 +44,7 @@ AIGC:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$28.99"
   - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$24.97"

@@ -1,6 +1,7 @@
----
+﻿---
 title: "元宵节：灯火里藏着的浪漫与自由"
 youtubeId: "kFQKWYGZNlE"
+coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
 channel: "CGTN"
 duration: "24:30"
 publishedAt: 2024-02-24

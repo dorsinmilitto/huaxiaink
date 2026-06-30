@@ -1,6 +1,7 @@
----
+﻿---
 title: "李子柒镜头下的端午节——粽子、稻田与两千年的记忆"
 youtubeId: "vusE2HqaAEY"
+coverImage: "https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg"
 channel: "李子柒 Liziqi"
 duration: "6:07"
 publishedAt: 2019-06-04

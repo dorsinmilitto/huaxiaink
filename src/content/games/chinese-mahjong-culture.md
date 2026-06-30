@@ -1,6 +1,7 @@
----
+﻿---
 title: "Mahjong — The Game That Built Chinese Social Life"
 youtubeId: "qpYF-xmNMew"
+coverImage: "https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg"
 channel: "South China Morning Post"
 duration: "2:30"
 publishedAt: 2019-05-15
@@ -9,17 +10,17 @@ tags: ["mahjong", "chinese-game", "table-game", "social-tradition", "tiles", "ch
 featured: true
 affiliate:
   - title: "Professional Traditional Chinese Mahjong Set 30mm 146 Tiles"
-    asin: B0FSCCNFP7
+    asin: "B0FSCCNFP7"
     url: "https://www.amazon.com/dp/B0FSCCNFP7?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61AznRNR0QL._AC_UL640_.jpg"
     price: "$31.99"
   - title: "Mahjong Tile Set 146pcs with Storage Box"
-    asin: B0FGWP4N74
+    asin: "B0FGWP4N74"
     url: "https://www.amazon.com/dp/B0FGWP4N74?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71ZqP6sf4WL._AC_UL640_.jpg"
     price: "$49.99"
   - title: "Souped Up Recipes Carbon Steel Wok 10 Inch"
-    asin: B0F2FP917T
+    asin: "B0F2FP917T"
     url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
     price: "$23.79"
@@ -56,11 +57,3 @@ The rules vary wildly. Shanghai mahjong differs from Taiwanese mahjong, which di
 In the age of smartphones and short attention spans, mahjong has not merely survived — it has adapted. Online mahjong platforms boast hundreds of millions of users across China. Young professionals organize weekend games the way their grandparents did, except now they coordinate on WeChat and keep score digitally. The clatter of tiles has been digitized, but the social contract remains untouched.
 
 Perhaps that is mahjong's true genius. It was never about the tiles. It was always about the people sitting around the table — sharing tea, exchanging gossip, and quietly preserving a social tradition that no technology has managed to replace.
-
-{{/youtube}}
-
-## Bring the Tradition Home
-
-Ready to start your own mahjong nights? Here are three essentials to get you going:
-
-{{affiliate}}

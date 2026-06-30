@@ -1,6 +1,7 @@
----
+﻿---
 title: "三峡：大坝重塑了一条河，也重塑了一个文明"
 youtubeId: "gBobfHlvAVc"
+coverImage: "https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg"
 channel: "Lifeder"
 duration: "29:41"
 publishedAt: 2025-10-01
@@ -19,7 +20,7 @@ affiliate:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$28.99"
   - title: "Scratch Off World Map with 233 Flags 36x24"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$29.97"

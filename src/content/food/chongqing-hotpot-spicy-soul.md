@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chongqing Hotpot: The Spicy Soul of China's Mountain City"
 youtubeId: "EewnoXvCzgE"
+coverImage: "https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg"
 channel: "Best Ever Food Review Show"
 duration: "25:35"
 publishedAt: 2025-06-01
@@ -9,17 +10,17 @@ tags: ["Chongqing", "hotpot", "Sichuan-pepper", "Chinese-food", "spicy", "food-c
 featured: false
 affiliate:
   - title: "Little Sheep Hot Pot Soup Base (Hot) Pack of 5"
-    asin: B004XY6IPK
+    asin: "B004XY6IPK"
     url: "https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg"
     price: "$39.99"
   - title: "Teewe Carbon Steel Wok 13 Inch with Lid"
-    asin: B0CWS6XHJJ
+    asin: "B0CWS6XHJJ"
     url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
     price: "$27.04"
   - title: "Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch"
-    asin: B00PUZT9MU
+    asin: "B00PUZT9MU"
     url: "https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg"
     price: "$51.75"

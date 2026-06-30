@@ -1,6 +1,7 @@
----
+﻿---
 title: "饺子之道：把一千八百年的故事包进面皮里"
 youtubeId: "EcqqhQqemxU"
+coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
 channel: "Tasty"
 duration: "6:12"
 publishedAt: 2024-01-15

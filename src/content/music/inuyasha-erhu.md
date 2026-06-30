@@ -1,6 +1,7 @@
----
+﻿---
 title: "A Frenchman Plays Anime's Most Heartbreaking Song on a Chinese Erhu"
 youtubeId: "lSCHU3kwrm8"
+coverImage: "https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg"
 channel: "Eliott Tordo Erhu Player"
 duration: "2:57"
 publishedAt: 2022-06-15

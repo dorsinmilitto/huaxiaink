@@ -1,6 +1,7 @@
----
+﻿---
 title: "Sichuan Spice Story: How a Province Turned Pain Into Philosophy"
 youtubeId: "e0mW5CJWHWk"
+coverImage: "https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg"
 channel: "Food Ranger"
 duration: "15:42"
 publishedAt: 2024-07-05

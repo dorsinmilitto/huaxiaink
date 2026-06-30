@@ -1,6 +1,7 @@
----
+﻿---
 title: "Kunqu Opera — The 600-Year Voice That Refuses to Die"
 youtubeId: "m1GxmBsxQ1g"
+coverImage: "https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg"
 channel: "自得琴社 Zi De Guqin Studio"
 duration: "5:42"
 publishedAt: 2022-09-01

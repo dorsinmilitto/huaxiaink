@@ -1,6 +1,7 @@
----
+﻿---
 title: "重阳节——让你为爷爷奶奶爬山的节日"
 youtubeId: "wj2hUzJmdsA"
+coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
 channel: "China Culture"
 duration: "3:45"
 publishedAt: 2024-10-05

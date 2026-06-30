@@ -1,6 +1,7 @@
----
+﻿---
 title: "清明节——中国人如何一年一次与祖先对话"
 youtubeId: "aZtZlYE5i8M"
+coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
 channel: "China Travel"
 duration: "6:45"
 publishedAt: 2024-04-01

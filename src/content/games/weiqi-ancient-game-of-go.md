@@ -1,6 +1,7 @@
----
+﻿---
 title: "Weiqi — The 4,000-Year Game of Black and White That Teaches You Nothing (and Everything)"
 youtubeId: "oZTdT8MQexk"
+coverImage: "https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg"
 channel: "Go Magic"
 duration: "11:24"
 publishedAt: 2023-06-10
@@ -9,17 +10,17 @@ tags: ["weiqi", "go", "ancient-game", "chinese-strategy", "black-white", "philos
 featured: true
 affiliate:
   - title: "WE Games Go Game Set 12 Inch with Storage Drawers"
-    asin: B0008EJXEW
+    asin: "B0008EJXEW"
     url: "https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg"
     price: "$33.99"
   - title: "19x19 Folding Go Game Set with Bamboo Bowls"
-    asin: B0D5MKC51T
+    asin: "B0D5MKC51T"
     url: "https://www.amazon.com/dp/B0D5MKC51T?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81li90SbZUL._AC_UL640_.jpg"
     price: "$36.99"
   - title: "Yellow Mountain Imports 9x9 Go Set Beginner"
-    asin: B00EK7UIY2
+    asin: "B00EK7UIY2"
     url: "https://www.amazon.com/dp/B00EK7UIY2?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71qrfRm7GUL._AC_UL640_.jpg"
     price: "$47.99"
@@ -56,11 +57,3 @@ In China, Weiqi was one of the Four Arts of the Chinese Scholar, alongside the g
 In 2016, Google's AlphaGo defeated world champion Lee Sedol, and the world gasped. But Weiqi players did something unexpected: they studied AlphaGo's moves and discovered new strategies. A 4,000-year-old game, it turned out, still had secrets to reveal. The machine did not kill the art. It deepened it.
 
 Today, Weiqi is experiencing a quiet renaissance. Online platforms have made the game accessible to anyone with a screen. Universities run Weiqi clubs. Tech executives swear by it as mental training. The board remains the same — 361 intersections, two colors, infinite possibility.
-
-{{/youtube}}
-
-## Set Up Your Own Board
-
-Whether you are a curious beginner or a returning player, the right set makes all the difference:
-
-{{affiliate}}

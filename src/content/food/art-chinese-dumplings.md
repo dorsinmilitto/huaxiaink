@@ -1,6 +1,7 @@
----
+﻿---
 title: "The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough"
 youtubeId: "EcqqhQqemxU"
+coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
 channel: "Tasty"
 duration: "6:12"
 publishedAt: 2024-01-15

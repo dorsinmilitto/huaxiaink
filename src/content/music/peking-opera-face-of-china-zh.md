@@ -1,6 +1,7 @@
----
+﻿---
 title: "京剧——变成另一个人的艺术"
 youtubeId: "yzAdZDK4XKA"
+coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
 channel: "CrashCourse"
 duration: "12:08"
 publishedAt: 2019-08-30

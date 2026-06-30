@@ -1,6 +1,7 @@
----
+﻿---
 title: "中秋节——为什么中国人看到月亮就想家"
 youtubeId: "iuzbA2I4KO8"
+coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
 channel: "CGTN"
 duration: "24:58"
 publishedAt: 2024-09-15

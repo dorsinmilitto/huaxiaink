@@ -1,6 +1,7 @@
----
+﻿---
 title: "春节习俗：十五天的重生仪式"
 youtubeId: "r4Ql5MsSBT4"
+coverImage: "https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg"
 channel: "CGTN"
 duration: "25:31"
 publishedAt: 2024-02-05
@@ -9,17 +10,17 @@ tags: ["春节", "传统习俗", "红包", "年夜饭", "鞭炮", "春联"]
 featured: false
 affiliate:
   - title: "13 PCS 3D Chinese Paper Dragon Decorations"
-    asin: B0BFGWGGKY
+    asin: "B0BFGWGGKY"
     url: "https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg"
     price: "$19.99"
   - title: "Whaline 3D Dragon Ceiling Decorations 21Pcs"
-    asin: B0BJCHM49S
+    asin: "B0BJCHM49S"
     url: "https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71maE-lBM5L._AC_UL640_.jpg"
     price: "$15.49"
   - title: "I-MART Chinese Calligraphy Set"
-    asin: B074FL5D9X
+    asin: "B074FL5D9X"
     url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
     price: "$21.99"

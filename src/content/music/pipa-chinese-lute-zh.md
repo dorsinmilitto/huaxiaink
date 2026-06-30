@@ -1,6 +1,7 @@
----
+﻿---
 title: "琵琶：大珠小珠落玉盘的千年绝响"
 youtubeId: "M4Ye7AisnFM"
+coverImage: "https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg"
 channel: "Musical Moments - East"
 duration: "8:51"
 publishedAt: 2021-11-15

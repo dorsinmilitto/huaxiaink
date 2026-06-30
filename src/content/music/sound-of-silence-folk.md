@@ -1,6 +1,7 @@
----
+﻿---
 title: "Simon & Garfunkel's Classic, Reborn Through Asian Folk Instruments"
 youtubeId: "QOm1-PFsLv0"
+coverImage: "https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg"
 channel: "Nini Music"
 duration: "3:02"
 publishedAt: 2023-05-20

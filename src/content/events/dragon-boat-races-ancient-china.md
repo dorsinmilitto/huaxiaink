@@ -1,6 +1,7 @@
----
+﻿---
 title: "Dragon Boat Races: The Ancient Sport Born From Grief"
 youtubeId: "YlPExNPyPwQ"
+coverImage: "https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg"
 channel: "National Geographic"
 duration: "3:21"
 publishedAt: 2024-06-10
@@ -9,17 +10,17 @@ tags: ["dragon-boat", "dragon-boat-festival", "duanwu", "chinese-tradition", "ra
 featured: true
 affiliate:
   - title: "Large 23inch White Round Paper Lantern"
-    asin: B0C5D737ZS
+    asin: "B0C5D737ZS"
     url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
     price: "$28.22"
   - title: "Paper Lanterns Party Decorations"
-    asin: B0D5GRT48T
+    asin: "B0D5GRT48T"
     url: "https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg"
     price: "$15.99"
   - title: "12Pack Paper Lanterns with LED Lights"
-    asin: B0BDDWZKNL
+    asin: "B0BDDWZKNL"
     url: "https://www.amazon.com/dp/B0BDDWZKNL?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71F7pRHlDWL._AC_UL640_.jpg"
     price: "$19.48"

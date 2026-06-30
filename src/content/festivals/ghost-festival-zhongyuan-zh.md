@@ -1,6 +1,7 @@
----
+﻿---
 title: "中元节：阴阳交界的七月十五"
 youtubeId: "7-KQNoDmz8A"
+coverImage: "https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg"
 channel: "ReligionForBreakfast"
 duration: "15:36"
 publishedAt: 2023-08-24

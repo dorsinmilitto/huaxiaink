@@ -1,6 +1,7 @@
----
+﻿---
 title: "冬至：一年中最长的夜与最暖的团圆"
 youtubeId: "_6qel02Hw4c"
+coverImage: "https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg"
 channel: "SCCC"
 duration: "5:03"
 publishedAt: 2020-12-10

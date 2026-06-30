@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chinese Shadow Puppetry: The World's Oldest Animation, Still Alive"
 youtubeId: "8-mzqxZNp2g"
+coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
 channel: "UNESCO"
 duration: "10:08"
 publishedAt: 2011-11-22

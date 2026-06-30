@@ -1,6 +1,7 @@
----
+﻿---
 title: "长城秘史"
 youtubeId: "quLhkqwtOg8"
+coverImage: "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg"
 channel: "National Geographic"
 duration: "50:31"
 publishedAt: 2024-05-15

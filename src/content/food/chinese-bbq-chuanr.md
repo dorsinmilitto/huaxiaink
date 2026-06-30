@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chuanr: How China's Street-Side Skewers Became a Midnight Institution"
 youtubeId: "V0B8gz7kZTA"
+coverImage: "https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg"
 channel: "Blondie in China"
 duration: "14:12"
 publishedAt: 2024-07-16

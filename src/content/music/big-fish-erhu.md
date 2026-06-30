@@ -1,6 +1,7 @@
----
+﻿---
 title: "When the Erhu Meets Big Fish & Begonia: A Frenchman's Chinese Animation Odyssey"
 youtubeId: "4CAFafOUyX0"
+coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
 channel: "Eliott Tordo Erhu Player"
 duration: "5:44"
 publishedAt: 2023-01-10

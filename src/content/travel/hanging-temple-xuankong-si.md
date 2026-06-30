@@ -1,6 +1,7 @@
----
+﻿---
 title: "The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years"
 youtubeId: "Je9Y3pRyfX8"
+coverImage: "https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg"
 channel: "Travel East"
 duration: "23:09"
 publishedAt: 2025-03-22
@@ -19,7 +20,7 @@ affiliate:
     imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
     price: "$21.99"
   - title: "Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi"
-    asin: B084WVWNK1
+    asin: "B084WVWNK1"
     url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$32.00"

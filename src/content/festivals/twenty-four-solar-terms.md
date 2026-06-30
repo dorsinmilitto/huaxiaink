@@ -1,6 +1,7 @@
----
+﻿---
 title: "The 24 Solar Terms: The Calendar System That Taught Farmers Everything"
 youtubeId: "qTrd010vMp8"
+coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
 channel: "UNESCO"
 duration: "10:00"
 publishedAt: 2016-11-30

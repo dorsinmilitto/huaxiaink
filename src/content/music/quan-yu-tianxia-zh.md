@@ -1,6 +1,7 @@
----
+﻿---
 title: "当古筝与鼓拆掉虚拟歌姬的帝国"
 youtubeId: "IxM1tjTvFAc"
+coverImage: "https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg"
 channel: "Saberbutterfly"
 duration: "5:08"
 publishedAt: 2015-07-15

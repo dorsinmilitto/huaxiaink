@@ -1,6 +1,7 @@
----
+﻿---
 title: "Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn"
 youtubeId: "2EhTnwxg9y4"
+coverImage: "https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg"
 channel: "Erhu Peiyao Live Music"
 duration: "3:08"
 publishedAt: 2023-06-10

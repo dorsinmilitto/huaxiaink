@@ -1,6 +1,7 @@
----
+﻿---
 title: "火锅——为什么中国人真的要围在一起沸腾着吃饭"
 youtubeId: "gBr_1YWMOLA"
+coverImage: "https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg"
 channel: "China Matters"
 duration: "3:56"
 publishedAt: 2024-12-01
@@ -9,17 +10,17 @@ tags: ["火锅", "四川火锅", "麻辣", "围炉", "中国美食", "鸳鸯锅"
 featured: false
 affiliate:
   - title: "Stainless Steel Shabu Shabu Hot Pot with Divider"
-    asin: B08GKBNVF2
+    asin: "B08GKBNVF2"
     url: "https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg"
     price: "$29.99"
   - title: "7-QT Shabu Shabu Hot Pot with Divider Double Flavor"
-    asin: B0FMK3FGN6
+    asin: "B0FMK3FGN6"
     url: "https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71rew5UAnWL._AC_UL640_.jpg"
     price: "$41.99"
   - title: "Nonstick Hot Pot with Divider Blue Shabu Shabu"
-    asin: B0CT67ZZ3L
+    asin: "B0CT67ZZ3L"
     url: "https://www.amazon.com/dp/B0CT67ZZ3L?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71EMUg0Zc-L._AC_UL640_.jpg"
     price: "$30.99"

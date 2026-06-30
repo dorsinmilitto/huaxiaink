@@ -1,6 +1,7 @@
----
+﻿---
 title: "The Legend of Nien: How a Monster Gave Birth to Chinese New Year"
 youtubeId: "GVPHdFX9iHY"
+coverImage: "https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg"
 channel: "PandaExpressTV"
 duration: "4:29"
 publishedAt: 2024-02-01
@@ -9,17 +10,17 @@ tags: ["spring-festival", "chinese-new-year", "nien-legend", "lunar-new-year", "
 featured: true
 affiliate:
   - title: "68PCS 2026 Chinese New Year Decorations"
-    asin: B0822DGM8Z
+    asin: "B0822DGM8Z"
     url: "https://www.amazon.com/dp/B0822DGM8Z?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91Te1QGcGhL._AC_UL640_.jpg"
     price: "$18.97"
   - title: "68PCS Chinese New Year Decorations Year of Horse"
-    asin: B07M9KJLDM
+    asin: "B07M9KJLDM"
     url: "https://www.amazon.com/dp/B07M9KJLDM?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/917e63IBOhL._AC_UL640_.jpg"
     price: "$19.97"
   - title: "Fumete 20 Pcs Chinese Japanese Paper Lanterns"
-    asin: B0BHR2YL6J
+    asin: "B0BHR2YL6J"
     url: "https://www.amazon.com/dp/B0BHR2YL6J?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/811hUrI0CqL._AC_UL640_.jpg"
     price: "$17.99"

@@ -1,6 +1,7 @@
----
+﻿---
 title: "The Pipa: How Four Strings Taught China to Tell Stories in Sound"
 youtubeId: "M4Ye7AisnFM"
+coverImage: "https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg"
 channel: "Musical Moments - East"
 duration: "8:51"
 publishedAt: 2021-11-15

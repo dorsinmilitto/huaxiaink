@@ -1,6 +1,7 @@
----
+﻿---
 title: "Yellow Mountain — The Real-Life Ink Painting You Can Walk Through"
 youtubeId: "T_gAPaN6IKQ"
+coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
 duration: "18:42"
 publishedAt: 2024-10-15

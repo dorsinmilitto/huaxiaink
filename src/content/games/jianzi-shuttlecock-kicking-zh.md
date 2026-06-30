@@ -1,6 +1,7 @@
----
+﻿---
 title: "踢毽子：从汉代宫廷到街头巷尾的国民运动"
 youtubeId: "JVSC2qmDQjM"
+coverImage: "https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg"
 channel: "CGTN"
 duration: "5:47"
 publishedAt: 2020-12-22

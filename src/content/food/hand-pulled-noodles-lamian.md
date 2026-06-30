@@ -1,6 +1,7 @@
----
+﻿---
 title: "Hand-Pulled Noodles: The 3,000-Year-Old Art of Stretching Dough Into Silk"
 youtubeId: "E_TMp6w8MkU"
+coverImage: "https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg"
 channel: "Topic"
 duration: "16:12"
 publishedAt: 2018-09-11

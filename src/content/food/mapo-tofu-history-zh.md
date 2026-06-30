@@ -1,6 +1,7 @@
----
+﻿---
 title: "麻婆豆腐：让世界着迷的川菜之魂"
 youtubeId: "uL_YQMkkbUg"
+coverImage: "https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg"
 channel: "Chinese Cooking Demystified"
 duration: "23:19"
 publishedAt: 2025-01-07

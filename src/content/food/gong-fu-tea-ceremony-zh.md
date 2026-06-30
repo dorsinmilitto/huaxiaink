@@ -1,6 +1,7 @@
----
+﻿---
 title: "功夫茶道：一门拒绝快的慢艺术"
 youtubeId: "yA3SQdDQp6o"
+coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
 channel: "China Tea"
 duration: "8:45"
 publishedAt: 2024-08-20

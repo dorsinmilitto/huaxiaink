@@ -1,6 +1,7 @@
----
+﻿---
 title: "Forbidden City"
 youtubeId: "sHypO2ISPas"
+coverImage: "https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg"
 channel: "Documentary Hub"
 duration: "48:22"
 publishedAt: 2024-03-20

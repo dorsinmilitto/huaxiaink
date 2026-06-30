@@ -1,6 +1,7 @@
----
+﻿---
 title: "Qixi — The Love Story Written in the Stars (Literally)"
 youtubeId: "WCbztd58LLE"
+coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
 channel: "chinahighlights"
 duration: "4:20"
 publishedAt: 2023-08-01

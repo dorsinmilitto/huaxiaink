@@ -1,6 +1,7 @@
----
+﻿---
 title: "Qingming — How the Chinese Talk to Their Ancestors Once a Year"
 youtubeId: "aZtZlYE5i8M"
+coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
 channel: "China Travel"
 duration: "6:45"
 publishedAt: 2024-04-01

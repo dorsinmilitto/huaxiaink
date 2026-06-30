@@ -1,6 +1,7 @@
----
+﻿---
 title: "When a Guzheng and Drum Dismantle a Virtual Idol's Empire"
 youtubeId: "IxM1tjTvFAc"
+coverImage: "https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg"
 channel: "Saberbutterfly"
 duration: "5:08"
 publishedAt: 2015-07-15

@@ -1,6 +1,7 @@
----
+﻿---
 title: "西蒙与加芬克尔的经典，在亚洲民乐中重生"
 youtubeId: "QOm1-PFsLv0"
+coverImage: "https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg"
 channel: "Nini Music"
 duration: "3:02"
 publishedAt: 2023-05-20

@@ -1,6 +1,7 @@
----
+﻿---
 title: "皮影戏：光影之间流传千年的民间艺术"
 youtubeId: "8-mzqxZNp2g"
+coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
 channel: "UNESCO"
 duration: "10:08"
 publishedAt: 2011-11-22

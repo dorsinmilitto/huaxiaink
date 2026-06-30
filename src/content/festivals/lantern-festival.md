@@ -1,6 +1,7 @@
----
+﻿---
 title: "Lantern Festival — China's Original Night of a Thousand Lights"
 youtubeId: "kFQKWYGZNlE"
+coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
 channel: "CGTN"
 duration: "24:30"
 publishedAt: 2024-02-24

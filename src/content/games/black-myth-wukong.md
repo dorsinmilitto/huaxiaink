@@ -1,6 +1,7 @@
----
+﻿---
 title: "Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the West"
 youtubeId: "rQW2C4iQwTQ"
+coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
 channel: "NeddyTheNoodle"
 duration: "1:03:50"
 publishedAt: 2024-09-20

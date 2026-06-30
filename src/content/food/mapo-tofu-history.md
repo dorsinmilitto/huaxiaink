@@ -1,6 +1,7 @@
----
+﻿---
 title: "Mapo Tofu: The Dish That Set Sichuan on Fire — Then Conquered the World"
 youtubeId: "uL_YQMkkbUg"
+coverImage: "https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg"
 channel: "Chinese Cooking Demystified"
 duration: "23:19"
 publishedAt: 2025-01-07

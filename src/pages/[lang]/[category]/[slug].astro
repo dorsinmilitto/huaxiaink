@@ -71,9 +71,8 @@ const articleSchema = {
   ...(frontmatter.youtubeId ? { "image": `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg` } : {}),
 };
 
-const ogImage = frontmatter.youtubeId
-  ? `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg`
-  : undefined;
+const ogImage = frontmatter.coverImage
+  || (frontmatter.youtubeId ? `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg` : undefined);
 ---
 
 <BaseLayout title={frontmatter.title} description={`${frontmatter.title} — ${t(l, 'detail.on')}`} lang={l} image={ogImage}>
@@ -127,6 +126,7 @@ const ogImage = frontmatter.youtubeId
               tags={v.tags}
               slug={v.slug}
               lang={l}
+              coverImage={v.coverImage}
             />
           ))}
         </div>

@@ -1,6 +1,7 @@
----
+﻿---
 title: "Chongyang — The Festival That Asks You to Climb a Mountain for Your Grandparents"
 youtubeId: "wj2hUzJmdsA"
+coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
 channel: "China Culture"
 duration: "3:45"
 publishedAt: 2024-10-05

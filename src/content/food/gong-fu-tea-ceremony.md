@@ -1,6 +1,7 @@
----
+﻿---
 title: "Gong Fu Tea Ceremony: The Slow Art That Refuses to Rush"
 youtubeId: "yA3SQdDQp6o"
+coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
 channel: "China Tea"
 duration: "8:45"
 publishedAt: 2024-08-20

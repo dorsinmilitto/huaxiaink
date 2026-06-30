@@ -1,6 +1,7 @@
----
+﻿---
 title: "Peking Duck — From the Emperor's Kitchen to the World's Table"
 youtubeId: "Bkt0FAOWpgc"
+coverImage: "https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg"
 channel: "saintcavish"
 duration: "22:15"
 publishedAt: 2024-11-10
@@ -9,17 +10,17 @@ tags: ["peking-duck", "beijing", "roast-duck", "imperial-cuisine", "chinese-food
 featured: true
 affiliate:
   - title: "13.5 inch Carbon Steel Wok Pan Pre-Seasoned"
-    asin: B0FMJW45CF
+    asin: "B0FMJW45CF"
     url: "https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg"
     price: "$51.48"
   - title: "Souped Up Recipes 10 Inch Carbon Steel Wok"
-    asin: B0F2FP917T
+    asin: "B0F2FP917T"
     url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
     price: "$23.79"
   - title: "Todlabe 13-Inch Carbon Steel Wok Pan with Glass Lid"
-    asin: B0F9P1JM3X
+    asin: "B0F9P1JM3X"
     url: "https://www.amazon.com/dp/B0F9P1JM3X?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/61gfeQg32WL._AC_UL640_.jpg"
     price: "$26.39"

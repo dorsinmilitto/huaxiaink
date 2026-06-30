@@ -1,6 +1,7 @@
----
+﻿---
 title: "黄山——你可以走进去的水墨画"
 youtubeId: "T_gAPaN6IKQ"
+coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
 channel: "Little Chinese Everywhere"
 duration: "18:42"
 publishedAt: 2024-10-15

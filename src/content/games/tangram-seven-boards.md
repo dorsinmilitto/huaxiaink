@@ -1,6 +1,7 @@
----
+﻿---
 title: "Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid"
 youtubeId: "X5mc-dkYLfI"
+coverImage: "https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg"
 channel: "mathverick"
 duration: "5:50"
 publishedAt: 2010-03-08
@@ -9,17 +10,17 @@ tags: ["tangram", "chinese-puzzle", "geometry", "seven-board", "brain-teaser", "
 featured: false
 affiliate:
   - title: "Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers"
-    asin: B0CWS6XHJJ
+    asin: "B0CWS6XHJJ"
     url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
     price: "$27.04"
   - title: "Melissa & Doug Classic Tangram Wooden Puzzle"
-    asin: B000GKUXX0
+    asin: "B000GKUXX0"
     url: "https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
     price: "$15.99"
   - title: "Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition"
-    asin: B0B426KSXP
+    asin: "B0B426KSXP"
     url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
     price: "$23.99"
