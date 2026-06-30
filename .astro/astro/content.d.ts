@@ -183,6 +183,20 @@ declare module 'astro:content' {
   collection: "events";
   data: InferEntrySchema<"events">
 } & { render(): Render[".md"] };
+"europe-heatwave-chinese-cooling-zh.md": {
+	id: "europe-heatwave-chinese-cooling-zh.md";
+  slug: "europe-heatwave-chinese-cooling-zh";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
+"europe-heatwave-chinese-cooling.md": {
+	id: "europe-heatwave-chinese-cooling.md";
+  slug: "europe-heatwave-chinese-cooling";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
 "nien-legend-spring-festival-zh.md": {
 	id: "nien-legend-spring-festival-zh.md";
   slug: "nien-legend-spring-festival-zh";
