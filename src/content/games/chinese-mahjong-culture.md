@@ -60,3 +60,5 @@ In the age of smartphones and short attention spans, mahjong has not merely surv
 Perhaps that is mahjong's true genius. It was never about the tiles. It was always about the people sitting around the table — sharing tea, exchanging gossip, and quietly preserving a social tradition that no technology has managed to replace.
 
 **Explore more:** [Spring Festival family gatherings](/en/events/spring-festival-traditions) · [tea ceremony traditions](/en/food/gong-fu-tea-ceremony)
+
+**Sources:** [Mahjong on Wikipedia](https://en.wikipedia.org/wiki/Mahjong) · [Mahjong (UNESCO Intangible Heritage)](https://ich.unesco.org/en/lists)

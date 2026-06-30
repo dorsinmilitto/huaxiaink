@@ -83,3 +83,5 @@ AIGC:
 这股韧性本身就是文化。烤串没有传承体系，没有师徒谱系，没有非物质文化遗产的名号。但它在全国每个城市的夜晚都活着，从吐鲁番到哈尔滨，从上海巷弄到重庆坡道。孜然和炭火的气味，是中国式夜晚的通用语言——闻到这股烟，你就知道，这条街还没有睡。
 
 **Explore more:** [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul) · [重庆8D魔幻城](/zh/travel/chongqing-8d-mountain-city)
+
+**Sources:** [烤串（维基百科）](https://zh.wikipedia.org/wiki/%E7%83%A4%E4%B8%B2)

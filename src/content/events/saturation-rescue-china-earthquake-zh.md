@@ -80,3 +80,5 @@ AIGC:
 装备是现代的。本能不是。
 
 **Explore more:** [长城的军事防御体系](/zh/travel/secrets-great-wall)
+
+**Sources:** [灾难管理（维基百科）](https://zh.wikipedia.org/wiki/%E7%81%BE%E9%9A%BE%E7%AE%A1%E7%90%86)

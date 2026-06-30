@@ -64,3 +64,5 @@ AIGC:
 在游客还没到的黎明来，你能听见皇帝们听过的声音——风穿过庭院，乌鸦蹲在飞檐上，以及一种能把几百年吞下去的安静。左右东亚五百年命运的决定，就在这些殿里做出的。那份分量，安静时反而更清楚。
 
 **Explore more:** [北京烤鸭的宫廷起源](/zh/food/peking-duck-imperial-cuisine) · [宫廷京剧演出](/zh/music/peking-opera-face-of-china) · [长城对京城的防御](/zh/travel/secrets-great-wall)
+
+**Sources:** [紫禁城（世界遗产）](https://whc.unesco.org/en/list/439)

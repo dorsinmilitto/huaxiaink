@@ -82,3 +82,5 @@ AIGC:
 你会出汗。嘴唇会肿。第一口毛肚下去你可能会怀疑人生。但如果你留下来——让麻椒、滚油和一桌人声鼎沸的混乱完成它们的功——你会懂一件天际线教不了你的事：这座城市拿世界给它的东西，让它滚沸。
 
 **Explore more:** [重庆8D魔幻城](/zh/travel/chongqing-8d-mountain-city) · [川辣哲学](/zh/food/sichuan-spice-story) · [麻婆豆腐的火辣起源](/zh/food/mapo-tofu-history)
+
+**Sources:** [重庆火锅（维基百科）](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85)

@@ -72,3 +72,5 @@ Jianzi requires nothing you don't already have: feet, gravity, patience. A begin
 It is exercise disguised as meditation. Coordination disguised as play. And a connection to a tradition that survived dynasties, wars, revolutions, and smartphones — because sometimes the simplest games are the ones hardest to put down.
 
 **Explore more:** [Spring Festival celebrations](/en/events/spring-festival-traditions)
+
+**Sources:** [Jianzi on Wikipedia](https://en.wikipedia.org/wiki/Jianzi)

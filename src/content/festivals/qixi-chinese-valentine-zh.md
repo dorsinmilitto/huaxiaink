@@ -68,3 +68,5 @@ AIGC:
 牛郎织女没有一个美满的结局。他们始终没能住到一起，没能白头偕老。但他们得到了一种更奇异、也许更深沉的东西：一种确信——无论隔着多远，真正的爱总能找到一座桥，哪怕要一千只喜鹊才能搭成。
 
 **Explore more:** [元宵节的浪漫传统](/zh/festivals/lantern-festival) · [琵琶的爱情叙事](/zh/music/pipa-chinese-lute)
+
+**Sources:** [七夕节（维基百科）](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A4%95%E8%8A%82)

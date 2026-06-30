@@ -72,3 +72,5 @@ It's the most visually stunning moment of the entire festival — and also the m
 Fifteen days. From cleaning house to setting wishes free. From enforced harmony to luminous hope. The Spring Festival isn't a holiday — it's a system for starting over, tested across 4,000 years and still running.
 
 **Explore more:** [the Nien monster legend](/en/events/nien-legend-spring-festival) · [the lion dance tradition](/en/events/chinese-new-year-lion-dance-hong-kong) · [Lantern Festival](/en/festivals/lantern-festival) · [dumplings at reunion dinner](/en/food/art-chinese-dumplings)
+
+**Sources:** [Chinese New Year on Wikipedia](https://en.wikipedia.org/wiki/Chinese_New_Year) · [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/lists)

@@ -84,3 +84,5 @@ But you gain:
 That, ultimately, may be the most faithful translation of all. Simon wrote about the failure of communication — about words that don't reach, sounds that don't connect. Nini Music's answer is: then let the music do what the words can't. Let the instruments speak in a language that bypasses the mind and goes straight to the place where loneliness lives.
 
 **Explore more:** [the erhu's cross-cultural appeal](/en/music/inuyasha-erhu)
+
+**Sources:** [Chinese musical instruments on Wikipedia](https://en.wikipedia.org/wiki/Chinese_musical_instruments)

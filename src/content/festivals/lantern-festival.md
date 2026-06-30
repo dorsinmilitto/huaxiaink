@@ -62,3 +62,5 @@ Modern Lantern Festivals are among the most visually overwhelming events on the 
 But the deepest tradition remains the simplest. Somewhere tonight, a child will hold a paper lantern, feel its warmth against the cold air, and understand for the first time that light changes everything it touches. That revelation is the real gift of Yuánxiāo. It needs no power source beyond a flame and a pair of eyes willing to look up.
 
 **Explore more:** [Spring Festival traditions](/en/events/spring-festival-traditions) · [shadow puppetry performances](/en/games/chinese-shadow-puppetry-piying) · [tangyuan dumplings](/en/food/art-chinese-dumplings)
+
+**Sources:** [Lantern Festival on Wikipedia](https://en.wikipedia.org/wiki/Lantern_Festival)

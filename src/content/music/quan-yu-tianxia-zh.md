@@ -7,7 +7,7 @@ channel: "Saberbutterfly"
 duration: "5:08"
 publishedAt: 2015-07-15
 lang: zh
-tags: ["古筝", "鼓", "国乐", "洛天依", "三国", "汉服", "Vocaloid"]
+tags: ["古筝", "鼓", "国乐", "洛天依", "三国", "汉服", "vocaloid"]
 featured: false
 affiliate:
   - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
@@ -79,3 +79,5 @@ saberbutterfly的翻奏完全移除了虚拟歌手，代之以两件本身就是
 打动人的不只是技术（尽管saberbutterfly技术精湛），而是这个启示：一首为电脑创作的歌，经过人手与木弦的转导，竟能承载如此真实的情感重量。Vocaloid原作展示了技术*能做什么*。翻奏展示了音乐*需要什么*——一个身体，呼吸、用力、实时做选择。
 
 **Explore more:** [古筝演奏技艺](/zh/music/dangchao-guzheng)
+
+**Sources:** [古筝（维基百科）](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%AD%9D)

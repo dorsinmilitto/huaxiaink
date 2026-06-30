@@ -79,3 +79,5 @@ AIGC:
 但最有力量的，始终是那个最古老的画面：一个孩子提着一盏纸灯笼，看着它摇摇晃晃地亮起来，第一次觉得——这个世界比想象中更大、更奇怪、也更美。这就是元宵真正的遗产，它不需要通电。
 
 **Explore more:** [春节传统](/zh/events/spring-festival-traditions) · [皮影戏表演](/zh/games/chinese-shadow-puppetry-piying) · [汤圆饺子](/zh/food/art-chinese-dumplings)
+
+**Sources:** [元宵节（维基百科）](https://zh.wikipedia.org/wiki/%E5%85%83%E5%AE%B5%E8%8A%82)

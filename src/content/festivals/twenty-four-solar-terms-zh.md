@@ -109,3 +109,5 @@ AIGC:
 在这套历法里，人不是时间的主人，而是时间的读者。你读得懂，就活得顺。读不懂，太阳也不会等你。这种谦逊，是农耕文明给世界留下的最温柔遗产。
 
 **Explore more:** [冬至传统](/zh/festivals/winter-solstice-dongzhi) · [清明的节令意义](/zh/festivals/qingming-tomb-sweeping)
+
+**Sources:** [二十四节气（联合国非遗）](https://ich.unesco.org/en/RL/twenty-four-solar-terms-00788)

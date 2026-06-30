@@ -77,3 +77,5 @@ AIGC:
 离开南靖与永定的盘山公路上，回头望去，土楼隐入暮色与梯田之间，像大地长出的器官，与山川浑然一体。这种嵌入感，是任何现代建筑都无法复制的——因为土楼不是被放置在风景中的，它本身就是风景。
 
 **Explore more:** [悬空寺的建筑奇迹](/zh/travel/hanging-temple-xuankong-si) · [麻将的集体传统](/zh/games/chinese-mahjong-culture)
+
+**Sources:** [福建土楼（世界遗产）](https://whc.unesco.org/en/list/1113)

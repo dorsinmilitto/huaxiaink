@@ -86,3 +86,5 @@ For decades, the global gaming industry operated on an unspoken assumption: to r
 The lesson is simple, and it extends far beyond gaming: when you make something with genuine cultural depth, you don't need to translate the culture out of it. You need to make it good enough that the world translates the culture in.
 
 **Explore more:** [Xiangqi — Chinese Chess](/en/games/xiangqi-chinese-chess) · [shadow puppetry's epic storytelling](/en/games/chinese-shadow-puppetry-piying)
+
+**Sources:** [Journey to the West on Wikipedia](https://en.wikipedia.org/wiki/Journey_to_the_West) · [Sun Wukong on Wikipedia](https://en.wikipedia.org/wiki/Sun_Wukong)

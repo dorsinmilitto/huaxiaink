@@ -66,3 +66,5 @@ AIGC:
 这场仗打了两千年。墙还在。
 
 **Explore more:** [紫禁城的皇家防御](/zh/travel/forbidden-city-beijing) · [象棋中的边境战争](/zh/games/xiangqi-chinese-chess) · [中国鼓的军号](/zh/music/chinese-drum-heartbeat)
+
+**Sources:** [长城（世界遗产）](https://whc.unesco.org/en/list/438)

@@ -76,3 +76,5 @@ AIGC:
 仔细听，那个鼓点两千年来没有变过——那是拒绝让江水拥有最终发言权的声音。
 
 **Explore more:** [端午节的传统习俗](/zh/festivals/dragon-boat-festival) · [中国鼓的节奏力量](/zh/music/chinese-drum-heartbeat)
+
+**Sources:** [龙舟（维基百科）](https://zh.wikipedia.org/wiki/%E9%BE%99%E8%88%9F)

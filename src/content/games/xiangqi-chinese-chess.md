@@ -60,3 +60,5 @@ Xiangqi remains one of the most played board games on Earth, with over half a bi
 The river is still there. The generals still face each other. And on a thousand park benches across China, the battle of Chu and Han is fought again every single day.
 
 **Explore more:** [Weiqi (Go)](/en/games/weiqi-ancient-game-of-go) · [the Great Wall's military strategy](/en/travel/secrets-great-wall)
+
+**Sources:** [Xiangqi on Wikipedia](https://en.wikipedia.org/wiki/Xiangqi)

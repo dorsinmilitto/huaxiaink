@@ -87,3 +87,5 @@ AIGC:
 这就是麻婆豆腐。它不安慰人，不讨好舌头。它把你叫醒——粗暴地、快乐地、彻底地——然后你发现，你对"好吃"的理解，从这碗开始就不一样了。
 
 **Explore more:** [川辣哲学](/zh/food/sichuan-spice-story) · [重庆火锅文化](/zh/food/chongqing-hotpot-spicy-soul)
+
+**Sources:** [麻婆豆腐（维基百科）](https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90)

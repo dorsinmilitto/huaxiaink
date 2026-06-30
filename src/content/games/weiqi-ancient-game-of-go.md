@@ -60,3 +60,5 @@ In 2016, Google's AlphaGo defeated world champion Lee Sedol, and the world gaspe
 Today, Weiqi is experiencing a quiet renaissance. Online platforms have made the game accessible to anyone with a screen. Universities run Weiqi clubs. Tech executives swear by it as mental training. The board remains the same — 361 intersections, two colors, infinite possibility.
 
 **Explore more:** [Xiangqi — Chinese Chess](/en/games/xiangqi-chinese-chess) · [the guqin's meditative art](/en/music/buran-guqin)
+
+**Sources:** [Go (game) on Wikipedia](https://en.wikipedia.org/wiki/Go_(game))

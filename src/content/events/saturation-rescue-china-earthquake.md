@@ -7,7 +7,7 @@ channel: "Al Jazeera English"
 duration: "1:33"
 publishedAt: 2025-01-07
 lang: en
-tags: ["earthquake", "rescue", "China", "disaster-response", "Tibet", "Qinghai", "saturation-rescue", "emergency"]
+tags: ["earthquake", "rescue", "china", "disaster-response", "tibet", "qinghai", "saturation-rescue", "emergency"]
 featured: true
 affiliate:
   - title: "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake"
@@ -80,3 +80,5 @@ Beneath the logistics and doctrine lies something older than any modern state. C
 The equipment is modern. The instinct is not.
 
 **Explore more:** [the Great Wall's military defense systems](/en/travel/secrets-great-wall)
+
+**Sources:** [Disaster response in China on Wikipedia](https://en.wikipedia.org/wiki/Disaster_management)

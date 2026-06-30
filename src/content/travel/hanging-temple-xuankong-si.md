@@ -7,7 +7,7 @@ channel: "Travel East"
 duration: "23:09"
 publishedAt: 2025-03-22
 lang: en
-tags: ["hanging-temple", "Xuankong-Si", "Shanxi", "cliff-temple", "Buddhist-Taoist", "architecture", "China-travel", "engineering"]
+tags: ["hanging-temple", "xuankong-si", "shanxi", "cliff-temple", "buddhist-taoist", "architecture", "china-travel", "engineering"]
 featured: false
 affiliate:
   - title: "Lonely Planet China Travel Guide - Comprehensive Edition"
@@ -94,3 +94,5 @@ The Hanging Temple is not the largest, oldest, or most beautiful religious site 
 In an age of disposable architecture, the Hanging Temple asks a question we have stopped asking: what if we built things meant to outlast us not by decades, but by dynasties?
 
 **Explore more:** [Fujian Tulou communal architecture](/en/travel/fujian-tulou-earth-building) · [Yellow Mountain](/en/travel/yellow-mountain-huangshan)
+
+**Sources:** [Hanging Temple on Wikipedia](https://en.wikipedia.org/wiki/Hanging_Temple)

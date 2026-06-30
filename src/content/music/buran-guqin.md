@@ -83,3 +83,5 @@ The video has resonated especially strongly with international audiences. Commen
 That's the alchemy of what Zi De Guqin Studio does. They don't just preserve tradition — they translate it. And sometimes, a 3,000-year-old instrument speaking a modern pop language is the most universal thing you can hear.
 
 **Explore more:** [Kunqu Opera's ancient melodies](/en/music/kunqu-opera-peony-pavilion) · [Weiqi's meditative philosophy](/en/games/weiqi-ancient-game-of-go)
+
+**Sources:** [Guqin (UNESCO)](https://ich.unesco.org/en/RL/guqin-and-its-music-00065) · [Guqin on Wikipedia](https://en.wikipedia.org/wiki/Guqin)

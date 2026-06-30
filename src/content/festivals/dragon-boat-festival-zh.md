@@ -72,3 +72,5 @@ AIGC:
 把悲伤变成鼓声、变成速度、变成味道——这种"化悲痛为狂欢"的炼金术，大概才是中国节日传统中最深刻的底色。
 
 **Explore more:** [龙舟竞渡的历史](/zh/events/dragon-boat-races-ancient-china) · [传统中国鼓](/zh/music/chinese-drum-heartbeat)
+
+**Sources:** [端午节（联合国非遗）](https://ich.unesco.org/en/RL/dragon-boat-festival-00225) · [屈原（维基百科）](https://zh.wikipedia.org/wiki/%E5%B1%88%E5%8E%9F)

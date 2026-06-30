@@ -7,7 +7,7 @@ channel: "TRACKS - Travel Documentaries"
 duration: "46:08"
 publishedAt: 2019-09-12
 lang: en
-tags: ["Li-River", "Guilin", "karst", "China-travel", "landscape", "river-cruise", "Yangshuo", "Guangxi"]
+tags: ["li-river", "guilin", "karst", "china-travel", "landscape", "river-cruise", "yangshuo", "guangxi"]
 featured: false
 affiliate:
   - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
@@ -80,3 +80,5 @@ And yet: stand on any riverbank at dawn, before the boats arrive, when the mist 
 That is what the Li River offers: not just a view, but a way of seeing.
 
 **Explore more:** [Yellow Mountain's ink-painting landscapes](/en/travel/yellow-mountain-huangshan) · [the dizi's mountain melodies](/en/music/dizi-bamboo-flute)
+
+**Sources:** [Li River on Wikipedia](https://en.wikipedia.org/wiki/Li_River_(Guangxi))

@@ -60,3 +60,5 @@ AIGC:
 河还在那里。将帅还在对峙。在中国千万张公园石桌上，楚汉的战争每天都在重演。
 
 **Explore more:** [围棋](/zh/games/weiqi-ancient-game-of-go) · [长城的军事战略](/zh/travel/secrets-great-wall)
+
+**Sources:** [象棋（维基百科）](https://zh.wikipedia.org/wiki/%E8%B1%A1%E6%A3%8B)

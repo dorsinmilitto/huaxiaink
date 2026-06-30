@@ -70,3 +70,5 @@ AIGC:
 所以下次你在街边看到舞龙，或被午夜的鞭炮声吵醒，别只觉得热闹——你正在见证一场持续了四千年的胜利巡游。
 
 **Explore more:** [春节十五天传统](/zh/events/spring-festival-traditions) · [舞狮传统](/zh/events/chinese-new-year-lion-dance-hong-kong)
+
+**Sources:** [年兽（维基百科）](https://zh.wikipedia.org/wiki/%E5%B9%B4%E5%85%BD) · [春节（维基百科）](https://zh.wikipedia.org/wiki/%E6%98%A5%E8%8A%82)

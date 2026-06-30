@@ -7,7 +7,7 @@ channel: "CoolVision"
 duration: "1:00"
 publishedAt: 2025-06-01
 lang: zh
-tags: ["重庆", "8D城市", "赛博朋克", "山城", "垂直城市", "中国建筑", "魔幻城市"]
+tags: ["重庆", "8d城市", "赛博朋克", "山城", "垂直城市", "中国建筑", "魔幻城市"]
 featured: true
 affiliate:
   - title: "Lonely Planet China Travel Guide"
@@ -80,3 +80,5 @@ AIGC:
 重庆证明人的适应力没有天花板。有足够的必要和足够的意志，我们在任何地方都能建一座城——哪怕在山上，哪怕在雾里，哪怕物理定律客气地建议我们别这么做。
 
 **Explore more:** [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul) · [川辣文化](/zh/food/sichuan-spice-story)
+
+**Sources:** [重庆（维基百科）](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%BA%86)

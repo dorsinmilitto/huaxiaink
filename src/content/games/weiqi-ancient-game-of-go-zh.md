@@ -60,3 +60,5 @@ AIGC:
 如今围棋正经历一场安静的复兴。在线平台让任何人都能上手，大学里有围棋社，科技圈大佬把它当思维训练。棋盘还是那张棋盘——361个交叉点，两种颜色，无限可能。
 
 **Explore more:** [中国象棋](/zh/games/xiangqi-chinese-chess) · [古琴的冥想艺术](/zh/music/buran-guqin)
+
+**Sources:** [围棋（维基百科）](https://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B)

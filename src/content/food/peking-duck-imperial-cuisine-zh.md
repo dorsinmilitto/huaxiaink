@@ -64,3 +64,5 @@ AIGC:
 家里烤箱烤不出全聚德的鸭，但一口烧到冒烟的碳钢炒锅能抓住一部分灵魂。高温速炒让食材表面瞬间脱水，形成微脆的焦壳——和挂炉烤鸭"外脆里嫩"的原理如出一辙。中国人管这叫"锅气"，有了它，家里的菜就有了馆子的魂。
 
 **Explore more:** [紫禁城的御膳房](/zh/travel/forbidden-city-beijing) · [宫廷京剧演出](/zh/music/peking-opera-face-of-china)
+
+**Sources:** [北京烤鸭（维基百科）](https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD)

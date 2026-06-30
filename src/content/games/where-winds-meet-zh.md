@@ -76,3 +76,5 @@ AIGC:
 风，终于遇到了世界。
 
 **Explore more:** [黑神话：悟空](/zh/games/black-myth-wukong) · [中国鼓传统](/zh/music/chinese-drum-heartbeat)
+
+**Sources:** [武侠（维基百科）](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BE%A0)

@@ -70,3 +70,5 @@ AIGC:
 每一盘麻婆豆腐、每一锅翻滚的火锅、每一碗红油担担面，都带着这条血脉。辣不是刁难，是可以尝到的韧性。四川人问你"吃得了辣不？"——问的不是你对辣椒素的耐受度，是你愿不愿意在不适待上一阵，等到另一头的滋味露出来。
 
 **Explore more:** [麻婆豆腐的火辣历史](/zh/food/mapo-tofu-history) · [重庆火锅](/zh/food/chongqing-hotpot-spicy-soul)
+
+**Sources:** [川菜（维基百科）](https://zh.wikipedia.org/wiki/%E5%B7%9D%E8%8F%9C)

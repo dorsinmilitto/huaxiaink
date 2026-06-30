@@ -62,3 +62,5 @@ AIGC:
 早上刚开门时去，阳光从一号坑棚顶斜照下来，那些陶俑几乎活了。影子在脸上移动，两千年的尘土浮在空气里。你面前是人类历史上最大的丧葬艺术工程，一个拒绝相信自己故事会结束的人下的订单。从某种角度说，他赢了——他还在这里，身边还站着他的军队。
 
 **Explore more:** [长城的秦朝起源](/zh/travel/secrets-great-wall) · [中国鼓的军事传统](/zh/music/chinese-drum-heartbeat)
+
+**Sources:** [兵马俑（世界遗产）](https://whc.unesco.org/en/list/441)

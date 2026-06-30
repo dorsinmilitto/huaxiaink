@@ -68,3 +68,5 @@ In an age of instant messaging and same-day delivery, the idea of waiting 364 da
 Zhinü and Niulang do not get a happy ending. They never move in together, never grow old side by side. What they get is something stranger and arguably more profound: the certainty that across any distance, real love finds a bridge — even if it takes a thousand magpies to build it.
 
 **Explore more:** [Lantern Festival's romantic traditions](/en/festivals/lantern-festival) · [the pipa's love ballads](/en/music/pipa-chinese-lute)
+
+**Sources:** [Qixi Festival on Wikipedia](https://en.wikipedia.org/wiki/Qixi_Festival)

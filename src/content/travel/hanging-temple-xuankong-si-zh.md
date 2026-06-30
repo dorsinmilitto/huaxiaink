@@ -77,3 +77,5 @@ AIGC:
 下山回望，夕阳将整面翠屏峰染成金红，悬空寺的飞檐在光影中若隐若现，恍如蜃景。那一刻你会明白，古人为何将它建在这里——不是为了让它被看见，而是为了让山与天之间，有一个可供人驻足的中间之地，在绝壁与深渊的夹缝中，安放一点不坠落的人间。
 
 **Explore more:** [福建土楼的集体建筑](/zh/travel/fujian-tulou-earth-building) · [黄山](/zh/travel/yellow-mountain-huangshan)
+
+**Sources:** [悬空寺（维基百科）](https://zh.wikipedia.org/wiki/%E6%82%AC%E7%A9%BA%E5%AF%BA)

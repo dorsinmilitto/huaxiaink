@@ -86,3 +86,5 @@ AIGC:
 道理很简单，也远超游戏领域：当你做出真正有文化深度的东西时，你不需要把文化翻译掉。你只需要做得足够好，让世界自己把文化翻译进去。
 
 **Explore more:** [中国象棋](/zh/games/xiangqi-chinese-chess) · [皮影戏的史诗叙事](/zh/games/chinese-shadow-puppetry-piying)
+
+**Sources:** [西游记（维基百科）](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%B8%B8%E8%AE%B0)

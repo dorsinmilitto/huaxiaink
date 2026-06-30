@@ -91,3 +91,5 @@ AIGC:
 结果是一首听起来比原版同时更老也更新的歌——更老，因为乐器承载了几个世纪的重量；更新，因为剥去管弦铺设，旋律显得新鲜而无防备。这是一版不"覆盖"原曲的翻奏——它*揭开*了原曲。
 
 **Explore more:** [琵琶的叙事传统](/zh/music/pipa-chinese-lute)
+
+**Sources:** [外滩（维基百科）](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%BB%A9)

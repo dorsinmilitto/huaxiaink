@@ -7,7 +7,7 @@ channel: "Little Chinese Everywhere"
 duration: "22:18"
 publishedAt: 2023-01-26
 lang: en
-tags: ["tulou", "Hakka", "Fujian", "earth-building", "UNESCO", "communal-housing", "architecture", "China-travel"]
+tags: ["tulou", "hakka", "fujian", "earth-building", "unesco", "communal-housing", "architecture", "china-travel"]
 featured: false
 affiliate:
   - title: "Architecture of China - Vernacular Dwellings and Tulou Buildings"
@@ -88,3 +88,5 @@ The Hakka people didn't choose this arrangement because they loved communal livi
 Visit a tulou today, and you'll find WiFi, air conditioning, and satellite dishes mounted on 600-year-old earthen walls. The contradiction is the point. These buildings were never meant to be museums. They were meant to be lived in. And as long as people live in them, they remain alive — not relics of the past, but ongoing experiments in how humans might dwell together.
 
 **Explore more:** [the Hanging Temple's architectural wonder](/en/travel/hanging-temple-xuankong-si) · [Mahjong's communal traditions](/en/games/chinese-mahjong-culture)
+
+**Sources:** [Fujian Tulou (UNESCO)](https://whc.unesco.org/en/list/1113) · [Tulou on Wikipedia](https://en.wikipedia.org/wiki/Tulou)

@@ -7,7 +7,7 @@ channel: "UNESCO"
 duration: "10:08"
 publishedAt: 2011-11-22
 lang: en
-tags: ["shadow-puppetry", "piying", "UNESCO", "chinese-theater", "folk-art", "animation", "intangible-heritage"]
+tags: ["shadow-puppetry", "piying", "unesco", "chinese-theater", "folk-art", "animation", "intangible-heritage"]
 featured: false
 affiliate:
   - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
@@ -90,3 +90,5 @@ You don't need to be a master puppeteer to experience shadow puppetry. DIY kits 
 The next time you see your own shadow on a sidewalk at sunset, remember: someone, somewhere, spent twenty years learning how to make that shadow tell a story.
 
 **Explore more:** [Peking Opera's visual storytelling](/en/music/peking-opera-face-of-china) · [Ghost Festival traditions](/en/festivals/ghost-festival-zhongyuan)
+
+**Sources:** [Chinese shadow puppetry (UNESCO)](https://ich.unesco.org/en/SL/chinese-shadow-puppetry-00421) · [Shadow play on Wikipedia](https://en.wikipedia.org/wiki/Shadow_play)

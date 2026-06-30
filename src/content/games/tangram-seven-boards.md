@@ -78,3 +78,5 @@ Competitive tangram solving exists. The World Puzzle Championship includes tangr
 Yet the original appeal remains unchanged: seven simple pieces, a flat surface, and the quiet satisfaction of finding order in chaos. In a world of infinite digital entertainment, the tangram endures because it does something screens cannot — it puts geometry in your hands.
 
 **Explore more:** [Weiqi (Go) strategy](/en/games/weiqi-ancient-game-of-go)
+
+**Sources:** [Tangram on Wikipedia](https://en.wikipedia.org/wiki/Tangram)

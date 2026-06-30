@@ -7,7 +7,7 @@ channel: "ReligionForBreakfast"
 duration: "15:36"
 publishedAt: 2023-08-24
 lang: en
-tags: ["Ghost-Festival", "Zhongyuan", "Hungry-Ghosts", "Chinese-festival", "ancestors", "Buddhism-Taoism", "afterlife"]
+tags: ["ghost-festival", "zhongyuan", "hungry-ghosts", "chinese-festival", "ancestors", "buddhism-taoism", "afterlife"]
 featured: false
 affiliate:
   - title: "Chinese Ghost Stories for Language Learners: New Adaptations of Folklore Tales"
@@ -90,3 +90,5 @@ Every culture has traditions around death and memory. Mexico has Día de los Mue
 You don't need to believe in ghosts to appreciate what the Ghost Festival represents: a civilization's refusal to let go completely, a structured way to feel grief collectively, and a reminder that the dead are only truly gone when no one remembers them anymore.
 
 **Explore more:** [Qingming's ancestor rituals](/en/festivals/qingming-tomb-sweeping) · [shadow puppetry's ghostly characters](/en/games/chinese-shadow-puppetry-piying)
+
+**Sources:** [Ghost Festival on Wikipedia](https://en.wikipedia.org/wiki/Ghost_Festival)

@@ -68,3 +68,5 @@ AIGC:
 一千八百年后，一个医生把耳朵形状的面食递给冻僵的陌生人，配方基本上没变。我们仍然把温暖包进面皮，仍然递给在乎的人。形状仍然代表好运，馅料仍然代表心意，一起动手仍然代表——你不是一个人。
 
 **Explore more:** [春节团圆饭](/zh/events/spring-festival-traditions) · [冬至庆祝](/zh/festivals/winter-solstice-dongzhi)
+
+**Sources:** [饺子（维基百科）](https://zh.wikipedia.org/wiki/%E9%A5%BA%E5%AD%90)

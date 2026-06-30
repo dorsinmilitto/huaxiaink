@@ -66,3 +66,5 @@ In the age of WeChat and high-speed rail, physical distance is smaller than ever
 Perhaps that is why Mid-Autumn endures while other traditions fade. It does not ask you to believe anything. It only asks you to miss someone — and then gives you permission to say it out loud.
 
 **Explore more:** [mooncakes](/en/food/art-chinese-dumplings) · [tea ceremony traditions](/en/food/gong-fu-tea-ceremony) · [the Qixi love story](/en/festivals/qixi-chinese-valentine)
+
+**Sources:** [Mid-Autumn Festival (UNESCO)](https://ich.unesco.org/en/RL/mid-autumn-festival-00869) · [Mooncake on Wikipedia](https://en.wikipedia.org/wiki/Mooncake)

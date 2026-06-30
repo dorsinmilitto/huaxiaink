@@ -68,3 +68,5 @@ AIGC:
 中国人的答案简单到近乎笨拙：到场。一年一次，去他们安息的地方，收拾干净，带点吃的，告诉他们你没忘。这是人类发明的最低效的通讯系统——却也是最可靠的。
 
 **Explore more:** [中元节的灵魂仪式](/zh/festivals/ghost-festival-zhongyuan) · [二十四节气历法](/zh/festivals/twenty-four-solar-terms)
+
+**Sources:** [清明节（维基百科）](https://zh.wikipedia.org/wiki/%E6%B8%85%E6%98%8E%E8%8A%82)

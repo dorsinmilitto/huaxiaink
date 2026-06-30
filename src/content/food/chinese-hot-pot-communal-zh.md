@@ -64,3 +64,5 @@ AIGC:
 一口鸳鸯锅、一个电磁炉、一群朋友，够了。亚洲超市买现成的火锅肉片，备一盘蘑菇、小白菜和豆腐，自己调蘸料（芝麻酱、辣油、香菜、蒜泥——比例随你，调到是你自己的味）。汤底可以简单到鸡汤加几颗干辣椒。火锅的魔法不在配方，在围锅而坐的那一圈人。
 
 **Explore more:** [重庆火锅文化](/zh/food/chongqing-hotpot-spicy-soul) · [川辣哲学](/zh/food/sichuan-spice-story)
+
+**Sources:** [火锅（维基百科）](https://zh.wikipedia.org/wiki/%E7%81%AB%E9%94%85)

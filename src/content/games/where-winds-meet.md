@@ -76,3 +76,5 @@ The game's success suggests something profound: that cultural specificity isn't 
 The wind, as they say, is finally meeting the world.
 
 **Explore more:** [Black Myth: Wukong](/en/games/black-myth-wukong) · [Chinese drum traditions](/en/music/chinese-drum-heartbeat)
+
+**Sources:** [Wuxia on Wikipedia](https://en.wikipedia.org/wiki/Wuxia)

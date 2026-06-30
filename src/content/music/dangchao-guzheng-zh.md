@@ -91,3 +91,5 @@ YouTube评论区的故事似曾相识：
 "當潮不讓"——潮水来时，一寸不让。这是一个好的信条——为了一首曲子，为了一件乐器，也为了整整一代不愿在旧与新之间做选择的人。
 
 **Explore more:** [传统古筝技艺](/zh/music/lemon-tree-guzheng-cello)
+
+**Sources:** [古筝（维基百科）](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%AD%9D)

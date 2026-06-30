@@ -76,3 +76,5 @@ AIGC:
 原因很简单：舞狮不是博物馆里的展品。它是活的。它在进化、竞争、给人惊喜，而最重要的是——它要求你站在人群中，在骨子里感受鼓点。没有算法能替代那种体验。
 
 **Explore more:** [春节十五天的完整仪式](/zh/events/spring-festival-traditions) · [年兽传说](/zh/events/nien-legend-spring-festival)
+
+**Sources:** [舞狮（维基百科）](https://zh.wikipedia.org/wiki/%E8%88%9E%E7%8D%85)

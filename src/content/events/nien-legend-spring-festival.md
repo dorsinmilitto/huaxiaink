@@ -66,3 +66,5 @@ The Nien legend reminds us that traditions don't survive by accident. They survi
 So the next time you see a dragon dance through city streets, or hear firecrackers split the winter air, remember: you're not just watching a celebration. You're watching a 4,000-year-old victory lap.
 
 **Explore more:** [Spring Festival's 15-day traditions](/en/events/spring-festival-traditions) · [the lion dance tradition](/en/events/chinese-new-year-lion-dance-hong-kong)
+
+**Sources:** [Nian monster on Wikipedia](https://en.wikipedia.org/wiki/Nian) · [Chinese New Year on Wikipedia](https://en.wikipedia.org/wiki/Chinese_New_Year)

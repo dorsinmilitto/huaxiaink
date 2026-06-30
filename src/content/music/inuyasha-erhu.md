@@ -82,3 +82,5 @@ His *Inuyasha* cover isn't appropriation — it's translation. He's taking a pie
 In a world where cultural boundaries are simultaneously eroding and hardening, this kind of organic, musician-driven exchange matters more than ever. It doesn't come from policy or institution. It comes from one person falling in love with an instrument and asking: *What would this song sound like if it had been written for you?*
 
 **Explore more:** [Big Fish & Begonia on the erhu](/en/music/big-fish-erhu) · [the dizi's mountain sounds](/en/music/dizi-bamboo-flute)
+
+**Sources:** [Erhu on Wikipedia](https://en.wikipedia.org/wiki/Erhu)

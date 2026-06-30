@@ -77,3 +77,5 @@ AIGC:
 漓江终年碧绿，是因为喀斯特地区土壤含铁量低，悬浮物稀少。这抹绿，是地质、气候与生态共同酿造的颜色，是大自然用三亿年调出的底色，也是每一个站在江边的人都会沉默片刻的理由——在漓江面前，语言永远嫌多。
 
 **Explore more:** [黄山的水墨山水](/zh/travel/yellow-mountain-huangshan) · [笛子的山水旋律](/zh/music/dizi-bamboo-flute)
+
+**Sources:** [漓江（维基百科）](https://zh.wikipedia.org/wiki/%E6%BC%93%E6%B1%9F)

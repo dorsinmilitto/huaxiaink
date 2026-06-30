@@ -69,3 +69,5 @@ AIGC:
 这是文化交流最有机的形态：不由机构策划，不由政策推动，只是一位音乐人在与恰巧路过的陌生人分享她所热爱的东西。
 
 **Explore more:** [古筝说唱节拍](/zh/music/dangchao-guzheng)
+
+**Sources:** [古筝（维基百科）](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%AD%9D)

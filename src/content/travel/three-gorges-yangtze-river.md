@@ -7,7 +7,7 @@ channel: "Lifeder"
 duration: "29:41"
 publishedAt: 2025-10-01
 lang: en
-tags: ["Three-Gorges", "Yangtze", "dam", "China", "river", "cruise", "landscape", "engineering"]
+tags: ["three-gorges", "yangtze", "dam", "china", "river", "cruise", "landscape", "engineering"]
 featured: false
 affiliate:
   - title: "River Town: Two Years on the Yangtze"
@@ -78,3 +78,5 @@ Peter Hessler, who lived in Fuling on the Yangtze for two years, wrote: "The riv
 To cruise through the Three Gorges today is to sit between these two truths: that humans can reshape the earth, and that the earth, reshaped, still feels like something that was here before us and will be here after.
 
 **Explore more:** [the Li River's karst landscapes](/en/travel/li-river-guilin-karst) · [Chongqing at the gorge's doorstep](/en/travel/chongqing-8d-mountain-city)
+
+**Sources:** [Three Gorges Dam on Wikipedia](https://en.wikipedia.org/wiki/Three_Gorges_Dam)

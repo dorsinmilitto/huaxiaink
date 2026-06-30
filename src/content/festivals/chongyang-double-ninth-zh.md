@@ -68,3 +68,5 @@ AIGC:
 这不叫传统。这叫换了个更好的背景的爱。
 
 **Explore more:** [清明节扫墓传统](/zh/festivals/qingming-tomb-sweeping) · [黄山登高](/zh/travel/yellow-mountain-huangshan)
+
+**Sources:** [重阳节（维基百科）](https://zh.wikipedia.org/wiki/%E9%87%8D%E9%98%B3%E8%8A%82)

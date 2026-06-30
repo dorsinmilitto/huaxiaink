@@ -77,3 +77,5 @@ Jingxuan and Felix's *Lemon Tree* is a small, perfect example of what happens wh
 As one YouTube commenter put it: "I never knew I needed to hear a Chinese harp play '90s European pop, but here we are, and it's perfect."
 
 **Explore more:** [guzheng beat-dropping](/en/music/dangchao-guzheng)
+
+**Sources:** [Guzheng on Wikipedia](https://en.wikipedia.org/wiki/Guzheng)

@@ -60,3 +60,5 @@ AIGC:
 旅游改变了土家生活，有些村子更像文化展示区。但人与山的关系还在。土家信仰里，每座峰都有灵。叫它哈利路亚山也好，叫更老的名字也好，山灵一直在看着。
 
 **Explore more:** [黄山的云海景观](/zh/travel/yellow-mountain-huangshan) · [古琴的自然灵韵](/zh/music/buran-guqin)
+
+**Sources:** [张家界（维基百科）](https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AE%B6%E7%95%8C)

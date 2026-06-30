@@ -7,7 +7,7 @@ channel: "Blondie in China"
 duration: "14:12"
 publishedAt: 2024-07-16
 lang: en
-tags: ["chuanr", "Chinese-BBQ", "street-food", "skewers", "Xinjiang", "night-market", "cumin-lamb"]
+tags: ["chuanr", "chinese-bbq", "street-food", "skewers", "xinjiang", "night-market", "cumin-lamb"]
 featured: false
 affiliate:
   - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
@@ -66,3 +66,5 @@ There is a sociology to **串儿 (chuànr)** that no restaurant can replicate. T
 This is the gift of **串儿 (chuànr)**: it restores eating to its most elemental form. Fire. Meat. Stick. Smoke. Salt and cumin and the company of strangers who are, for the length of a skewer, not strangers at all. The steppe horsemen who invented the technique would not recognize the eggplant or the chicken hearts or the freezing beer, but they would recognize the impulse — the primal human need to gather around flame when the world goes dark, to feed the body and, in doing so, to feed something older and less articulate that lives in the spaces between people and can only be nourished by sharing.
 
 **Explore more:** [Chongqing hotpot](/en/food/chongqing-hotpot-spicy-soul) · [Chongqing's 8D mountain city](/en/travel/chongqing-8d-mountain-city)
+
+**Sources:** [Chuanr on Wikipedia](https://en.wikipedia.org/wiki/Chuan_(food))

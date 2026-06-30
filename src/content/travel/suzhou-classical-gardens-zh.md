@@ -64,3 +64,5 @@ AIGC:
 今天去逛，最强烈的感受是：这些空间什么都不要求你。没有喷泉，没有几何花坛，没有权力纪念碑。只有水、石、植物、建筑，排得恰好，像不费力似的。它让你慢下来，坐下来，看看。在一个什么都要快的时代，这大概是最激进的事。
 
 **Explore more:** [诞生于苏州的昆曲](/zh/music/kunqu-opera-peony-pavilion) · [古琴的园林冥想](/zh/music/buran-guqin)
+
+**Sources:** [苏州园林（世界遗产）](https://whc.unesco.org/en/list/911)

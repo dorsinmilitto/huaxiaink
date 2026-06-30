@@ -121,7 +121,7 @@ const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 
         {frontmatter.duration && <span>{frontmatter.duration}</span>}
       </div>
       <div>
-        {frontmatter.tags.map((tag: string) => <span class="video-tag">{tag}</span>)}
+        {frontmatter.tags.map((tag: string) => <a href={`/${l}/tag/${tag.toLowerCase()}`} class="video-tag">{tag}</a>)}
       </div>
       <ShareButtons url={`https://www.huaxiaink.com/${l}/${category}/${slug}`} title={frontmatter.title} lang={l} />
     </div>

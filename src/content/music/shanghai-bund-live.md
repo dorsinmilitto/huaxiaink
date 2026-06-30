@@ -76,3 +76,5 @@ When Peiyao's ensemble plays it on erhu, dizi, and guzheng, they're not "making 
 The result is a song that sounds simultaneously older and newer than the original — older because the instruments carry the weight of centuries, newer because stripping away the orchestral dressing makes the melody feel fresh and unguarded. It's a cover that doesn't cover the original; it uncovers it.
 
 **Explore more:** [the pipa's storytelling tradition](/en/music/pipa-chinese-lute)
+
+**Sources:** [The Bund on Wikipedia](https://en.wikipedia.org/wiki/The_Bund)

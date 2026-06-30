@@ -90,3 +90,5 @@ In an era of digital production where any sound can be synthesized, sampled, or 
 The next time you hear a pipa recording — whether it's the war drums of "Ambush on Ten Sides" or a contemporary fusion piece blending pipa with electronic beats — remember: you're listening to 2,000 years of refinement compressed into four strings and two hands. That's not just music. That's engineering.
 
 **Explore more:** [the erhu's storytelling power](/en/music/inuyasha-erhu)
+
+**Sources:** [Pipa on Wikipedia](https://en.wikipedia.org/wiki/Pipa)

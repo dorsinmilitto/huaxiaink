@@ -87,3 +87,5 @@ Each pass through the loop adds something. The Vocaloid version gave the guzheng
 In the end, *Quan Yu Tian Xia* — "The Emperor Rules Under Heaven" — turns out to be about more than Sun Quan. It's about the shifting balance of power between the digital and the acoustic, the programmed and the performed, the virtual and the real. And in this guzheng-and-drum cover, the real wins — not by rejecting the digital, but by absorbing it.
 
 **Explore more:** [guzheng virtuosity](/en/music/dangchao-guzheng)
+
+**Sources:** [Guzheng on Wikipedia](https://en.wikipedia.org/wiki/Guzheng)

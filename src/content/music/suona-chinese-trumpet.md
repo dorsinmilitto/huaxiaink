@@ -76,3 +76,5 @@ In 2013, the documentary *Suan Tian* ("Making Heaven Weep") introduced the suona
 Today, young Chinese musicians are rediscovering the suona not as a relic but as a voice — one that can cut through modern noise, that demands attention, that refuses to be background music. In a world of carefully curated, politely mixed audio experiences, the suona is a reminder: sometimes music should be too loud. Sometimes it should hurt a little. Sometimes that's exactly what you need to feel alive.
 
 **Explore more:** [Chinese drum traditions](/en/music/chinese-drum-heartbeat) · [Ghost Festival ceremonies](/en/festivals/ghost-festival-zhongyuan)
+
+**Sources:** [Suona on Wikipedia](https://en.wikipedia.org/wiki/Suona)

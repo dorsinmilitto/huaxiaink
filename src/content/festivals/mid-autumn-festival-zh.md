@@ -66,3 +66,5 @@ AIGC:
 也许这就是中秋节长盛不衰的原因。它不要求信仰，只要求你想一个人——然后允许你说出口。
 
 **Explore more:** [月饼](/zh/food/art-chinese-dumplings) · [功夫茶道](/zh/food/gong-fu-tea-ceremony) · [七夕爱情故事](/zh/festivals/qixi-chinese-valentine)
+
+**Sources:** [中秋节（联合国非遗）](https://ich.unesco.org/en/RL/mid-autumn-festival-00869)

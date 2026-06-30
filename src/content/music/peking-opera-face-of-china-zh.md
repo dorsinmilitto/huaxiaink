@@ -62,3 +62,5 @@ AIGC:
 变成另一个人的艺术——通过色彩、身段、声音——原来是无穷可塑的。脸在变，而化身本身不变。
 
 **Explore more:** [昆曲的更古老传统](/zh/music/kunqu-opera-peony-pavilion) · [皮影戏的视觉叙事](/zh/games/chinese-shadow-puppetry-piying) · [皇帝御膳房的北京烤鸭](/zh/food/peking-duck-imperial-cuisine)
+
+**Sources:** [京剧（联合国非遗）](https://ich.unesco.org/en/RL/peking-opera-00418)

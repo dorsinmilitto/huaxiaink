@@ -76,3 +76,5 @@ Compared to the fireworks and fanfare of Spring Festival, Duanwu is quiet. The z
 And perhaps that's why Liziqi's video resonated so deeply. She didn't explain the history or analyze the symbolism. She simply showed the festival as it is lived — hands in water, steam rising, the patience of making something by hand that could be bought in minutes. In her world, the fastest way and the right way are not the same, and the difference matters.
 
 **Explore more:** [Dragon Boat Festival's ancient origins](/en/festivals/dragon-boat-festival) · [the history of zongzi](/en/food/art-chinese-dumplings)
+
+**Sources:** [Dragon Boat Festival on Wikipedia](https://en.wikipedia.org/wiki/Dragon_Boat_Festival)

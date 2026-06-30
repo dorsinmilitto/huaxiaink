@@ -69,3 +69,5 @@ In a country racing toward an AI-driven future, Qingming remains stubbornly anal
 The Chinese answer is simple. You show up. Once a year, you go to where they are, clean the place up, bring them some food, and tell them you haven't forgotten. It is the least efficient communication system ever invented — and somehow the most reliable.
 
 **Explore more:** [Ghost Festival's spirit rituals](/en/festivals/ghost-festival-zhongyuan) · [the 24 Solar Terms calendar](/en/festivals/twenty-four-solar-terms)
+
+**Sources:** [Qingming Festival on Wikipedia](https://en.wikipedia.org/wiki/Qingming_Festival)

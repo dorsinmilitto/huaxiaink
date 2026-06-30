@@ -64,3 +64,5 @@ Today, there are roughly a dozen professional Kunqu troupes across China. Audien
 The dreamer in *The Peony Pavilion* came back from the dead for love. Kunqu keeps coming back for the same reason.
 
 **Explore more:** [Peking Opera's theatrical spectacle](/en/music/peking-opera-face-of-china) · [the guqin's ancient voice](/en/music/buran-guqin)
+
+**Sources:** [Kunqu Opera (UNESCO)](https://ich.unesco.org/en/RL/kun-qu-opera-00004) · [Kunqu on Wikipedia](https://en.wikipedia.org/wiki/Kunqu)

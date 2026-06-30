@@ -93,3 +93,5 @@ AIGC:
 最长的夜配最暖的团圆，这不是巧合，是安排。中国人把一年中离太阳最远的一天，过成了离彼此最近的一天。
 
 **Explore more:** [二十四节气体系](/zh/festivals/twenty-four-solar-terms) · [饺子与汤圆传统](/zh/food/art-chinese-dumplings)
+
+**Sources:** [冬至（维基百科）](https://zh.wikipedia.org/wiki/%E5%86%AC%E8%87%B3)

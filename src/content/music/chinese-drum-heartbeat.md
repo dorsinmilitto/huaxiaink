@@ -62,3 +62,5 @@ What makes the Chinese drum different from percussion traditions elsewhere isn't
 This is why, when you hear a large Chinese drum ensemble performing at full intensity, the effect isn't just loud. It's primal. Something in your nervous system recognizes the sound before your mind can analyze it — the same way a newborn recognizes its mother's heartbeat. The Chinese drum has been speaking that language for five thousand years. It hasn't run out of things to say.
 
 **Explore more:** [Dragon Boat racing rhythms](/en/events/dragon-boat-races-ancient-china) · [the suona's festival cry](/en/music/suona-chinese-trumpet)
+
+**Sources:** [Chinese drum on Wikipedia](https://en.wikipedia.org/wiki/Chinese_drum)

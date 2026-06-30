@@ -70,6 +70,11 @@ const translations = {
 
     // Breadcrumb
     'breadcrumb.home': 'Home',
+
+    // Tag page
+    'tag.title': 'Tag',
+    'tag.desc': 'All stories tagged with',
+    'tag.all': 'All Tags',
   },
   zh: {
     // Nav
@@ -133,6 +138,11 @@ const translations = {
 
     // Breadcrumb
     'breadcrumb.home': '首页',
+
+    // Tag page
+    'tag.title': '标签',
+    'tag.desc': '所有标注了此标签的文章',
+    'tag.all': '全部标签',
   },
 } as const;
 

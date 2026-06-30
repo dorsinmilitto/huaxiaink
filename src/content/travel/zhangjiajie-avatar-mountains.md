@@ -60,3 +60,5 @@ Long before Avatar or glass bridges, the Tujia people lived in these valleys. Th
 Tourism has reshaped Tujia life — some villages now exist primarily as cultural exhibits — but the underlying relationship between people and mountain remains. In Tujia cosmology, every peak has a spirit. Whether you call it Hallelujah Mountain or something older, the spirit is still watching.
 
 **Explore more:** [Yellow Mountain's sea-of-clouds landscapes](/en/travel/yellow-mountain-huangshan) · [the guqin's nature-inspired melodies](/en/music/buran-guqin)
+
+**Sources:** [Zhangjiajie on Wikipedia](https://en.wikipedia.org/wiki/Zhangjiajie)

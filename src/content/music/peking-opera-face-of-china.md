@@ -62,3 +62,5 @@ But something interesting is happening. Contemporary Chinese artists are pulling
 The art of becoming someone else — through paint, through movement, through voice — turns out to be endlessly adaptable. The faces change. The transformation doesn't.
 
 **Explore more:** [Kunqu Opera's older tradition](/en/music/kunqu-opera-peony-pavilion) · [shadow puppetry's visual storytelling](/en/games/chinese-shadow-puppetry-piying) · [Peking Duck from the emperor's kitchen](/en/food/peking-duck-imperial-cuisine)
+
+**Sources:** [Peking Opera (UNESCO)](https://ich.unesco.org/en/RL/peking-opera-00418) · [Peking opera on Wikipedia](https://en.wikipedia.org/wiki/Peking_opera)

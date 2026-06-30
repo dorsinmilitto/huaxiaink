@@ -76,3 +76,5 @@ AIGC:
 也许正是因此，李子柒的视频才能引发如此深的共鸣。她没有讲解历史，没有分析象征。她只是展示节日如何被真实地过——手入水中，蒸汽升腾，用半天做出几分钟就能买到的东西的耐心。在她的世界里，最快的方式和正确的方式不是同一件事，而这区别至关重要。
 
 **Explore more:** [端午节的古老起源](/zh/festivals/dragon-boat-festival) · [粽子的包法](/zh/food/art-chinese-dumplings)
+
+**Sources:** [端午节（维基百科）](https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%8D%88%E8%8A%82)

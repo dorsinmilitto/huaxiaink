@@ -7,7 +7,7 @@ channel: "Chinese Cooking Demystified"
 duration: "23:19"
 publishedAt: 2025-01-07
 lang: en
-tags: ["Mapo-Tofu", "Sichuan-cuisine", "tofu", "Chinese-food", "Chen-Mapo", "mala", "Chengdu"]
+tags: ["mapo-tofu", "sichuan-cuisine", "tofu", "chinese-food", "chen-mapo", "mala", "chengdu"]
 featured: false
 affiliate:
   - title: "52USA Sichuan Peppercorns, 4OZ Authentic Szechuan Red Peppercorn"
@@ -66,3 +66,5 @@ Sit down at a formica table in Chengdu. The bowl arrives, a volcanic lake of cri
 This is **麻婆豆腐 (Mápó Dòufu)**. It does not comfort. It does not soothe. It wakes you up — violently, joyfully, completely — and for that, it has been loved for a hundred and sixty years across every continent where humans eat with pleasure and courage.
 
 **Explore more:** [Sichuan's spice philosophy](/en/food/sichuan-spice-story) · [Chongqing hotpot culture](/en/food/chongqing-hotpot-spicy-soul)
+
+**Sources:** [Mapo tofu on Wikipedia](https://en.wikipedia.org/wiki/Mapo_tofu)

@@ -64,3 +64,5 @@ AIGC:
 牡丹亭中的梦中人为爱还魂。昆曲不断复生，也是出于同样的理由。
 
 **Explore more:** [京剧的视觉奇观](/zh/music/peking-opera-face-of-china) · [古琴的千年音色](/zh/music/buran-guqin)
+
+**Sources:** [昆曲（联合国非遗）](https://ich.unesco.org/en/RL/kun-qu-opera-00004)

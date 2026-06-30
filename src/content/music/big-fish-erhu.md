@@ -80,3 +80,5 @@ That last comment touches on something real but often unspoken: when an outsider
 Eliott Tordo met Chinese music halfway. Chinese music met him back. And *Da Yu* — the big fish — leaped.
 
 **Explore more:** [Kunqu Opera's emotional depth](/en/music/kunqu-opera-peony-pavilion)
+
+**Sources:** [Erhu on Wikipedia](https://en.wikipedia.org/wiki/Erhu)

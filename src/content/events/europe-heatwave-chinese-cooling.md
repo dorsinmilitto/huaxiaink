@@ -7,7 +7,7 @@ channel: "India Today Global"
 duration: "3:03"
 publishedAt: 2025-06-15
 lang: en
-tags: ["heatwave", "Europe", "cooling", "bamboo-fan", "Chinese-tradition", "summer", "climate", "sustainability"]
+tags: ["heatwave", "europe", "cooling", "bamboo-fan", "chinese-tradition", "summer", "climate", "sustainability"]
 featured: false
 affiliate:
   - title: "OMyTea Chinese Bamboo Hand Fan for Women - Foldable Vintage Silk Fan"
@@ -105,3 +105,5 @@ The tools they used are still available. Still cheap. Still effective. Still zer
 If you are facing summer without reliable air conditioning, or just want to reduce your energy bills and carbon footprint, these time-tested Chinese cooling products are worth trying. They have been keeping people comfortable for centuries, and modern Amazon reviews confirm they still work today.
 
 **Explore more:** [Chinese tea ceremony's cooling art](/en/food/gong-fu-tea-ceremony) · [the 24 Solar Terms calendar](/en/festivals/twenty-four-solar-terms)
+
+**Sources:** [Traditional Chinese medicine cooling methods](https://en.wikipedia.org/wiki/Traditional_Chinese_medicine)

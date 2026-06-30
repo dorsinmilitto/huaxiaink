@@ -68,3 +68,5 @@ If time is money, gong fu cha is a waste. If time is the only non-renewable reso
 The Chaozhou masters understood something that modern productivity culture refuses to admit: sometimes the most powerful thing you can do with your attention is give all of it to one small thing.
 
 **Explore more:** [Dim Sum morning tea](/en/food/dim-sum-morning-tea) · [Mid-Autumn Festival tea traditions](/en/festivals/mid-autumn-festival)
+
+**Sources:** [Gongfu tea ceremony on Wikipedia](https://en.wikipedia.org/wiki/Gongfu_tea_ceremony) · [Chinese tea culture (UNESCO)](https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-01484)

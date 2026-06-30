@@ -72,3 +72,5 @@ AIGC:
 十五天。从打扫屋子到放飞心愿，从强制的和气到明亮的心动。春节不是一个假日，是一套运行了四千年的重启系统——至今仍在运转。
 
 **Explore more:** [年兽传说](/zh/events/nien-legend-spring-festival) · [舞狮传统](/zh/events/chinese-new-year-lion-dance-hong-kong) · [元宵节](/zh/festivals/lantern-festival) · [年夜饭上的饺子](/zh/food/art-chinese-dumplings)
+
+**Sources:** [春节（维基百科）](https://zh.wikipedia.org/wiki/%E6%98%A5%E8%8A%82)

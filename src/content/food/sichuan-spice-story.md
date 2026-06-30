@@ -68,3 +68,5 @@ Sichuan's relationship with spice is ultimately a relationship with adversity. T
 Every plate of mapo tofu, every bubbling hot pot, every oil-slicked bowl of dan dan noodles carries that lineage. The spice is not cruelty. It is resilience you can taste. And when a Sichuan cook asks "can you handle it?", the question is not really about your tolerance for capsaicin. It is about your willingness to sit with discomfort long enough to discover what waits on the other side.
 
 **Explore more:** [Mapo Tofu's fiery history](/en/food/mapo-tofu-history) · [Chongqing hotpot](/en/food/chongqing-hotpot-spicy-soul)
+
+**Sources:** [Sichuan cuisine on Wikipedia](https://en.wikipedia.org/wiki/Sichuan_cuisine) · [Sichuan pepper on Wikipedia](https://en.wikipedia.org/wiki/Sichuan_pepper)

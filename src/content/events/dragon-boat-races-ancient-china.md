@@ -76,3 +76,5 @@ Today, dragon boat teams train year-round. Competitions draw crowds in Hong Kong
 Listen carefully. That beat hasn't changed in two millennia. It's the sound of people who refused to let the river have the last word.
 
 **Explore more:** [Dragon Boat Festival traditions](/en/festivals/dragon-boat-festival) · [traditional Chinese drum rhythms](/en/music/chinese-drum-heartbeat)
+
+**Sources:** [Dragon boat racing on Wikipedia](https://en.wikipedia.org/wiki/Dragon_boat)

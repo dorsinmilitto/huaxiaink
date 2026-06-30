@@ -68,3 +68,5 @@ Zhang Zhongjing's original insight — that warmth is medicine — remains the d
 1,800 years after a doctor handed out ear-shaped dumplings to frozen strangers, the recipe hasn't fundamentally changed. We still wrap warmth in dough. We still hand it to people we love. The shape still means luck, the filling still means care, and the shared work still means you're not alone.
 
 **Explore more:** [Spring Festival reunion dinner](/en/events/spring-festival-traditions) · [Winter Solstice celebrations](/en/festivals/winter-solstice-dongzhi)
+
+**Sources:** [Jiaozi on Wikipedia](https://en.wikipedia.org/wiki/Jiaozi)

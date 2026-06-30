@@ -78,3 +78,5 @@ AIGC:
 今天坐游轮穿三峡，你就坐在两个真相之间：人可以重塑大地，而大地重塑之后，仍然像是先于我们而在、后于我们而在的东西。
 
 **Explore more:** [漓江的喀斯特山水](/zh/travel/li-river-guilin-karst) · [峡谷入口的重庆](/zh/travel/chongqing-8d-mountain-city)
+
+**Sources:** [三峡大坝（维基百科）](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%9D%9D)

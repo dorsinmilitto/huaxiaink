@@ -66,3 +66,5 @@ Standing on a Ming watchtower at sunset, watching the wall drop into a valley an
 That fight lasted two millennia. The Wall remains.
 
 **Explore more:** [the Forbidden City's imperial defenses](/en/travel/forbidden-city-beijing) · [Xiangqi's mimicry of border warfare](/en/games/xiangqi-chinese-chess) · [Chinese drum military signals](/en/music/chinese-drum-heartbeat)
+
+**Sources:** [Great Wall (UNESCO)](https://whc.unesco.org/en/list/438) · [Great Wall of China on Wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)

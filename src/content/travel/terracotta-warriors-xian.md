@@ -62,3 +62,5 @@ The Terracotta Army faced east — the direction from which the six conquered ki
 Visit in the early morning when the light slants through the hangar-like roof of Pit One, and the soldiers seem almost alive. Shadows shift across their faces. The dust of two thousand years hangs in the air. You are looking at the largest funerary art project in human history, commissioned by a man who refused to believe his story would end. In a way, he was right. He is still here, still surrounded by his army, still commanding attention.
 
 **Explore more:** [the Great Wall's Qin dynasty origins](/en/travel/secrets-great-wall) · [Chinese drum military traditions](/en/music/chinese-drum-heartbeat)
+
+**Sources:** [Mausoleum of the First Qin Emperor (UNESCO)](https://whc.unesco.org/en/list/441) · [Terracotta Army on Wikipedia](https://en.wikipedia.org/wiki/Terracotta_Army)

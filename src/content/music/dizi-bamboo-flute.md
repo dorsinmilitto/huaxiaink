@@ -76,3 +76,5 @@ You can buy a beginner dizi for under $15. You can learn to produce a clear note
 The dizi teaches patience. Breath control cannot be rushed. Finger placement must be precise. The membrane must be tended like a living thing. In return, it gives back something rare: the feeling that you are making music not despite your limitations, but through them — one breath, one hole, one membrane vibration at a time.
 
 **Explore more:** [the erhu's emotional range](/en/music/inuyasha-erhu)
+
+**Sources:** [Dizi on Wikipedia](https://en.wikipedia.org/wiki/Dizi)

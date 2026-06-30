@@ -95,3 +95,5 @@ Tordo并非独奏。中国东方乐团提供管弦背景——二胡、琵琶、
 Eliott Tordo走到了中国音乐的半途。中国音乐也走向了他。而大鱼——跃出了水面。
 
 **Explore more:** [昆曲的情感深度](/zh/music/kunqu-opera-peony-pavilion)
+
+**Sources:** [二胡（维基百科）](https://zh.wikipedia.org/wiki/%E4%BA%8C%E8%83%A1)

@@ -60,3 +60,5 @@ AIGC:
 也许这就是麻将真正的天才之处：它从来不只是牌，而是围坐在桌边的人——喝茶、聊天、传闲话，安安静静地守护着一种没有科技能替代的社交传统。
 
 **Explore more:** [春节家庭聚会](/zh/events/spring-festival-traditions) · [功夫茶道传统](/zh/food/gong-fu-tea-ceremony)
+
+**Sources:** [麻将（维基百科）](https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%B0%86)

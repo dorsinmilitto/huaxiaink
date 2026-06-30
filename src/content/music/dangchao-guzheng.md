@@ -91,3 +91,5 @@ Moyun isn't alone. She's part of a wave of Chinese musicians — from Zi De Guqi
 *Dang Chao Bu Rang* translates to something like "when the tide comes, hold nothing back." It's a good motto — for a song, for an instrument, and for an entire generation refusing to choose between old and new.
 
 **Explore more:** [traditional guzheng artistry](/en/music/lemon-tree-guzheng-cello)
+
+**Sources:** [Guzheng on Wikipedia](https://en.wikipedia.org/wiki/Guzheng)

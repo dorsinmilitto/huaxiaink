@@ -7,7 +7,7 @@ channel: "Topic"
 duration: "16:12"
 publishedAt: 2018-09-11
 lang: en
-tags: ["lamian", "hand-pulled-noodles", "Chinese-noodles", "Lanzhou", "dough-art", "wheat", "Chinese-cuisine"]
+tags: ["lamian", "hand-pulled-noodles", "chinese-noodles", "lanzhou", "dough-art", "wheat", "chinese-cuisine"]
 featured: false
 affiliate:
   - title: "Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings"
@@ -64,3 +64,5 @@ This is the paradox of **拉面 (lāmiàn)**: it is at once the most reproducibl
 In the early morning, before the city fully wakes, the noodle shops of Lanzhou are already lit. Steam rises from vats the size of bathtubs. The masters stand at their boards, sleeves rolled past the elbow, hands dusted white, pulling threads of wheat into silk. Customers sit on plastic stools and eat standing up sometimes, the broth scalding their lips, the noodles slippery and alive between their teeth, and for a few minutes the whole harsh geometry of the Silk Road — the deserts, the distances, the centuries of carrying goods across the roof of the world — collapses into a single bowl, a single gesture, a single unbroken thread stretching from some unknown hand three thousand years ago to this one, right now, pulling dough into light.
 
 **Explore more:** [dumpling-making techniques](/en/food/art-chinese-dumplings)
+
+**Sources:** [Lamian on Wikipedia](https://en.wikipedia.org/wiki/Lamian)

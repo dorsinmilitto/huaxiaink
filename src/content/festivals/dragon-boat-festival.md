@@ -72,3 +72,5 @@ Qu Yuan's story endures because it articulates something that resonates across c
 The holiday takes sorrow and transforms it into noise, speed, and flavor. That alchemy — grief into celebration — may be the most Chinese festival tradition of all.
 
 **Explore more:** [dragon boat racing history](/en/events/dragon-boat-races-ancient-china) · [traditional Chinese drums](/en/music/chinese-drum-heartbeat)
+
+**Sources:** [Dragon Boat Festival (UNESCO)](https://ich.unesco.org/en/RL/dragon-boat-festival-00225) · [Qu Yuan on Wikipedia](https://en.wikipedia.org/wiki/Qu_Yuan)

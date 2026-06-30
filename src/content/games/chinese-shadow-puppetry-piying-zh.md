@@ -69,3 +69,5 @@ AIGC:
 随着电影、电视的普及，皮影戏一度走向衰落，许多老艺人不得不放下操纵杆另谋生路。但近年来，皮影戏作为非物质文化遗产重新受到关注。陕西、河北等地的皮影戏班开始走进校园、走向海外舞台。一些年轻的创作者将皮影与现代动画、数字技术结合，让古老的光影艺术在当代语境中焕发新生。那一盏灯、一方幕、千军万马的影子，穿越了两千年的风尘，依然在寻找愿意驻足观看的目光。
 
 **Explore more:** [京剧的视觉叙事](/zh/music/peking-opera-face-of-china) · [中元节传统](/zh/festivals/ghost-festival-zhongyuan)
+
+**Sources:** [皮影戏（联合国非遗）](https://ich.unesco.org/en/SL/chinese-shadow-puppetry-00421)

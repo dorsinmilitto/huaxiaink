@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import VideoCard from '../../../components/VideoCard.astro';
+import { getCollection } from 'astro:content';
+import { t, type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food'];
+  const allTags = new Map<string, { en: any[]; zh: any[] }>();
+
+  for (const cat of cats) {
+    const entries = await getCollection(cat);
+    for (const entry of entries) {
+      for (const tag of entry.data.tags) {
+        const normalizedTag = tag.toLowerCase();
+        if (!allTags.has(normalizedTag)) {
+          allTags.set(normalizedTag, { en: [], zh: [] });
+        }
+        const slug = entry.data.lang === 'zh' ? entry.slug.replace(/-zh$/, '') : entry.slug;
+        const item = {
+          ...entry.data,
+          slug,
+          category: cat,
+        };
+        if (entry.data.lang === 'en') {
+          allTags.get(normalizedTag)!.en.push(item);
+        } else {
+          allTags.get(normalizedTag)!.zh.push(item);
+        }
+      }
+    }
+  }
+
+  // Only create pages for tags with at least 2 articles
+  const paths: any[] = [];
+  for (const [tag, items] of allTags) {
+    if (items.en.length >= 2) {
+      paths.push({ params: { lang: 'en', tag }, props: { articles: items.en, allTags: [...allTags.keys()] } });
+    }
+    if (items.zh.length >= 2) {
+      paths.push({ params: { lang: 'zh', tag }, props: { articles: items.zh, allTags: [...allTags.keys()] } });
+    }
+  }
+  return paths;
+}
+
+const { lang, tag } = Astro.params;
+const l = lang as Lang;
+const { articles, allTags } = Astro.props;
+
+const sortedArticles = articles
+  .sort((a: any, b: any) => b.publishedAt.getTime() - a.publishedAt.getTime());
+
+const tagTitle = `${t(l, 'tag.title')}: ${tag}`;
+const tagDesc = `${t(l, 'tag.desc')} "${tag}" — ${articles.length} ${l === 'zh' ? '篇文章' : 'articles'}`;
+---
+
+<BaseLayout title={tagTitle} description={tagDesc} lang={l}>
+  <div class="category-header">
+    <div class="seal">#</div>
+    <h1>{tagTitle}</h1>
+    <p>{tagDesc}</p>
+  </div>
+
+  {sortedArticles.length > 0 ? (
+    <section class="section">
+      <div class="video-grid">
+        {sortedArticles.map((v: any) => (
+          <VideoCard
+            id={v.youtubeId}
+            title={v.title}
+            channel={v.channel}
+            duration={v.duration}
+            category={v.category}
+            tags={v.tags}
+            slug={v.slug}
+            lang={l}
+            coverImage={v.coverImage}
+          />
+        ))}
+      </div>
+    </section>
+  ) : (
+    <section class="section" style="text-align:center;color:var(--text-muted);padding:3rem 0">
+      <p>{t(l, 'section.no_videos')}</p>
+    </section>
+  )}
+
+  {allTags.length > 0 && (
+    <section class="section" style="padding-top:2rem">
+      <h2 class="section-title">{t(l, 'tag.all')}</h2>
+      <div style="display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:1rem">
+        {allTags.map((tg: string) => (
+          <a href={`/${l}/tag/${tg}`}
+            class={`video-tag${tg === tag ? ' active' : ''}`}
+            style={tg === tag ? 'background:var(--accent);color:#fff;font-weight:700' : ''}
+          >{tg}</a>
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>

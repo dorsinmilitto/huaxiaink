@@ -85,3 +85,5 @@ AIGC:
 这大概就是自得琴社的炼金术。他们不只是守护传统——他们在翻译传统。而当一件三千年的乐器用流行歌的语言开口，有时反而成了最不需要翻译的声音。
 
 **Explore more:** [昆曲的古调](/zh/music/kunqu-opera-peony-pavilion) · [围棋的冥想哲学](/zh/games/weiqi-ancient-game-of-go)
+
+**Sources:** [古琴（联合国非遗）](https://ich.unesco.org/en/RL/guqin-and-its-music-00065)

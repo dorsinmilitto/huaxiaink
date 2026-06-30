@@ -64,3 +64,5 @@ Over a million artifacts survived the transition — jade seals, imperial robes,
 Visit at dawn, before the crowds arrive, and you will hear what the emperors heard — wind through the courtyards, crows on the eaves, and a silence so vast it swallows centuries. Five hundred years of decisions that shaped East Asia were made in these halls. The weight of that history is palpable, even in the quiet.
 
 **Explore more:** [Peking Duck's imperial origins](/en/food/peking-duck-imperial-cuisine) · [Peking Opera at the imperial court](/en/music/peking-opera-face-of-china) · [the Great Wall's defense of the capital](/en/travel/secrets-great-wall)
+
+**Sources:** [Forbidden City (UNESCO)](https://whc.unesco.org/en/list/439) · [Forbidden City on Wikipedia](https://en.wikipedia.org/wiki/Forbidden_City)

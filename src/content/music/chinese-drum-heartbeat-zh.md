@@ -62,3 +62,5 @@ AIGC:
 这就是为什么，当你听到大型中国鼓队在全力演奏时，效果不只是响——而是原始。你的神经系统里有什么东西在声音被大脑分析之前就认出了它——像新生儿认出母亲心跳一样。中国鼓用这种语言说话，已经说了五千年，还没有说完。
 
 **Explore more:** [龙舟竞渡的鼓点](/zh/events/dragon-boat-races-ancient-china) · [唢呐的节庆呐喊](/zh/music/suona-chinese-trumpet)
+
+**Sources:** [中国鼓（维基百科）](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%BC%93)

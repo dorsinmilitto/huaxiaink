@@ -76,3 +76,5 @@ In an era of screens and virtual entertainment, the lion dance should, by all lo
 The reason is simple: the lion dance is not a museum piece. It's alive. It evolves, competes, surprises, and — most importantly — requires you to stand in a crowd and feel the drums in your bones. No algorithm can replace that.
 
 **Explore more:** [Spring Festival's 15-day ritual](/en/events/spring-festival-traditions) · [the legend of the Nien monster](/en/events/nien-legend-spring-festival)
+
+**Sources:** [Lion dance on Wikipedia](https://en.wikipedia.org/wiki/Lion_dance) · [Chinese New Year traditions (UNESCO)](https://ich.unesco.org/en/lists)

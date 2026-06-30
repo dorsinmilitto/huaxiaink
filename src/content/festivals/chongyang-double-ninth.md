@@ -68,3 +68,5 @@ Chongyang does not ask you to buy flowers or write a card. It asks you to move y
 That is not tradition. That is just love with better scenery.
 
 **Explore more:** [Qingming tomb-sweeping traditions](/en/festivals/qingming-tomb-sweeping) · [Yellow Mountain](/en/travel/yellow-mountain-huangshan)
+
+**Sources:** [Double Ninth Festival on Wikipedia](https://en.wikipedia.org/wiki/Double_Ninth_Festival)

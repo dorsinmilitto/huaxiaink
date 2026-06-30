@@ -7,7 +7,7 @@ channel: "CoolVision"
 duration: "1:00"
 publishedAt: 2025-06-01
 lang: en
-tags: ["Chongqing", "8D-city", "cyberpunk", "mountain-city", "vertical-city", "China-architecture", "megacity"]
+tags: ["chongqing", "8d-city", "cyberpunk", "mountain-city", "vertical-city", "china-architecture", "megacity"]
 featured: true
 affiliate:
   - title: "Lonely Planet China Travel Guide"
@@ -80,3 +80,5 @@ The answer is: it works. The subway runs. The food is legendary. The nightlife i
 Chongqing proves that human adaptation has no ceiling. Given enough necessity and enough will, we will build a city anywhere — even on a mountain, even in the fog, even when the laws of physics politely suggest we don't.
 
 **Explore more:** [Chongqing hotpot](/en/food/chongqing-hotpot-spicy-soul) · [Sichuan's spice culture](/en/food/sichuan-spice-story)
+
+**Sources:** [Chongqing on Wikipedia](https://en.wikipedia.org/wiki/Chongqing)

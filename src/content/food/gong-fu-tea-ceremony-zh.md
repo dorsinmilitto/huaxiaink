@@ -68,3 +68,5 @@ AIGC:
 潮州老师傅懂一件事：有时候，注意力最有力量的用法，就是把它全部给一个小东西。
 
 **Explore more:** [早茶点心](/zh/food/dim-sum-morning-tea) · [中秋茶道传统](/zh/festivals/mid-autumn-festival)
+
+**Sources:** [功夫茶（维基百科）](https://zh.wikipedia.org/wiki/%E5%8A%9F%E5%A4%AB%E8%8C%B6)

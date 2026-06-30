@@ -93,3 +93,5 @@ AIGC:
 有些东西不怕旧。一个民族愿意每年花一整个月去想那些不在了的人，这件事本身就值得被记住。中元节不是迷信，是中国人对生死边界最温柔的坚持：我们还记得你，所以你还没有真的走。
 
 **Explore more:** [清明的祭祖仪式](/zh/festivals/qingming-tomb-sweeping) · [皮影戏里的鬼魂角色](/zh/games/chinese-shadow-puppetry-piying)
+
+**Sources:** [中元节（维基百科）](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%83%E8%8A%82)

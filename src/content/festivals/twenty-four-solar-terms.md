@@ -7,7 +7,7 @@ channel: "UNESCO"
 duration: "10:00"
 publishedAt: 2016-11-30
 lang: en
-tags: ["Solar-Terms", "24-Jieqi", "Chinese-calendar", "agriculture", "UNESCO-heritage", "lunisolar", "traditional-wisdom"]
+tags: ["solar-terms", "24-jieqi", "chinese-calendar", "agriculture", "unesco-heritage", "lunisolar", "traditional-wisdom"]
 featured: false
 affiliate:
   - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
@@ -111,3 +111,5 @@ UNESCO's recognition in 2016 acknowledged this: the Solar Terms are not just a f
 The next time you notice the first frost, the first thunder of spring, or the particular quality of light that means autumn has truly arrived, remember: Chinese farmers gave that moment a name 2,000 years ago. You're experiencing exactly what they experienced. The sun moves. The earth responds. And somewhere in that dance, we find our place.
 
 **Explore more:** [Winter Solstice traditions](/en/festivals/winter-solstice-dongzhi) · [Qingming's seasonal significance](/en/festivals/qingming-tomb-sweeping)
+
+**Sources:** [24 Solar Terms (UNESCO)](https://ich.unesco.org/en/RL/twenty-four-solar-terms-00788) · [Solar term on Wikipedia](https://en.wikipedia.org/wiki/Solar_term_(Chinese))

@@ -7,7 +7,7 @@ channel: "SCCC"
 duration: "5:03"
 publishedAt: 2020-12-10
 lang: en
-tags: ["Winter-Solstice", "Dongzhi", "Chinese-festival", "dumplings", "shortest-day", "solar-term", "winter-tradition"]
+tags: ["winter-solstice", "dongzhi", "chinese-festival", "dumplings", "shortest-day", "solar-term", "winter-tradition"]
 featured: false
 affiliate:
   - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
@@ -84,3 +84,5 @@ In a world obsessed with new beginnings at January 1st, the Winter Solstice offe
 The next time December 21 rolls around, consider making dumplings. Or tangyuan. Or simply pausing to notice that the sunset will come a few seconds earlier than yesterday, but tomorrow it will come a few seconds later. That is the promise of the Winter Solstice: the worst is over. The best is beginning.
 
 **Explore more:** [the 24 Solar Terms system](/en/festivals/twenty-four-solar-terms) · [dumplings and tangyuan traditions](/en/food/art-chinese-dumplings)
+
+**Sources:** [Dongzhi Festival on Wikipedia](https://en.wikipedia.org/wiki/Dongzhi_(festival))
