@@ -33,22 +33,6 @@ AIGC:
   PropagateID: '8c1075b8-4fa6-4e24-b0da-82818e272c6b'
   ReservedCode1: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
   ReservedCode2: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
-  affiliate:
-  - title: "52USA Sichuan Peppercorns, 4OZ Authentic Szechuan Red Peppercorn"
-    asin: "B0FQF5ZZCL"
-    url: "https://www.amazon.com/dp/B0FQF5ZZCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71pIlCSAe3L._AC_UL640_.jpg"
-    price: "$10.99"
-  - title: "14 Inch Cast Iron Wok with Flat Base and Handles - Pre-Seasoned"
-    asin: "B07H7XNFP8"
-    url: "https://www.amazon.com/dp/B07H7XNFP8?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/710TLXFAf7L._AC_UL640_.jpg"
-    price: "$49.99"
-  - title: "Chinese Food At Home: Simple and Authentic Sichuan Family Cookbook"
-    asin: "B07DFLNTT8"
-    url: "https://www.amazon.com/dp/B07DFLNTT8?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91H9OOvvTTL._AC_UL640_.jpg"
-    price: "$9.99"
 
 ---
 

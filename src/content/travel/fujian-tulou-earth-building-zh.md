@@ -33,22 +33,6 @@ AIGC:
   PropagateID: 'd76acc1b-c659-44fc-a80d-d1b7df65e74f'
   ReservedCode1: '91d595cc-8470-4072-8e1c-c5e132918698'
   ReservedCode2: '91d595cc-8470-4072-8e1c-c5e132918698'
-  affiliate:
-  - title: "Architecture of China - Vernacular Dwellings and Tulou Buildings"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$35.00"
-  - title: "Lonely Planet Fujian & Taiwan Travel Guide"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$24.99"
-  - title: "Hakka Culture History Book - Migration and Architecture"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$29.50"
 
 ---
 

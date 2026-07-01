@@ -33,22 +33,6 @@ AIGC:
   PropagateID: 'd6233ad7-c996-4105-94eb-607376301ed8'
   ReservedCode1: 'df445717-f3f5-454d-8ca3-03d136585cad'
   ReservedCode2: 'df445717-f3f5-454d-8ca3-03d136585cad'
-  affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "National Geographic China Adventure Map - Waterproof Tear-Resistant"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$24.97"
 
 ---
 

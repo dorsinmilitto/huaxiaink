@@ -33,22 +33,6 @@ AIGC:
   PropagateID: '4282c7b7-b82c-4e81-a5ef-d818f9499ab7'
   ReservedCode1: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
   ReservedCode2: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
-  affiliate:
-  - title: "D Key Suona Chinese Traditional Musical Instrument for Beginners and Professionals"
-    asin: "B0CXDWYWC2"
-    url: "https://www.amazon.com/dp/B0CXDWYWC2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61sfvj6mEOL._AC_UL640_.jpg"
-    price: "$35.99"
-  - title: "angwang Suona Reed Mouth, 4 Pcs Chinese National Musical Instrument Suona Reed"
-    asin: "B08JCBY597"
-    url: "https://www.amazon.com/dp/B08JCBY597?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/619q4OeN7lL._AC_UL640_.jpg"
-    price: "$8.99"
-  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
-    asin: "B0CQN9TVWD"
-    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
-    price: "$9.99"
 
 ---
 

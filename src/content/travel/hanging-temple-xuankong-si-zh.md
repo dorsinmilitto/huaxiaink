@@ -33,22 +33,6 @@ AIGC:
   PropagateID: 'c32bc031-e13b-4904-abe8-5cdca8909873'
   ReservedCode1: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
   ReservedCode2: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
-  affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Shanxi Province China Travel Guide - Temples and Ancient Sites"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$32.00"
 
 ---
 

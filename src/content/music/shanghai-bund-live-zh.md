@@ -31,20 +31,6 @@ AIGC:
   PropagateID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
   ReservedCode1: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
   ReservedCode2: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
-  affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
 
 ---
 

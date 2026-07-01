@@ -33,22 +33,6 @@ AIGC:
   PropagateID: 'a8f92d5f-50ba-4d65-824a-013097cdfd83'
   ReservedCode1: '261e5cb7-398a-415b-a215-ebf456d5328d'
   ReservedCode2: '261e5cb7-398a-415b-a215-ebf456d5328d'
-  affiliate:
-  - title: "Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings"
-    asin: "B07DP15B53"
-    url: "https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
-    asin: "B0049B1VRW"
-    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch"
-    asin: "B08LCXZ3WD"
-    url: "https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg"
-    price: "$15.99"
 
 ---
 

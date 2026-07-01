@@ -31,20 +31,6 @@ AIGC:
   PropagateID: 'e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc'
   ReservedCode1: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
   ReservedCode2: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
-  affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
 
 ---
 

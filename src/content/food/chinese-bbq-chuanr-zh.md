@@ -33,22 +33,6 @@ AIGC:
   PropagateID: '7188d005-dda7-437f-87e1-9bc1c275539a'
   ReservedCode1: '537a6076-c543-4386-9af0-ef686bc7e8d1'
   ReservedCode2: '537a6076-c543-4386-9af0-ef686bc7e8d1'
-  affiliate:
-  - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
-    asin: "B0931JFMRC"
-    url: "https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg"
-    price: "$8.99"
-  - title: "Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag"
-    asin: "B001VNECGI"
-    url: "https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg"
-    price: "$10.49"
-  - title: "Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack"
-    asin: "B0BV6MPHGM"
-    url: "https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg"
-    price: "$49.99"
 
 ---
 
