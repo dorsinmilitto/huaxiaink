@@ -1,4 +1,4 @@
----
+﻿---
 title: "从李小龙到成龙：功夫电影如何征服世界"
 description: "功夫电影不仅是娱乐——它塑造了全世界对中国的认知。从邵氏片场到《黑客帝国》，银幕上武术的演变之路。"
 youtubeId: "rLzimapLjQ"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["bruce-lee", "jackie-chan", "kung-fu-films", "shaw-brothers", "cinema", "hong-kong"]
 featured: true
 affiliate:
-  - title: "Bruce Lee: A Life"
-    asin: "1501178978"
-    url: "https://www.amazon.com/dp/1501178978?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51ywxtG2h6L._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I Am Jackie Chan: My Life in Action"
-    asin: "1785653412"
-    url: "https://www.amazon.com/dp/1785653412?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51K5VV-QJSL._AC_UL640_.jpg"
-    price: "$14.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '2dd430ef-400c-4d06-b559-358b05fb80f9'
-  PropagateID: '2dd430ef-400c-4d06-b559-358b05fb80f9'
-  ReservedCode1: '31fb0c12-72ca-4f15-a9a8-9300151cd79b'
-  ReservedCode2: '31fb0c12-72ca-4f15-a9a8-9300151cd79b'
+  - asin: "B09X1XPG8R"
+    title: "Bruce Lee Film Collection"
+    url: "https://www.amazon.com/dp/B09X1XPG8R?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61+BU+BndhL._AC_UL640_.jpg"
+    price: "$24.99"
+  - asin: "B00005QW4W"
+    title: "Enter the Dragon DVD"
+    url: "https://www.amazon.com/dp/B00005QW4W?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/5149VC2AAPL._AC_UL640_.jpg"
+    price: "$6.04"
 ---
 
 ## 邵氏时代：功夫电影的摇篮

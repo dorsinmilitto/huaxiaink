@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wing Chun: The Art of the Wooden Dummy"
 description: "Wing Chun's wooden dummy form, made famous by Ip Man and Bruce Lee, teaches center-line theory and inch-power. Discover the 108 movements that define close-range combat."
 youtubeId: "DgG-ttflBNU"
@@ -10,24 +10,16 @@ lang: en
 tags: ["wing-chun", "kung-fu", "martial-arts", "wooden-dummy", "ip-man", "bruce-lee"]
 featured: true
 affiliate:
-  - title: "Wing Chun Wooden Dummy (Mu Ren Zhuang)"
-    asin: "B07PDJQ3YZ"
-    url: "https://www.amazon.com/dp/B07PDJQ3YZ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51uC2Lq7RjL._AC_UL640_.jpg"
-    price: "$89.99"
-  - title: "Wing Chun Kung Fu: The Wooden Dummy"
-    asin: "1847976788"
-    url: "https://www.amazon.com/dp/1847976788?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/519XZ3H1BQL._AC_UL640_.jpg"
-    price: "$24.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '0a4bb380-81e9-4c75-b282-901c341c22c7'
-  PropagateID: '0a4bb380-81e9-4c75-b282-901c341c22c7'
-  ReservedCode1: '70c6c97c-dda2-45ef-ba2f-b020d3c198eb'
-  ReservedCode2: '70c6c97c-dda2-45ef-ba2f-b020d3c198eb'
+  - asin: "B086PLXSXY"
+    title: "Wing Chun Wooden Dummy"
+    url: "https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg"
+    price: "$15.99"
+  - asin: "1933901764"
+    title: "Wing Chun Wooden Dummy Book"
+    url: "https://www.amazon.com/dp/1933901764?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg"
+    price: "$29.25"
 ---
 
 ## The Legend of Ng Mui and the Birth of Wing Chun

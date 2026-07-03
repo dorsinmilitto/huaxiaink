@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Philosophy of Tai Chi: Movement as Meditation"
 description: "Tai Chi blends Daoist philosophy with martial power — slow movements hiding devastating force. From Chen Village to Harvard Medical School, discover why the world is embracing this ancient art."
 youtubeId: "4c-ywGdAiAo"
@@ -10,24 +10,16 @@ lang: en
 tags: ["tai-chi", "kung-fu", "philosophy", "taoism", "yin-yang", "martial-arts"]
 featured: true
 affiliate:
-  - title: "The Harvard Medical School Guide to Tai Chi"
-    asin: "1590309421"
-    url: "https://www.amazon.com/dp/1590309421?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51mFJjKQYQL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Tai Chi Chuan Classical Yang Style"
-    asin: "1594394812"
-    url: "https://www.amazon.com/dp/1594394812?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51tVaLm7h1L._AC_UL640_.jpg"
-    price: "$29.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'eb104748-edf7-44b0-8c06-16f5887c8ac0'
-  PropagateID: 'eb104748-edf7-44b0-8c06-16f5887c8ac0'
-  ReservedCode1: '9bb0cce6-f6f1-43c5-bc31-d04105420595'
-  ReservedCode2: '9bb0cce6-f6f1-43c5-bc31-d04105420595'
+  - asin: "B0H1CR5MZ8"
+    title: "Tai Chi for Beginners"
+    url: "https://www.amazon.com/dp/B0H1CR5MZ8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/718ai3bnevL._AC_UL640_.jpg"
+    price: "$22.95"
+  - asin: "B0GXTQS243"
+    title: "Tai Chi Health Guide"
+    url: "https://www.amazon.com/dp/B0GXTQS243?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71JHSwzP-KL._AC_UL640_.jpg"
+    price: "$21.97"
 ---
 
 ## Daoist Roots: Where Philosophy Meets Flesh

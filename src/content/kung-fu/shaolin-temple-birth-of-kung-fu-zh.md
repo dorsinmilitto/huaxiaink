@@ -1,4 +1,4 @@
----
+﻿---
 title: "少林寺：功夫的诞生之地"
 description: "1500年来，少林寺是中国武术的摇篮。佛教僧侣如何将冥想转化为世界上最具标志性的格斗体系——以及它为何至今仍意义非凡。"
 youtubeId: "9_qaHh2RF4Y"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["shaolin", "kung-fu", "martial-arts", "buddhism", "henan", "chinese-history"]
 featured: true
 affiliate:
-  - title: "The Shaolin Monastery: History, Religion, and the Chinese Martial Arts"
-    asin: "0824833499"
-    url: "https://www.amazon.com/dp/0824833499?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41p1VQYmBQL._AC_UL640_.jpg"
-    price: "$28.00"
-  - title: "Shaolin Kung Fu Training Uniform"
-    asin: "B07Q2K9L3N"
-    url: "https://www.amazon.com/dp/B07Q2K9L3N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51kC6p1rGWL._AC_UL640_.jpg"
-    price: "$25.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '64ca6b37-ab2b-4eb7-96cf-820579e8bece'
-  PropagateID: '64ca6b37-ab2b-4eb7-96cf-820579e8bece'
-  ReservedCode1: '118ad595-e19f-41bf-aa9b-f2b8b726e32b'
-  ReservedCode2: '118ad595-e19f-41bf-aa9b-f2b8b726e32b'
+  - asin: "1440474176"
+    title: "The Art of Shaolin Kung Fu"
+    url: "https://www.amazon.com/dp/1440474176?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg"
+    price: "$34.20"
+  - asin: "0804834393"
+    title: "The Shaolin Grandmasters Text"
+    url: "https://www.amazon.com/dp/0804834393?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg"
+    price: "$9.99"
 ---
 
 ## 功夫的起源

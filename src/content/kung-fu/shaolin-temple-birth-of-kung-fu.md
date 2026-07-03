@@ -1,4 +1,4 @@
----
+﻿---
 title: "Shaolin Temple: The Birthplace of Kung Fu"
 description: "For 1,500 years, Shaolin Temple has been the cradle of Chinese martial arts. How Buddhist monks turned meditation into the world's most iconic fighting system — and why it still matters today."
 youtubeId: "9_qaHh2RF4Y"
@@ -10,24 +10,16 @@ lang: en
 tags: ["shaolin", "kung-fu", "martial-arts", "buddhism", "henan", "chinese-history"]
 featured: true
 affiliate:
-  - title: "The Shaolin Monastery: History, Religion, and the Chinese Martial Arts"
-    asin: "0824833499"
-    url: "https://www.amazon.com/dp/0824833499?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41p1VQYmBQL._AC_UL640_.jpg"
-    price: "$28.00"
-  - title: "Shaolin Kung Fu Training Uniform"
-    asin: "B07Q2K9L3N"
-    url: "https://www.amazon.com/dp/B07Q2K9L3N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51kC6p1rGWL._AC_UL640_.jpg"
-    price: "$25.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '9b2675be-61db-4df1-8fc7-0a9db5a74d26'
-  PropagateID: '9b2675be-61db-4df1-8fc7-0a9db5a74d26'
-  ReservedCode1: '75e833f4-6e18-464a-ac64-8352ea2c980b'
-  ReservedCode2: '75e833f4-6e18-464a-ac64-8352ea2c980b'
+  - asin: "1440474176"
+    title: "The Art of Shaolin Kung Fu"
+    url: "https://www.amazon.com/dp/1440474176?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg"
+    price: "$34.20"
+  - asin: "0804834393"
+    title: "The Shaolin Grandmasters Text"
+    url: "https://www.amazon.com/dp/0804834393?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg"
+    price: "$9.99"
 ---
 
 ## The Origin of Kung Fu

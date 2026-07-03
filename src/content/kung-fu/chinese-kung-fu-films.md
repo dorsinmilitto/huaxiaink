@@ -1,4 +1,4 @@
----
+﻿---
 title: "From Bruce Lee to Jackie Chan: How Kung Fu Films Conquered the World"
 description: "Kung fu cinema didn't just entertain — it shaped how the entire world sees China. From Shaw Brothers studios to The Matrix, the evolution of martial arts on screen."
 youtubeId: "rLzimapLjQ"
@@ -10,24 +10,16 @@ lang: en
 tags: ["bruce-lee", "jackie-chan", "kung-fu-films", "shaw-brothers", "cinema", "hong-kong"]
 featured: true
 affiliate:
-  - title: "Bruce Lee: A Life"
-    asin: "1501178978"
-    url: "https://www.amazon.com/dp/1501178978?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51ywxtG2h6L._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I Am Jackie Chan: My Life in Action"
-    asin: "1785653412"
-    url: "https://www.amazon.com/dp/1785653412?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51K5VV-QJSL._AC_UL640_.jpg"
-    price: "$14.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '3a52ac38-6a72-45db-ad91-2424efefe1d4'
-  PropagateID: '3a52ac38-6a72-45db-ad91-2424efefe1d4'
-  ReservedCode1: '69510381-70dd-437c-af10-7b38f93b6d18'
-  ReservedCode2: '69510381-70dd-437c-af10-7b38f93b6d18'
+  - asin: "B09X1XPG8R"
+    title: "Bruce Lee Film Collection"
+    url: "https://www.amazon.com/dp/B09X1XPG8R?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61+BU+BndhL._AC_UL640_.jpg"
+    price: "$24.99"
+  - asin: "B00005QW4W"
+    title: "Enter the Dragon DVD"
+    url: "https://www.amazon.com/dp/B00005QW4W?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/5149VC2AAPL._AC_UL640_.jpg"
+    price: "$6.04"
 ---
 
 ## The Shaw Brothers and the Birth of Kung Fu Cinema

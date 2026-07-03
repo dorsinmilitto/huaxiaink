@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wudang Mountain: Where Daoist Sword Dance Was Born"
 description: "High in the misty Wudang Mountains, Daoist monks transformed swordplay into spiritual practice. The legendary Zhang Sanfeng created internal martial arts that still thrive 700 years later."
 youtubeId: "dxI3LTp2Grw"
@@ -10,24 +10,16 @@ lang: en
 tags: ["wudang", "kung-fu", "daoism", "internal-martial-arts", "sword", "zhang-sanfeng"]
 featured: true
 affiliate:
-  - title: "Chinese Swordsmanship: The Yang Family Taiji Sword Tradition"
-    asin: "1583942261"
-    url: "https://www.amazon.com/dp/1583942261?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51J3VQKFNQL._AC_UL640_.jpg"
-    price: "$19.95"
-  - title: "Cold Steel Chinese Sword Trainer"
-    asin: "B003X5BTYA"
-    url: "https://www.amazon.com/dp/B003X5BTYA?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/31KVC8BQ6aL._AC_UL640_.jpg"
-    price: "$49.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'c7dd4fdb-cf4b-4bb1-88c1-2f78231f2843'
-  PropagateID: 'c7dd4fdb-cf4b-4bb1-88c1-2f78231f2843'
-  ReservedCode1: 'a5f740ce-a24d-4496-b25c-0ff632815186'
-  ReservedCode2: 'a5f740ce-a24d-4496-b25c-0ff632815186'
+  - asin: "B07C9CH8NB"
+    title: "Chinese Sword Training"
+    url: "https://www.amazon.com/dp/B07C9CH8NB?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81JMAoX0NqL._AC_UL640_.jpg"
+    price: "$46.88"
+  - asin: "B0CF48R8SL"
+    title: "Chinese Martial Arts Sword"
+    url: "https://www.amazon.com/dp/B0CF48R8SL?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61rsjzBHypL._AC_UL640_.jpg"
+    price: "$39.99"
 ---
 
 ## The Sacred Peaks of Wudang

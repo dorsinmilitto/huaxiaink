@@ -1,4 +1,4 @@
----
+﻿---
 title: "太极的哲学：以动为静"
 description: "太极融合道家阴阳哲学与身体修炼，陈式杨式各有千秋。探索太极拳的宇宙观、健康功效与内家修行之道，理解以柔克刚的东方智慧。"
 youtubeId: "4c-ywGdAiAo"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["tai-chi", "kung-fu", "philosophy", "taoism", "yin-yang", "martial-arts"]
 featured: true
 affiliate:
-  - title: "The Harvard Medical School Guide to Tai Chi"
-    asin: "1590309421"
-    url: "https://www.amazon.com/dp/1590309421?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51mFJjKQYQL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Tai Chi Chuan Classical Yang Style"
-    asin: "1594394812"
-    url: "https://www.amazon.com/dp/1594394812?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51tVaLm7h1L._AC_UL640_.jpg"
-    price: "$29.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f77762eb-51e0-46fa-a725-af583ea24e72'
-  PropagateID: 'f77762eb-51e0-46fa-a725-af583ea24e72'
-  ReservedCode1: 'd2285915-e581-465f-a659-4b3a2a11248c'
-  ReservedCode2: 'd2285915-e581-465f-a659-4b3a2a11248c'
+  - asin: "B0H1CR5MZ8"
+    title: "Tai Chi for Beginners"
+    url: "https://www.amazon.com/dp/B0H1CR5MZ8?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/718ai3bnevL._AC_UL640_.jpg"
+    price: "$22.95"
+  - asin: "B0GXTQS243"
+    title: "Tai Chi Health Guide"
+    url: "https://www.amazon.com/dp/B0GXTQS243?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/71JHSwzP-KL._AC_UL640_.jpg"
+    price: "$21.97"
 ---
 
 ## 太极：宇宙写在身体上的诗

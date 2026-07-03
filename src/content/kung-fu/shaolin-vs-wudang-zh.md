@@ -1,4 +1,4 @@
----
+﻿---
 title: "少林对武当：中国武术的永恒之争"
 description: "数百年来中国武术分为外家少林与内家武当两大阵营，这一哲学分歧揭示了两种完全不同的力量理解方式。"
 youtubeId: "f82U18uQTEU"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["shaolin", "wudang", "kung-fu", "internal-martial-arts", "external-martial-arts", "neijia"]
 featured: true
 affiliate:
-  - title: "The Comprehensive Guide to Chinese Martial Arts"
-    asin: "0804834762"
-    url: "https://www.amazon.com/dp/0804834762?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51DJRVBQ9JL._AC_UL640_.jpg"
-    price: "$24.95"
-  - title: "Kung Fu Training Uniform Set"
-    asin: "B07Q2K9L3N"
-    url: "https://www.amazon.com/dp/B07Q2K9L3N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51kC6p1rGWL._AC_UL640_.jpg"
-    price: "$25.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'fe63d25e-0469-462e-aa73-3fd2414133f5'
-  PropagateID: 'fe63d25e-0469-462e-aa73-3fd2414133f5'
-  ReservedCode1: 'dec7090e-6446-413c-8582-b690847c28f7'
-  ReservedCode2: 'dec7090e-6446-413c-8582-b690847c28f7'
+  - asin: "0804852677"
+    title: "The Complete Guide to Kung Fu"
+    url: "https://www.amazon.com/dp/0804852677?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81pH3Ra8VdL._AC_UL640_.jpg"
+    price: "$9.99"
+  - asin: "0804849811"
+    title: "Kung Fu Fundamentals"
+    url: "https://www.amazon.com/dp/0804849811?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81+DTikXpZL._AC_UL640_.jpg"
+    price: "$7.55"
 ---
 
 ## 内家与外家：两种力量的哲学根源

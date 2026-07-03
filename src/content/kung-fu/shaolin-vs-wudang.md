@@ -1,4 +1,4 @@
----
+﻿---
 title: "Shaolin vs Wudang: The Eternal Rivalry of Chinese Martial Arts"
 description: "For centuries, Chinese martial arts have been divided into external (Shaolin) and internal (Wudang) camps. The philosophical divide reveals two completely different ways of understanding power."
 youtubeId: "f82U18uQTEU"
@@ -10,24 +10,16 @@ lang: en
 tags: ["shaolin", "wudang", "kung-fu", "internal-martial-arts", "external-martial-arts", "neijia"]
 featured: true
 affiliate:
-  - title: "The Comprehensive Guide to Chinese Martial Arts"
-    asin: "0804834762"
-    url: "https://www.amazon.com/dp/0804834762?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51DJRVBQ9JL._AC_UL640_.jpg"
-    price: "$24.95"
-  - title: "Kung Fu Training Uniform Set"
-    asin: "B07Q2K9L3N"
-    url: "https://www.amazon.com/dp/B07Q2K9L3N?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51kC6p1rGWL._AC_UL640_.jpg"
-    price: "$25.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '42bee099-0b29-4de9-98f2-db308e7ebf5e'
-  PropagateID: '42bee099-0b29-4de9-98f2-db308e7ebf5e'
-  ReservedCode1: 'c69e224e-2819-4644-9bc3-1fa674f81bbd'
-  ReservedCode2: 'c69e224e-2819-4644-9bc3-1fa674f81bbd'
+  - asin: "0804852677"
+    title: "The Complete Guide to Kung Fu"
+    url: "https://www.amazon.com/dp/0804852677?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81pH3Ra8VdL._AC_UL640_.jpg"
+    price: "$9.99"
+  - asin: "0804849811"
+    title: "Kung Fu Fundamentals"
+    url: "https://www.amazon.com/dp/0804849811?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81+DTikXpZL._AC_UL640_.jpg"
+    price: "$7.55"
 ---
 
 ## Neijia and Waijia: The Great Divide

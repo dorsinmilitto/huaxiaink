@@ -1,4 +1,4 @@
----
+﻿---
 title: "武当山：道家剑舞的诞生之地"
 description: "武当山云雾缭绕，道家僧侣将剑术化为修行。张三丰创内家武术七百年传承不衰，太乙五行剑等剑法至今令世人惊叹。"
 youtubeId: "dxI3LTp2Grw"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["wudang", "kung-fu", "daoism", "internal-martial-arts", "sword", "zhang-sanfeng"]
 featured: true
 affiliate:
-  - title: "Chinese Swordsmanship: The Yang Family Taiji Sword Tradition"
-    asin: "1583942261"
-    url: "https://www.amazon.com/dp/1583942261?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51J3VQKFNQL._AC_UL640_.jpg"
-    price: "$19.95"
-  - title: "Cold Steel Chinese Sword Trainer"
-    asin: "B003X5BTYA"
-    url: "https://www.amazon.com/dp/B003X5BTYA?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/31KVC8BQ6aL._AC_UL640_.jpg"
-    price: "$49.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '73f97e25-24c3-4ace-b029-22b2261d6d0d'
-  PropagateID: '73f97e25-24c3-4ace-b029-22b2261d6d0d'
-  ReservedCode1: '2fb10e9e-ee7c-4491-b849-a9c210edee43'
-  ReservedCode2: '2fb10e9e-ee7c-4491-b849-a9c210edee43'
+  - asin: "B07C9CH8NB"
+    title: "Chinese Sword Training"
+    url: "https://www.amazon.com/dp/B07C9CH8NB?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/81JMAoX0NqL._AC_UL640_.jpg"
+    price: "$46.88"
+  - asin: "B0CF48R8SL"
+    title: "Chinese Martial Arts Sword"
+    url: "https://www.amazon.com/dp/B0CF48R8SL?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/61rsjzBHypL._AC_UL640_.jpg"
+    price: "$39.99"
 ---
 
 ## 云雾之巅：武当山的道教圣境

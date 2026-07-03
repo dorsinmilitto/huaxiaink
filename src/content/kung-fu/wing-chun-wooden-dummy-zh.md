@@ -1,4 +1,4 @@
----
+﻿---
 title: "咏春拳：木人桩的艺术"
 description: "咏春木人桩法传承数百年，从叶问到李小龙走向世界。探索中线理论、寸劲发力与木人桩训练体系，理解这门近身格斗术的深邃智慧。"
 youtubeId: "DgG-ttflBNU"
@@ -10,24 +10,16 @@ lang: zh
 tags: ["wing-chun", "kung-fu", "martial-arts", "wooden-dummy", "bruce-lee", "ip-man"]
 featured: true
 affiliate:
-  - title: "Wing Chun Wooden Dummy (Mu Ren Zhuang)"
-    asin: "B07PDJQ3YZ"
-    url: "https://www.amazon.com/dp/B07PDJQ3YZ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51uC2Lq7RjL._AC_UL640_.jpg"
-    price: "$89.99"
-  - title: "Wing Chun Kung Fu: The Wooden Dummy"
-    asin: "1847976788"
-    url: "https://www.amazon.com/dp/1847976788?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/519XZ3H1BQL._AC_UL640_.jpg"
-    price: "$24.95"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f46f8b85-5197-4bcb-b0c2-033bdc0efed3'
-  PropagateID: 'f46f8b85-5197-4bcb-b0c2-033bdc0efed3'
-  ReservedCode1: '49b9cb3d-7a6c-4bd5-add4-fad141319b62'
-  ReservedCode2: '49b9cb3d-7a6c-4bd5-add4-fad141319b62'
+  - asin: "B086PLXSXY"
+    title: "Wing Chun Wooden Dummy"
+    url: "https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg"
+    price: "$15.99"
+  - asin: "1933901764"
+    title: "Wing Chun Wooden Dummy Book"
+    url: "https://www.amazon.com/dp/1933901764?tag=huaxiaink-20"
+    imageUrl: "https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg"
+    price: "$29.25"
 ---
 
 ## 木人桩：咏春的灵魂之所
