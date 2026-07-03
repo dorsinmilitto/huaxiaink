@@ -10,7 +10,7 @@ import { getCollection } from 'astro:content';
 import { t, type Lang } from '../../../i18n/utils';
 
 export async function getStaticPaths() {
-  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food'] as const;
+  const cats = ['events', 'games', 'music', 'travel', 'festivals', 'food', 'kung-fu'] as const;
   const paths: any[] = [];
 
   for (const cat of cats) {

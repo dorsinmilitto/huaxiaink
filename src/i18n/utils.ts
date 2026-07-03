@@ -16,6 +16,7 @@ const translations = {
     'nav.travel': 'Travel',
     'nav.festivals': 'Festivals',
     'nav.food': 'Food',
+    'nav.kung-fu': 'Kung Fu',
 
     // Hero
     'hero.title': 'Discover China Through Authentic Voices',
@@ -44,6 +45,8 @@ const translations = {
     'cat.festivals.desc': 'Spring Festival, Dragon Boat, Mid-Autumn — traditions explained and experienced.',
     'cat.food': 'Food',
     'cat.food.desc': 'Hotpot, dim sum, street snacks — the culinary soul of China.',
+    'cat.kung-fu': 'Kung Fu',
+    'cat.kung-fu.desc': 'Shaolin, Tai Chi, Wing Chun — the philosophy and power behind Chinese martial arts.',
 
     // Category seals
     'seal.events': '事',
@@ -52,6 +55,7 @@ const translations = {
     'seal.travel': '行',
     'seal.festivals': '节',
     'seal.food': '食',
+    'seal.kung-fu': '武',
 
     // Detail page
     'detail.by': 'by',
@@ -84,6 +88,7 @@ const translations = {
     'nav.travel': '旅行',
     'nav.festivals': '节日',
     'nav.food': '美食',
+    'nav.kung-fu': '功夫',
 
     // Hero
     'hero.title': '用当代视角，发现真实中国',
@@ -112,6 +117,8 @@ const translations = {
     'cat.festivals.desc': '春节、端午、中秋——传统节日的体验与解读。',
     'cat.food': '美食',
     'cat.food.desc': '火锅、早茶、街头小吃——中国人的味蕾地图。',
+    'cat.kung-fu': '功夫',
+    'cat.kung-fu.desc': '少林、太极、咏春——中国武术背后的哲学与力量。',
 
     // Category seals
     'seal.events': '事',
@@ -120,6 +127,7 @@ const translations = {
     'seal.travel': '行',
     'seal.festivals': '节',
     'seal.food': '食',
+    'seal.kung-fu': '武',
 
     // Detail page
     'detail.by': '作者',

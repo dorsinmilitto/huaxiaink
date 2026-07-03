@@ -26,5 +26,6 @@ const music = defineCollection({ type: 'content', schema: contentSchema });
 const travel = defineCollection({ type: 'content', schema: contentSchema });
 const festivals = defineCollection({ type: 'content', schema: contentSchema });
 const food = defineCollection({ type: 'content', schema: contentSchema });
+const kungFu = defineCollection({ type: 'content', schema: contentSchema });
 
-export const collections = { events, games, music, travel, festivals, food };
+export const collections = { events, games, music, travel, festivals, food, 'kung-fu': kungFu };

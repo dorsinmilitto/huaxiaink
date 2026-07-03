@@ -624,6 +624,92 @@ declare module 'astro:content' {
   data: InferEntrySchema<"games">
 } & { render(): Render[".md"] };
 };
+"kung-fu": {
+"chinese-kung-fu-films-zh.md": {
+	id: "chinese-kung-fu-films-zh.md";
+  slug: "chinese-kung-fu-films-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"chinese-kung-fu-films.md": {
+	id: "chinese-kung-fu-films.md";
+  slug: "chinese-kung-fu-films";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-temple-birth-of-kung-fu-zh.md": {
+	id: "shaolin-temple-birth-of-kung-fu-zh.md";
+  slug: "shaolin-temple-birth-of-kung-fu-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-temple-birth-of-kung-fu.md": {
+	id: "shaolin-temple-birth-of-kung-fu.md";
+  slug: "shaolin-temple-birth-of-kung-fu";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-vs-wudang-zh.md": {
+	id: "shaolin-vs-wudang-zh.md";
+  slug: "shaolin-vs-wudang-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-vs-wudang.md": {
+	id: "shaolin-vs-wudang.md";
+  slug: "shaolin-vs-wudang";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"tai-chi-philosophy-movement-zh.md": {
+	id: "tai-chi-philosophy-movement-zh.md";
+  slug: "tai-chi-philosophy-movement-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"tai-chi-philosophy-movement.md": {
+	id: "tai-chi-philosophy-movement.md";
+  slug: "tai-chi-philosophy-movement";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"wing-chun-wooden-dummy-zh.md": {
+	id: "wing-chun-wooden-dummy-zh.md";
+  slug: "wing-chun-wooden-dummy-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"wing-chun-wooden-dummy.md": {
+	id: "wing-chun-wooden-dummy.md";
+  slug: "wing-chun-wooden-dummy";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"wudang-mountain-sword-zh.md": {
+	id: "wudang-mountain-sword-zh.md";
+  slug: "wudang-mountain-sword-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"wudang-mountain-sword.md": {
+	id: "wudang-mountain-sword.md";
+  slug: "wudang-mountain-sword";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+};
 "music": {
 "big-fish-erhu-zh.md": {
 	id: "big-fish-erhu-zh.md";
