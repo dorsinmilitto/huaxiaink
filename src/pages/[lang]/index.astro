@@ -18,9 +18,10 @@ const categories = [
   { slug: 'travel', icon: '🏔️' },
   { slug: 'festivals', icon: '🏮' },
   { slug: 'food', icon: '🍜' },
+  { slug: 'kung-fu', icon: '🥋' },
 ];
 
-const collNames = ['events', 'games', 'music', 'travel', 'festivals', 'food'] as const;
+const collNames = ['events', 'games', 'music', 'travel', 'festivals', 'food', 'kung-fu'] as const;
 let allVideos: any[] = [];
 
 for (const name of collNames) {

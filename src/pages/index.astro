@@ -6,7 +6,7 @@ import VideoCard from '../components/VideoCard.astro';
 import { getCollection } from 'astro:content';
 import { t } from '../i18n/utils';
 
-const collNames = ['events', 'games', 'music', 'travel', 'festivals', 'food'] as const;
+const collNames = ['events', 'games', 'music', 'travel', 'festivals', 'food', 'kung-fu'] as const;
 const l = 'en';
 
 const categories = [
@@ -16,6 +16,7 @@ const categories = [
   { slug: 'travel', icon: '🏔️' },
   { slug: 'festivals', icon: '🏮' },
   { slug: 'food', icon: '🍜' },
+  { slug: 'kung-fu', icon: '🥋' },
 ];
 
 let allVideos: any[] = [];
