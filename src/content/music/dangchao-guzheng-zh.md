@@ -20,16 +20,16 @@ affiliate:
   imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
   price: $9
   url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: 13PCS Chinese Calligraphy Brush Set
-  asin: B0FMQCS389
-  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
-  price: $12
-  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
-- title: Chinese Fairy Tales and Legends
-  asin: '1912392151'
-  imageUrl: https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg
-  price: $18
-  url: https://www.amazon.com/dp/1912392151?tag=huaxiaink-20
+- title: EOTE Guzheng String Set, 21 Strings Type A - Steel Core Nylon Wound
+  asin: B0H1JHWQF4
+  url: https://www.amazon.com/dp/B0H1JHWQF4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51NFgGEnFtL._AC_UL640_.jpg
+  price: $27.99
+- title: Guzheng Finger Picks with Groove Design, Tape & Storage Box
+  asin: B0DHY7XHR4
+  url: https://www.amazon.com/dp/B0DHY7XHR4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61hHfKJCmYL._AC_UL640_.jpg
+  price: $15.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -39,7 +39,6 @@ AIGC:
   ReservedCode1: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
   ReservedCode2: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
 ---
-
 
 ## 古筝，原来可以这样"燥"
 

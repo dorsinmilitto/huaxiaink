@@ -23,16 +23,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: Standards of the Guqin
-  asin: 0986622508
-  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
-  price: $33
-  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
-- title: 13PCS Chinese Calligraphy Brush Set
-  asin: B0FMQCS389
-  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
-  price: $12
-  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: Chinese Traditional Erhu Music 2 (CD)
+  asin: B00000JFPK
+  url: https://www.amazon.com/dp/B00000JFPK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51F5w-renCL._AC_UL640_.jpg
+  price: $19.98
+- title: Waterproof Erhu Bag 90cm - Oxford Cloth Storage Case
+  asin: B0GTPBTMGX
+  url: https://www.amazon.com/dp/B0GTPBTMGX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41OyqL6DwTL._AC_UL640_.jpg
+  price: $17.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -42,7 +42,6 @@ AIGC:
   ReservedCode1: 8ff30b73-107a-43e7-8b74-afc9c0568ac4
   ReservedCode2: 8ff30b73-107a-43e7-8b74-afc9c0568ac4
 ---
-
 
 ## A 1980s Hong Kong Anthem, Live in 2026
 

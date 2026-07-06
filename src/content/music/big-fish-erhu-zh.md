@@ -21,16 +21,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: Standards of the Guqin
-  asin: 0986622508
-  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
-  price: $33
-  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
-- title: G Key Dizi Bamboo Flute
-  asin: B07DC4Z7XR
-  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
-  price: $24
-  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: ABING Erhu Strings (General) - Inner & Outer Steel Core
+  asin: B099XY4W1M
+  url: https://www.amazon.com/dp/B099XY4W1M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/7161WqNdLaL._AC_UL640_.jpg
+  price: $8.99
+- title: Horsetail Bow Hair Replacement for Erhu & Violin
+  asin: B0B9K3HBXV
+  url: https://www.amazon.com/dp/B0B9K3HBXV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/516AP6VSP5L._AC_UL640_.jpg
+  price: $6.64
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -40,7 +40,6 @@ AIGC:
   ReservedCode1: cf200af6-75bb-40ee-8ab5-351ea1766adb
   ReservedCode2: cf200af6-75bb-40ee-8ab5-351ea1766adb
 ---
-
 
 ## 一位法国人，一把二胡，一部中国神话
 

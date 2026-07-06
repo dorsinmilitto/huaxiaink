@@ -1,38 +1,40 @@
-﻿---
-title: "Peking Opera — The Art of Becoming Someone Else"
-description: "Peking Opera is the art of becoming someone else — painted faces, acrobatic combat, and falsetto singing in a 200-year tradition of total transformation."
-youtubeId: "yzAdZDK4XKA"
-coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
-channel: "CrashCourse"
-duration: "12:08"
+---
+title: Peking Opera — The Art of Becoming Someone Else
+description: Peking Opera is the art of becoming someone else — painted faces, acrobatic
+  combat, and falsetto singing in a 200-year tradition of total transformation.
+youtubeId: yzAdZDK4XKA
+coverImage: https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg
+channel: CrashCourse
+duration: '12:08'
 publishedAt: 2019-08-30
 lang: en
-tags: ["peking-opera", "beijing-opera", "face-painting", "chinese-performing-art", "liyuan", "four-skills"]
+tags:
+- peking-opera
+- beijing-opera
+- face-painting
+- chinese-performing-art
+- liyuan
+- four-skills
 featured: true
 affiliate:
-  - title: "ZooBoo Kungfu Fan Dancing Fans Pair 13 inch"
-    asin: "B071GQBQDN"
-    url: "https://www.amazon.com/dp/B071GQBQDN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51MD8BLBtwL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Winged Sirenny Short Silk Folding Fan"
-    asin: "B01NCJU3SI"
-    url: "https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg"
-    price: "$16.99"
+- title: ZooBoo Chinese Opera Face Mask Fan - Peking Opera Folding Hand Fan
+  asin: B0F212GF58
+  url: https://www.amazon.com/dp/B0F212GF58?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71+tvANPloL._AC_UL640_.jpg
+  price: $9.99
+- title: 3 Pcs Chinese Peking Opera Masks Cosplay Photo Booth Props
+  asin: B0DCND7R4C
+  url: https://www.amazon.com/dp/B0DCND7R4C?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71YfWbY828L._AC_UL640_.jpg
+  price: $19.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '2cac7ab2-baf1-4fa4-8b87-fb94e56be204'
-  PropagateID: '2cac7ab2-baf1-4fa4-8b87-fb94e56be204'
-  ReservedCode1: '644b8c36-104d-4d75-9be9-d960f8164140'
-  ReservedCode2: '644b8c36-104d-4d75-9be9-d960f8164140'
+  ProduceID: 2cac7ab2-baf1-4fa4-8b87-fb94e56be204
+  PropagateID: 2cac7ab2-baf1-4fa4-8b87-fb94e56be204
+  ReservedCode1: 644b8c36-104d-4d75-9be9-d960f8164140
+  ReservedCode2: 644b8c36-104d-4d75-9be9-d960f8164140
 ---
 
 ## Paint a Face, Become a Legend

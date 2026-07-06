@@ -1,38 +1,39 @@
-﻿---
-title: "中国鼓——每个节日、每场战役和每个王朝背后的心跳"
-description: "中国鼓是每个节日、战役和王朝的心跳——从秦军信号到春节庆典，鼓声即是权力。"
-youtubeId: "9NSej1sFr3g"
-coverImage: "https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg"
-channel: "Gary von der Ahé"
-duration: "4:15"
+---
+title: 中国鼓——每个节日、每场战役和每个王朝背后的心跳
+description: 中国鼓是每个节日、战役和王朝的心跳——从秦军信号到春节庆典，鼓声即是权力。
+youtubeId: 9NSej1sFr3g
+coverImage: https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg
+channel: Gary von der Ahé
+duration: '4:15'
 publishedAt: 2023-06-01
 lang: zh
-tags: ["中国鼓", "打击乐", "节庆鼓", "战鼓", "节奏", "中国音乐"]
+tags:
+- 中国鼓
+- 打击乐
+- 节庆鼓
+- 战鼓
+- 节奏
+- 中国音乐
 featured: false
 affiliate:
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "ZooBoo Kungfu Fan Dancing Fans Pair 13 inch"
-    asin: "B071GQBQDN"
-    url: "https://www.amazon.com/dp/B071GQBQDN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51MD8BLBtwL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: Chinese Ancient Drum with Sticks and Straps
+  asin: B0F6V79JDC
+  url: https://www.amazon.com/dp/B0F6V79JDC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51dTNl-wIBL._AC_UL640_.jpg
+  price: $37.29
+- title: Drums Percussion Chinese Hand Tambourine Taiko Bongos
+  asin: B0BC5YRPS8
+  url: https://www.amazon.com/dp/B0BC5YRPS8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/613YlFd0ZjL._AC_UL640_.jpg
+  price: $40.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f3b1ad96-5634-47b3-a8c9-ebdabed565c6'
-  PropagateID: 'f3b1ad96-5634-47b3-a8c9-ebdabed565c6'
-  ReservedCode1: '6087f177-d72e-41ea-9dae-55fc82024e02'
-  ReservedCode2: '6087f177-d72e-41ea-9dae-55fc82024e02'
+  ProduceID: f3b1ad96-5634-47b3-a8c9-ebdabed565c6
+  PropagateID: f3b1ad96-5634-47b3-a8c9-ebdabed565c6
+  ReservedCode1: 6087f177-d72e-41ea-9dae-55fc82024e02
+  ReservedCode2: 6087f177-d72e-41ea-9dae-55fc82024e02
 ---
 
 ## 先有鼓声，后有文字

@@ -15,21 +15,16 @@ tags:
 - 跨界
 featured: true
 affiliate:
-- title: Standards of the Guqin
-  asin: 0986622508
-  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
-  price: $33
-  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
-- title: I-MART Chinese Calligraphy Set for Beginners
-  asin: B074FL5D9X
-  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg
-  price: $21
-  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
-- title: G Key Dizi Bamboo Flute
-  asin: B07DC4Z7XR
-  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
-  price: $24
-  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: High Carbon Steel Core Silk Nylon Winding Guqin Strings (6th)
+  asin: B0FWBNTZK7
+  url: https://www.amazon.com/dp/B0FWBNTZK7?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71+tWo5LDbL._AC_UL640_.jpg
+  price: $9.99
+- title: Guqin ICE Strings - Full Set
+  asin: B01D1VGKOE
+  url: https://www.amazon.com/dp/B01D1VGKOE?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51Rk1xfyFZL._AC_UL640_.jpg
+  price: $85.00
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -39,7 +34,6 @@ AIGC:
   ReservedCode1: eaa38188-78fa-4935-9f09-839611878d73
   ReservedCode2: eaa38188-78fa-4935-9f09-839611878d73
 ---
-
 
 ## 一首流行歌，遇上中国最古老的乐器
 

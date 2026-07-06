@@ -21,16 +21,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
-  asin: '1973409194'
-  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
-  price: $9
-  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: G Key Dizi Bamboo Flute
-  asin: B07DC4Z7XR
-  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
-  price: $24
-  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: ABING Erhu Strings (Double Gold) - Steel Core Gold Plated
+  asin: B09B4JMBCY
+  url: https://www.amazon.com/dp/B09B4JMBCY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61vEXh+EyNL._AC_UL640_.jpg
+  price: $16.99
+- title: Professional Erhu Bow - Purple Bamboo Horsehair
+  asin: B0FD7VD5MD
+  url: https://www.amazon.com/dp/B0FD7VD5MD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gadEGNlbL._AC_UL640_.jpg
+  price: $35.90
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -40,7 +40,6 @@ AIGC:
   ReservedCode1: 47a6c912-6389-4b7c-b187-6cac666d4bc8
   ReservedCode2: 47a6c912-6389-4b7c-b187-6cac666d4bc8
 ---
-
 
 ## 三种文化，一件乐器
 

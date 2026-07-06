@@ -17,21 +17,21 @@ tags:
 - crossover
 featured: false
 affiliate:
-- title: G Key Dizi Bamboo Flute
-  asin: B07DC4Z7XR
-  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
-  price: $24
-  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 - title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
   asin: '1973409194'
   imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
   price: $9
   url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: 13PCS Chinese Calligraphy Brush Set
-  asin: B0FMQCS389
-  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
-  price: $12
-  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: Vintage Style Bamboo Flute Chinese Dizi (Key D)
+  asin: B08HQ9ML9R
+  url: https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg
+  price: $17.99
+- title: C Key Hulusi Purple Bamboo Professional Cucurbit Flute
+  asin: B0CXF1CSYZ
+  url: https://www.amazon.com/dp/B0CXF1CSYZ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71e0rgNby-L._AC_UL640_.jpg
+  price: $31.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -41,7 +41,6 @@ AIGC:
   ReservedCode1: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
   ReservedCode2: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
 ---
-
 
 ## An American Classic, Translated
 

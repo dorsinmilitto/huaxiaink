@@ -1,38 +1,44 @@
-﻿---
-title: "昆曲——600年不肯消逝的中国雅音"
-description: "昆曲——六百年不肯消逝的中国雅音，从明代宫廷到联合国非遗名录，最精致的舞台艺术生生不息。"
-youtubeId: "m1GxmBsxQ1g"
-coverImage: "https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg"
-channel: "自得琴社 Zi De Guqin Studio"
-duration: "5:42"
+---
+title: 昆曲——600年不肯消逝的中国雅音
+description: 昆曲——六百年不肯消逝的中国雅音，从明代宫廷到联合国非遗名录，最精致的舞台艺术生生不息。
+youtubeId: m1GxmBsxQ1g
+coverImage: https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg
+channel: 自得琴社 Zi De Guqin Studio
+duration: '5:42'
 publishedAt: 2022-09-01
 lang: zh
-tags: ["昆曲", "牡丹亭", "中国戏曲", "非物质文化遗产", "苏州", "百戏之祖"]
+tags:
+- 昆曲
+- 牡丹亭
+- 中国戏曲
+- 非物质文化遗产
+- 苏州
+- 百戏之祖
 featured: true
 affiliate:
-  - title: "Belly Dance Faux Silk Veil Fans Pair"
-    asin: "B0C2YQ7YMW"
-    url: "https://www.amazon.com/dp/B0C2YQ7YMW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41ZPD+3X3OL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Opera Mask - Peking Opera Halloween Cosplay Wall Hanging
+  asin: B0GSSY34KP
+  url: https://www.amazon.com/dp/B0GSSY34KP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qMua0k-bL._AC_UL640_.jpg
+  price: $11.59
+- title: Kunqu Opera The Peony Pavilion - Numerical Notations Edition
+  asin: '7104032010'
+  url: https://www.amazon.com/dp/7104032010?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71NV364zwVL._AC_UL640_.jpg
+  price: $16.20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '749523d1-cf8a-47e8-a191-2b7e3c4fc97e'
-  PropagateID: '749523d1-cf8a-47e8-a191-2b7e3c4fc97e'
-  ReservedCode1: 'c0228997-3482-4e27-a566-8cc0873f3c13'
-  ReservedCode2: 'c0228997-3482-4e27-a566-8cc0873f3c13'
+  ProduceID: 749523d1-cf8a-47e8-a191-2b7e3c4fc97e
+  PropagateID: 749523d1-cf8a-47e8-a191-2b7e3c4fc97e
+  ReservedCode1: c0228997-3482-4e27-a566-8cc0873f3c13
+  ReservedCode2: c0228997-3482-4e27-a566-8cc0873f3c13
 ---
 
 ## 六百年前，一段反叛的爱情

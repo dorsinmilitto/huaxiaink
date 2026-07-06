@@ -1,38 +1,39 @@
-﻿---
-title: "京剧——变成另一个人的艺术"
-description: "京剧是变成另一个人的艺术——脸谱、武打、假声，两百年传统中的极致变身术。"
-youtubeId: "yzAdZDK4XKA"
-coverImage: "https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg"
-channel: "CrashCourse"
-duration: "12:08"
+---
+title: 京剧——变成另一个人的艺术
+description: 京剧是变成另一个人的艺术——脸谱、武打、假声，两百年传统中的极致变身术。
+youtubeId: yzAdZDK4XKA
+coverImage: https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg
+channel: CrashCourse
+duration: '12:08'
 publishedAt: 2019-08-30
 lang: zh
-tags: ["京剧", "国粹", "脸谱", "中国表演艺术", "梨园", "唱念做打"]
+tags:
+- 京剧
+- 国粹
+- 脸谱
+- 中国表演艺术
+- 梨园
+- 唱念做打
 featured: true
 affiliate:
-  - title: "ZooBoo Kungfu Fan Dancing Fans Pair 13 inch"
-    asin: "B071GQBQDN"
-    url: "https://www.amazon.com/dp/B071GQBQDN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51MD8BLBtwL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Winged Sirenny Short Silk Folding Fan"
-    asin: "B01NCJU3SI"
-    url: "https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg"
-    price: "$16.99"
+- title: ZooBoo Chinese Opera Face Mask Fan - Peking Opera Folding Hand Fan
+  asin: B0F212GF58
+  url: https://www.amazon.com/dp/B0F212GF58?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71+tvANPloL._AC_UL640_.jpg
+  price: $9.99
+- title: 3 Pcs Chinese Peking Opera Masks Cosplay Photo Booth Props
+  asin: B0DCND7R4C
+  url: https://www.amazon.com/dp/B0DCND7R4C?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71YfWbY828L._AC_UL640_.jpg
+  price: $19.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'e9c1975b-c57d-46b8-b215-45857a13f40b'
-  PropagateID: 'e9c1975b-c57d-46b8-b215-45857a13f40b'
-  ReservedCode1: 'ae6a2e6d-0051-43b9-ab1e-357bd552d3b2'
-  ReservedCode2: 'ae6a2e6d-0051-43b9-ab1e-357bd552d3b2'
+  ProduceID: e9c1975b-c57d-46b8-b215-45857a13f40b
+  PropagateID: e9c1975b-c57d-46b8-b215-45857a13f40b
+  ReservedCode1: ae6a2e6d-0051-43b9-ab1e-357bd552d3b2
+  ReservedCode2: ae6a2e6d-0051-43b9-ab1e-357bd552d3b2
 ---
 
 ## 画一张脸，成一段传奇

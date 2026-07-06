@@ -23,16 +23,16 @@ affiliate:
   imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
   price: $9
   url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: 13PCS Chinese Calligraphy Brush Set
-  asin: B0FMQCS389
-  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
-  price: $12
-  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
-- title: Chinese Fairy Tales and Legends
-  asin: '1912392151'
-  imageUrl: https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg
-  price: $18
-  url: https://www.amazon.com/dp/1912392151?tag=huaxiaink-20
+- title: Toddmomy 21-Piece Nylon Guzheng String Set Replacement
+  asin: B0F4Q7TLVD
+  url: https://www.amazon.com/dp/B0F4Q7TLVD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61qQwuzzsTL._AC_UL640_.jpg
+  price: $13.89
+- title: Chinese Ancient Drum with Sticks and Straps
+  asin: B0F6V79JDC
+  url: https://www.amazon.com/dp/B0F6V79JDC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51dTNl-wIBL._AC_UL640_.jpg
+  price: $37.29
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -42,7 +42,6 @@ AIGC:
   ReservedCode1: ef250d7b-7a9b-40ed-af7a-b4ffc26a5f43
   ReservedCode2: ef250d7b-7a9b-40ed-af7a-b4ffc26a5f43
 ---
-
 
 ## A Song Born in a Computer, Reborn on Ancient Strings
 

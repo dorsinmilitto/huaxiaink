@@ -1,38 +1,45 @@
-﻿---
-title: "Kunqu Opera — The 600-Year Voice That Refuses to Die"
-description: "Kunqu Opera — the 600-year voice that refuses to die, from Ming dynasty courts to UNESCO's masterpiece list, China's most refined stage art lives on."
-youtubeId: "m1GxmBsxQ1g"
-coverImage: "https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg"
-channel: "自得琴社 Zi De Guqin Studio"
-duration: "5:42"
+---
+title: Kunqu Opera — The 600-Year Voice That Refuses to Die
+description: Kunqu Opera — the 600-year voice that refuses to die, from Ming dynasty
+  courts to UNESCO's masterpiece list, China's most refined stage art lives on.
+youtubeId: m1GxmBsxQ1g
+coverImage: https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg
+channel: 自得琴社 Zi De Guqin Studio
+duration: '5:42'
 publishedAt: 2022-09-01
 lang: en
-tags: ["kunqu", "kunqu-opera", "peony-pavilion", "chinese-opera", "intangible-heritage", "suzhou"]
+tags:
+- kunqu
+- kunqu-opera
+- peony-pavilion
+- chinese-opera
+- intangible-heritage
+- suzhou
 featured: true
 affiliate:
-  - title: "Belly Dance Faux Silk Veil Fans Pair"
-    asin: "B0C2YQ7YMW"
-    url: "https://www.amazon.com/dp/B0C2YQ7YMW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41ZPD+3X3OL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Opera Mask - Peking Opera Halloween Cosplay Wall Hanging
+  asin: B0GSSY34KP
+  url: https://www.amazon.com/dp/B0GSSY34KP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qMua0k-bL._AC_UL640_.jpg
+  price: $11.59
+- title: Kunqu Opera The Peony Pavilion - Numerical Notations Edition
+  asin: '7104032010'
+  url: https://www.amazon.com/dp/7104032010?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71NV364zwVL._AC_UL640_.jpg
+  price: $16.20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ab32f682-894e-436c-a425-ed83867e836d'
-  PropagateID: 'ab32f682-894e-436c-a425-ed83867e836d'
-  ReservedCode1: '65f4fcf8-106f-4375-8e42-c68c953f10bc'
-  ReservedCode2: '65f4fcf8-106f-4375-8e42-c68c953f10bc'
+  ProduceID: ab32f682-894e-436c-a425-ed83867e836d
+  PropagateID: ab32f682-894e-436c-a425-ed83867e836d
+  ReservedCode1: 65f4fcf8-106f-4375-8e42-c68c953f10bc
+  ReservedCode2: 65f4fcf8-106f-4375-8e42-c68c953f10bc
 ---
 
 ## A Love Story That Broke the Rules Six Centuries Ago

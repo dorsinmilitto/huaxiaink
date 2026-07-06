@@ -21,16 +21,16 @@ affiliate:
   imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
   price: $9
   url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: 13PCS Chinese Calligraphy Brush Set
-  asin: B0FMQCS389
-  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
-  price: $12
-  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
-- title: G Key Dizi Bamboo Flute
-  asin: B07DC4Z7XR
-  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
-  price: $24
-  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: Guzheng Zither Finger Picks, Nails, Tape & Carry Case Set
+  asin: B0F9FCW8RR
+  url: https://www.amazon.com/dp/B0F9FCW8RR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61KDIwq++dL._AC_UL640_.jpg
+  price: $15.99
+- title: Lovermusic 1-21# Steel Wire & Nylon Guzheng String Pack
+  asin: B07DVG8D4Y
+  url: https://www.amazon.com/dp/B07DVG8D4Y?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71YiRCDoAqL._AC_UL640_.jpg
+  price: $19.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002
@@ -40,7 +40,6 @@ AIGC:
   ReservedCode1: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
   ReservedCode2: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
 ---
-
 
 ## 一段不可思议的二重奏
 
