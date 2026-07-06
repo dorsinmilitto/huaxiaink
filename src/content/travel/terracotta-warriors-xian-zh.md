@@ -1,38 +1,50 @@
-﻿---
-title: "兵马俑——试图征服死亡的皇帝"
-description: "兵马俑——8000泥塑士兵守卫中国第一位皇帝两千两百年，1974年被农民意外发现并持续挖掘至今。"
-youtubeId: "mP5p4QbvPtc"
-coverImage: "https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg"
-channel: "TED-Ed"
-duration: "4:59"
+---
+title: 兵马俑——试图征服死亡的皇帝
+description: 兵马俑——8000泥塑士兵守卫中国第一位皇帝两千两百年，1974年被农民意外发现并持续挖掘至今。
+youtubeId: mP5p4QbvPtc
+coverImage: https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg
+channel: TED-Ed
+duration: '4:59'
 publishedAt: 2018-06-14
 lang: zh
-tags: ["兵马俑", "西安", "秦始皇", "秦朝", "考古", "中国历史"]
+tags:
+- 兵马俑
+- 西安
+- 秦始皇
+- 秦朝
+- 考古
+- 中国历史
 featured: true
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: 9PCS Terracotta Army Qin Dynasty Warriors Figurines, Handcrafted Pottery
+    Clay
+  asin: B0CWLDD4JX
+  url: https://www.amazon.com/dp/B0CWLDD4JX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71z7jvzJCAL._AC_UL640_.jpg
+  price: $26.90
+- title: Terracotta Warriors Statue, Qin Dynasty Ancient China Replica
+  asin: B0FNM58MPY
+  url: https://www.amazon.com/dp/B0FNM58MPY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41DaIhG6VYL._AC_UL640_.jpg
+  price: $12.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '5ade3818-af27-433b-b9f1-fa3a3cd85f3d'
-  PropagateID: '5ade3818-af27-433b-b9f1-fa3a3cd85f3d'
-  ReservedCode1: '7a4be47d-b236-41d1-b94b-10b175935a39'
-  ReservedCode2: '7a4be47d-b236-41d1-b94b-10b175935a39'
+  ProduceID: 5ade3818-af27-433b-b9f1-fa3a3cd85f3d
+  PropagateID: 5ade3818-af27-433b-b9f1-fa3a3cd85f3d
+  ReservedCode1: 7a4be47d-b236-41d1-b94b-10b175935a39
+  ReservedCode2: 7a4be47d-b236-41d1-b94b-10b175935a39
 ---
 
 ## 地下军团的两千年守望

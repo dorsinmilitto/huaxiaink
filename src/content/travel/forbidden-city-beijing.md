@@ -1,38 +1,50 @@
-﻿---
-title: "Forbidden City — The 9,999-Room Imperial Palace of China's Emperors"
-description: "Explore the Forbidden City, Beijing's 9,999-room imperial palace that housed 24 emperors across 500 years of Ming and Qing dynasty rule."
-youtubeId: "sHypO2ISPas"
-coverImage: "https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg"
-channel: "Documentary Hub"
-duration: "48:22"
+---
+title: Forbidden City — The 9,999-Room Imperial Palace of China's Emperors
+description: Explore the Forbidden City, Beijing's 9,999-room imperial palace that
+  housed 24 emperors across 500 years of Ming and Qing dynasty rule.
+youtubeId: sHypO2ISPas
+coverImage: https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg
+channel: Documentary Hub
+duration: '48:22'
 publishedAt: 2024-03-20
 lang: en
-tags: ["forbidden-city", "beijing", "imperial-palace", "ming-dynasty", "qing-dynasty", "chinese-architecture"]
+tags:
+- forbidden-city
+- beijing
+- imperial-palace
+- ming-dynasty
+- qing-dynasty
+- chinese-architecture
 featured: true
 affiliate:
-  - title: "China (Eyewitness Travel Guides)"
-    asin: "0756609194"
-    url: "https://www.amazon.com/dp/0756609194?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg"
-    price: "$20.85"
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: China (Eyewitness Travel Guides)
+  asin: 0756609194
+  url: https://www.amazon.com/dp/0756609194?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg
+  price: $20.85
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: The Forbidden City - A History of China Since the 15th Century
+  asin: '7540793759'
+  url: https://www.amazon.com/dp/7540793759?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/617hH0kz7NL._AC_UY218_.jpg
+  price: $64.91
+- title: Forbidden City in Beijing - Travel Guide and Tour
+  asin: B0F24F3376
+  url: https://www.amazon.com/dp/B0F24F3376?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81ArCZEruGL._AC_UY218_.jpg
+  price: $0.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'aed82882-5b0c-4c03-904d-0cd9356f6be4'
-  PropagateID: 'aed82882-5b0c-4c03-904d-0cd9356f6be4'
-  ReservedCode1: '600d3e3e-232b-445c-bc6a-667f24c1e019'
-  ReservedCode2: '600d3e3e-232b-445c-bc6a-667f24c1e019'
+  ProduceID: aed82882-5b0c-4c03-904d-0cd9356f6be4
+  PropagateID: aed82882-5b0c-4c03-904d-0cd9356f6be4
+  ReservedCode1: 600d3e3e-232b-445c-bc6a-667f24c1e019
+  ReservedCode2: 600d3e3e-232b-445c-bc6a-667f24c1e019
 ---
 
 ## A City Built on a Single Vision

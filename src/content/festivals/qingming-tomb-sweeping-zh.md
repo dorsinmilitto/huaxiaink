@@ -1,38 +1,44 @@
-﻿---
-title: "清明节——中国人如何一年一次与祖先对话"
-description: "清明节——中国人一年一次与祖先对话的日子，扫墓、焚纸、踏青，延续两千五百年的追思仪式。"
-youtubeId: "aZtZlYE5i8M"
-coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
-channel: "China Travel"
-duration: "6:45"
+---
+title: 清明节——中国人如何一年一次与祖先对话
+description: 清明节——中国人一年一次与祖先对话的日子，扫墓、焚纸、踏青，延续两千五百年的追思仪式。
+youtubeId: aZtZlYE5i8M
+coverImage: https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg
+channel: China Travel
+duration: '6:45'
 publishedAt: 2024-04-01
 lang: zh
-tags: ["清明节", "扫墓", "祭祖", "中国传统", "春天", "思念"]
+tags:
+- 清明节
+- 扫墓
+- 祭祖
+- 中国传统
+- 春天
+- 思念
 featured: true
 affiliate:
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: Chinese Medicine Sachets with Wormwood, Mugwort Leaves & Dried Flowers
+  asin: B0FLTT5RPX
+  url: https://www.amazon.com/dp/B0FLTT5RPX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71uB1gwg-2L._AC_UL640_.jpg
+  price: $6.99
+- title: Solid Brass Chinese Incense Burner, Antique Censer for Feng Shui
+  asin: B0F8B1YFPP
+  url: https://www.amazon.com/dp/B0F8B1YFPP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81mC1EDa6OL._AC_UL640_.jpg
+  price: $54.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f2ed39f6-711b-4671-9e18-daefc2132df4'
-  PropagateID: 'f2ed39f6-711b-4671-9e18-daefc2132df4'
-  ReservedCode1: '07b7f08a-9e34-47d8-8448-f88baedc848d'
-  ReservedCode2: '07b7f08a-9e34-47d8-8448-f88baedc848d'
+  ProduceID: f2ed39f6-711b-4671-9e18-daefc2132df4
+  PropagateID: f2ed39f6-711b-4671-9e18-daefc2132df4
+  ReservedCode1: 07b7f08a-9e34-47d8-8448-f88baedc848d
+  ReservedCode2: 07b7f08a-9e34-47d8-8448-f88baedc848d
 ---
 
 ## 每年一次的跨时空对话

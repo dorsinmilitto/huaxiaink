@@ -1,38 +1,50 @@
-﻿---
-title: "Chongyang — The Festival That Asks You to Climb a Mountain for Your Grandparents"
-description: "Chongyang Festival asks you to climb a mountain for your grandparents — discover the 2,000-year-old tradition honoring elders and autumn's beauty."
-youtubeId: "wj2hUzJmdsA"
-coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
-channel: "China Culture"
-duration: "3:45"
+---
+title: Chongyang — The Festival That Asks You to Climb a Mountain for Your Grandparents
+description: Chongyang Festival asks you to climb a mountain for your grandparents
+  — discover the 2,000-year-old tradition honoring elders and autumn's beauty.
+youtubeId: wj2hUzJmdsA
+coverImage: https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg
+channel: China Culture
+duration: '3:45'
 publishedAt: 2024-10-05
 lang: en
-tags: ["chongyang", "double-ninth", "elderly", "mountain-climbing", "chrysanthemum", "filial-piety"]
+tags:
+- chongyang
+- double-ninth
+- elderly
+- mountain-climbing
+- chrysanthemum
+- filial-piety
 featured: false
 affiliate:
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Tea Pot Cup Set with Tray Infuser"
-    asin: "B0881KTP8J"
-    url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
-    price: "$23.92"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Tea Pot Cup Set with Tray Infuser
+  asin: B0881KTP8J
+  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
+  price: $23.92
+- title: INCAS Organic Chrysanthemum Tea 3.53 oz - Dried Flowers Caffeine Free
+  asin: B09C5S8T1G
+  url: https://www.amazon.com/dp/B09C5S8T1G?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81a6lsitetL._AC_UL640_.jpg
+  price: $19.99
+- title: Hiking Trekking Poles - 2 Pack Anti Shock Adjustable Collapsible
+  asin: B0FNW694F8
+  url: https://www.amazon.com/dp/B0FNW694F8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51D-O9LUOOL._AC_UL640_.jpg
+  price: $24.43
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '41beb9cf-b316-4c60-bd0f-e0f7ad9c699f'
-  PropagateID: '41beb9cf-b316-4c60-bd0f-e0f7ad9c699f'
-  ReservedCode1: '9cf17792-7cb3-4502-bdf5-129d3f8d7bc2'
-  ReservedCode2: '9cf17792-7cb3-4502-bdf5-129d3f8d7bc2'
+  ProduceID: 41beb9cf-b316-4c60-bd0f-e0f7ad9c699f
+  PropagateID: 41beb9cf-b316-4c60-bd0f-e0f7ad9c699f
+  ReservedCode1: 9cf17792-7cb3-4502-bdf5-129d3f8d7bc2
+  ReservedCode2: 9cf17792-7cb3-4502-bdf5-129d3f8d7bc2
 ---
 
 ## Nine Nine — The Number That Means "Long Life"

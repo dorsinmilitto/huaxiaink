@@ -1,38 +1,51 @@
-﻿---
-title: "Yellow Mountain — The Real-Life Ink Painting You Can Walk Through"
-description: "Yellow Mountain (Huangshan) is a real-life ink painting you can walk through — sea of clouds, twisted pines, and granite peaks inspiring Chinese art for 1,200 years."
-youtubeId: "T_gAPaN6IKQ"
-coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
-channel: "Little Chinese Everywhere"
-duration: "18:42"
+---
+title: Yellow Mountain — The Real-Life Ink Painting You Can Walk Through
+description: Yellow Mountain (Huangshan) is a real-life ink painting you can walk
+  through — sea of clouds, twisted pines, and granite peaks inspiring Chinese art
+  for 1,200 years.
+youtubeId: T_gAPaN6IKQ
+coverImage: https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg
+channel: Little Chinese Everywhere
+duration: '18:42'
 publishedAt: 2024-10-15
 lang: en
-tags: ["huangshan", "yellow-mountain", "ink-painting", "cloud-sea", "pine-trees", "anhui"]
+tags:
+- huangshan
+- yellow-mountain
+- ink-painting
+- cloud-sea
+- pine-trees
+- anhui
 featured: false
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "China (Eyewitness Travel Guides)"
-    asin: "0756609194"
-    url: "https://www.amazon.com/dp/0756609194?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg"
-    price: "$20.85"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: China (Eyewitness Travel Guides)
+  asin: 0756609194
+  url: https://www.amazon.com/dp/0756609194?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg
+  price: $20.85
+- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
+  asin: 0262019868
+  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
+  price: $25.02
+- title: Hiking Trekking Poles - 2 Pack Anti Shock Adjustable Collapsible
+  asin: B0FNWGSNNC
+  url: https://www.amazon.com/dp/B0FNWGSNNC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/512kROWpVDL._AC_UY218_.jpg
+  price: $24.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f5f50d82-e528-4380-8f8d-50c6780c0cf3'
-  PropagateID: 'f5f50d82-e528-4380-8f8d-50c6780c0cf3'
-  ReservedCode1: '531a5ec2-baf4-463a-b34d-ab78761e970b'
-  ReservedCode2: '531a5ec2-baf4-463a-b34d-ab78761e970b'
+  ProduceID: f5f50d82-e528-4380-8f8d-50c6780c0cf3
+  PropagateID: f5f50d82-e528-4380-8f8d-50c6780c0cf3
+  ReservedCode1: 531a5ec2-baf4-463a-b34d-ab78761e970b
+  ReservedCode2: 531a5ec2-baf4-463a-b34d-ab78761e970b
 ---
 
 ## A Mountain That Looks Like a Painting

@@ -1,38 +1,45 @@
-﻿---
-title: "Suzhou Gardens — How the Chinese Fit the Universe Into a Backyard"
-description: "Suzhou Gardens fit the universe into a backyard — UNESCO-listed classical gardens where rocks become mountains, ponds become oceans, and every view is a painting."
-youtubeId: "xsPOs-yCJ3g"
-coverImage: "https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg"
-channel: "UNESCO"
-duration: "2:18"
+---
+title: Suzhou Gardens — How the Chinese Fit the Universe Into a Backyard
+description: Suzhou Gardens fit the universe into a backyard — UNESCO-listed classical
+  gardens where rocks become mountains, ponds become oceans, and every view is a painting.
+youtubeId: xsPOs-yCJ3g
+coverImage: https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg
+channel: UNESCO
+duration: '2:18'
 publishedAt: 2020-12-01
 lang: en
-tags: ["suzhou-gardens", "classical-gardens", "unesco", "chinese-garden", "landscape", "jiangnan"]
+tags:
+- suzhou-gardens
+- classical-gardens
+- unesco
+- chinese-garden
+- landscape
+- jiangnan
 featured: true
 affiliate:
-  - title: "DK Eyewitness China Travel Guide"
-    asin: "1465469109"
-    url: "https://www.amazon.com/dp/1465469109?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg"
-    price: "$27.97"
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: DK Eyewitness China Travel Guide
+  asin: '1465469109'
+  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
+  price: $27.97
+- title: 7-Piece Ruyao Ceramic Chinese Gongfu Tea Set with Teapot, Cups & Tray
+  asin: B0FLW9NBCB
+  url: https://www.amazon.com/dp/B0FLW9NBCB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71a1nsyLb1L._AC_UL640_.jpg
+  price: $39.99
+- title: Garden Plants and Plant-Landscape Design (Chinese Edition)
+  asin: '7541049530'
+  url: https://www.amazon.com/dp/7541049530?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Q9weVsRvL._AC_UY218_.jpg
+  price: $15.00
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '22310a9b-7158-47fd-be6f-edf241d2c98e'
-  PropagateID: '22310a9b-7158-47fd-be6f-edf241d2c98e'
-  ReservedCode1: '4cb22a6d-2201-414b-8c0e-6a343e7a822f'
-  ReservedCode2: '4cb22a6d-2201-414b-8c0e-6a343e7a822f'
+  ProduceID: 22310a9b-7158-47fd-be6f-edf241d2c98e
+  PropagateID: 22310a9b-7158-47fd-be6f-edf241d2c98e
+  ReservedCode1: 4cb22a6d-2201-414b-8c0e-6a343e7a822f
+  ReservedCode2: 4cb22a6d-2201-414b-8c0e-6a343e7a822f
 ---
 
 ## A Universe Shrunk to the Size of a Courtyard

@@ -1,38 +1,49 @@
-﻿---
-title: "七夕——写在星星上的爱情故事（字面意义上的）"
-description: "七夕——被银河隔开的两颗星每年相会一次。两千六百年前写在星座里的中国情人节。"
-youtubeId: "WCbztd58LLE"
-coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
-channel: "chinahighlights"
-duration: "4:20"
+---
+title: 七夕——写在星星上的爱情故事（字面意义上的）
+description: 七夕——被银河隔开的两颗星每年相会一次。两千六百年前写在星座里的中国情人节。
+youtubeId: WCbztd58LLE
+coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
+channel: chinahighlights
+duration: '4:20'
 publishedAt: 2023-08-01
 lang: zh
-tags: ["七夕", "中国情人节", "牛郎织女", "鹊桥", "爱情故事", "银河"]
+tags:
+- 七夕
+- 中国情人节
+- 牛郎织女
+- 鹊桥
+- 爱情故事
+- 银河
 featured: true
 affiliate:
-  - title: "Real Jade Bracelet for Women Natural Jadeite"
-    asin: "B0DB2P1LBF"
-    url: "https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg"
-    price: "$21.51"
-  - title: "Winged Sirenny Short Silk Folding Fan"
-    asin: "B01NCJU3SI"
-    url: "https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Real Jade Bracelet for Women Natural Jadeite
+  asin: B0DB2P1LBF
+  url: https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg
+  price: $21.51
+- title: Winged Sirenny Short Silk Folding Fan
+  asin: B01NCJU3SI
+  url: https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg
+  price: $16.99
+- title: 'Chinese Children''s Favorite Stories: Fables, Myths and Fairy Tales'
+  asin: 0804851492
+  url: https://www.amazon.com/dp/0804851492?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91rCV1XMsKL._AC_UY218_.jpg
+  price: $13.94
+- title: 'Learn to Read Chinese: Four Classic Love Stories in Simplified Chinese'
+  asin: '1952601584'
+  url: https://www.amazon.com/dp/1952601584?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61-NB+AMICL._AC_UY218_.jpg
+  price: $0.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '8da5b81e-fd0e-4319-8b28-835c5b757329'
-  PropagateID: '8da5b81e-fd0e-4319-8b28-835c5b757329'
-  ReservedCode1: '4801e002-8459-43cd-8c40-45e3f4f64823'
-  ReservedCode2: '4801e002-8459-43cd-8c40-45e3f4f64823'
+  ProduceID: 8da5b81e-fd0e-4319-8b28-835c5b757329
+  PropagateID: 8da5b81e-fd0e-4319-8b28-835c5b757329
+  ReservedCode1: 4801e002-8459-43cd-8c40-45e3f4f64823
+  ReservedCode2: 4801e002-8459-43cd-8c40-45e3f4f64823
 ---
 
 ## 比罗密欧与朱丽叶早1500年的爱情

@@ -1,38 +1,49 @@
-﻿---
-title: "端午节——一个诗人的悲伤如何变成中国最热血的节日"
-description: "端午节如何将诗人的悲壮殉国变成中国最热血的节日——粽子、龙舟与两千年的家国记忆。"
-youtubeId: "oKHLDPuI98Q"
-coverImage: "https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg"
-channel: "Off the Great Wall"
-duration: "5:30"
+---
+title: 端午节——一个诗人的悲伤如何变成中国最热血的节日
+description: 端午节如何将诗人的悲壮殉国变成中国最热血的节日——粽子、龙舟与两千年的家国记忆。
+youtubeId: oKHLDPuI98Q
+coverImage: https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg
+channel: Off the Great Wall
+duration: '5:30'
 publishedAt: 2024-06-01
 lang: zh
-tags: ["端午节", "粽子", "屈原", "龙舟", "爱国诗人", "传统节日"]
+tags:
+- 端午节
+- 粽子
+- 屈原
+- 龙舟
+- 爱国诗人
+- 传统节日
 featured: true
 affiliate:
-  - title: "Bamboo Steamer 10 Inch 2 Tier"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
+- title: Bamboo Steamer 10 Inch 2 Tier
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: 2Pcs Stainless Steel Zongzi Mold Set for Making Triangle Sticky Rice Dumplings
+  asin: B0D533PJ12
+  url: https://www.amazon.com/dp/B0D533PJ12?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41F-RIX8ZDL._AC_UL640_.jpg
+  price: $19.19
+- title: 3D Chinese Dragon Boat Festival Dragon Garland Hanging Decoration
+  asin: B01E2K01JS
+  url: https://www.amazon.com/dp/B01E2K01JS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61RAhlniqcL._AC_UL640_.jpg
+  price: $16.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '89fc9bf8-7c9e-41fa-9724-396070e584c5'
-  PropagateID: '89fc9bf8-7c9e-41fa-9724-396070e584c5'
-  ReservedCode1: 'cecbdde3-20b2-4bce-bad7-aecc5bba3b59'
-  ReservedCode2: 'cecbdde3-20b2-4bce-bad7-aecc5bba3b59'
+  ProduceID: 89fc9bf8-7c9e-41fa-9724-396070e584c5
+  PropagateID: 89fc9bf8-7c9e-41fa-9724-396070e584c5
+  ReservedCode1: cecbdde3-20b2-4bce-bad7-aecc5bba3b59
+  ReservedCode2: cecbdde3-20b2-4bce-bad7-aecc5bba3b59
 ---
 
 ## 从一个人的死亡开始的节日

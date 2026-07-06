@@ -1,38 +1,49 @@
-﻿---
-title: "黄山——你可以走进去的水墨画"
-description: "黄山是你可以走进去的水墨画——云海、奇松、花岗岩峰林，一千两百年来不断激发中国艺术灵感。"
-youtubeId: "T_gAPaN6IKQ"
-coverImage: "https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg"
-channel: "Little Chinese Everywhere"
-duration: "18:42"
+---
+title: 黄山——你可以走进去的水墨画
+description: 黄山是你可以走进去的水墨画——云海、奇松、花岗岩峰林，一千两百年来不断激发中国艺术灵感。
+youtubeId: T_gAPaN6IKQ
+coverImage: https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg
+channel: Little Chinese Everywhere
+duration: '18:42'
 publishedAt: 2024-10-15
 lang: zh
-tags: ["黄山", "水墨画", "云海", "迎客松", "安徽", "奇松怪石"]
+tags:
+- 黄山
+- 水墨画
+- 云海
+- 迎客松
+- 安徽
+- 奇松怪石
 featured: false
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "China (Eyewitness Travel Guides)"
-    asin: "0756609194"
-    url: "https://www.amazon.com/dp/0756609194?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg"
-    price: "$20.85"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: China (Eyewitness Travel Guides)
+  asin: 0756609194
+  url: https://www.amazon.com/dp/0756609194?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61xEIlC1byL._AC_UY218_.jpg
+  price: $20.85
+- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
+  asin: 0262019868
+  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
+  price: $25.02
+- title: Hiking Trekking Poles - 2 Pack Anti Shock Adjustable Collapsible
+  asin: B0FNWGSNNC
+  url: https://www.amazon.com/dp/B0FNWGSNNC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/512kROWpVDL._AC_UY218_.jpg
+  price: $24.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ccb7967b-abd0-41ca-bf71-39a17ebc8249'
-  PropagateID: 'ccb7967b-abd0-41ca-bf71-39a17ebc8249'
-  ReservedCode1: 'bccdc967-deb3-493f-ae7b-77c0fee68eea'
-  ReservedCode2: 'bccdc967-deb3-493f-ae7b-77c0fee68eea'
+  ProduceID: ccb7967b-abd0-41ca-bf71-39a17ebc8249
+  PropagateID: ccb7967b-abd0-41ca-bf71-39a17ebc8249
+  ReservedCode1: bccdc967-deb3-493f-ae7b-77c0fee68eea
+  ReservedCode2: bccdc967-deb3-493f-ae7b-77c0fee68eea
 ---
 
 ## 一座看起来像画的山

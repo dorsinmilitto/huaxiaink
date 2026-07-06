@@ -1,38 +1,51 @@
-﻿---
-title: "Terracotta Warriors — The Emperor Who Tried to Conquer Death"
-description: "Terracotta Warriors — 8,000 clay soldiers guarding China's first emperor for 2,200 years, accidentally discovered by a farmer in 1974 and still being excavated."
-youtubeId: "mP5p4QbvPtc"
-coverImage: "https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg"
-channel: "TED-Ed"
-duration: "4:59"
+---
+title: Terracotta Warriors — The Emperor Who Tried to Conquer Death
+description: Terracotta Warriors — 8,000 clay soldiers guarding China's first emperor
+  for 2,200 years, accidentally discovered by a farmer in 1974 and still being excavated.
+youtubeId: mP5p4QbvPtc
+coverImage: https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg
+channel: TED-Ed
+duration: '4:59'
 publishedAt: 2018-06-14
 lang: en
-tags: ["terracotta-warriors", "xian", "qin-dynasty", "emperor-qin", "archaeology", "china-history"]
+tags:
+- terracotta-warriors
+- xian
+- qin-dynasty
+- emperor-qin
+- archaeology
+- china-history
 featured: true
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: 9PCS Terracotta Army Qin Dynasty Warriors Figurines, Handcrafted Pottery
+    Clay
+  asin: B0CWLDD4JX
+  url: https://www.amazon.com/dp/B0CWLDD4JX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71z7jvzJCAL._AC_UL640_.jpg
+  price: $26.90
+- title: Terracotta Warriors Statue, Qin Dynasty Ancient China Replica
+  asin: B0FNM58MPY
+  url: https://www.amazon.com/dp/B0FNM58MPY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41DaIhG6VYL._AC_UL640_.jpg
+  price: $12.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7b8c1d2f-6276-44ef-bb99-d5cceafa7c49'
-  PropagateID: '7b8c1d2f-6276-44ef-bb99-d5cceafa7c49'
-  ReservedCode1: '51a7aa61-75b1-457c-a423-3dea58653db7'
-  ReservedCode2: '51a7aa61-75b1-457c-a423-3dea58653db7'
+  ProduceID: 7b8c1d2f-6276-44ef-bb99-d5cceafa7c49
+  PropagateID: 7b8c1d2f-6276-44ef-bb99-d5cceafa7c49
+  ReservedCode1: 51a7aa61-75b1-457c-a423-3dea58653db7
+  ReservedCode2: 51a7aa61-75b1-457c-a423-3dea58653db7
 ---
 
 ## An Army That Stood Guard for Two Thousand Years

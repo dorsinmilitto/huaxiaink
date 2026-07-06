@@ -1,38 +1,49 @@
-﻿---
-title: "张家界：阿凡达悬浮山的真实原型"
-description: "探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。"
-youtubeId: "Na3ToBLUfFk"
-coverImage: "https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg"
-channel: "Wonder World"
-duration: "11:24"
+---
+title: 张家界：阿凡达悬浮山的真实原型
+description: 探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。
+youtubeId: Na3ToBLUfFk
+coverImage: https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg
+channel: Wonder World
+duration: '11:24'
 publishedAt: 2024-04-10
 lang: zh
-tags: ["张家界", "阿凡达山", "湖南", "自然奇观", "石柱", "哈利路亚山"]
+tags:
+- 张家界
+- 阿凡达山
+- 湖南
+- 自然奇观
+- 石柱
+- 哈利路亚山
 featured: false
 affiliate:
-  - title: "DK Eyewitness China Travel Guide"
-    asin: "1465469109"
-    url: "https://www.amazon.com/dp/1465469109?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg"
-    price: "$27.97"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: DK Eyewitness China Travel Guide
+  asin: '1465469109'
+  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
+  price: $27.97
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
+  asin: 0262019868
+  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
+  price: $25.02
+- title: Hiking Poles Collapsible Trekking Poles Aluminum Alloy 2 pc Lightweight
+  asin: B0CZ8QXKYD
+  url: https://www.amazon.com/dp/B0CZ8QXKYD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sK6JyR2ZL._AC_UY218_.jpg
+  price: $27.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '08584a64-31c9-44f3-af20-36a53ec7c59f'
-  PropagateID: '08584a64-31c9-44f3-af20-36a53ec7c59f'
-  ReservedCode1: '45651f6c-8328-47b8-a62c-9b63840b3c32'
-  ReservedCode2: '45651f6c-8328-47b8-a62c-9b63840b3c32'
+  ProduceID: 08584a64-31c9-44f3-af20-36a53ec7c59f
+  PropagateID: 08584a64-31c9-44f3-af20-36a53ec7c59f
+  ReservedCode1: 45651f6c-8328-47b8-a62c-9b63840b3c32
+  ReservedCode2: 45651f6c-8328-47b8-a62c-9b63840b3c32
 ---
 
 ## 不该站着的石头

@@ -1,38 +1,50 @@
-﻿---
-title: "Qixi — The Love Story Written in the Stars (Literally)"
-description: "Qixi — where two stars separated by the Milky Way meet once a year. The real Chinese Valentine's Day, written in constellations 2,600 years ago."
-youtubeId: "WCbztd58LLE"
-coverImage: "https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg"
-channel: "chinahighlights"
-duration: "4:20"
+---
+title: Qixi — The Love Story Written in the Stars (Literally)
+description: Qixi — where two stars separated by the Milky Way meet once a year. The
+  real Chinese Valentine's Day, written in constellations 2,600 years ago.
+youtubeId: WCbztd58LLE
+coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
+channel: chinahighlights
+duration: '4:20'
 publishedAt: 2023-08-01
 lang: en
-tags: ["qixi", "chinese-valentine", "cowherd-weaver", "magpie-bridge", "love-story", "milky-way"]
+tags:
+- qixi
+- chinese-valentine
+- cowherd-weaver
+- magpie-bridge
+- love-story
+- milky-way
 featured: true
 affiliate:
-  - title: "Real Jade Bracelet for Women Natural Jadeite"
-    asin: "B0DB2P1LBF"
-    url: "https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg"
-    price: "$21.51"
-  - title: "Winged Sirenny Short Silk Folding Fan"
-    asin: "B01NCJU3SI"
-    url: "https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Real Jade Bracelet for Women Natural Jadeite
+  asin: B0DB2P1LBF
+  url: https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg
+  price: $21.51
+- title: Winged Sirenny Short Silk Folding Fan
+  asin: B01NCJU3SI
+  url: https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg
+  price: $16.99
+- title: 'Chinese Children''s Favorite Stories: Fables, Myths and Fairy Tales'
+  asin: 0804851492
+  url: https://www.amazon.com/dp/0804851492?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91rCV1XMsKL._AC_UY218_.jpg
+  price: $13.94
+- title: 'Learn to Read Chinese: Four Classic Love Stories in Simplified Chinese'
+  asin: '1952601584'
+  url: https://www.amazon.com/dp/1952601584?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61-NB+AMICL._AC_UY218_.jpg
+  price: $0.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f4572016-57c7-4ef4-ae85-52e80c384fd5'
-  PropagateID: 'f4572016-57c7-4ef4-ae85-52e80c384fd5'
-  ReservedCode1: 'eefedc40-1973-4438-8c9a-ed0f8c10be73'
-  ReservedCode2: 'eefedc40-1973-4438-8c9a-ed0f8c10be73'
+  ProduceID: f4572016-57c7-4ef4-ae85-52e80c384fd5
+  PropagateID: f4572016-57c7-4ef4-ae85-52e80c384fd5
+  ReservedCode1: eefedc40-1973-4438-8c9a-ed0f8c10be73
+  ReservedCode2: eefedc40-1973-4438-8c9a-ed0f8c10be73
 ---
 
 ## A Love Story Older Than Romeo and Juliet by About 1,500 Years

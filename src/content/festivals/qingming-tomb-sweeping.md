@@ -1,38 +1,45 @@
-﻿---
-title: "Qingming — How the Chinese Talk to Their Ancestors Once a Year"
-description: "Qingming is when China talks to its ancestors — sweeping tombs, burning paper money, and hiking spring mountains in a 2,500-year ritual of remembrance."
-youtubeId: "aZtZlYE5i8M"
-coverImage: "https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg"
-channel: "China Travel"
-duration: "6:45"
+---
+title: Qingming — How the Chinese Talk to Their Ancestors Once a Year
+description: Qingming is when China talks to its ancestors — sweeping tombs, burning
+  paper money, and hiking spring mountains in a 2,500-year ritual of remembrance.
+youtubeId: aZtZlYE5i8M
+coverImage: https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg
+channel: China Travel
+duration: '6:45'
 publishedAt: 2024-04-01
 lang: en
-tags: ["qingming", "tomb-sweeping", "ancestors", "chinese-tradition", "spring", "remembrance"]
+tags:
+- qingming
+- tomb-sweeping
+- ancestors
+- chinese-tradition
+- spring
+- remembrance
 featured: true
 affiliate:
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: Chinese Medicine Sachets with Wormwood, Mugwort Leaves & Dried Flowers
+  asin: B0FLTT5RPX
+  url: https://www.amazon.com/dp/B0FLTT5RPX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71uB1gwg-2L._AC_UL640_.jpg
+  price: $6.99
+- title: Solid Brass Chinese Incense Burner, Antique Censer for Feng Shui
+  asin: B0F8B1YFPP
+  url: https://www.amazon.com/dp/B0F8B1YFPP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81mC1EDa6OL._AC_UL640_.jpg
+  price: $54.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '0a43c783-9d83-48c8-94bf-186094c1d6fd'
-  PropagateID: '0a43c783-9d83-48c8-94bf-186094c1d6fd'
-  ReservedCode1: 'b5450a4a-9d3d-40dd-8bfe-5db2145926b2'
-  ReservedCode2: 'b5450a4a-9d3d-40dd-8bfe-5db2145926b2'
+  ProduceID: 0a43c783-9d83-48c8-94bf-186094c1d6fd
+  PropagateID: 0a43c783-9d83-48c8-94bf-186094c1d6fd
+  ReservedCode1: b5450a4a-9d3d-40dd-8bfe-5db2145926b2
+  ReservedCode2: b5450a4a-9d3d-40dd-8bfe-5db2145926b2
 ---
 
 ## A Conversation Across Time

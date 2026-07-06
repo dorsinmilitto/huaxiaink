@@ -1,38 +1,49 @@
-﻿---
-title: "重阳节——让你为爷爷奶奶爬山的节日"
-description: "重阳节让你为爷爷奶奶爬山——探索这个两千年传统如何将敬老与秋日登高融为一体。"
-youtubeId: "wj2hUzJmdsA"
-coverImage: "https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg"
-channel: "China Culture"
-duration: "3:45"
+---
+title: 重阳节——让你为爷爷奶奶爬山的节日
+description: 重阳节让你为爷爷奶奶爬山——探索这个两千年传统如何将敬老与秋日登高融为一体。
+youtubeId: wj2hUzJmdsA
+coverImage: https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg
+channel: China Culture
+duration: '3:45'
 publishedAt: 2024-10-05
 lang: zh
-tags: ["重阳节", "九九重阳", "敬老", "登高", "菊花", "孝道"]
+tags:
+- 重阳节
+- 九九重阳
+- 敬老
+- 登高
+- 菊花
+- 孝道
 featured: false
 affiliate:
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Tea Pot Cup Set with Tray Infuser"
-    asin: "B0881KTP8J"
-    url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
-    price: "$23.92"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Tea Pot Cup Set with Tray Infuser
+  asin: B0881KTP8J
+  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
+  price: $23.92
+- title: INCAS Organic Chrysanthemum Tea 3.53 oz - Dried Flowers Caffeine Free
+  asin: B09C5S8T1G
+  url: https://www.amazon.com/dp/B09C5S8T1G?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81a6lsitetL._AC_UL640_.jpg
+  price: $19.99
+- title: Hiking Trekking Poles - 2 Pack Anti Shock Adjustable Collapsible
+  asin: B0FNW694F8
+  url: https://www.amazon.com/dp/B0FNW694F8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51D-O9LUOOL._AC_UL640_.jpg
+  price: $24.43
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '46a19cd2-0f31-4025-8399-df416474d76d'
-  PropagateID: '46a19cd2-0f31-4025-8399-df416474d76d'
-  ReservedCode1: '266cd7a3-ebd7-44f3-b447-98bd30222c5a'
-  ReservedCode2: '266cd7a3-ebd7-44f3-b447-98bd30222c5a'
+  ProduceID: 46a19cd2-0f31-4025-8399-df416474d76d
+  PropagateID: 46a19cd2-0f31-4025-8399-df416474d76d
+  ReservedCode1: 266cd7a3-ebd7-44f3-b447-98bd30222c5a
+  ReservedCode2: 266cd7a3-ebd7-44f3-b447-98bd30222c5a
 ---
 
 ## 九九——一个谐音撑起的节日

@@ -1,38 +1,50 @@
-﻿---
-title: "Dragon Boat Festival — How a Poet's Grief Became China's Most Exciting Holiday"
-description: "Dragon Boat Festival turned a poet's tragic drowning into China's most exciting holiday — zongzi, dragon boats, and 2,000 years of remembrance."
-youtubeId: "oKHLDPuI98Q"
-coverImage: "https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg"
-channel: "Off the Great Wall"
-duration: "5:30"
+---
+title: Dragon Boat Festival — How a Poet's Grief Became China's Most Exciting Holiday
+description: Dragon Boat Festival turned a poet's tragic drowning into China's most
+  exciting holiday — zongzi, dragon boats, and 2,000 years of remembrance.
+youtubeId: oKHLDPuI98Q
+coverImage: https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg
+channel: Off the Great Wall
+duration: '5:30'
 publishedAt: 2024-06-01
 lang: en
-tags: ["dragon-boat-festival", "duanwu", "zongzi", "qu-yuan", "dragon-boat-race", "rice-dumpling"]
+tags:
+- dragon-boat-festival
+- duanwu
+- zongzi
+- qu-yuan
+- dragon-boat-race
+- rice-dumpling
 featured: true
 affiliate:
-  - title: "Bamboo Steamer 10 Inch 2 Tier"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
+- title: Bamboo Steamer 10 Inch 2 Tier
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: 2Pcs Stainless Steel Zongzi Mold Set for Making Triangle Sticky Rice Dumplings
+  asin: B0D533PJ12
+  url: https://www.amazon.com/dp/B0D533PJ12?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41F-RIX8ZDL._AC_UL640_.jpg
+  price: $19.19
+- title: 3D Chinese Dragon Boat Festival Dragon Garland Hanging Decoration
+  asin: B01E2K01JS
+  url: https://www.amazon.com/dp/B01E2K01JS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61RAhlniqcL._AC_UL640_.jpg
+  price: $16.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c071687a-3fa5-4f91-b63d-b63bfbaa2b83'
-  PropagateID: 'c071687a-3fa5-4f91-b63d-b63bfbaa2b83'
-  ReservedCode1: '331f2ddf-68b5-4036-a17d-7f0f5cdb9b2c'
-  ReservedCode2: '331f2ddf-68b5-4036-a17d-7f0f5cdb9b2c'
+  ProduceID: c071687a-3fa5-4f91-b63d-b63bfbaa2b83
+  PropagateID: c071687a-3fa5-4f91-b63d-b63bfbaa2b83
+  ReservedCode1: 331f2ddf-68b5-4036-a17d-7f0f5cdb9b2c
+  ReservedCode2: 331f2ddf-68b5-4036-a17d-7f0f5cdb9b2c
 ---
 
 ## The Holiday That Starts with Grief

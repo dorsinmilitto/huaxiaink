@@ -1,38 +1,50 @@
-﻿---
-title: "Zhangjiajie: The Real Floating Mountains That Inspired Avatar"
-description: "Discover Zhangjiajie's quartzite pillar peaks — the real-life floating mountains that inspired James Cameron's Avatar Hallelujah Mountains."
-youtubeId: "Na3ToBLUfFk"
-coverImage: "https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg"
-channel: "Wonder World"
-duration: "11:24"
+---
+title: 'Zhangjiajie: The Real Floating Mountains That Inspired Avatar'
+description: Discover Zhangjiajie's quartzite pillar peaks — the real-life floating
+  mountains that inspired James Cameron's Avatar Hallelujah Mountains.
+youtubeId: Na3ToBLUfFk
+coverImage: https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg
+channel: Wonder World
+duration: '11:24'
 publishedAt: 2024-04-10
 lang: en
-tags: ["zhangjiajie", "avatar-mountains", "hunan", "natural-wonder", "pillars", "hallelujah-mountain"]
+tags:
+- zhangjiajie
+- avatar-mountains
+- hunan
+- natural-wonder
+- pillars
+- hallelujah-mountain
 featured: false
 affiliate:
-  - title: "DK Eyewitness China Travel Guide"
-    asin: "1465469109"
-    url: "https://www.amazon.com/dp/1465469109?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg"
-    price: "$27.97"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
-  - title: "Chinese Calligraphy Brushes Set Professional"
-    asin: "B0G4L5RXW9"
-    url: "https://www.amazon.com/dp/B0G4L5RXW9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ivl4Q3JzL._AC_UL640_.jpg"
-    price: "$28.79"
+- title: DK Eyewitness China Travel Guide
+  asin: '1465469109'
+  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
+  price: $27.97
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
+  asin: 0262019868
+  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
+  price: $25.02
+- title: Hiking Poles Collapsible Trekking Poles Aluminum Alloy 2 pc Lightweight
+  asin: B0CZ8QXKYD
+  url: https://www.amazon.com/dp/B0CZ8QXKYD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sK6JyR2ZL._AC_UY218_.jpg
+  price: $27.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '5f9589a1-284e-457e-bf49-cd3b657c7fa4'
-  PropagateID: '5f9589a1-284e-457e-bf49-cd3b657c7fa4'
-  ReservedCode1: '652eb2ee-5f00-4ea4-82e0-b4acb5eceda6'
-  ReservedCode2: '652eb2ee-5f00-4ea4-82e0-b4acb5eceda6'
+  ProduceID: 5f9589a1-284e-457e-bf49-cd3b657c7fa4
+  PropagateID: 5f9589a1-284e-457e-bf49-cd3b657c7fa4
+  ReservedCode1: 652eb2ee-5f00-4ea4-82e0-b4acb5eceda6
+  ReservedCode2: 652eb2ee-5f00-4ea4-82e0-b4acb5eceda6
 ---
 
 ## Stone Pillars That Defy Explanation
