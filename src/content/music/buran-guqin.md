@@ -1,36 +1,46 @@
-﻿---
-title: "When a 3,000-Year-Old Instrument Plays a Pop Drama Theme"
-description: "A 3,000-year-old guqin plays a pop drama theme — when China's most ancient stringed instrument meets modern TV, tradition doesn't die, it evolves."
-youtubeId: "h0AAFhx3RmA"
-coverImage: "https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg"
-channel: "Zi De Guqin Studio"
-duration: "4:09"
+---
+title: When a 3,000-Year-Old Instrument Plays a Pop Drama Theme
+description: A 3,000-year-old guqin plays a pop drama theme — when China's most ancient
+  stringed instrument meets modern TV, tradition doesn't die, it evolves.
+youtubeId: h0AAFhx3RmA
+coverImage: https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg
+channel: Zi De Guqin Studio
+duration: '4:09'
 publishedAt: 2018-12-27
 lang: en
-tags: ["guqin", "chinese-music", "ashes-of-love", "traditional-instrument", "crossover"]
+tags:
+- guqin
+- chinese-music
+- ashes-of-love
+- traditional-instrument
+- crossover
 featured: true
 affiliate:
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg"
-    price: "$21"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: I-MART Chinese Calligraphy Set for Beginners
+  asin: B074FL5D9X
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg
+  price: $21
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'bbd27180-0ad0-48dc-85da-89bed73e40cf'
-  PropagateID: 'bbd27180-0ad0-48dc-85da-89bed73e40cf'
-  ReservedCode1: '429f8865-0de9-4bb2-8b09-6118b74d8310'
-  ReservedCode2: '429f8865-0de9-4bb2-8b09-6118b74d8310'
+  ProduceID: bbd27180-0ad0-48dc-85da-89bed73e40cf
+  PropagateID: bbd27180-0ad0-48dc-85da-89bed73e40cf
+  ReservedCode1: 429f8865-0de9-4bb2-8b09-6118b74d8310
+  ReservedCode2: 429f8865-0de9-4bb2-8b09-6118b74d8310
 ---
+
 
 ## A Pop Song Meets China's Oldest Instrument
 

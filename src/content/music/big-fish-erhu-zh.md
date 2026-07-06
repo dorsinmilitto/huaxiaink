@@ -1,38 +1,46 @@
-﻿---
-title: "当二胡遇见《大鱼海棠》：法国人的中国动画情结"
-description: "法国人用二胡演奏《大鱼海棠》——当两根弦的中国胡琴遇上宫崎骏风格的动画，冲破文化边界。"
-youtubeId: "4CAFafOUyX0"
-coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
-channel: "Eliott Tordo 二胡演奏家"
-duration: "5:44"
+---
+title: 当二胡遇见《大鱼海棠》：法国人的中国动画情结
+description: 法国人用二胡演奏《大鱼海棠》——当两根弦的中国胡琴遇上宫崎骏风格的动画，冲破文化边界。
+youtubeId: 4CAFafOUyX0
+coverImage: https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg
+channel: Eliott Tordo 二胡演奏家
+duration: '5:44'
 publishedAt: 2023-01-10
 lang: zh
-tags: ["二胡", "国乐", "大鱼海棠", "中国动画", "巴黎中国乐团", "跨界"]
+tags:
+- 二胡
+- 国乐
+- 大鱼海棠
+- 中国动画
+- 巴黎中国乐团
+- 跨界
 featured: true
 affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: 'Playing Erhu: Bridging the Gap'
+  asin: B0CP6V9473
+  url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
+  price: $35
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '83b76112-b41c-4eee-8ead-63b4744c73e4'
-  PropagateID: '83b76112-b41c-4eee-8ead-63b4744c73e4'
-  ReservedCode1: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
-  ReservedCode2: 'cf200af6-75bb-40ee-8ab5-351ea1766adb'
-
+  ProduceID: 83b76112-b41c-4eee-8ead-63b4744c73e4
+  PropagateID: 83b76112-b41c-4eee-8ead-63b4744c73e4
+  ReservedCode1: cf200af6-75bb-40ee-8ab5-351ea1766adb
+  ReservedCode2: cf200af6-75bb-40ee-8ab5-351ea1766adb
 ---
+
 
 ## 一位法国人，一把二胡，一部中国神话
 

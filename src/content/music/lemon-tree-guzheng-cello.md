@@ -1,36 +1,47 @@
-﻿---
-title: "When a Chinese Guzheng and a Western Cello Meet on 'Lemon Tree'"
-description: "A Chinese guzheng and Western cello meet on 'Lemon Tree' — when East and West jam on the same Paris street corner, music needs no translation."
-youtubeId: "lfZcIe4s0C4"
-coverImage: "https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg"
-channel: "Pengpeng Jingxuan Guzheng"
-duration: "2:49"
+---
+title: When a Chinese Guzheng and a Western Cello Meet on 'Lemon Tree'
+description: A Chinese guzheng and Western cello meet on 'Lemon Tree' — when East
+  and West jam on the same Paris street corner, music needs no translation.
+youtubeId: lfZcIe4s0C4
+coverImage: https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg
+channel: Pengpeng Jingxuan Guzheng
+duration: '2:49'
 publishedAt: 2023-03-20
 lang: en
-tags: ["guzheng", "cello", "chinese-music", "lemon-tree", "east-meets-west", "street-performance"]
+tags:
+- guzheng
+- cello
+- chinese-music
+- lemon-tree
+- east-meets-west
+- street-performance
 featured: false
 affiliate:
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '5ac5331c-4530-465d-8502-f2f4f276f4f0'
-  PropagateID: '5ac5331c-4530-465d-8502-f2f4f276f4f0'
-  ReservedCode1: 'b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b'
-  ReservedCode2: 'b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b'
+  ProduceID: 5ac5331c-4530-465d-8502-f2f4f276f4f0
+  PropagateID: 5ac5331c-4530-465d-8502-f2f4f276f4f0
+  ReservedCode1: b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b
+  ReservedCode2: b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b
 ---
+
 
 ## An Unlikely Duet
 

@@ -1,36 +1,45 @@
-﻿---
-title: "古筝说唱：当千年乐器炸出说唱节拍"
-description: "古筝炸出说唱节拍——当2500年的古筝遇上trap节奏，中国传统音乐迎来最狂野的升级。"
-youtubeId: "HSaJdXxn7zU"
-coverImage: "https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg"
-channel: "墨韻 Moyun Official"
-duration: "3:38"
+---
+title: 古筝说唱：当千年乐器炸出说唱节拍
+description: 古筝炸出说唱节拍——当2500年的古筝遇上trap节奏，中国传统音乐迎来最狂野的升级。
+youtubeId: HSaJdXxn7zU
+coverImage: https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg
+channel: 墨韻 Moyun Official
+duration: '3:38'
 publishedAt: 2021-11-20
 lang: zh
-tags: ["古筝", "国乐", "说唱", "跨界", "传统新生"]
+tags:
+- 古筝
+- 国乐
+- 说唱
+- 跨界
+- 传统新生
 featured: false
 affiliate:
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
-  - title: "Chinese Fairy Tales and Legends"
-    asin: "1912392151"
-    imageUrl: "https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg"
-    price: "$18"
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: Chinese Fairy Tales and Legends
+  asin: '1912392151'
+  imageUrl: https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg
+  price: $18
+  url: https://www.amazon.com/dp/1912392151?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c7804e56-c477-49f7-b326-a633b22d86b2'
-  PropagateID: 'c7804e56-c477-49f7-b326-a633b22d86b2'
-  ReservedCode1: '18a1230c-8a5f-4f22-b280-d8befe2e2d7e'
-  ReservedCode2: '18a1230c-8a5f-4f22-b280-d8befe2e2d7e'
+  ProduceID: c7804e56-c477-49f7-b326-a633b22d86b2
+  PropagateID: c7804e56-c477-49f7-b326-a633b22d86b2
+  ReservedCode1: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
+  ReservedCode2: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
 ---
+
 
 ## 古筝，原来可以这样"燥"
 

@@ -1,36 +1,46 @@
-﻿---
-title: "西蒙与加芬克尔的经典，在亚洲民乐中重生"
-description: "保罗·西蒙的名曲在亚洲民乐中重生——当二胡和笛子翻奏西方经典，寂静有了不同的声音。"
-youtubeId: "QOm1-PFsLv0"
-coverImage: "https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg"
-channel: "Nini Music"
-duration: "3:02"
+---
+title: 西蒙与加芬克尔的经典，在亚洲民乐中重生
+description: 保罗·西蒙的名曲在亚洲民乐中重生——当二胡和笛子翻奏西方经典，寂静有了不同的声音。
+youtubeId: QOm1-PFsLv0
+coverImage: https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg
+channel: Nini Music
+duration: '3:02'
 publishedAt: 2023-05-20
 lang: zh
-tags: ["民乐", "国乐", "寂静之声", "西蒙加芬克尔", "亚洲乐器", "跨界"]
+tags:
+- 民乐
+- 国乐
+- 寂静之声
+- 西蒙加芬克尔
+- 亚洲乐器
+- 跨界
 featured: false
 affiliate:
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7d38109d-3bef-4c35-b8ec-a25e0be72b08'
-  PropagateID: '7d38109d-3bef-4c35-b8ec-a25e0be72b08'
-  ReservedCode1: 'ef0c7ffb-0726-41f7-8699-2a3b45583c91'
-  ReservedCode2: 'ef0c7ffb-0726-41f7-8699-2a3b45583c91'
+  ProduceID: 7d38109d-3bef-4c35-b8ec-a25e0be72b08
+  PropagateID: 7d38109d-3bef-4c35-b8ec-a25e0be72b08
+  ReservedCode1: ef0c7ffb-0726-41f7-8699-2a3b45583c91
+  ReservedCode2: ef0c7ffb-0726-41f7-8699-2a3b45583c91
 ---
+
 
 ## 一首美国经典，被翻译
 

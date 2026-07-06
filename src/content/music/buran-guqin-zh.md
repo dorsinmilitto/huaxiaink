@@ -1,36 +1,45 @@
-﻿---
-title: "当三千年古琴弹起仙侠剧主题曲"
-description: "三千年古琴弹起仙侠剧主题曲——当中国最古老的弦乐器遇上现代电视，传统不死，而是进化。"
-youtubeId: "h0AAFhx3RmA"
-coverImage: "https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg"
-channel: "自得琴社"
-duration: "4:09"
+---
+title: 当三千年古琴弹起仙侠剧主题曲
+description: 三千年古琴弹起仙侠剧主题曲——当中国最古老的弦乐器遇上现代电视，传统不死，而是进化。
+youtubeId: h0AAFhx3RmA
+coverImage: https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg
+channel: 自得琴社
+duration: '4:09'
 publishedAt: 2018-12-27
 lang: zh
-tags: ["古琴", "国乐", "香蜜沉沉烬如霜", "传统乐器", "跨界"]
+tags:
+- 古琴
+- 国乐
+- 香蜜沉沉烬如霜
+- 传统乐器
+- 跨界
 featured: true
 affiliate:
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "I-MART Chinese Calligraphy Set for Beginners"
-    asin: "B074FL5D9X"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg"
-    price: "$21"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: I-MART Chinese Calligraphy Set for Beginners
+  asin: B074FL5D9X
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_SX679_.jpg
+  price: $21
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'a5dbf2f2-3620-4d28-a177-6ee2c964b0ab'
-  PropagateID: 'a5dbf2f2-3620-4d28-a177-6ee2c964b0ab'
-  ReservedCode1: 'eaa38188-78fa-4935-9f09-839611878d73'
-  ReservedCode2: 'eaa38188-78fa-4935-9f09-839611878d73'
+  ProduceID: a5dbf2f2-3620-4d28-a177-6ee2c964b0ab
+  PropagateID: a5dbf2f2-3620-4d28-a177-6ee2c964b0ab
+  ReservedCode1: eaa38188-78fa-4935-9f09-839611878d73
+  ReservedCode2: eaa38188-78fa-4935-9f09-839611878d73
 ---
+
 
 ## 一首流行歌，遇上中国最古老的乐器
 

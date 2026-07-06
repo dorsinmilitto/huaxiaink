@@ -1,36 +1,47 @@
-﻿---
-title: "Simon & Garfunkel's Classic, Reborn Through Asian Folk Instruments"
-description: "Simon & Garfunkel's 'Sound of Silence' reborn through Asian folk instruments — when the erhu and dizi cover a Western classic, silence sounds different."
-youtubeId: "QOm1-PFsLv0"
-coverImage: "https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg"
-channel: "Nini Music"
-duration: "3:02"
+---
+title: Simon & Garfunkel's Classic, Reborn Through Asian Folk Instruments
+description: Simon & Garfunkel's 'Sound of Silence' reborn through Asian folk instruments
+  — when the erhu and dizi cover a Western classic, silence sounds different.
+youtubeId: QOm1-PFsLv0
+coverImage: https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg
+channel: Nini Music
+duration: '3:02'
 publishedAt: 2023-05-20
 lang: en
-tags: ["folk", "chinese-music", "sound-of-silence", "simon-garfunkel", "asian-instruments", "crossover"]
+tags:
+- folk
+- chinese-music
+- sound-of-silence
+- simon-garfunkel
+- asian-instruments
+- crossover
 featured: false
 affiliate:
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '23a0ef4c-9ca0-42d5-9166-53d9595a60f5'
-  PropagateID: '23a0ef4c-9ca0-42d5-9166-53d9595a60f5'
-  ReservedCode1: 'eb7d098a-e0d4-419d-a5d8-74fe6cc415d7'
-  ReservedCode2: 'eb7d098a-e0d4-419d-a5d8-74fe6cc415d7'
+  ProduceID: 23a0ef4c-9ca0-42d5-9166-53d9595a60f5
+  PropagateID: 23a0ef4c-9ca0-42d5-9166-53d9595a60f5
+  ReservedCode1: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
+  ReservedCode2: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
 ---
+
 
 ## An American Classic, Translated
 

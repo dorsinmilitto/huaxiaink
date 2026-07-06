@@ -1,38 +1,47 @@
-﻿---
-title: "二胡竹笛古筝，奏响《上海滩》的时代回响"
-description: "二胡、竹笛、古筝奏响《上海滩》——三件传统乐器演奏定义1930年代上海黄金时代的经典。"
-youtubeId: "2EhTnwxg9y4"
-coverImage: "https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg"
-channel: "二胡沛瑶现场音乐"
-duration: "3:08"
+---
+title: 二胡竹笛古筝，奏响《上海滩》的时代回响
+description: 二胡、竹笛、古筝奏响《上海滩》——三件传统乐器演奏定义1930年代上海黄金时代的经典。
+youtubeId: 2EhTnwxg9y4
+coverImage: https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg
+channel: 二胡沛瑶现场音乐
+duration: '3:08'
 publishedAt: 2023-06-10
 lang: zh
-tags: ["二胡", "古筝", "竹笛", "国乐", "上海滩", "现场演出", "经典"]
+tags:
+- 二胡
+- 古筝
+- 竹笛
+- 国乐
+- 上海滩
+- 现场演出
+- 经典
 featured: false
 affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
+- title: 'Playing Erhu: Bridging the Gap'
+  asin: B0CP6V9473
+  url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
+  price: $35
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
-  PropagateID: 'c22153b6-8331-4d21-a3de-3204f05c564b'
-  ReservedCode1: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
-  ReservedCode2: '32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5'
-
+  ProduceID: c22153b6-8331-4d21-a3de-3204f05c564b
+  PropagateID: c22153b6-8331-4d21-a3de-3204f05c564b
+  ReservedCode1: 32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5
+  ReservedCode2: 32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5
 ---
+
 
 ## 1980年代的香港传奇，在2026年现场响起
 

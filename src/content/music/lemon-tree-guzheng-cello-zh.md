@@ -1,36 +1,46 @@
-﻿---
-title: "当中国古筝与西方大提琴在法国街头相遇"
-description: "中国古筝与西方大提琴在法国街头合奏《Lemon Tree》——当东西方乐器在同一条街角即兴，音乐无需翻译。"
-youtubeId: "lfZcIe4s0C4"
-coverImage: "https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg"
-channel: "碰碰彭碰彭古筝"
-duration: "2:49"
+---
+title: 当中国古筝与西方大提琴在法国街头相遇
+description: 中国古筝与西方大提琴在法国街头合奏《Lemon Tree》——当东西方乐器在同一条街角即兴，音乐无需翻译。
+youtubeId: lfZcIe4s0C4
+coverImage: https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg
+channel: 碰碰彭碰彭古筝
+duration: '2:49'
 publishedAt: 2023-03-20
 lang: zh
-tags: ["古筝", "大提琴", "国乐", "东西合璧", "街头演出", "法国"]
+tags:
+- 古筝
+- 大提琴
+- 国乐
+- 东西合璧
+- 街头演出
+- 法国
 featured: false
 affiliate:
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '735b8226-30dc-4a1e-b99a-5fb04e1a8091'
-  PropagateID: '735b8226-30dc-4a1e-b99a-5fb04e1a8091'
-  ReservedCode1: '7dc621a6-3eee-41f0-b81f-1f9fd841c8e2'
-  ReservedCode2: '7dc621a6-3eee-41f0-b81f-1f9fd841c8e2'
+  ProduceID: 735b8226-30dc-4a1e-b99a-5fb04e1a8091
+  PropagateID: 735b8226-30dc-4a1e-b99a-5fb04e1a8091
+  ReservedCode1: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
+  ReservedCode2: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
 ---
+
 
 ## 一段不可思议的二重奏
 

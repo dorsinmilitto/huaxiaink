@@ -1,37 +1,48 @@
-﻿---
-title: "When the Erhu Meets Big Fish & Begonia: A Frenchman's Chinese Animation Odyssey"
-description: "A Frenchman plays Big Fish & Begonia on the erhu — when a two-stringed Chinese fiddle meets Studio Ghibli-style animation, the result breaks cultural borders."
-youtubeId: "4CAFafOUyX0"
-coverImage: "https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg"
-channel: "Eliott Tordo Erhu Player"
-duration: "5:44"
+---
+title: 'When the Erhu Meets Big Fish & Begonia: A Frenchman''s Chinese Animation Odyssey'
+description: A Frenchman plays Big Fish & Begonia on the erhu — when a two-stringed
+  Chinese fiddle meets Studio Ghibli-style animation, the result breaks cultural borders.
+youtubeId: 4CAFafOUyX0
+coverImage: https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg
+channel: Eliott Tordo Erhu Player
+duration: '5:44'
 publishedAt: 2023-01-10
 lang: en
-tags: ["erhu", "chinese-music", "big-fish", "animation", "chinese-orchestra", "crossover", "paris"]
+tags:
+- erhu
+- chinese-music
+- big-fish
+- animation
+- chinese-orchestra
+- crossover
+- paris
 featured: true
 affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: 'Playing Erhu: Bridging the Gap'
+  asin: B0CP6V9473
+  url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
+  price: $35
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '665ee4fb-e683-4875-864c-f212af90e227'
-  PropagateID: '665ee4fb-e683-4875-864c-f212af90e227'
-  ReservedCode1: 'cd7bf671-2681-402d-a503-84e923c347d3'
-  ReservedCode2: 'cd7bf671-2681-402d-a503-84e923c347d3'
+  ProduceID: 665ee4fb-e683-4875-864c-f212af90e227
+  PropagateID: 665ee4fb-e683-4875-864c-f212af90e227
+  ReservedCode1: cd7bf671-2681-402d-a503-84e923c347d3
+  ReservedCode2: cd7bf671-2681-402d-a503-84e923c347d3
 ---
+
 
 ## A French Erhu in a Chinese Fairy Tale
 

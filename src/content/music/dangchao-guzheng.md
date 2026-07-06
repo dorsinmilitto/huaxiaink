@@ -1,36 +1,46 @@
-﻿---
-title: "This Guzheng Player Drops Beats Like a Rapper"
-description: "This guzheng player drops beats like a rapper — when the 2,500-year-old zither meets trap rhythms, Chinese tradition gets its wildest upgrade."
-youtubeId: "HSaJdXxn7zU"
-coverImage: "https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg"
-channel: "Moyun Official"
-duration: "3:38"
+---
+title: This Guzheng Player Drops Beats Like a Rapper
+description: This guzheng player drops beats like a rapper — when the 2,500-year-old
+  zither meets trap rhythms, Chinese tradition gets its wildest upgrade.
+youtubeId: HSaJdXxn7zU
+coverImage: https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg
+channel: Moyun Official
+duration: '3:38'
 publishedAt: 2021-11-20
 lang: en
-tags: ["guzheng", "chinese-music", "rap", "crossover", "tradition-meets-modern"]
+tags:
+- guzheng
+- chinese-music
+- rap
+- crossover
+- tradition-meets-modern
 featured: false
 affiliate:
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
-  - title: "Chinese Fairy Tales and Legends"
-    asin: "1912392151"
-    imageUrl: "https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg"
-    price: "$18"
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: Chinese Fairy Tales and Legends
+  asin: '1912392151'
+  imageUrl: https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg
+  price: $18
+  url: https://www.amazon.com/dp/1912392151?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'e91ce947-df0e-47c6-83ec-4664d5b4c87b'
-  PropagateID: 'e91ce947-df0e-47c6-83ec-4664d5b4c87b'
-  ReservedCode1: 'cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f'
-  ReservedCode2: 'cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f'
+  ProduceID: e91ce947-df0e-47c6-83ec-4664d5b4c87b
+  PropagateID: e91ce947-df0e-47c6-83ec-4664d5b4c87b
+  ReservedCode1: cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f
+  ReservedCode2: cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f
 ---
+
 
 ## The Guzheng Goes Hip-Hop
 

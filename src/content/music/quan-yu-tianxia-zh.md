@@ -1,36 +1,47 @@
-﻿---
-title: "当古筝与鼓拆掉虚拟歌姬的帝国"
-description: "古筝与鼓拆掉虚拟歌姬的帝国——当中国传统乐器演奏虚拟歌手名曲，真实与数字的辩论被点燃。"
-youtubeId: "IxM1tjTvFAc"
-coverImage: "https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg"
-channel: "Saberbutterfly"
-duration: "5:08"
+---
+title: 当古筝与鼓拆掉虚拟歌姬的帝国
+description: 古筝与鼓拆掉虚拟歌姬的帝国——当中国传统乐器演奏虚拟歌手名曲，真实与数字的辩论被点燃。
+youtubeId: IxM1tjTvFAc
+coverImage: https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg
+channel: Saberbutterfly
+duration: '5:08'
 publishedAt: 2015-07-15
 lang: zh
-tags: ["古筝", "鼓", "国乐", "洛天依", "三国", "汉服", "vocaloid"]
+tags:
+- 古筝
+- 鼓
+- 国乐
+- 洛天依
+- 三国
+- 汉服
+- vocaloid
 featured: false
 affiliate:
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
-  - title: "Chinese Fairy Tales and Legends"
-    asin: "1912392151"
-    imageUrl: "https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg"
-    price: "$18"
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
+- title: Chinese Fairy Tales and Legends
+  asin: '1912392151'
+  imageUrl: https://m.media-amazon.com/images/I/91zeRBSZ3sL._SY466_.jpg
+  price: $18
+  url: https://www.amazon.com/dp/1912392151?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '3b90dfd0-3629-4fd7-9757-200151febae3'
-  PropagateID: '3b90dfd0-3629-4fd7-9757-200151febae3'
-  ReservedCode1: '305b924b-27fc-41b2-8073-0a0875b72cc2'
-  ReservedCode2: '305b924b-27fc-41b2-8073-0a0875b72cc2'
+  ProduceID: 3b90dfd0-3629-4fd7-9757-200151febae3
+  PropagateID: 3b90dfd0-3629-4fd7-9757-200151febae3
+  ReservedCode1: 305b924b-27fc-41b2-8073-0a0875b72cc2
+  ReservedCode2: 305b924b-27fc-41b2-8073-0a0875b72cc2
 ---
+
 
 ## 电脑里诞生的歌，在古老弦上重生
 

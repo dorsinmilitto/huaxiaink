@@ -1,37 +1,48 @@
-﻿---
-title: "Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn"
-description: "Erhu, dizi, and guzheng revive the Shanghai Bund classic — three traditional instruments play the song that defined 1930s Shanghai's golden era."
-youtubeId: "2EhTnwxg9y4"
-coverImage: "https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg"
-channel: "Erhu Peiyao Live Music"
-duration: "3:08"
+---
+title: Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn
+description: Erhu, dizi, and guzheng revive the Shanghai Bund classic — three traditional
+  instruments play the song that defined 1930s Shanghai's golden era.
+youtubeId: 2EhTnwxg9y4
+coverImage: https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg
+channel: Erhu Peiyao Live Music
+duration: '3:08'
 publishedAt: 2023-06-10
 lang: en
-tags: ["erhu", "guzheng", "dizi", "chinese-music", "shanghai-bund", "live-performance", "classic"]
+tags:
+- erhu
+- guzheng
+- dizi
+- chinese-music
+- shanghai-bund
+- live-performance
+- classic
 featured: false
 affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "Standards of the Guqin"
-    asin: "0986622508"
-    imageUrl: "https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg"
-    price: "$33"
-  - title: "13PCS Chinese Calligraphy Brush Set"
-    asin: "B0FMQCS389"
-    imageUrl: "https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg"
-    price: "$12"
+- title: 'Playing Erhu: Bridging the Gap'
+  asin: B0CP6V9473
+  url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
+  price: $35
+- title: Standards of the Guqin
+  asin: 0986622508
+  imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._SY425_.jpg
+  price: $33
+  url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
+- title: 13PCS Chinese Calligraphy Brush Set
+  asin: B0FMQCS389
+  imageUrl: https://m.media-amazon.com/images/I/81MpXivyF9L._AC_SX466_.jpg
+  price: $12
+  url: https://www.amazon.com/dp/B0FMQCS389?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ed52ce78-7b3f-42d0-9710-74d36732519d'
-  PropagateID: 'ed52ce78-7b3f-42d0-9710-74d36732519d'
-  ReservedCode1: '8ff30b73-107a-43e7-8b74-afc9c0568ac4'
-  ReservedCode2: '8ff30b73-107a-43e7-8b74-afc9c0568ac4'
+  ProduceID: ed52ce78-7b3f-42d0-9710-74d36732519d
+  PropagateID: ed52ce78-7b3f-42d0-9710-74d36732519d
+  ReservedCode1: 8ff30b73-107a-43e7-8b74-afc9c0568ac4
+  ReservedCode2: 8ff30b73-107a-43e7-8b74-afc9c0568ac4
 ---
+
 
 ## A 1980s Hong Kong Anthem, Live in 2026
 

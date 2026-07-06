@@ -1,38 +1,46 @@
-﻿---
-title: "法国人用中国二胡，弹碎了日本动漫最催泪的旋律"
-description: "法国人用中国二胡弹碎了犬夜叉最催泪的旋律——当动漫情感遇上传统音色，文化桥梁就此搭建。"
-youtubeId: "lSCHU3kwrm8"
-coverImage: "https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg"
-channel: "Eliott Tordo 二胡演奏家"
-duration: "2:57"
+---
+title: 法国人用中国二胡，弹碎了日本动漫最催泪的旋律
+description: 法国人用中国二胡弹碎了犬夜叉最催泪的旋律——当动漫情感遇上传统音色，文化桥梁就此搭建。
+youtubeId: lSCHU3kwrm8
+coverImage: https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg
+channel: Eliott Tordo 二胡演奏家
+duration: '2:57'
 publishedAt: 2022-06-15
 lang: zh
-tags: ["二胡", "国乐", "犬夜叉", "动漫", "跨界", "法国音乐家"]
+tags:
+- 二胡
+- 国乐
+- 犬夜叉
+- 动漫
+- 跨界
+- 法国音乐家
 featured: true
 affiliate:
-  - title: "Playing Erhu: Bridging the Gap"
-    asin: "B0CP6V9473"
-    url: "https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg"
-    price: "$35"
-  - title: "How to Play Guzheng, the Chinese Zither: The Basic Skills"
-    asin: "1973409194"
-    imageUrl: "https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg"
-    price: "$9"
-  - title: "G Key Dizi Bamboo Flute"
-    asin: "B07DC4Z7XR"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg"
-    price: "$24"
+- title: 'Playing Erhu: Bridging the Gap'
+  asin: B0CP6V9473
+  url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
+  price: $35
+- title: 'How to Play Guzheng, the Chinese Zither: The Basic Skills'
+  asin: '1973409194'
+  imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
+  price: $9
+  url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
+- title: G Key Dizi Bamboo Flute
+  asin: B07DC4Z7XR
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_SX679_.jpg
+  price: $24
+  url: https://www.amazon.com/dp/B07DC4Z7XR?tag=huaxiaink-20
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc'
-  PropagateID: 'e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc'
-  ReservedCode1: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
-  ReservedCode2: '47a6c912-6389-4b7c-b187-6cac666d4bc8'
-
+  ProduceID: e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc
+  PropagateID: e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc
+  ReservedCode1: 47a6c912-6389-4b7c-b187-6cac666d4bc8
+  ReservedCode2: 47a6c912-6389-4b7c-b187-6cac666d4bc8
 ---
+
 
 ## 三种文化，一件乐器
 
