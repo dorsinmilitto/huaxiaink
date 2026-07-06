@@ -1,10 +1,18 @@
-﻿---
+---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'd2b60802-397a-48aa-bf80-4e334008736f'
+  PropagateID: 'd2b60802-397a-48aa-bf80-4e334008736f'
+  ReservedCode1: 'caf9ce1d-92a7-4494-bd20-8ef260acdfe4'
+  ReservedCode2: 'caf9ce1d-92a7-4494-bd20-8ef260acdfe4'
 title: "从李小龙到成龙：功夫电影如何征服世界"
 description: "功夫电影不仅是娱乐——它塑造了全世界对中国的认知。从邵氏片场到《黑客帝国》，银幕上武术的演变之路。"
-youtubeId: "rLzimapLjQ"
-coverImage: "https://i.ytimg.com/vi/rLzimapLjQ/hqdefault.jpg"
-channel: "Culture Trip"
-duration: "21:00"
+youtubeId: "I-Zzr50se_Q"
+coverImage: "https://i.ytimg.com/vi/I-Zzr50se_Q/hqdefault.jpg"
+channel: "SLICE Full Doc"
+duration: "46:00"
 publishedAt: 2024-01-20
 lang: zh
 tags: ["bruce-lee", "jackie-chan", "kung-fu-films", "shaw-brothers", "cinema", "hong-kong"]

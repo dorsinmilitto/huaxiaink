@@ -1,10 +1,18 @@
-﻿---
+---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'c9974391-e62c-44b6-b059-bea6aaf35ec9'
+  PropagateID: 'c9974391-e62c-44b6-b059-bea6aaf35ec9'
+  ReservedCode1: 'c9bbabcb-2916-469e-af03-3aa21791c1a3'
+  ReservedCode2: 'c9bbabcb-2916-469e-af03-3aa21791c1a3'
 title: "From Bruce Lee to Jackie Chan: How Kung Fu Films Conquered the World"
 description: "Kung fu cinema didn't just entertain — it shaped how the entire world sees China. From Shaw Brothers studios to The Matrix, the evolution of martial arts on screen."
-youtubeId: "rLzimapLjQ"
-coverImage: "https://i.ytimg.com/vi/rLzimapLjQ/hqdefault.jpg"
-channel: "Culture Trip"
-duration: "21:00"
+youtubeId: "I-Zzr50se_Q"
+coverImage: "https://i.ytimg.com/vi/I-Zzr50se_Q/hqdefault.jpg"
+channel: "SLICE Full Doc"
+duration: "46:00"
 publishedAt: 2024-01-20
 lang: en
 tags: ["bruce-lee", "jackie-chan", "kung-fu-films", "shaw-brothers", "cinema", "hong-kong"]
@@ -22,7 +30,7 @@ affiliate:
     price: "$6.04"
 ---
 
-## The Shaw Brothers and the Birth of Kung Fu Cinema
+## The Shaw Brothers## The Shaw Brothers and the Birth of Kung Fu Cinema
 
 The story of kung fu cinema begins not with a single film but with an entire studio system. Run Run Shaw and his brother Runme Shaw established Shaw Brothers Studio in Hong Kong in 1958, and over the following decades they built the most prolific and influential Chinese-language film production company in history. At its peak, Shaw Brothers operated a 46-acre studio complex in Clear Water Bay with permanent sets, its own laboratory, and a roster of contract actors, directors, and martial arts choreographers who worked in a factory-like production schedule.
 
