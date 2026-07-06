@@ -1,38 +1,55 @@
-﻿---
-title: "Saturation Rescue: How China Rewrites the Rules of Disaster Response"
-description: "How China's 'saturation rescue' doctrine deploys overwhelming resources to save lives in earthquakes — redefining disaster response worldwide."
-youtubeId: "AaXYmt6qrbM"
-coverImage: "https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg"
-channel: "Al Jazeera English"
-duration: "1:33"
+---
+title: 'Saturation Rescue: How China Rewrites the Rules of Disaster Response'
+description: How China's 'saturation rescue' doctrine deploys overwhelming resources
+  to save lives in earthquakes — redefining disaster response worldwide.
+youtubeId: AaXYmt6qrbM
+coverImage: https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg
+channel: Al Jazeera English
+duration: '1:33'
 publishedAt: 2025-01-07
 lang: en
-tags: ["earthquake", "rescue", "china", "disaster-response", "tibet", "qinghai", "saturation-rescue", "emergency"]
+tags:
+- earthquake
+- rescue
+- china
+- disaster-response
+- tibet
+- qinghai
+- saturation-rescue
+- emergency
 featured: true
 affiliate:
-  - title: "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake"
-    asin: "B09XGX9BV1"
-    url: "https://www.amazon.com/dp/B09XGX9BV1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg"
-    price: "$48.92"
-  - title: "RHINO RESCUE Survival First Aid Kit, Emergency Kit Molle Pouch IFAK Medical Kit for Vehicles Car Camping Backpacking"
-    asin: "B0C3QN376S"
-    url: "https://www.amazon.com/dp/B0C3QN376S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91xokf1QDKL._AC_UL640_.jpg"
-    price: "$39.79"
-  - title: "Survival Kit, First Aid Kit Survival Gear and Supplies Emergency Kit with Bug Out Bag Tactical Military Grade Molle IFAK for Earthquake"
-    asin: "B0CN2TYTV2"
-    url: "https://www.amazon.com/dp/B0CN2TYTV2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81AcvfhJ7YL._AC_UL640_.jpg"
-    price: "$35.94"
+- title: Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible
+    Bag and Emergency Tent, Emergency Kit for Earthquake
+  asin: B09XGX9BV1
+  url: https://www.amazon.com/dp/B09XGX9BV1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg
+  price: $48.92
+- title: RHINO RESCUE Survival First Aid Kit, Emergency Kit Molle Pouch IFAK Medical
+    Kit for Vehicles Car Camping Backpacking
+  asin: B0C3QN376S
+  url: https://www.amazon.com/dp/B0C3QN376S?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91xokf1QDKL._AC_UL640_.jpg
+  price: $39.79
+- title: Survival Kit, First Aid Kit Survival Gear and Supplies Emergency Kit with
+    Bug Out Bag Tactical Military Grade Molle IFAK for Earthquake
+  asin: B0CN2TYTV2
+  url: https://www.amazon.com/dp/B0CN2TYTV2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81AcvfhJ7YL._AC_UL640_.jpg
+  price: $35.94
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7df28179-14c0-4bff-9c6f-ac099d187e8f'
-  PropagateID: '7df28179-14c0-4bff-9c6f-ac099d187e8f'
-  ReservedCode1: '4a64fca3-46ff-4b55-90ab-4de40fec0e49'
-  ReservedCode2: '4a64fca3-46ff-4b55-90ab-4de40fec0e49'
+  ProduceID: 7df28179-14c0-4bff-9c6f-ac099d187e8f
+  PropagateID: 7df28179-14c0-4bff-9c6f-ac099d187e8f
+  ReservedCode1: 4a64fca3-46ff-4b55-90ab-4de40fec0e49
+  ReservedCode2: 4a64fca3-46ff-4b55-90ab-4de40fec0e49
 ---
 
 ## A Name the World Hadn't Heard Before

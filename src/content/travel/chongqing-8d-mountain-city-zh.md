@@ -1,38 +1,50 @@
-﻿---
-title: "重庆8D魔幻城：物理定律在这里失效"
-description: "重庆是8D魔幻城——轻轨穿楼、桥梁盖楼、屋顶当街，中国赛博朋克山城让物理定律失效。"
-youtubeId: "IbnSuon2nrI"
-coverImage: "https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg"
-channel: "CoolVision"
-duration: "1:00"
+---
+title: 重庆8D魔幻城：物理定律在这里失效
+description: 重庆是8D魔幻城——轻轨穿楼、桥梁盖楼、屋顶当街，中国赛博朋克山城让物理定律失效。
+youtubeId: IbnSuon2nrI
+coverImage: https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg
+channel: CoolVision
+duration: '1:00'
 publishedAt: 2025-06-01
 lang: zh
-tags: ["重庆", "8d城市", "赛博朋克", "山城", "垂直城市", "中国建筑", "魔幻城市"]
+tags:
+- 重庆
+- 8d城市
+- 赛博朋克
+- 山城
+- 垂直城市
+- 中国建筑
+- 魔幻城市
 featured: true
 affiliate:
-  - title: "Lonely Planet China Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "LOVEVOOK 40L Travel Backpack"
-    asin: "B0CJY9LHK4"
-    url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg"
-    price: "$34.18"
-  - title: "coowoz Travel Backpack Waterproof"
-    asin: "B0B426KSXP"
-    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
-    price: "$23.99"
+- title: Lonely Planet China Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: LOVEVOOK 40L Travel Backpack
+  asin: B0CJY9LHK4
+  url: https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg
+  price: $34.18
+- title: coowoz Travel Backpack Waterproof
+  asin: B0B426KSXP
+  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
+  price: $23.99
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '4f460647-c894-4ea1-ab85-ad54fcbf1b7a'
-  PropagateID: '4f460647-c894-4ea1-ab85-ad54fcbf1b7a'
-  ReservedCode1: '2c1177cf-397c-4684-a5ac-8fecc2a0500e'
-  ReservedCode2: '2c1177cf-397c-4684-a5ac-8fecc2a0500e'
+  ProduceID: 4f460647-c894-4ea1-ab85-ad54fcbf1b7a
+  PropagateID: 4f460647-c894-4ea1-ab85-ad54fcbf1b7a
+  ReservedCode1: 2c1177cf-397c-4684-a5ac-8fecc2a0500e
+  ReservedCode2: 2c1177cf-397c-4684-a5ac-8fecc2a0500e
 ---
 
 ## 3200万人，你可能从没听说过

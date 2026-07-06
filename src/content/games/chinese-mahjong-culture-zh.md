@@ -1,38 +1,49 @@
-﻿---
-title: "麻将——塑造中国人社交生活的国粹"
-description: "麻将塑造了中国人的社交生活——从清代沙龙到家庭客厅，150年来一直在洗牌人际关系。"
-youtubeId: "qpYF-xmNMew"
-coverImage: "https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg"
-channel: "South China Morning Post"
-duration: "2:30"
+---
+title: 麻将——塑造中国人社交生活的国粹
+description: 麻将塑造了中国人的社交生活——从清代沙龙到家庭客厅，150年来一直在洗牌人际关系。
+youtubeId: qpYF-xmNMew
+coverImage: https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg
+channel: South China Morning Post
+duration: '2:30'
 publishedAt: 2019-05-15
 lang: zh
-tags: ["麻将", "中国游戏", "桌游", "社交传统", "国粹", "中国文化"]
+tags:
+- 麻将
+- 中国游戏
+- 桌游
+- 社交传统
+- 国粹
+- 中国文化
 featured: true
 affiliate:
-  - title: "Professional Traditional Chinese Mahjong Set 30mm 146 Tiles"
-    asin: "B0FSCCNFP7"
-    url: "https://www.amazon.com/dp/B0FSCCNFP7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61AznRNR0QL._AC_UL640_.jpg"
-    price: "$31.99"
-  - title: "Mahjong Tile Set 146pcs with Storage Box"
-    asin: "B0FGWP4N74"
-    url: "https://www.amazon.com/dp/B0FGWP4N74?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ZqP6sf4WL._AC_UL640_.jpg"
-    price: "$49.99"
-  - title: "Souped Up Recipes Carbon Steel Wok 10 Inch"
-    asin: "B0F2FP917T"
-    url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
-    price: "$23.79"
+- title: Professional Traditional Chinese Mahjong Set 30mm 146 Tiles
+  asin: B0FSCCNFP7
+  url: https://www.amazon.com/dp/B0FSCCNFP7?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61AznRNR0QL._AC_UL640_.jpg
+  price: $31.99
+- title: Mahjong Tile Set 146pcs with Storage Box
+  asin: B0FGWP4N74
+  url: https://www.amazon.com/dp/B0FGWP4N74?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ZqP6sf4WL._AC_UL640_.jpg
+  price: $49.99
+- title: Souped Up Recipes Carbon Steel Wok 10 Inch
+  asin: B0F2FP917T
+  url: https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg
+  price: $23.79
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f29c67ff-7f07-43dd-9bec-a6c8932f9bc1'
-  PropagateID: 'f29c67ff-7f07-43dd-9bec-a6c8932f9bc1'
-  ReservedCode1: 'fdec90b5-f5b6-4539-b0ec-ad90e9e23c54'
-  ReservedCode2: 'fdec90b5-f5b6-4539-b0ec-ad90e9e23c54'
+  ProduceID: f29c67ff-7f07-43dd-9bec-a6c8932f9bc1
+  PropagateID: f29c67ff-7f07-43dd-9bec-a6c8932f9bc1
+  ReservedCode1: fdec90b5-f5b6-4539-b0ec-ad90e9e23c54
+  ReservedCode2: fdec90b5-f5b6-4539-b0ec-ad90e9e23c54
 ---
 
 ## 那个声音，刻在中国人骨子里

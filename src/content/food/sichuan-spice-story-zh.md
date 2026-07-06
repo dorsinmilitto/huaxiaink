@@ -1,38 +1,49 @@
-﻿---
-title: "川辣传奇：一个省份如何把痛苦熬成哲学"
-description: "四川把痛苦熬成哲学——麻唇的花椒和灼舌的辣椒，塑造了数十亿人追捧的川菜之魂。"
-youtubeId: "e0mW5CJWHWk"
-coverImage: "https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg"
-channel: "Food Ranger"
-duration: "15:42"
+---
+title: 川辣传奇：一个省份如何把痛苦熬成哲学
+description: 四川把痛苦熬成哲学——麻唇的花椒和灼舌的辣椒，塑造了数十亿人追捧的川菜之魂。
+youtubeId: e0mW5CJWHWk
+coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
+channel: Food Ranger
+duration: '15:42'
 publishedAt: 2024-07-05
 lang: zh
-tags: ["川菜", "辣椒", "麻辣", "四川", "火锅", "中国美食"]
+tags:
+- 川菜
+- 辣椒
+- 麻辣
+- 四川
+- 火锅
+- 中国美食
 featured: false
 affiliate:
-  - title: "13.5 inch Carbon Steel Wok Pan"
-    asin: "B0FMJW45CF"
-    url: "https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg"
-    price: "$51.48"
-  - title: "Amazon Basics Carbon Steel Pre-Seasoned Wok"
-    asin: "B0F183GV33"
-    url: "https://www.amazon.com/dp/B0F183GV33?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg"
-    price: "$31.49"
-  - title: "Zoie+Chloe Bamboo Steamer Basket"
-    asin: "B00WQR9N1M"
-    url: "https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 13.5 inch Carbon Steel Wok Pan
+  asin: B0FMJW45CF
+  url: https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg
+  price: $51.48
+- title: Amazon Basics Carbon Steel Pre-Seasoned Wok
+  asin: B0F183GV33
+  url: https://www.amazon.com/dp/B0F183GV33?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg
+  price: $31.49
+- title: Zoie+Chloe Bamboo Steamer Basket
+  asin: B00WQR9N1M
+  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'dfa91348-195d-4865-89c9-89f2e75b2703'
-  PropagateID: 'dfa91348-195d-4865-89c9-89f2e75b2703'
-  ReservedCode1: '4f990514-0c18-4d99-ae72-d5cafdcdf22f'
-  ReservedCode2: '4f990514-0c18-4d99-ae72-d5cafdcdf22f'
+  ProduceID: dfa91348-195d-4865-89c9-89f2e75b2703
+  PropagateID: dfa91348-195d-4865-89c9-89f2e75b2703
+  ReservedCode1: 4f990514-0c18-4d99-ae72-d5cafdcdf22f
+  ReservedCode2: 4f990514-0c18-4d99-ae72-d5cafdcdf22f
 ---
 
 ## 缺什么，补什么，补到全世界都认你

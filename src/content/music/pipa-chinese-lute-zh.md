@@ -1,39 +1,50 @@
-﻿---
-title: "琵琶：大珠小珠落玉盘的千年绝响"
-description: "琵琶教会中国用声音讲故事——四根弦、两千年，五指齐拨的瀑布音效震撼至今。"
-youtubeId: "M4Ye7AisnFM"
-coverImage: "https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg"
-channel: "Musical Moments - East"
-duration: "8:51"
+---
+title: 琵琶：大珠小珠落玉盘的千年绝响
+description: 琵琶教会中国用声音讲故事——四根弦、两千年，五指齐拨的瀑布音效震撼至今。
+youtubeId: M4Ye7AisnFM
+coverImage: https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg
+channel: Musical Moments - East
+duration: '8:51'
 publishedAt: 2021-11-15
 lang: zh
-tags: ["琵琶", "中国乐器", "古典音乐", "民乐", "白居易", "传统音乐"]
+tags:
+- 琵琶
+- 中国乐器
+- 古典音乐
+- 民乐
+- 白居易
+- 传统音乐
 featured: false
 affiliate:
-  - title: "LANDTOM Professional Chinese Lute Traditional National Stringed Instrument PiPa"
-    asin: "B085MFNYMN"
-    url: "https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg"
-    price: "$159.99"
-  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
-    asin: "B0CQN9TVWD"
-    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model"
-    asin: "B09835Z8DS"
-    url: "https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51nOP9rUqUL._AC_UL640_.jpg"
-    price: "$15.99"
+- title: LANDTOM Professional Chinese Lute Traditional National Stringed Instrument
+    PiPa
+  asin: B085MFNYMN
+  url: https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg
+  price: $159.99
+- title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'
+  asin: B0CQN9TVWD
+  url: https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg
+  price: $9.99
+- title: Amosfun Chinese Lute Prop, Kids Toy Guitar Pipa Instrument Model
+  asin: B09835Z8DS
+  url: https://www.amazon.com/dp/B09835Z8DS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51nOP9rUqUL._AC_UL640_.jpg
+  price: $15.99
+- asin: B0GYCXY8TD
+  title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
+  url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c43cced4-42a1-43bf-b6a2-2419264b17f3'
-  PropagateID: 'c43cced4-42a1-43bf-b6a2-2419264b17f3'
-  ReservedCode1: '78f476a6-fa80-4157-83e5-f3c57de3e956'
-  ReservedCode2: '78f476a6-fa80-4157-83e5-f3c57de3e956'
-
+  ProduceID: c43cced4-42a1-43bf-b6a2-2419264b17f3
+  PropagateID: c43cced4-42a1-43bf-b6a2-2419264b17f3
+  ReservedCode1: 78f476a6-fa80-4157-83e5-f3c57de3e956
+  ReservedCode2: 78f476a6-fa80-4157-83e5-f3c57de3e956
 ---
 
 ## 弦起千年：琵琶的前世今生

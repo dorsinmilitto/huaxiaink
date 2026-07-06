@@ -1,25 +1,38 @@
-﻿---
-title: "Wing Chun: The Art of the Wooden Dummy"
-description: "Wing Chun's wooden dummy form, made famous by Ip Man and Bruce Lee, teaches center-line theory and inch-power. Discover the 108 movements that define close-range combat."
-youtubeId: "DgG-ttflBNU"
-coverImage: "https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg"
-channel: "Kung Fu & Tai Chi Center w/ Jake Mace"
-duration: "6:07"
+---
+title: 'Wing Chun: The Art of the Wooden Dummy'
+description: Wing Chun's wooden dummy form, made famous by Ip Man and Bruce Lee, teaches
+  center-line theory and inch-power. Discover the 108 movements that define close-range
+  combat.
+youtubeId: DgG-ttflBNU
+coverImage: https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg
+channel: Kung Fu & Tai Chi Center w/ Jake Mace
+duration: '6:07'
 publishedAt: 2024-05-20
 lang: en
-tags: ["wing-chun", "kung-fu", "martial-arts", "wooden-dummy", "ip-man", "bruce-lee"]
+tags:
+- wing-chun
+- kung-fu
+- martial-arts
+- wooden-dummy
+- ip-man
+- bruce-lee
 featured: true
 affiliate:
-  - asin: "B086PLXSXY"
-    title: "Wing Chun Wooden Dummy"
-    url: "https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg"
-    price: "$15.99"
-  - asin: "1933901764"
-    title: "Wing Chun Wooden Dummy Book"
-    url: "https://www.amazon.com/dp/1933901764?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg"
-    price: "$29.25"
+- asin: B086PLXSXY
+  title: Wing Chun Wooden Dummy
+  url: https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg
+  price: $15.99
+- asin: '1933901764'
+  title: Wing Chun Wooden Dummy Book
+  url: https://www.amazon.com/dp/1933901764?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg
+  price: $29.25
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## The Legend of Ng Mui and the Birth of Wing Chun

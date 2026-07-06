@@ -1,38 +1,50 @@
-﻿---
-title: "Lantern Festival — China's Original Night of a Thousand Lights"
-description: "Before Valentine's Day, China had the Lantern Festival — a night of a thousand lights where lovers once met under riddle-lit lanterns 2,000 years ago."
-youtubeId: "kFQKWYGZNlE"
-coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
-channel: "CGTN"
-duration: "24:30"
+---
+title: Lantern Festival — China's Original Night of a Thousand Lights
+description: Before Valentine's Day, China had the Lantern Festival — a night of a
+  thousand lights where lovers once met under riddle-lit lanterns 2,000 years ago.
+youtubeId: kFQKWYGZNlE
+coverImage: https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg
+channel: CGTN
+duration: '24:30'
 publishedAt: 2024-02-24
 lang: en
-tags: ["lantern-festival", "yuanxiao", "tangyuan", "chinese-lantern", "riddle", "first-full-moon"]
+tags:
+- lantern-festival
+- yuanxiao
+- tangyuan
+- chinese-lantern
+- riddle
+- first-full-moon
 featured: false
 affiliate:
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
-  - title: "Paper Lanterns Party Decorations"
-    asin: "B0D5GRT48T"
-    url: "https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Mooncake Mould Press with 11 Stamps"
-    asin: "B097BFJXP5"
-    url: "https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg"
-    price: "$15.99"
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- title: Paper Lanterns Party Decorations
+  asin: B0D5GRT48T
+  url: https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg
+  price: $15.99
+- title: Mooncake Mould Press with 11 Stamps
+  asin: B097BFJXP5
+  url: https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg
+  price: $15.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '008ecd78-71df-4630-bad1-2b1c4deca059'
-  PropagateID: '008ecd78-71df-4630-bad1-2b1c4deca059'
-  ReservedCode1: '0d8d867a-80fa-42db-91a8-55209066ae9d'
-  ReservedCode2: '0d8d867a-80fa-42db-91a8-55209066ae9d'
+  ProduceID: 008ecd78-71df-4630-bad1-2b1c4deca059
+  PropagateID: 008ecd78-71df-4630-bad1-2b1c4deca059
+  ReservedCode1: 0d8d867a-80fa-42db-91a8-55209066ae9d
+  ReservedCode2: 0d8d867a-80fa-42db-91a8-55209066ae9d
 ---
 
 ## The Night China Invented the Spectacle

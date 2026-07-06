@@ -1,38 +1,50 @@
-﻿---
-title: "黑神话：悟空——一款中国游戏如何让全世界开始读西游记"
-description: "黑神话：悟空让全世界开始读西游记——一款中国3A游戏如何卖出1500万份，把孙悟空推上世界舞台。"
-youtubeId: "rQW2C4iQwTQ"
-coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
-channel: "NeddyTheNoodle"
-duration: "1:03:50"
+---
+title: 黑神话：悟空——一款中国游戏如何让全世界开始读西游记
+description: 黑神话：悟空让全世界开始读西游记——一款中国3A游戏如何卖出1500万份，把孙悟空推上世界舞台。
+youtubeId: rQW2C4iQwTQ
+coverImage: https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg
+channel: NeddyTheNoodle
+duration: '1:03:50'
 publishedAt: 2024-09-20
 lang: zh
-tags: ["黑神话悟空", "中国游戏", "西游记", "孙悟空", "神话", "游戏科学", "文化出海"]
+tags:
+- 黑神话悟空
+- 中国游戏
+- 西游记
+- 孙悟空
+- 神话
+- 游戏科学
+- 文化出海
 featured: true
 affiliate:
-  - title: "Black Myth: Wukong - PlayStation 5"
-    asin: "B0DKFX8THB"
-    url: "https://www.amazon.com/dp/B0DKFX8THB?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/718+3ZWokmL._SY300_.jpg"
-    price: "$58.90"
-  - title: "Journey to the West (Chinese Classics, Classic Novel in 4 Volumes)"
-    asin: "7119016636"
-    url: "https://www.amazon.com/dp/7119016636?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/619AGDYz4vL._SY300_.jpg"
-    price: "$30.99"
-  - title: "Monkey King: Journey to the West"
-    asin: "0143138936"
-    url: "https://www.amazon.com/dp/0143138936?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81NazOhl93L._SY300_.jpg"
-    price: "$18.00"
+- title: 'Black Myth: Wukong - PlayStation 5'
+  asin: B0DKFX8THB
+  url: https://www.amazon.com/dp/B0DKFX8THB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/718+3ZWokmL._SY300_.jpg
+  price: $58.90
+- title: Journey to the West (Chinese Classics, Classic Novel in 4 Volumes)
+  asin: '7119016636'
+  url: https://www.amazon.com/dp/7119016636?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/619AGDYz4vL._SY300_.jpg
+  price: $30.99
+- title: 'Monkey King: Journey to the West'
+  asin: 0143138936
+  url: https://www.amazon.com/dp/0143138936?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81NazOhl93L._SY300_.jpg
+  price: $18.00
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'eeb27ded-0ec5-4673-af57-f428b1089a72'
-  PropagateID: 'eeb27ded-0ec5-4673-af57-f428b1089a72'
-  ReservedCode1: 'fc572f79-31dd-4143-af1d-33ddc2a0adb4'
-  ReservedCode2: 'fc572f79-31dd-4143-af1d-33ddc2a0adb4'
+  ProduceID: eeb27ded-0ec5-4673-af57-f428b1089a72
+  PropagateID: eeb27ded-0ec5-4673-af57-f428b1089a72
+  ReservedCode1: fc572f79-31dd-4143-af1d-33ddc2a0adb4
+  ReservedCode2: fc572f79-31dd-4143-af1d-33ddc2a0adb4
 ---
 
 ## 让全世界开始搜索"西游记"的游戏

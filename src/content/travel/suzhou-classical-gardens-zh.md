@@ -31,6 +31,11 @@ affiliate:
   url: https://www.amazon.com/dp/7541049530?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71Q9weVsRvL._AC_UY218_.jpg
   price: $15.00
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002

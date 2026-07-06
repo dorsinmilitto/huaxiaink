@@ -1,39 +1,50 @@
-﻿---
-title: "漓江：山水甲天下的千年画卷"
-description: "漓江是山水画活过来的地方——桂林喀斯特峰林、竹筏、薄雾，一千五百年来不断激发诗人灵感。"
-youtubeId: "EIrV9JX5_mA"
-coverImage: "https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg"
-channel: "TRACKS - Travel Documentaries"
-duration: "46:08"
+---
+title: 漓江：山水甲天下的千年画卷
+description: 漓江是山水画活过来的地方——桂林喀斯特峰林、竹筏、薄雾，一千五百年来不断激发诗人灵感。
+youtubeId: EIrV9JX5_mA
+coverImage: https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg
+channel: TRACKS - Travel Documentaries
+duration: '46:08'
 publishedAt: 2019-09-12
 lang: zh
-tags: ["漓江", "桂林", "山水", "喀斯特", "中国旅游", "阳朔", "广西"]
+tags:
+- 漓江
+- 桂林
+- 山水
+- 喀斯特
+- 中国旅游
+- 阳朔
+- 广西
 featured: false
 affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "National Geographic China Adventure Map - Waterproof Tear-Resistant"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$24.97"
+- title: Lonely Planet China Travel Guide - Comprehensive 2024 Edition
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: National Geographic China Adventure Map - Waterproof Tear-Resistant
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $28.99
+- title: China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $24.97
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd6233ad7-c996-4105-94eb-607376301ed8'
-  PropagateID: 'd6233ad7-c996-4105-94eb-607376301ed8'
-  ReservedCode1: 'df445717-f3f5-454d-8ca3-03d136585cad'
-  ReservedCode2: 'df445717-f3f5-454d-8ca3-03d136585cad'
-
+  ProduceID: d6233ad7-c996-4105-94eb-607376301ed8
+  PropagateID: d6233ad7-c996-4105-94eb-607376301ed8
+  ReservedCode1: df445717-f3f5-454d-8ca3-03d136585cad
+  ReservedCode2: df445717-f3f5-454d-8ca3-03d136585cad
 ---
 
 ## 千年水墨的诞生

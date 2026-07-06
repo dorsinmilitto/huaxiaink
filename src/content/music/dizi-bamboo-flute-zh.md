@@ -1,38 +1,51 @@
-﻿---
-title: "笛子：一根竹管吹出的山水长卷"
-description: "笛子——一根竹管六个孔，吹出中国山水——八千年来用声音画风景的竹笛。"
-youtubeId: "lI1L2l6vi-4"
-coverImage: "https://i.ytimg.com/vi/lI1L2l6vi-4/hqdefault.jpg"
-channel: "Musical Moments - East"
-duration: "7:22"
+---
+title: 笛子：一根竹管吹出的山水长卷
+description: 笛子——一根竹管六个孔，吹出中国山水——八千年来用声音画风景的竹笛。
+youtubeId: lI1L2l6vi-4
+coverImage: https://i.ytimg.com/vi/lI1L2l6vi-4/hqdefault.jpg
+channel: Musical Moments - East
+duration: '7:22'
 publishedAt: 2022-01-15
 lang: zh
-tags: ["笛子", "竹笛", "中国乐器", "传统音乐", "吹奏乐器", "洞箫"]
+tags:
+- 笛子
+- 竹笛
+- 中国乐器
+- 传统音乐
+- 吹奏乐器
+- 洞箫
 featured: false
 affiliate:
-  - title: "C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue Set"
-    asin: "B07KXBJHWF"
-    url: "https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg"
-    price: "$25.99"
-  - title: "Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key D"
-    asin: "B08HQ9ML9R"
-    url: "https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg"
-    price: "$19.99"
-  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
-    asin: "B0CQN9TVWD"
-    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
-    price: "$9.99"
+- title: C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue
+    Set
+  asin: B07KXBJHWF
+  url: https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg
+  price: $25.99
+- title: Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key
+    D
+  asin: B08HQ9ML9R
+  url: https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg
+  price: $19.99
+- title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'
+  asin: B0CQN9TVWD
+  url: https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg
+  price: $9.99
+- asin: B0GYCXY8TD
+  title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
+  url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'b08e6176-04e2-47b1-91ce-02ede61327c7'
-  PropagateID: 'b08e6176-04e2-47b1-91ce-02ede61327c7'
-  ReservedCode1: '5f949f41-3569-49ba-b8da-73468026f5f6'
-  ReservedCode2: '5f949f41-3569-49ba-b8da-73468026f5f6'
+  ProduceID: b08e6176-04e2-47b1-91ce-02ede61327c7
+  PropagateID: b08e6176-04e2-47b1-91ce-02ede61327c7
+  ReservedCode1: 5f949f41-3569-49ba-b8da-73468026f5f6
+  ReservedCode2: 5f949f41-3569-49ba-b8da-73468026f5f6
 ---
 
 ## 竹声溯源：笛子的古老身世

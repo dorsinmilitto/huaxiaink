@@ -1,38 +1,49 @@
-﻿---
-title: "春节习俗：十五天的重生仪式"
-description: "从年夜饭到元宵灯会，探索春节十五天的完整仪式——全球最大规模年度人口迁徙与庆典背后的文化密码。"
-youtubeId: "r4Ql5MsSBT4"
-coverImage: "https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg"
-channel: "CGTN"
-duration: "25:31"
+---
+title: 春节习俗：十五天的重生仪式
+description: 从年夜饭到元宵灯会，探索春节十五天的完整仪式——全球最大规模年度人口迁徙与庆典背后的文化密码。
+youtubeId: r4Ql5MsSBT4
+coverImage: https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg
+channel: CGTN
+duration: '25:31'
 publishedAt: 2024-02-05
 lang: zh
-tags: ["春节", "传统习俗", "红包", "年夜饭", "鞭炮", "春联"]
+tags:
+- 春节
+- 传统习俗
+- 红包
+- 年夜饭
+- 鞭炮
+- 春联
 featured: false
 affiliate:
-  - title: "13 PCS 3D Chinese Paper Dragon Decorations"
-    asin: "B0BFGWGGKY"
-    url: "https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg"
-    price: "$19.99"
-  - title: "Whaline 3D Dragon Ceiling Decorations 21Pcs"
-    asin: "B0BJCHM49S"
-    url: "https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71maE-lBM5L._AC_UL640_.jpg"
-    price: "$15.49"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 13 PCS 3D Chinese Paper Dragon Decorations
+  asin: B0BFGWGGKY
+  url: https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg
+  price: $19.99
+- title: Whaline 3D Dragon Ceiling Decorations 21Pcs
+  asin: B0BJCHM49S
+  url: https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71maE-lBM5L._AC_UL640_.jpg
+  price: $15.49
+- title: I-MART Chinese Calligraphy Set
+  asin: B074FL5D9X
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'a9512913-ff2f-478c-9424-93975bc88fe1'
-  PropagateID: 'a9512913-ff2f-478c-9424-93975bc88fe1'
-  ReservedCode1: '38497ad8-6f3e-4426-8fa2-bbec335cc5ad'
-  ReservedCode2: '38497ad8-6f3e-4426-8fa2-bbec335cc5ad'
+  ProduceID: a9512913-ff2f-478c-9424-93975bc88fe1
+  PropagateID: a9512913-ff2f-478c-9424-93975bc88fe1
+  ReservedCode1: 38497ad8-6f3e-4426-8fa2-bbec335cc5ad
+  ReservedCode2: 38497ad8-6f3e-4426-8fa2-bbec335cc5ad
 ---
 
 ## 不是一天，是一个赛季

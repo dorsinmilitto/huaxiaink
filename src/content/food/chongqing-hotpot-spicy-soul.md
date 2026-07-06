@@ -1,38 +1,51 @@
-﻿---
-title: "Chongqing Hotpot: The Spicy Soul of China's Mountain City"
-description: "Chongqing hotpot drowns everything in numbing chili oil — discover how a码头 workers' meal became the fiery soul of China's mountain city."
-youtubeId: "EewnoXvCzgE"
-coverImage: "https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg"
-channel: "Best Ever Food Review Show"
-duration: "25:35"
+---
+title: 'Chongqing Hotpot: The Spicy Soul of China''s Mountain City'
+description: Chongqing hotpot drowns everything in numbing chili oil — discover how
+  a码头 workers' meal became the fiery soul of China's mountain city.
+youtubeId: EewnoXvCzgE
+coverImage: https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg
+channel: Best Ever Food Review Show
+duration: '25:35'
 publishedAt: 2025-06-01
 lang: en
-tags: ["chongqing", "hotpot", "sichuan-pepper", "chinese-food", "spicy", "food-culture", "mala"]
+tags:
+- chongqing
+- hotpot
+- sichuan-pepper
+- chinese-food
+- spicy
+- food-culture
+- mala
 featured: false
 affiliate:
-  - title: "Little Sheep Hot Pot Soup Base (Hot) Pack of 5"
-    asin: "B004XY6IPK"
-    url: "https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg"
-    price: "$39.99"
-  - title: "Teewe Carbon Steel Wok 13 Inch with Lid"
-    asin: "B0CWS6XHJJ"
-    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
-    price: "$27.04"
-  - title: "Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch"
-    asin: "B00PUZT9MU"
-    url: "https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg"
-    price: "$51.75"
+- title: Little Sheep Hot Pot Soup Base (Hot) Pack of 5
+  asin: B004XY6IPK
+  url: https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg
+  price: $39.99
+- title: Teewe Carbon Steel Wok 13 Inch with Lid
+  asin: B0CWS6XHJJ
+  url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
+  price: $27.04
+- title: Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch
+  asin: B00PUZT9MU
+  url: https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg
+  price: $51.75
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c6800295-9915-4023-990d-a3030a0064ef'
-  PropagateID: 'c6800295-9915-4023-990d-a3030a0064ef'
-  ReservedCode1: '41bc6ab8-a877-4a96-8ff5-743750b869ea'
-  ReservedCode2: '41bc6ab8-a877-4a96-8ff5-743750b869ea'
+  ProduceID: c6800295-9915-4023-990d-a3030a0064ef
+  PropagateID: c6800295-9915-4023-990d-a3030a0064ef
+  ReservedCode1: 41bc6ab8-a877-4a96-8ff5-743750b869ea
+  ReservedCode2: 41bc6ab8-a877-4a96-8ff5-743750b869ea
 ---
 
 ## A Cauldron in the Fog

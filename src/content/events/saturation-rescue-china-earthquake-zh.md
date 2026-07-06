@@ -1,38 +1,54 @@
-﻿---
-title: "饱和式救援：中国如何改写灾难响应的规则"
-description: "饱和式救援如何以压倒性资源投入拯救地震生命——中国改写全球灾难响应规则的壮举。"
-youtubeId: "AaXYmt6qrbM"
-coverImage: "https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg"
-channel: "Al Jazeera English"
-duration: "1:33"
+---
+title: 饱和式救援：中国如何改写灾难响应的规则
+description: 饱和式救援如何以压倒性资源投入拯救地震生命——中国改写全球灾难响应规则的壮举。
+youtubeId: AaXYmt6qrbM
+coverImage: https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg
+channel: Al Jazeera English
+duration: '1:33'
 publishedAt: 2025-01-07
 lang: zh
-tags: ["地震", "救援", "中国", "灾难响应", "西藏", "青海", "饱和式救援", "应急"]
+tags:
+- 地震
+- 救援
+- 中国
+- 灾难响应
+- 西藏
+- 青海
+- 饱和式救援
+- 应急
 featured: true
 affiliate:
-  - title: "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake"
-    asin: "B09XGX9BV1"
-    url: "https://www.amazon.com/dp/B09XGX9BV1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg"
-    price: "$48.92"
-  - title: "RHINO RESCUE Survival First Aid Kit, Emergency Kit Molle Pouch IFAK Medical Kit for Vehicles Car Camping Backpacking"
-    asin: "B0C3QN376S"
-    url: "https://www.amazon.com/dp/B0C3QN376S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91xokf1QDKL._AC_UL640_.jpg"
-    price: "$39.79"
-  - title: "Survival Kit, First Aid Kit Survival Gear and Supplies Emergency Kit with Bug Out Bag Tactical Military Grade Molle IFAK for Earthquake"
-    asin: "B0CN2TYTV2"
-    url: "https://www.amazon.com/dp/B0CN2TYTV2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81AcvfhJ7YL._AC_UL640_.jpg"
-    price: "$35.94"
+- title: Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible
+    Bag and Emergency Tent, Emergency Kit for Earthquake
+  asin: B09XGX9BV1
+  url: https://www.amazon.com/dp/B09XGX9BV1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81uxZ+WltVL._AC_UL640_.jpg
+  price: $48.92
+- title: RHINO RESCUE Survival First Aid Kit, Emergency Kit Molle Pouch IFAK Medical
+    Kit for Vehicles Car Camping Backpacking
+  asin: B0C3QN376S
+  url: https://www.amazon.com/dp/B0C3QN376S?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91xokf1QDKL._AC_UL640_.jpg
+  price: $39.79
+- title: Survival Kit, First Aid Kit Survival Gear and Supplies Emergency Kit with
+    Bug Out Bag Tactical Military Grade Molle IFAK for Earthquake
+  asin: B0CN2TYTV2
+  url: https://www.amazon.com/dp/B0CN2TYTV2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81AcvfhJ7YL._AC_UL640_.jpg
+  price: $35.94
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '6f877645-89e3-44fb-b54f-e40900c67f00'
-  PropagateID: '6f877645-89e3-44fb-b54f-e40900c67f00'
-  ReservedCode1: '5fefb3bc-e052-4658-b948-d9dd266761f0'
-  ReservedCode2: '5fefb3bc-e052-4658-b948-d9dd266761f0'
+  ProduceID: 6f877645-89e3-44fb-b54f-e40900c67f00
+  PropagateID: 6f877645-89e3-44fb-b54f-e40900c67f00
+  ReservedCode1: 5fefb3bc-e052-4658-b948-d9dd266761f0
+  ReservedCode2: 5fefb3bc-e052-4658-b948-d9dd266761f0
 ---
 
 ## 一个世界从未听过的名字

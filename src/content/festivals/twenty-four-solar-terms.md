@@ -1,38 +1,52 @@
-﻿---
-title: "The 24 Solar Terms: The Calendar System That Taught Farmers Everything"
-description: "The 24 Solar Terms taught Chinese farmers when to plant, harvest, and celebrate — a UNESCO-listed calendar system born from 4,000 years of sky-watching."
-youtubeId: "qTrd010vMp8"
-coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
-channel: "UNESCO"
-duration: "10:00"
+---
+title: 'The 24 Solar Terms: The Calendar System That Taught Farmers Everything'
+description: The 24 Solar Terms taught Chinese farmers when to plant, harvest, and
+  celebrate — a UNESCO-listed calendar system born from 4,000 years of sky-watching.
+youtubeId: qTrd010vMp8
+coverImage: https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg
+channel: UNESCO
+duration: '10:00'
 publishedAt: 2016-11-30
 lang: en
-tags: ["solar-terms", "24-jieqi", "chinese-calendar", "agriculture", "unesco-heritage", "lunisolar", "traditional-wisdom"]
+tags:
+- solar-terms
+- 24-jieqi
+- chinese-calendar
+- agriculture
+- unesco-heritage
+- lunisolar
+- traditional-wisdom
 featured: false
 affiliate:
-  - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
-    asin: "B0FHLTCL98"
-    url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "24 Solar Terms of China (2nd Edition) (Chinese Edition)"
-    asin: "B00BP0ILA0"
-    url: "https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "The Tao of Tea Oolong Tea Sampler, 3-Count Box"
-    asin: "B004NP1I40"
-    url: "https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg"
-    price: "$12.99"
+- title: 'The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature
+    Almanac'
+  asin: B0FHLTCL98
+  url: https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg
+  price: $9.99
+- title: 24 Solar Terms of China (2nd Edition) (Chinese Edition)
+  asin: B00BP0ILA0
+  url: https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg
+  price: $15.99
+- title: The Tao of Tea Oolong Tea Sampler, 3-Count Box
+  asin: B004NP1I40
+  url: https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg
+  price: $12.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '2a107c88-1a21-4d1d-a33d-938b0bcf04a9'
-  PropagateID: '2a107c88-1a21-4d1d-a33d-938b0bcf04a9'
-  ReservedCode1: '446da713-340c-4833-a494-21cd64347213'
-  ReservedCode2: '446da713-340c-4833-a494-21cd64347213'
+  ProduceID: 2a107c88-1a21-4d1d-a33d-938b0bcf04a9
+  PropagateID: 2a107c88-1a21-4d1d-a33d-938b0bcf04a9
+  ReservedCode1: 446da713-340c-4833-a494-21cd64347213
+  ReservedCode2: 446da713-340c-4833-a494-21cd64347213
 ---
 
 ## A Calendar Written by the Sun

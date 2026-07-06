@@ -1,38 +1,52 @@
-﻿---
-title: "Chongqing: The 8D City Where Physics Goes to Die"
-description: "Chongqing is the 8D city where physics goes to die — buildings stacked on bridges, trains through apartments, and streets on rooftops in China's cyberpunk mountain city."
-youtubeId: "IbnSuon2nrI"
-coverImage: "https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg"
-channel: "CoolVision"
-duration: "1:00"
+---
+title: 'Chongqing: The 8D City Where Physics Goes to Die'
+description: Chongqing is the 8D city where physics goes to die — buildings stacked
+  on bridges, trains through apartments, and streets on rooftops in China's cyberpunk
+  mountain city.
+youtubeId: IbnSuon2nrI
+coverImage: https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg
+channel: CoolVision
+duration: '1:00'
 publishedAt: 2025-06-01
 lang: en
-tags: ["chongqing", "8d-city", "cyberpunk", "mountain-city", "vertical-city", "china-architecture", "megacity"]
+tags:
+- chongqing
+- 8d-city
+- cyberpunk
+- mountain-city
+- vertical-city
+- china-architecture
+- megacity
 featured: true
 affiliate:
-  - title: "Lonely Planet China Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "LOVEVOOK 40L Travel Backpack"
-    asin: "B0CJY9LHK4"
-    url: "https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg"
-    price: "$34.18"
-  - title: "coowoz Travel Backpack Waterproof"
-    asin: "B0B426KSXP"
-    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
-    price: "$23.99"
+- title: Lonely Planet China Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: LOVEVOOK 40L Travel Backpack
+  asin: B0CJY9LHK4
+  url: https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg
+  price: $34.18
+- title: coowoz Travel Backpack Waterproof
+  asin: B0B426KSXP
+  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
+  price: $23.99
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '8595c0f6-ca88-4335-8c12-964b2524a3ad'
-  PropagateID: '8595c0f6-ca88-4335-8c12-964b2524a3ad'
-  ReservedCode1: 'a51d7027-b4e3-4863-b298-2574f7da58ab'
-  ReservedCode2: 'a51d7027-b4e3-4863-b298-2574f7da58ab'
+  ProduceID: 8595c0f6-ca88-4335-8c12-964b2524a3ad
+  PropagateID: 8595c0f6-ca88-4335-8c12-964b2524a3ad
+  ReservedCode1: a51d7027-b4e3-4863-b298-2574f7da58ab
+  ReservedCode2: a51d7027-b4e3-4863-b298-2574f7da58ab
 ---
 
 ## 32 Million People You've Never Heard Of

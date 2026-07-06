@@ -1,39 +1,50 @@
-﻿---
-title: "皮影戏：光影之间流传千年的民间艺术"
-description: "皮影戏是世界最古老的动画——在灯火背后，皮革人影讲述中国史诗，比迪士尼早了两千年。"
-youtubeId: "8-mzqxZNp2g"
-coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
-channel: "UNESCO"
-duration: "10:08"
+---
+title: 皮影戏：光影之间流传千年的民间艺术
+description: 皮影戏是世界最古老的动画——在灯火背后，皮革人影讲述中国史诗，比迪士尼早了两千年。
+youtubeId: 8-mzqxZNp2g
+coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
+channel: UNESCO
+duration: '10:08'
 publishedAt: 2011-11-22
 lang: zh
-tags: ["皮影戏", "民间艺术", "非遗", "中国传统", "光影", "皮影", "陕西"]
+tags:
+- 皮影戏
+- 民间艺术
+- 非遗
+- 中国传统
+- 光影
+- 皮影
+- 陕西
 featured: false
 affiliate:
-  - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
-    asin: "B0C3G6HTLR"
-    url: "https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
-    asin: "B0BWRYFVFC"
-    url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg"
-    price: "$14.99"
-  - title: "Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater"
-    asin: "B0H1N15CLD"
-    url: "https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg"
-    price: "$29.99"
+- title: TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater
+  asin: B0C3G6HTLR
+  url: https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg
+  price: $9.99
+- title: 'Sharing the Beauty of China: Chinese Folk Arts (English Edition)'
+  asin: B0BWRYFVFC
+  url: https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg
+  price: $14.99
+- title: Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater
+  asin: B0H1N15CLD
+  url: https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg
+  price: $29.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '0ad71c50-2d99-425e-8e1a-9c51e0e80135'
-  PropagateID: '0ad71c50-2d99-425e-8e1a-9c51e0e80135'
-  ReservedCode1: 'f4c52e81-f7e4-4628-beb1-39614e23fe9c'
-  ReservedCode2: 'f4c52e81-f7e4-4628-beb1-39614e23fe9c'
-
+  ProduceID: 0ad71c50-2d99-425e-8e1a-9c51e0e80135
+  PropagateID: 0ad71c50-2d99-425e-8e1a-9c51e0e80135
+  ReservedCode1: f4c52e81-f7e4-4628-beb1-39614e23fe9c
+  ReservedCode2: f4c52e81-f7e4-4628-beb1-39614e23fe9c
 ---
 
 ## 光与影的诞生

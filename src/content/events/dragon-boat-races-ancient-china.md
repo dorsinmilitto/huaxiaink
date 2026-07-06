@@ -1,38 +1,50 @@
-﻿---
-title: "Dragon Boat Races: The Ancient Sport Born From Grief"
-description: "Discover how Dragon Boat racing was born from the grief of a poet's drowning 2,000 years ago — and became China's most thrilling water sport."
-youtubeId: "YlPExNPyPwQ"
-coverImage: "https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg"
-channel: "National Geographic"
-duration: "3:21"
+---
+title: 'Dragon Boat Races: The Ancient Sport Born From Grief'
+description: Discover how Dragon Boat racing was born from the grief of a poet's drowning
+  2,000 years ago — and became China's most thrilling water sport.
+youtubeId: YlPExNPyPwQ
+coverImage: https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg
+channel: National Geographic
+duration: '3:21'
 publishedAt: 2024-06-10
 lang: en
-tags: ["dragon-boat", "dragon-boat-festival", "duanwu", "chinese-tradition", "racing", "qu-yuan"]
+tags:
+- dragon-boat
+- dragon-boat-festival
+- duanwu
+- chinese-tradition
+- racing
+- qu-yuan
 featured: true
 affiliate:
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
-  - title: "Paper Lanterns Party Decorations"
-    asin: "B0D5GRT48T"
-    url: "https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "12Pack Paper Lanterns with LED Lights"
-    asin: "B0BDDWZKNL"
-    url: "https://www.amazon.com/dp/B0BDDWZKNL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71F7pRHlDWL._AC_UL640_.jpg"
-    price: "$19.48"
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- title: Paper Lanterns Party Decorations
+  asin: B0D5GRT48T
+  url: https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg
+  price: $15.99
+- title: 12Pack Paper Lanterns with LED Lights
+  asin: B0BDDWZKNL
+  url: https://www.amazon.com/dp/B0BDDWZKNL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71F7pRHlDWL._AC_UL640_.jpg
+  price: $19.48
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '44095557-0835-40b8-81c7-09dcd575b026'
-  PropagateID: '44095557-0835-40b8-81c7-09dcd575b026'
-  ReservedCode1: '385dc466-1b7a-4602-8ee4-e0d1304f9c71'
-  ReservedCode2: '385dc466-1b7a-4602-8ee4-e0d1304f9c71'
+  ProduceID: 44095557-0835-40b8-81c7-09dcd575b026
+  PropagateID: 44095557-0835-40b8-81c7-09dcd575b026
+  ReservedCode1: 385dc466-1b7a-4602-8ee4-e0d1304f9c71
+  ReservedCode2: 385dc466-1b7a-4602-8ee4-e0d1304f9c71
 ---
 
 ## A Poet's Last Stand

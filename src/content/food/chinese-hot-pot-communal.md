@@ -1,38 +1,50 @@
-﻿---
-title: "Hot Pot — Why the Chinese Eat Their Meals Literally Boiling Together"
-description: "Hot pot is how the Chinese eat literally boiling together — a shared pot that turns dining into bonding across 1,000 years of communal cooking history."
-youtubeId: "gBr_1YWMOLA"
-coverImage: "https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg"
-channel: "China Matters"
-duration: "3:56"
+---
+title: Hot Pot — Why the Chinese Eat Their Meals Literally Boiling Together
+description: Hot pot is how the Chinese eat literally boiling together — a shared
+  pot that turns dining into bonding across 1,000 years of communal cooking history.
+youtubeId: gBr_1YWMOLA
+coverImage: https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg
+channel: China Matters
+duration: '3:56'
 publishedAt: 2024-12-01
 lang: en
-tags: ["hot-pot", "huoguo", "sichuan", "communal-dining", "chinese-cuisine", "mala"]
+tags:
+- hot-pot
+- huoguo
+- sichuan
+- communal-dining
+- chinese-cuisine
+- mala
 featured: false
 affiliate:
-  - title: "Stainless Steel Shabu Shabu Hot Pot with Divider"
-    asin: "B08GKBNVF2"
-    url: "https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "7-QT Shabu Shabu Hot Pot with Divider Double Flavor"
-    asin: "B0FMK3FGN6"
-    url: "https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71rew5UAnWL._AC_UL640_.jpg"
-    price: "$41.99"
-  - title: "Nonstick Hot Pot with Divider Blue Shabu Shabu"
-    asin: "B0CT67ZZ3L"
-    url: "https://www.amazon.com/dp/B0CT67ZZ3L?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71EMUg0Zc-L._AC_UL640_.jpg"
-    price: "$30.99"
+- title: Stainless Steel Shabu Shabu Hot Pot with Divider
+  asin: B08GKBNVF2
+  url: https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg
+  price: $29.99
+- title: 7-QT Shabu Shabu Hot Pot with Divider Double Flavor
+  asin: B0FMK3FGN6
+  url: https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71rew5UAnWL._AC_UL640_.jpg
+  price: $41.99
+- title: Nonstick Hot Pot with Divider Blue Shabu Shabu
+  asin: B0CT67ZZ3L
+  url: https://www.amazon.com/dp/B0CT67ZZ3L?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71EMUg0Zc-L._AC_UL640_.jpg
+  price: $30.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '458e965d-9ab2-462e-bf49-9588ab489d3c'
-  PropagateID: '458e965d-9ab2-462e-bf49-9588ab489d3c'
-  ReservedCode1: '236c3e99-39df-4b0d-8c42-e09f0cbd2a75'
-  ReservedCode2: '236c3e99-39df-4b0d-8c42-e09f0cbd2a75'
+  ProduceID: 458e965d-9ab2-462e-bf49-9588ab489d3c
+  PropagateID: 458e965d-9ab2-462e-bf49-9588ab489d3c
+  ReservedCode1: 236c3e99-39df-4b0d-8c42-e09f0cbd2a75
+  ReservedCode2: 236c3e99-39df-4b0d-8c42-e09f0cbd2a75
 ---
 
 ## A Pot That Refuses to Be Eaten Alone

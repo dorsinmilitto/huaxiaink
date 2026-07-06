@@ -1,38 +1,49 @@
-﻿---
-title: "火锅——为什么中国人真的要围在一起沸腾着吃饭"
-description: "火锅——中国人围在一起沸腾着吃饭的方式，一千年共享锅底背后的社交哲学。"
-youtubeId: "gBr_1YWMOLA"
-coverImage: "https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg"
-channel: "China Matters"
-duration: "3:56"
+---
+title: 火锅——为什么中国人真的要围在一起沸腾着吃饭
+description: 火锅——中国人围在一起沸腾着吃饭的方式，一千年共享锅底背后的社交哲学。
+youtubeId: gBr_1YWMOLA
+coverImage: https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg
+channel: China Matters
+duration: '3:56'
 publishedAt: 2024-12-01
 lang: zh
-tags: ["火锅", "四川火锅", "麻辣", "围炉", "中国美食", "鸳鸯锅"]
+tags:
+- 火锅
+- 四川火锅
+- 麻辣
+- 围炉
+- 中国美食
+- 鸳鸯锅
 featured: false
 affiliate:
-  - title: "Stainless Steel Shabu Shabu Hot Pot with Divider"
-    asin: "B08GKBNVF2"
-    url: "https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "7-QT Shabu Shabu Hot Pot with Divider Double Flavor"
-    asin: "B0FMK3FGN6"
-    url: "https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71rew5UAnWL._AC_UL640_.jpg"
-    price: "$41.99"
-  - title: "Nonstick Hot Pot with Divider Blue Shabu Shabu"
-    asin: "B0CT67ZZ3L"
-    url: "https://www.amazon.com/dp/B0CT67ZZ3L?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71EMUg0Zc-L._AC_UL640_.jpg"
-    price: "$30.99"
+- title: Stainless Steel Shabu Shabu Hot Pot with Divider
+  asin: B08GKBNVF2
+  url: https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg
+  price: $29.99
+- title: 7-QT Shabu Shabu Hot Pot with Divider Double Flavor
+  asin: B0FMK3FGN6
+  url: https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71rew5UAnWL._AC_UL640_.jpg
+  price: $41.99
+- title: Nonstick Hot Pot with Divider Blue Shabu Shabu
+  asin: B0CT67ZZ3L
+  url: https://www.amazon.com/dp/B0CT67ZZ3L?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71EMUg0Zc-L._AC_UL640_.jpg
+  price: $30.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '3ca396d8-2d2a-4ecf-93be-6e3bb5050174'
-  PropagateID: '3ca396d8-2d2a-4ecf-93be-6e3bb5050174'
-  ReservedCode1: 'e20fdffe-5462-41a3-a505-d8a64b1dc26e'
-  ReservedCode2: 'e20fdffe-5462-41a3-a505-d8a64b1dc26e'
+  ProduceID: 3ca396d8-2d2a-4ecf-93be-6e3bb5050174
+  PropagateID: 3ca396d8-2d2a-4ecf-93be-6e3bb5050174
+  ReservedCode1: e20fdffe-5462-41a3-a505-d8a64b1dc26e
+  ReservedCode2: e20fdffe-5462-41a3-a505-d8a64b1dc26e
 ---
 
 ## 一口不为独食者存在的锅

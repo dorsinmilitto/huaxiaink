@@ -1,38 +1,50 @@
-﻿---
-title: "The Legend of Nien: How a Monster Gave Birth to Chinese New Year"
-description: "The Nien monster once terrorized Chinese villages — until red paper, firecrackers, and lion dances drove it away. The origin story of Chinese New Year."
-youtubeId: "GVPHdFX9iHY"
-coverImage: "https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg"
-channel: "PandaExpressTV"
-duration: "4:29"
+---
+title: 'The Legend of Nien: How a Monster Gave Birth to Chinese New Year'
+description: The Nien monster once terrorized Chinese villages — until red paper,
+  firecrackers, and lion dances drove it away. The origin story of Chinese New Year.
+youtubeId: GVPHdFX9iHY
+coverImage: https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg
+channel: PandaExpressTV
+duration: '4:29'
 publishedAt: 2024-02-01
 lang: en
-tags: ["spring-festival", "chinese-new-year", "nien-legend", "lunar-new-year", "chinese-mythology", "zodiac"]
+tags:
+- spring-festival
+- chinese-new-year
+- nien-legend
+- lunar-new-year
+- chinese-mythology
+- zodiac
 featured: true
 affiliate:
-  - title: "68PCS 2026 Chinese New Year Decorations"
-    asin: "B0822DGM8Z"
-    url: "https://www.amazon.com/dp/B0822DGM8Z?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91Te1QGcGhL._AC_UL640_.jpg"
-    price: "$18.97"
-  - title: "68PCS Chinese New Year Decorations Year of Horse"
-    asin: "B07M9KJLDM"
-    url: "https://www.amazon.com/dp/B07M9KJLDM?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/917e63IBOhL._AC_UL640_.jpg"
-    price: "$19.97"
-  - title: "Fumete 20 Pcs Chinese Japanese Paper Lanterns"
-    asin: "B0BHR2YL6J"
-    url: "https://www.amazon.com/dp/B0BHR2YL6J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/811hUrI0CqL._AC_UL640_.jpg"
-    price: "$17.99"
+- title: 68PCS 2026 Chinese New Year Decorations
+  asin: B0822DGM8Z
+  url: https://www.amazon.com/dp/B0822DGM8Z?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91Te1QGcGhL._AC_UL640_.jpg
+  price: $18.97
+- title: 68PCS Chinese New Year Decorations Year of Horse
+  asin: B07M9KJLDM
+  url: https://www.amazon.com/dp/B07M9KJLDM?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/917e63IBOhL._AC_UL640_.jpg
+  price: $19.97
+- title: Fumete 20 Pcs Chinese Japanese Paper Lanterns
+  asin: B0BHR2YL6J
+  url: https://www.amazon.com/dp/B0BHR2YL6J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/811hUrI0CqL._AC_UL640_.jpg
+  price: $17.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ca9eea97-c619-450e-9e7c-742199da0c95'
-  PropagateID: 'ca9eea97-c619-450e-9e7c-742199da0c95'
-  ReservedCode1: '46a5e937-5aeb-4fce-b8ad-34005721017f'
-  ReservedCode2: '46a5e937-5aeb-4fce-b8ad-34005721017f'
+  ProduceID: ca9eea97-c619-450e-9e7c-742199da0c95
+  PropagateID: ca9eea97-c619-450e-9e7c-742199da0c95
+  ReservedCode1: 46a5e937-5aeb-4fce-b8ad-34005721017f
+  ReservedCode2: 46a5e937-5aeb-4fce-b8ad-34005721017f
 ---
 
 ## The Beast That Haunted Every Winter

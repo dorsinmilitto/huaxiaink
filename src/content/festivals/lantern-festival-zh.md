@@ -1,39 +1,49 @@
-﻿---
-title: "元宵节：灯火里藏着的浪漫与自由"
-description: "在情人节出现之前，中国有元宵节——两千年前花灯下猜灯谜相会的浪漫之夜。"
-youtubeId: "kFQKWYGZNlE"
-coverImage: "https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg"
-channel: "CGTN"
-duration: "24:30"
+---
+title: 元宵节：灯火里藏着的浪漫与自由
+description: 在情人节出现之前，中国有元宵节——两千年前花灯下猜灯谜相会的浪漫之夜。
+youtubeId: kFQKWYGZNlE
+coverImage: https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg
+channel: CGTN
+duration: '24:30'
 publishedAt: 2024-02-24
 lang: zh
-tags: ["元宵节", "花灯", "汤圆", "猜灯谜", "正月十五", "传统节日"]
+tags:
+- 元宵节
+- 花灯
+- 汤圆
+- 猜灯谜
+- 正月十五
+- 传统节日
 featured: false
 affiliate:
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
-  - title: "Paper Lanterns Party Decorations"
-    asin: "B0D5GRT48T"
-    url: "https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Mooncake Mould Press with 11 Stamps"
-    asin: "B097BFJXP5"
-    url: "https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg"
-    price: "$15.99"
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- title: Paper Lanterns Party Decorations
+  asin: B0D5GRT48T
+  url: https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg
+  price: $15.99
+- title: Mooncake Mould Press with 11 Stamps
+  asin: B097BFJXP5
+  url: https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg
+  price: $15.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c6e09488-72cf-4f94-ab85-2984294ff7ca'
-  PropagateID: 'c6e09488-72cf-4f94-ab85-2984294ff7ca'
-  ReservedCode1: '479091a6-1574-42a3-a284-4ebfe08af4c7'
-  ReservedCode2: '479091a6-1574-42a3-a284-4ebfe08af4c7'
-
+  ProduceID: c6e09488-72cf-4f94-ab85-2984294ff7ca
+  PropagateID: c6e09488-72cf-4f94-ab85-2984294ff7ca
+  ReservedCode1: 479091a6-1574-42a3-a284-4ebfe08af4c7
+  ReservedCode2: 479091a6-1574-42a3-a284-4ebfe08af4c7
 ---
 
 ## 把黑夜点燃的那个晚上

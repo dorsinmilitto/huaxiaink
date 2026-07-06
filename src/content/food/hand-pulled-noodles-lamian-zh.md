@@ -1,39 +1,50 @@
-﻿---
-title: "手工拉面：三千年揉捏出的面食绝技"
-description: "手工拉面用三千年技艺把面团拉成丝——没有机器，只有双手、面粉和千次甩拉的节奏。"
-youtubeId: "E_TMp6w8MkU"
-coverImage: "https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg"
-channel: "Topic"
-duration: "16:12"
+---
+title: 手工拉面：三千年揉捏出的面食绝技
+description: 手工拉面用三千年技艺把面团拉成丝——没有机器，只有双手、面粉和千次甩拉的节奏。
+youtubeId: E_TMp6w8MkU
+coverImage: https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg
+channel: Topic
+duration: '16:12'
 publishedAt: 2018-09-11
 lang: zh
-tags: ["拉面", "手工面", "兰州拉面", "面食", "中国美食", "小麦", "面条"]
+tags:
+- 拉面
+- 手工面
+- 兰州拉面
+- 面食
+- 中国美食
+- 小麦
+- 面条
 featured: false
 affiliate:
-  - title: "Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings"
-    asin: "B07DP15B53"
-    url: "https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
-    asin: "B0049B1VRW"
-    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch"
-    asin: "B08LCXZ3WD"
-    url: "https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg"
-    price: "$15.99"
+- title: Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings
+  asin: B07DP15B53
+  url: https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg
+  price: $29.99
+- title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
+  asin: B0049B1VRW
+  url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
+  price: $16.99
+- title: Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch
+  asin: B08LCXZ3WD
+  url: https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg
+  price: $15.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'a8f92d5f-50ba-4d65-824a-013097cdfd83'
-  PropagateID: 'a8f92d5f-50ba-4d65-824a-013097cdfd83'
-  ReservedCode1: '261e5cb7-398a-415b-a215-ebf456d5328d'
-  ReservedCode2: '261e5cb7-398a-415b-a215-ebf456d5328d'
-
+  ProduceID: a8f92d5f-50ba-4d65-824a-013097cdfd83
+  PropagateID: a8f92d5f-50ba-4d65-824a-013097cdfd83
+  ReservedCode1: 261e5cb7-398a-415b-a215-ebf456d5328d
+  ReservedCode2: 261e5cb7-398a-415b-a215-ebf456d5328d
 ---
 
 ## 一把面，拉出整部文明史

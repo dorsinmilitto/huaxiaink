@@ -1,38 +1,49 @@
-﻿---
-title: "踢毽子：从汉代宫廷到街头巷尾的国民运动"
-description: "踢毽子比足球早两千年的中国花式踢法——从汉代宫廷到现代街头，一项不需要球场的国民运动。"
-youtubeId: "JVSC2qmDQjM"
-coverImage: "https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg"
-channel: "CGTN"
-duration: "5:47"
+---
+title: 踢毽子：从汉代宫廷到街头巷尾的国民运动
+description: 踢毽子比足球早两千年的中国花式踢法——从汉代宫廷到现代街头，一项不需要球场的国民运动。
+youtubeId: JVSC2qmDQjM
+coverImage: https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg
+channel: CGTN
+duration: '5:47'
 publishedAt: 2020-12-22
 lang: zh
-tags: ["踢毽子", "传统体育", "民间游戏", "毽子", "中国运动", "花毽"]
+tags:
+- 踢毽子
+- 传统体育
+- 民间游戏
+- 毽子
+- 中国运动
+- 花毽
 featured: false
 affiliate:
-  - title: "5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch"
-    asin: "B0DBFZDRGC"
-    url: "https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport"
-    asin: "B0D13S11BZ"
-    url: "https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi"
-    asin: "B0CXDHQWXC"
-    url: "https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg"
-    price: "$10.99"
+- title: 5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch
+  asin: B0DBFZDRGC
+  url: https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg
+  price: $12.99
+- title: 2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport
+  asin: B0D13S11BZ
+  url: https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg
+  price: $9.99
+- title: Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi
+  asin: B0CXDHQWXC
+  url: https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg
+  price: $10.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '629a6142-397a-4518-966c-dee1691e57fe'
-  PropagateID: '629a6142-397a-4518-966c-dee1691e57fe'
-  ReservedCode1: '169f7820-6110-4a7a-ad14-0ddb007bc87e'
-  ReservedCode2: '169f7820-6110-4a7a-ad14-0ddb007bc87e'
+  ProduceID: 629a6142-397a-4518-966c-dee1691e57fe
+  PropagateID: 629a6142-397a-4518-966c-dee1691e57fe
+  ReservedCode1: 169f7820-6110-4a7a-ad14-0ddb007bc87e
+  ReservedCode2: 169f7820-6110-4a7a-ad14-0ddb007bc87e
 ---
 
 ## 汉宫中的蹴羽之戏

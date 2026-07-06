@@ -1,38 +1,52 @@
-﻿---
-title: "Fujian Tulou: When 800 People Live Inside One Building"
-description: "Fujian Tulou — when 800 people live inside one circular earthen building, a UNESCO fortress-home that housed entire clans for 600 years of communal defense."
-youtubeId: "0nZue4_ceSY"
-coverImage: "https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg"
-channel: "Little Chinese Everywhere"
-duration: "22:18"
+---
+title: 'Fujian Tulou: When 800 People Live Inside One Building'
+description: Fujian Tulou — when 800 people live inside one circular earthen building,
+  a UNESCO fortress-home that housed entire clans for 600 years of communal defense.
+youtubeId: 0nZue4_ceSY
+coverImage: https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg
+channel: Little Chinese Everywhere
+duration: '22:18'
 publishedAt: 2023-01-26
 lang: en
-tags: ["tulou", "hakka", "fujian", "earth-building", "unesco", "communal-housing", "architecture", "china-travel"]
+tags:
+- tulou
+- hakka
+- fujian
+- earth-building
+- unesco
+- communal-housing
+- architecture
+- china-travel
 featured: false
 affiliate:
-  - title: "Architecture of China - Vernacular Dwellings and Tulou Buildings"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$35.00"
-  - title: "Lonely Planet Fujian & Taiwan Travel Guide"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$24.99"
-  - title: "Hakka Culture History Book - Migration and Architecture"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$29.50"
+- title: Architecture of China - Vernacular Dwellings and Tulou Buildings
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $35.00
+- title: Lonely Planet Fujian & Taiwan Travel Guide
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $24.99
+- title: Hakka Culture History Book - Migration and Architecture
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $29.50
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '3ee390fb-8b57-489c-bf06-729f7be97e2b'
-  PropagateID: '3ee390fb-8b57-489c-bf06-729f7be97e2b'
-  ReservedCode1: '1655cd22-d458-48bc-83cc-03d9ef261290'
-  ReservedCode2: '1655cd22-d458-48bc-83cc-03d9ef261290'
+  ProduceID: 3ee390fb-8b57-489c-bf06-729f7be97e2b
+  PropagateID: 3ee390fb-8b57-489c-bf06-729f7be97e2b
+  ReservedCode1: 1655cd22-d458-48bc-83cc-03d9ef261290
+  ReservedCode2: 1655cd22-d458-48bc-83cc-03d9ef261290
 ---
 
 ## A Village That Is Also One House

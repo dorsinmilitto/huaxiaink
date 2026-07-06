@@ -1,39 +1,50 @@
-﻿---
-title: "冬至：一年中最长的夜与最暖的团圆"
-description: "北方称冬至'大如年'——汤圆与饺子让一年中最长的夜变成最暖的团圆。"
-youtubeId: "_6qel02Hw4c"
-coverImage: "https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg"
-channel: "SCCC"
-duration: "5:03"
+---
+title: 冬至：一年中最长的夜与最暖的团圆
+description: 北方称冬至'大如年'——汤圆与饺子让一年中最长的夜变成最暖的团圆。
+youtubeId: _6qel02Hw4c
+coverImage: https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg
+channel: SCCC
+duration: '5:03'
 publishedAt: 2020-12-10
 lang: zh
-tags: ["冬至", "传统节日", "二十四节气", "饺子", "汤圆", "数九", "民俗"]
+tags:
+- 冬至
+- 传统节日
+- 二十四节气
+- 饺子
+- 汤圆
+- 数九
+- 民俗
 featured: false
 affiliate:
-  - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
-    asin: "B09DYP7J76"
-    url: "https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
-    asin: "B0049B1VRW"
-    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W"
-    asin: "B0BPLRK1LN"
-    url: "https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg"
-    price: "$39.99"
+- title: COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker
+  asin: B09DYP7J76
+  url: https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg
+  price: $9.99
+- title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
+  asin: B0049B1VRW
+  url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
+  price: $16.99
+- title: 3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W
+  asin: B0BPLRK1LN
+  url: https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg
+  price: $39.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7fc444ae-6590-422c-886e-782d67ea6088'
-  PropagateID: '7fc444ae-6590-422c-886e-782d67ea6088'
-  ReservedCode1: 'cdbd30b2-89d1-4510-8463-4a3f77504b38'
-  ReservedCode2: 'cdbd30b2-89d1-4510-8463-4a3f77504b38'
-
+  ProduceID: 7fc444ae-6590-422c-886e-782d67ea6088
+  PropagateID: 7fc444ae-6590-422c-886e-782d67ea6088
+  ReservedCode1: cdbd30b2-89d1-4510-8463-4a3f77504b38
+  ReservedCode2: cdbd30b2-89d1-4510-8463-4a3f77504b38
 ---
 
 ## 最长的夜，最早的春

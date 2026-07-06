@@ -1,38 +1,51 @@
-﻿---
-title: "Chinese Shadow Puppetry: The World's Oldest Animation, Still Alive"
-description: "Shadow puppetry is the world's oldest animation — behind a lit screen, leather figures have told Chinese epics for 2,000 years before Disney existed."
-youtubeId: "8-mzqxZNp2g"
-coverImage: "https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg"
-channel: "UNESCO"
-duration: "10:08"
+---
+title: 'Chinese Shadow Puppetry: The World''s Oldest Animation, Still Alive'
+description: Shadow puppetry is the world's oldest animation — behind a lit screen,
+  leather figures have told Chinese epics for 2,000 years before Disney existed.
+youtubeId: 8-mzqxZNp2g
+coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
+channel: UNESCO
+duration: '10:08'
 publishedAt: 2011-11-22
 lang: en
-tags: ["shadow-puppetry", "piying", "unesco", "chinese-theater", "folk-art", "animation", "intangible-heritage"]
+tags:
+- shadow-puppetry
+- piying
+- unesco
+- chinese-theater
+- folk-art
+- animation
+- intangible-heritage
 featured: false
 affiliate:
-  - title: "TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater"
-    asin: "B0C3G6HTLR"
-    url: "https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Sharing the Beauty of China: Chinese Folk Arts (English Edition)"
-    asin: "B0BWRYFVFC"
-    url: "https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg"
-    price: "$14.99"
-  - title: "Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater"
-    asin: "B0H1N15CLD"
-    url: "https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg"
-    price: "$29.99"
+- title: TOYANDONA DIY Puppet Show Craft Sets for Kids Mini Shadow Puppet Theater
+  asin: B0C3G6HTLR
+  url: https://www.amazon.com/dp/B0C3G6HTLR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61Cnn+-fLXL._AC_UL640_.jpg
+  price: $9.99
+- title: 'Sharing the Beauty of China: Chinese Folk Arts (English Edition)'
+  asin: B0BWRYFVFC
+  url: https://www.amazon.com/dp/B0BWRYFVFC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51o6h9YBWFL._AC_UL640_.jpg
+  price: $14.99
+- title: Family Storytelling Kit Inspired by Fairy Tales - Shadow Puppet Theater
+  asin: B0H1N15CLD
+  url: https://www.amazon.com/dp/B0H1N15CLD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81bcaCQuThL._AC_UL640_.jpg
+  price: $29.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '91612055-6fb8-47c3-956f-1d62f215fe46'
-  PropagateID: '91612055-6fb8-47c3-956f-1d62f215fe46'
-  ReservedCode1: 'd76cb190-8231-42a9-a175-b709af9b6559'
-  ReservedCode2: 'd76cb190-8231-42a9-a175-b709af9b6559'
+  ProduceID: 91612055-6fb8-47c3-956f-1d62f215fe46
+  PropagateID: 91612055-6fb8-47c3-956f-1d62f215fe46
+  ReservedCode1: d76cb190-8231-42a9-a175-b709af9b6559
+  ReservedCode2: d76cb190-8231-42a9-a175-b709af9b6559
 ---
 
 ## A Screen Made of Goat Skin

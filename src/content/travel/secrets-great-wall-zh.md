@@ -1,38 +1,49 @@
-﻿---
-title: "长城秘史——两万公里的王朝、战败与糯米灰浆"
-description: "揭秘长城隐藏的真相：糯米灰浆配方、烽火台通信网络，以及两千年间横跨两万公里的王朝防御。"
-youtubeId: "quLhkqwtOg8"
-coverImage: "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg"
-channel: "National Geographic"
-duration: "50:31"
+---
+title: 长城秘史——两万公里的王朝、战败与糯米灰浆
+description: 揭秘长城隐藏的真相：糯米灰浆配方、烽火台通信网络，以及两千年间横跨两万公里的王朝防御。
+youtubeId: quLhkqwtOg8
+coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
+channel: National Geographic
+duration: '50:31'
 publishedAt: 2024-05-15
 lang: zh
-tags: ["长城", "中国历史", "古建筑", "世界遗产", "明朝", "军事防御"]
+tags:
+- 长城
+- 中国历史
+- 古建筑
+- 世界遗产
+- 明朝
+- 军事防御
 featured: true
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "DK Eyewitness China Travel Guide"
-    asin: "1465469109"
-    url: "https://www.amazon.com/dp/1465469109?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg"
-    price: "$27.97"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: DK Eyewitness China Travel Guide
+  asin: '1465469109'
+  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
+  price: $27.97
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '2b310360-6a3b-4657-9da8-03f03eff8e20'
-  PropagateID: '2b310360-6a3b-4657-9da8-03f03eff8e20'
-  ReservedCode1: 'f01069fe-8441-4037-a7b3-efb173e7d5e5'
-  ReservedCode2: 'f01069fe-8441-4037-a7b3-efb173e7d5e5'
+  ProduceID: 2b310360-6a3b-4657-9da8-03f03eff8e20
+  PropagateID: 2b310360-6a3b-4657-9da8-03f03eff8e20
+  ReservedCode1: f01069fe-8441-4037-a7b3-efb173e7d5e5
+  ReservedCode2: f01069fe-8441-4037-a7b3-efb173e7d5e5
 ---
 
 ## 不止一道墙

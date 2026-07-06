@@ -1,38 +1,49 @@
-﻿---
-title: "李子柒镜头下的端午节——粽子、稻田与两千年的记忆"
-description: "李子柒镜头下的端午节——手工包粽子、龙舟竞渡，在四川乡间延续两千年的传统记忆。"
-youtubeId: "vusE2HqaAEY"
-coverImage: "https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg"
-channel: "李子柒 Liziqi"
-duration: "6:07"
+---
+title: 李子柒镜头下的端午节——粽子、稻田与两千年的记忆
+description: 李子柒镜头下的端午节——手工包粽子、龙舟竞渡，在四川乡间延续两千年的传统记忆。
+youtubeId: vusE2HqaAEY
+coverImage: https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg
+channel: 李子柒 Liziqi
+duration: '6:07'
 publishedAt: 2019-06-04
 lang: zh
-tags: ["端午节", "粽子", "李子柒", "屈原", "传统节日", "龙舟"]
+tags:
+- 端午节
+- 粽子
+- 李子柒
+- 屈原
+- 传统节日
+- 龙舟
 featured: true
 affiliate:
-  - title: "Bamboo Steamer 10 Inch 2 Tier"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "Chinese Tea Pot Cup Set with Tray"
-    asin: "B0881KTP8J"
-    url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
-    price: "$22.99"
-  - title: "Dumpling Bamboo Steamer 10 Inch"
-    asin: "B0CC6C5S5H"
-    url: "https://www.amazon.com/dp/B0CC6C5S5H?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81pe+IHLurL._AC_UL640_.jpg"
-    price: "$29.99"
+- title: Bamboo Steamer 10 Inch 2 Tier
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.99
+- title: Chinese Tea Pot Cup Set with Tray
+  asin: B0881KTP8J
+  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
+  price: $22.99
+- title: Dumpling Bamboo Steamer 10 Inch
+  asin: B0CC6C5S5H
+  url: https://www.amazon.com/dp/B0CC6C5S5H?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81pe+IHLurL._AC_UL640_.jpg
+  price: $29.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'bc7c7444-e5ad-48f2-813c-0913d8f1a60f'
-  PropagateID: 'bc7c7444-e5ad-48f2-813c-0913d8f1a60f'
-  ReservedCode1: '9d3a271e-7cd9-400d-8a61-5896dab75874'
-  ReservedCode2: '9d3a271e-7cd9-400d-8a61-5896dab75874'
+  ProduceID: bc7c7444-e5ad-48f2-813c-0913d8f1a60f
+  PropagateID: bc7c7444-e5ad-48f2-813c-0913d8f1a60f
+  ReservedCode1: 9d3a271e-7cd9-400d-8a61-5896dab75874
+  ReservedCode2: 9d3a271e-7cd9-400d-8a61-5896dab75874
 ---
 
 ## 糯米和竹叶讲述的节日

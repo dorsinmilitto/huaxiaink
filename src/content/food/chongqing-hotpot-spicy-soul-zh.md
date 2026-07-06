@@ -1,38 +1,50 @@
-﻿---
-title: "重庆火锅：山城之辣，灵魂之沸"
-description: "重庆火锅把一切浸入麻辣汤底——码头工人的粗犷一锅如何变成山城的灵魂之辣。"
-youtubeId: "EewnoXvCzgE"
-coverImage: "https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg"
-channel: "Best Ever Food Review Show"
-duration: "25:35"
+---
+title: 重庆火锅：山城之辣，灵魂之沸
+description: 重庆火锅把一切浸入麻辣汤底——码头工人的粗犷一锅如何变成山城的灵魂之辣。
+youtubeId: EewnoXvCzgE
+coverImage: https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg
+channel: Best Ever Food Review Show
+duration: '25:35'
 publishedAt: 2025-06-01
 lang: zh
-tags: ["重庆", "火锅", "麻辣", "毛肚", "九宫格", "美食文化", "川味"]
+tags:
+- 重庆
+- 火锅
+- 麻辣
+- 毛肚
+- 九宫格
+- 美食文化
+- 川味
 featured: false
 affiliate:
-  - title: "Little Sheep Hot Pot Soup Base (Hot) Pack of 5"
-    asin: "B004XY6IPK"
-    url: "https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg"
-    price: "$39.99"
-  - title: "Teewe Carbon Steel Wok 13 Inch with Lid"
-    asin: "B0CWS6XHJJ"
-    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
-    price: "$27.04"
-  - title: "Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch"
-    asin: "B00PUZT9MU"
-    url: "https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg"
-    price: "$51.75"
+- title: Little Sheep Hot Pot Soup Base (Hot) Pack of 5
+  asin: B004XY6IPK
+  url: https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg
+  price: $39.99
+- title: Teewe Carbon Steel Wok 13 Inch with Lid
+  asin: B0CWS6XHJJ
+  url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
+  price: $27.04
+- title: Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch
+  asin: B00PUZT9MU
+  url: https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg
+  price: $51.75
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ab9a330d-e217-4fcc-b728-423d1993d4e5'
-  PropagateID: 'ab9a330d-e217-4fcc-b728-423d1993d4e5'
-  ReservedCode1: '3f4a6ed8-d966-4a72-832d-a7dbd49ff135'
-  ReservedCode2: '3f4a6ed8-d966-4a72-832d-a7dbd49ff135'
+  ProduceID: ab9a330d-e217-4fcc-b728-423d1993d4e5
+  PropagateID: ab9a330d-e217-4fcc-b728-423d1993d4e5
+  ReservedCode1: 3f4a6ed8-d966-4a72-832d-a7dbd49ff135
+  ReservedCode2: 3f4a6ed8-d966-4a72-832d-a7dbd49ff135
 ---
 
 ## 雾中滚沸

@@ -1,38 +1,50 @@
-﻿---
-title: "Gong Fu Tea Ceremony: The Slow Art That Refuses to Rush"
-description: "Gong Fu tea ceremony takes 20 minutes to brew three cups — the slow art that refuses to rush, rooted in Chaozhou's 400-year tea mastery tradition."
-youtubeId: "yA3SQdDQp6o"
-coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
-channel: "China Tea"
-duration: "8:45"
+---
+title: 'Gong Fu Tea Ceremony: The Slow Art That Refuses to Rush'
+description: Gong Fu tea ceremony takes 20 minutes to brew three cups — the slow art
+  that refuses to rush, rooted in Chaozhou's 400-year tea mastery tradition.
+youtubeId: yA3SQdDQp6o
+coverImage: https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg
+channel: China Tea
+duration: '8:45'
 publishedAt: 2024-08-20
 lang: en
-tags: ["gong-fu-tea", "tea-ceremony", "chinese-tea", "kung-fu-cha", "tea-culture", "oolong"]
+tags:
+- gong-fu-tea
+- tea-ceremony
+- chinese-tea
+- kung-fu-cha
+- tea-culture
+- oolong
 featured: true
 affiliate:
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Kongfu Tea Set Portable"
-    asin: "B0C68TS8SX"
-    url: "https://www.amazon.com/dp/B0C68TS8SX?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81+ZMtkpA1L._AC_UL640_.jpg"
-    price: "$23.99"
-  - title: "Chinese Tea Pot Cup Set with Tray"
-    asin: "B0881KTP8J"
-    url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
-    price: "$23.92"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Kongfu Tea Set Portable
+  asin: B0C68TS8SX
+  url: https://www.amazon.com/dp/B0C68TS8SX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81+ZMtkpA1L._AC_UL640_.jpg
+  price: $23.99
+- title: Chinese Tea Pot Cup Set with Tray
+  asin: B0881KTP8J
+  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
+  price: $23.92
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '91dc772c-ef74-40ff-9854-76fdc81188a9'
-  PropagateID: '91dc772c-ef74-40ff-9854-76fdc81188a9'
-  ReservedCode1: 'bb1f8964-94f6-40ac-9f6d-2920054ed2bf'
-  ReservedCode2: 'bb1f8964-94f6-40ac-9f6d-2920054ed2bf'
+  ProduceID: 91dc772c-ef74-40ff-9854-76fdc81188a9
+  PropagateID: 91dc772c-ef74-40ff-9854-76fdc81188a9
+  ReservedCode1: bb1f8964-94f6-40ac-9f6d-2920054ed2bf
+  ReservedCode2: bb1f8964-94f6-40ac-9f6d-2920054ed2bf
 ---
 
 ## The Name That Confuses Everyone

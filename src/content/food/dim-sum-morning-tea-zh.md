@@ -1,38 +1,49 @@
-﻿---
-title: "早茶点心——200年前发明Brunch的晨间仪式"
-description: "点心在Brunch这个词出现前两百年就发明了早茶——竹笼、推车、蒸笼里的广式晨间仪式。"
-youtubeId: "qAqvfxIgCaY"
-coverImage: "https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg"
-channel: "South China Morning Post"
-duration: "7:30"
+---
+title: 早茶点心——200年前发明Brunch的晨间仪式
+description: 点心在Brunch这个词出现前两百年就发明了早茶——竹笼、推车、蒸笼里的广式晨间仪式。
+youtubeId: qAqvfxIgCaY
+coverImage: https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg
+channel: South China Morning Post
+duration: '7:30'
 publishedAt: 2023-05-15
 lang: zh
-tags: ["早茶", "点心", "粤菜", "饮茶", "茶楼", "香港"]
+tags:
+- 早茶
+- 点心
+- 粤菜
+- 饮茶
+- 茶楼
+- 香港
 featured: true
 affiliate:
-  - title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
-  - title: "Zoie + Chloe Bamboo Steamer Basket 2-Tier"
-    asin: "B00WQR9N1M"
-    url: "https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Empanada/Dumpling Maker Press with Dough Cutter"
-    asin: "B0CZ8YS2F9"
-    url: "https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg"
-    price: "$18.99"
+- title: Bamboo Steamer 10 Inch 2 Tier Wooden Basket
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- title: Zoie + Chloe Bamboo Steamer Basket 2-Tier
+  asin: B00WQR9N1M
+  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
+  price: $21.99
+- title: Empanada/Dumpling Maker Press with Dough Cutter
+  asin: B0CZ8YS2F9
+  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
+  price: $18.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '8266a350-3251-4ab1-af35-d1c6c47c0425'
-  PropagateID: '8266a350-3251-4ab1-af35-d1c6c47c0425'
-  ReservedCode1: '52021878-e363-4083-aaca-2510bd6369ac'
-  ReservedCode2: '52021878-e363-4083-aaca-2510bd6369ac'
+  ProduceID: 8266a350-3251-4ab1-af35-d1c6c47c0425
+  PropagateID: 8266a350-3251-4ab1-af35-d1c6c47c0425
+  ReservedCode1: 52021878-e363-4083-aaca-2510bd6369ac
+  ReservedCode2: 52021878-e363-4083-aaca-2510bd6369ac
 ---
 
 ## 茶楼：早于Brunch两百年的晨间社交

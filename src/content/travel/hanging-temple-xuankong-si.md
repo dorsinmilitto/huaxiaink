@@ -1,38 +1,52 @@
-﻿---
-title: "The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years"
-description: "The Hanging Temple clings to a cliff face for 1,500 years — a wooden temple suspended 50 meters above ground that integrates Buddhism, Daoism, and Confucianism."
-youtubeId: "Je9Y3pRyfX8"
-coverImage: "https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg"
-channel: "Travel East"
-duration: "23:09"
+---
+title: 'The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years'
+description: The Hanging Temple clings to a cliff face for 1,500 years — a wooden
+  temple suspended 50 meters above ground that integrates Buddhism, Daoism, and Confucianism.
+youtubeId: Je9Y3pRyfX8
+coverImage: https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg
+channel: Travel East
+duration: '23:09'
 publishedAt: 2025-03-22
 lang: en
-tags: ["hanging-temple", "xuankong-si", "shanxi", "cliff-temple", "buddhist-taoist", "architecture", "china-travel", "engineering"]
+tags:
+- hanging-temple
+- xuankong-si
+- shanxi
+- cliff-temple
+- buddhist-taoist
+- architecture
+- china-travel
+- engineering
 featured: false
 affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Shanxi Province China Travel Guide - Temples and Ancient Sites"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$32.00"
+- title: Lonely Planet China Travel Guide - Comprehensive Edition
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: Shanxi Province China Travel Guide - Temples and Ancient Sites
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $21.99
+- title: Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $32.00
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '26a1185f-5905-4267-8dfe-923dae3e4bf2'
-  PropagateID: '26a1185f-5905-4267-8dfe-923dae3e4bf2'
-  ReservedCode1: '989f17da-4220-4da6-84f9-12ae121f42cb'
-  ReservedCode2: '989f17da-4220-4da6-84f9-12ae121f42cb'
+  ProduceID: 26a1185f-5905-4267-8dfe-923dae3e4bf2
+  PropagateID: 26a1185f-5905-4267-8dfe-923dae3e4bf2
+  ReservedCode1: 989f17da-4220-4da6-84f9-12ae121f42cb
+  ReservedCode2: 989f17da-4220-4da6-84f9-12ae121f42cb
 ---
 
 ## Halfway Up a Cliff, Three Religions Share One Roof

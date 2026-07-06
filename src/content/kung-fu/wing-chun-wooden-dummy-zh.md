@@ -1,25 +1,36 @@
-﻿---
-title: "咏春拳：木人桩的艺术"
-description: "咏春木人桩法传承数百年，从叶问到李小龙走向世界。探索中线理论、寸劲发力与木人桩训练体系，理解这门近身格斗术的深邃智慧。"
-youtubeId: "DgG-ttflBNU"
-coverImage: "https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg"
-channel: "Kung Fu & Tai Chi Center w/ Jake Mace"
-duration: "6:07"
+---
+title: 咏春拳：木人桩的艺术
+description: 咏春木人桩法传承数百年，从叶问到李小龙走向世界。探索中线理论、寸劲发力与木人桩训练体系，理解这门近身格斗术的深邃智慧。
+youtubeId: DgG-ttflBNU
+coverImage: https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg
+channel: Kung Fu & Tai Chi Center w/ Jake Mace
+duration: '6:07'
 publishedAt: 2024-05-20
 lang: zh
-tags: ["wing-chun", "kung-fu", "martial-arts", "wooden-dummy", "bruce-lee", "ip-man"]
+tags:
+- wing-chun
+- kung-fu
+- martial-arts
+- wooden-dummy
+- bruce-lee
+- ip-man
 featured: true
 affiliate:
-  - asin: "B086PLXSXY"
-    title: "Wing Chun Wooden Dummy"
-    url: "https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg"
-    price: "$15.99"
-  - asin: "1933901764"
-    title: "Wing Chun Wooden Dummy Book"
-    url: "https://www.amazon.com/dp/1933901764?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg"
-    price: "$29.25"
+- asin: B086PLXSXY
+  title: Wing Chun Wooden Dummy
+  url: https://www.amazon.com/dp/B086PLXSXY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41gJK3d6d8L._AC_UL640_.jpg
+  price: $15.99
+- asin: '1933901764'
+  title: Wing Chun Wooden Dummy Book
+  url: https://www.amazon.com/dp/1933901764?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/716I41ydRYL._AC_UL640_.jpg
+  price: $29.25
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## 木人桩：咏春的灵魂之所

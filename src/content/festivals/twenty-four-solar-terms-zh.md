@@ -1,39 +1,51 @@
-﻿---
-title: "二十四节气：中国人与天地对话的千年历法"
-description: "二十四节气教会中国农民何时播种、收获与庆祝——这套观天四千年的历法体系已被列入联合国非遗名录。"
-youtubeId: "qTrd010vMp8"
-coverImage: "https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg"
-channel: "UNESCO"
-duration: "10:00"
+---
+title: 二十四节气：中国人与天地对话的千年历法
+description: 二十四节气教会中国农民何时播种、收获与庆祝——这套观天四千年的历法体系已被列入联合国非遗名录。
+youtubeId: qTrd010vMp8
+coverImage: https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg
+channel: UNESCO
+duration: '10:00'
 publishedAt: 2016-11-30
 lang: zh
-tags: ["二十四节气", "节气", "传统历法", "非遗", "农历", "农耕文化", "天人合一"]
+tags:
+- 二十四节气
+- 节气
+- 传统历法
+- 非遗
+- 农历
+- 农耕文化
+- 天人合一
 featured: false
 affiliate:
-  - title: "The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature Almanac"
-    asin: "B0FHLTCL98"
-    url: "https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "24 Solar Terms of China (2nd Edition) (Chinese Edition)"
-    asin: "B00BP0ILA0"
-    url: "https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "The Tao of Tea Oolong Tea Sampler, 3-Count Box"
-    asin: "B004NP1I40"
-    url: "https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg"
-    price: "$12.99"
+- title: 'The 24 Solar Terms: Mythology, Folkways, and Poetry of the Chinese Nature
+    Almanac'
+  asin: B0FHLTCL98
+  url: https://www.amazon.com/dp/B0FHLTCL98?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71b4t3aet1L._AC_UL640_.jpg
+  price: $9.99
+- title: 24 Solar Terms of China (2nd Edition) (Chinese Edition)
+  asin: B00BP0ILA0
+  url: https://www.amazon.com/dp/B00BP0ILA0?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81Lsd1uUwoL._AC_UL640_.jpg
+  price: $15.99
+- title: The Tao of Tea Oolong Tea Sampler, 3-Count Box
+  asin: B004NP1I40
+  url: https://www.amazon.com/dp/B004NP1I40?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61-l7KW55mL._AC_UL640_.jpg
+  price: $12.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'f0931f10-2083-4070-93b6-2ef82312a4b0'
-  PropagateID: 'f0931f10-2083-4070-93b6-2ef82312a4b0'
-  ReservedCode1: '69f9ebd7-b778-43e8-9ccd-e03f385bd906'
-  ReservedCode2: '69f9ebd7-b778-43e8-9ccd-e03f385bd906'
-
+  ProduceID: f0931f10-2083-4070-93b6-2ef82312a4b0
+  PropagateID: f0931f10-2083-4070-93b6-2ef82312a4b0
+  ReservedCode1: 69f9ebd7-b778-43e8-9ccd-e03f385bd906
+  ReservedCode2: 69f9ebd7-b778-43e8-9ccd-e03f385bd906
 ---
 
 ## 用太阳写诗的人

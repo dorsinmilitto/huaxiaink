@@ -1,38 +1,52 @@
-﻿---
-title: "Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the West"
-description: "Black Myth: Wukong made the world read Journey to the West — how a Chinese AAA game reached 15M copies and put Sun Wukong on the global stage."
-youtubeId: "rQW2C4iQwTQ"
-coverImage: "https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg"
-channel: "NeddyTheNoodle"
-duration: "1:03:50"
+---
+title: 'Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the
+  West'
+description: 'Black Myth: Wukong made the world read Journey to the West — how a Chinese
+  AAA game reached 15M copies and put Sun Wukong on the global stage.'
+youtubeId: rQW2C4iQwTQ
+coverImage: https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg
+channel: NeddyTheNoodle
+duration: '1:03:50'
 publishedAt: 2024-09-20
 lang: en
-tags: ["black-myth-wukong", "chinese-game", "journey-to-the-west", "sun-wukong", "mythology", "game-science", "cultural-export"]
+tags:
+- black-myth-wukong
+- chinese-game
+- journey-to-the-west
+- sun-wukong
+- mythology
+- game-science
+- cultural-export
 featured: true
 affiliate:
-  - title: "Black Myth: Wukong - PlayStation 5"
-    asin: "B0DKFX8THB"
-    url: "https://www.amazon.com/dp/B0DKFX8THB?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/718+3ZWokmL._SY300_.jpg"
-    price: "$58.90"
-  - title: "Journey to the West (Chinese Classics, Classic Novel in 4 Volumes)"
-    asin: "7119016636"
-    url: "https://www.amazon.com/dp/7119016636?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/619AGDYz4vL._SY300_.jpg"
-    price: "$30.99"
-  - title: "Monkey King: Journey to the West"
-    asin: "0143138936"
-    url: "https://www.amazon.com/dp/0143138936?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81NazOhl93L._SY300_.jpg"
-    price: "$18.00"
+- title: 'Black Myth: Wukong - PlayStation 5'
+  asin: B0DKFX8THB
+  url: https://www.amazon.com/dp/B0DKFX8THB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/718+3ZWokmL._SY300_.jpg
+  price: $58.90
+- title: Journey to the West (Chinese Classics, Classic Novel in 4 Volumes)
+  asin: '7119016636'
+  url: https://www.amazon.com/dp/7119016636?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/619AGDYz4vL._SY300_.jpg
+  price: $30.99
+- title: 'Monkey King: Journey to the West'
+  asin: 0143138936
+  url: https://www.amazon.com/dp/0143138936?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81NazOhl93L._SY300_.jpg
+  price: $18.00
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8'
-  PropagateID: '1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8'
-  ReservedCode1: 'b9bf1dfc-f4cc-440a-a9fe-f5102e49882d'
-  ReservedCode2: 'b9bf1dfc-f4cc-440a-a9fe-f5102e49882d'
+  ProduceID: 1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8
+  PropagateID: 1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8
+  ReservedCode1: b9bf1dfc-f4cc-440a-a9fe-f5102e49882d
+  ReservedCode2: b9bf1dfc-f4cc-440a-a9fe-f5102e49882d
 ---
 
 ## The Game That Made the World Googling "Journey to the West"

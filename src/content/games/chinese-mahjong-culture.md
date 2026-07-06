@@ -1,38 +1,50 @@
-﻿---
-title: "Mahjong — The Game That Built Chinese Social Life"
-description: "Mahjong built Chinese social life — from Qing dynasty salons to family living rooms, the tile game that's been shuffling relationships for 150 years."
-youtubeId: "qpYF-xmNMew"
-coverImage: "https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg"
-channel: "South China Morning Post"
-duration: "2:30"
+---
+title: Mahjong — The Game That Built Chinese Social Life
+description: Mahjong built Chinese social life — from Qing dynasty salons to family
+  living rooms, the tile game that's been shuffling relationships for 150 years.
+youtubeId: qpYF-xmNMew
+coverImage: https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg
+channel: South China Morning Post
+duration: '2:30'
 publishedAt: 2019-05-15
 lang: en
-tags: ["mahjong", "chinese-game", "table-game", "social-tradition", "tiles", "chinese-culture"]
+tags:
+- mahjong
+- chinese-game
+- table-game
+- social-tradition
+- tiles
+- chinese-culture
 featured: true
 affiliate:
-  - title: "Professional Traditional Chinese Mahjong Set 30mm 146 Tiles"
-    asin: "B0FSCCNFP7"
-    url: "https://www.amazon.com/dp/B0FSCCNFP7?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61AznRNR0QL._AC_UL640_.jpg"
-    price: "$31.99"
-  - title: "Mahjong Tile Set 146pcs with Storage Box"
-    asin: "B0FGWP4N74"
-    url: "https://www.amazon.com/dp/B0FGWP4N74?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ZqP6sf4WL._AC_UL640_.jpg"
-    price: "$49.99"
-  - title: "Souped Up Recipes Carbon Steel Wok 10 Inch"
-    asin: "B0F2FP917T"
-    url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
-    price: "$23.79"
+- title: Professional Traditional Chinese Mahjong Set 30mm 146 Tiles
+  asin: B0FSCCNFP7
+  url: https://www.amazon.com/dp/B0FSCCNFP7?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61AznRNR0QL._AC_UL640_.jpg
+  price: $31.99
+- title: Mahjong Tile Set 146pcs with Storage Box
+  asin: B0FGWP4N74
+  url: https://www.amazon.com/dp/B0FGWP4N74?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ZqP6sf4WL._AC_UL640_.jpg
+  price: $49.99
+- title: Souped Up Recipes Carbon Steel Wok 10 Inch
+  asin: B0F2FP917T
+  url: https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg
+  price: $23.79
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'ec5a8fe7-92af-4beb-b15a-0e220226896c'
-  PropagateID: 'ec5a8fe7-92af-4beb-b15a-0e220226896c'
-  ReservedCode1: '609fdffc-0747-4161-8285-b998fac3af60'
-  ReservedCode2: '609fdffc-0747-4161-8285-b998fac3af60'
+  ProduceID: ec5a8fe7-92af-4beb-b15a-0e220226896c
+  PropagateID: ec5a8fe7-92af-4beb-b15a-0e220226896c
+  ReservedCode1: 609fdffc-0747-4161-8285-b998fac3af60
+  ReservedCode2: 609fdffc-0747-4161-8285-b998fac3af60
 ---
 
 ## The Sound That Defines a Nation

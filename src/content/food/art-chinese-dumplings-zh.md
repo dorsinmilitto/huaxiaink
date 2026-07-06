@@ -1,38 +1,49 @@
-﻿---
-title: "饺子之道：把一千八百年的故事包进面皮里"
-description: "饺子把一千八百年的故事包进面皮——从汉代战场救急到春节团圆饭的绝对主角。"
-youtubeId: "EcqqhQqemxU"
-coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
-channel: "Tasty"
-duration: "6:12"
+---
+title: 饺子之道：把一千八百年的故事包进面皮里
+description: 饺子把一千八百年的故事包进面皮——从汉代战场救急到春节团圆饭的绝对主角。
+youtubeId: EcqqhQqemxU
+coverImage: https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg
+channel: Tasty
+duration: '6:12'
 publishedAt: 2024-01-15
 lang: zh
-tags: ["饺子", "中国传统美食", "古代食谱", "面食", "烹饪传统", "包子"]
+tags:
+- 饺子
+- 中国传统美食
+- 古代食谱
+- 面食
+- 烹饪传统
+- 包子
 featured: true
 affiliate:
-  - title: "6.6'' Baozi Maker Machine"
-    asin: "B0D5HJ3JBL"
-    url: "https://www.amazon.com/dp/B0D5HJ3JBL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61QfR6ad65L._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Empanada/Dumpling Maker Press"
-    asin: "B0CZ8YS2F9"
-    url: "https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Bamboo Steamer 10 Inch 2 Tier"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
+- title: 6.6'' Baozi Maker Machine
+  asin: B0D5HJ3JBL
+  url: https://www.amazon.com/dp/B0D5HJ3JBL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61QfR6ad65L._AC_UL640_.jpg
+  price: $15.99
+- title: Empanada/Dumpling Maker Press
+  asin: B0CZ8YS2F9
+  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
+  price: $18.99
+- title: Bamboo Steamer 10 Inch 2 Tier
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '0ceab999-9121-480c-9a3d-76e1cd7f0bde'
-  PropagateID: '0ceab999-9121-480c-9a3d-76e1cd7f0bde'
-  ReservedCode1: '1af773de-3434-494c-8251-5351dc873d63'
-  ReservedCode2: '1af773de-3434-494c-8251-5351dc873d63'
+  ProduceID: 0ceab999-9121-480c-9a3d-76e1cd7f0bde
+  PropagateID: 0ceab999-9121-480c-9a3d-76e1cd7f0bde
+  ReservedCode1: 1af773de-3434-494c-8251-5351dc873d63
+  ReservedCode2: 1af773de-3434-494c-8251-5351dc873d63
 ---
 
 ## 医生的处方，变成了全世界的安慰食物

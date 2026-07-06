@@ -1,38 +1,51 @@
-﻿---
-title: "燕云十六声：一款中国武侠游戏如何征服全球1500万玩家"
-description: "燕云十六声把武侠带给全球1500万玩家——开放世界大唐冒险如何让世界爱上中国武侠幻想。"
-youtubeId: "cpY_JFJRA9Q"
-coverImage: "https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg"
-channel: "IGN"
-duration: "2:18"
+---
+title: 燕云十六声：一款中国武侠游戏如何征服全球1500万玩家
+description: 燕云十六声把武侠带给全球1500万玩家——开放世界大唐冒险如何让世界爱上中国武侠幻想。
+youtubeId: cpY_JFJRA9Q
+coverImage: https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg
+channel: IGN
+duration: '2:18'
 publishedAt: 2025-11-15
 lang: zh
-tags: ["武侠", "中国游戏", "燕云十六声", "武术", "开放世界", "网易", "文化出海"]
+tags:
+- 武侠
+- 中国游戏
+- 燕云十六声
+- 武术
+- 开放世界
+- 网易
+- 文化出海
 featured: true
 affiliate:
-  - title: "A Hero Born: The Definitive Edition (Legends of the Condor Heroes, 1)"
-    asin: "1250220602"
-    url: "https://www.amazon.com/dp/1250220602?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61S20snBe+L._SY300_.jpg"
-    price: "$24.95"
-  - title: "A Snake Lies Waiting: The Definitive Edition (Legends of the Condor Heroes, 3)"
-    asin: "1250250129"
-    url: "https://www.amazon.com/dp/1250250129?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91TKpYe2cVL._SY300_.jpg"
-    price: "$30.99"
-  - title: "The Shaolin Monastery: History, Religion, and the Chinese Martial Arts"
-    asin: "082483349X"
-    url: "https://www.amazon.com/dp/082483349X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81T64qdaCpL._SY300_.jpg"
-    price: "$29.00"
+- title: 'A Hero Born: The Definitive Edition (Legends of the Condor Heroes, 1)'
+  asin: '1250220602'
+  url: https://www.amazon.com/dp/1250220602?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61S20snBe+L._SY300_.jpg
+  price: $24.95
+- title: 'A Snake Lies Waiting: The Definitive Edition (Legends of the Condor Heroes,
+    3)'
+  asin: '1250250129'
+  url: https://www.amazon.com/dp/1250250129?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91TKpYe2cVL._SY300_.jpg
+  price: $30.99
+- title: 'The Shaolin Monastery: History, Religion, and the Chinese Martial Arts'
+  asin: 082483349X
+  url: https://www.amazon.com/dp/082483349X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81T64qdaCpL._SY300_.jpg
+  price: $29.00
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '1821906f-aaff-4baf-9f20-6d24d9a627de'
-  PropagateID: '1821906f-aaff-4baf-9f20-6d24d9a627de'
-  ReservedCode1: '1316f449-50a1-4104-bdfd-70fb1e09e9dc'
-  ReservedCode2: '1316f449-50a1-4104-bdfd-70fb1e09e9dc'
+  ProduceID: 1821906f-aaff-4baf-9f20-6d24d9a627de
+  PropagateID: 1821906f-aaff-4baf-9f20-6d24d9a627de
+  ReservedCode1: 1316f449-50a1-4104-bdfd-70fb1e09e9dc
+  ReservedCode2: 1316f449-50a1-4104-bdfd-70fb1e09e9dc
 ---
 
 ## 将武侠带给世界的游戏

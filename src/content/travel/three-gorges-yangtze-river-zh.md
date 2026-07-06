@@ -1,38 +1,51 @@
-﻿---
-title: "三峡：大坝重塑了一条河，也重塑了一个文明"
-description: "三峡大坝重塑了长江和一个文明——世界最大水利工程让百万移民搬迁，却为一个国家提供了足够的电力。"
-youtubeId: "gBobfHlvAVc"
-coverImage: "https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg"
-channel: "Lifeder"
-duration: "29:41"
+---
+title: 三峡：大坝重塑了一条河，也重塑了一个文明
+description: 三峡大坝重塑了长江和一个文明——世界最大水利工程让百万移民搬迁，却为一个国家提供了足够的电力。
+youtubeId: gBobfHlvAVc
+coverImage: https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg
+channel: Lifeder
+duration: '29:41'
 publishedAt: 2025-10-01
 lang: zh
-tags: ["三峡", "长江", "大坝", "中国", "游轮", "风景", "工程", "三峡大坝"]
+tags:
+- 三峡
+- 长江
+- 大坝
+- 中国
+- 游轮
+- 风景
+- 工程
+- 三峡大坝
 featured: false
 affiliate:
-  - title: "River Town: Two Years on the Yangtze"
-    asin: "0060855029"
-    url: "https://www.amazon.com/dp/0060855029?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91TMEkWfs2L._AC_UL640_.jpg"
-    price: "$16.93"
-  - title: "National Geographic China Adventure Map"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Scratch Off World Map with 233 Flags 36x24"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$29.97"
+- title: 'River Town: Two Years on the Yangtze'
+  asin: 0060855029
+  url: https://www.amazon.com/dp/0060855029?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91TMEkWfs2L._AC_UL640_.jpg
+  price: $16.93
+- title: National Geographic China Adventure Map
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $28.99
+- title: Scratch Off World Map with 233 Flags 36x24
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $29.97
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd6bd9e2d-d977-4757-b4be-116b6fe849d0'
-  PropagateID: 'd6bd9e2d-d977-4757-b4be-116b6fe849d0'
-  ReservedCode1: 'f6975624-b303-493d-a1a0-177ccc31f211'
-  ReservedCode2: 'f6975624-b303-493d-a1a0-177ccc31f211'
+  ProduceID: d6bd9e2d-d977-4757-b4be-116b6fe849d0
+  PropagateID: d6bd9e2d-d977-4757-b4be-116b6fe849d0
+  ReservedCode1: f6975624-b303-493d-a1a0-177ccc31f211
+  ReservedCode2: f6975624-b303-493d-a1a0-177ccc31f211
 ---
 
 ## 一条河刻出的国家

@@ -1,38 +1,50 @@
-﻿---
-title: "Secrets of the Great Wall — 20,000 km of Dynasty, Defeat, and Sticky Rice Mortar"
-description: "Uncover the Great Wall's hidden secrets: sticky rice mortar, beacon tower networks, and 2,000 years of dynasty defense across 20,000 km."
-youtubeId: "quLhkqwtOg8"
-coverImage: "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg"
-channel: "National Geographic"
-duration: "50:31"
+---
+title: Secrets of the Great Wall — 20,000 km of Dynasty, Defeat, and Sticky Rice Mortar
+description: 'Uncover the Great Wall''s hidden secrets: sticky rice mortar, beacon
+  tower networks, and 2,000 years of dynasty defense across 20,000 km.'
+youtubeId: quLhkqwtOg8
+coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
+channel: National Geographic
+duration: '50:31'
 publishedAt: 2024-05-15
 lang: en
-tags: ["great-wall", "china-history", "ancient-china", "architecture", "world-heritage", "ming-dynasty"]
+tags:
+- great-wall
+- china-history
+- ancient-china
+- architecture
+- world-heritage
+- ming-dynasty
 featured: true
 affiliate:
-  - title: "Lonely Planet China 2025-2026 Travel Guide"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg"
-    price: "$28.99"
-  - title: "DK Eyewitness China Travel Guide"
-    asin: "1465469109"
-    url: "https://www.amazon.com/dp/1465469109?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg"
-    price: "$27.97"
-  - title: "Imperial China (DK Classic History)"
-    asin: "0744020476"
-    url: "https://www.amazon.com/dp/0744020476?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg"
-    price: "$44.51"
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UY218_.jpg
+  price: $28.99
+- title: DK Eyewitness China Travel Guide
+  asin: '1465469109'
+  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
+  price: $27.97
+- title: Imperial China (DK Classic History)
+  asin: '0744020476'
+  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
+  price: $44.51
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c21cb7f5-3056-4c8a-a43a-aff6a41783b1'
-  PropagateID: 'c21cb7f5-3056-4c8a-a43a-aff6a41783b1'
-  ReservedCode1: '5002a7aa-de92-4d76-beb0-328dc104367a'
-  ReservedCode2: '5002a7aa-de92-4d76-beb0-328dc104367a'
+  ProduceID: c21cb7f5-3056-4c8a-a43a-aff6a41783b1
+  PropagateID: c21cb7f5-3056-4c8a-a43a-aff6a41783b1
+  ReservedCode1: 5002a7aa-de92-4d76-beb0-328dc104367a
+  ReservedCode2: 5002a7aa-de92-4d76-beb0-328dc104367a
 ---
 
 ## More Than Bricks and Mortar

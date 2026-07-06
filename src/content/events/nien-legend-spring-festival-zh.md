@@ -1,38 +1,49 @@
-﻿---
-title: "年兽传说：一头怪兽如何催生了春节"
-description: "年兽曾吞噬村庄——直到红纸、爆竹和舞狮把它赶走。春节最古老的传说，揭露中国年的真正起源。"
-youtubeId: "GVPHdFX9iHY"
-coverImage: "https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg"
-channel: "PandaExpressTV"
-duration: "4:29"
+---
+title: 年兽传说：一头怪兽如何催生了春节
+description: 年兽曾吞噬村庄——直到红纸、爆竹和舞狮把它赶走。春节最古老的传说，揭露中国年的真正起源。
+youtubeId: GVPHdFX9iHY
+coverImage: https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg
+channel: PandaExpressTV
+duration: '4:29'
 publishedAt: 2024-02-01
 lang: zh
-tags: ["春节", "年兽", "中国新年", "农历新年", "中国神话", "生肖"]
+tags:
+- 春节
+- 年兽
+- 中国新年
+- 农历新年
+- 中国神话
+- 生肖
 featured: true
 affiliate:
-  - title: "68PCS 2026 Chinese New Year Decorations"
-    asin: "B0822DGM8Z"
-    url: "https://www.amazon.com/dp/B0822DGM8Z?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91Te1QGcGhL._AC_UL640_.jpg"
-    price: "$18.97"
-  - title: "68PCS Chinese New Year Decorations Year of Horse"
-    asin: "B07M9KJLDM"
-    url: "https://www.amazon.com/dp/B07M9KJLDM?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/917e63IBOhL._AC_UL640_.jpg"
-    price: "$19.97"
-  - title: "Fumete 20 Pcs Chinese Japanese Paper Lanterns"
-    asin: "B0BHR2YL6J"
-    url: "https://www.amazon.com/dp/B0BHR2YL6J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/811hUrI0CqL._AC_UL640_.jpg"
-    price: "$17.99"
+- title: 68PCS 2026 Chinese New Year Decorations
+  asin: B0822DGM8Z
+  url: https://www.amazon.com/dp/B0822DGM8Z?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91Te1QGcGhL._AC_UL640_.jpg
+  price: $18.97
+- title: 68PCS Chinese New Year Decorations Year of Horse
+  asin: B07M9KJLDM
+  url: https://www.amazon.com/dp/B07M9KJLDM?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/917e63IBOhL._AC_UL640_.jpg
+  price: $19.97
+- title: Fumete 20 Pcs Chinese Japanese Paper Lanterns
+  asin: B0BHR2YL6J
+  url: https://www.amazon.com/dp/B0BHR2YL6J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/811hUrI0CqL._AC_UL640_.jpg
+  price: $17.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '77e75e6e-ae05-499a-b71e-9a40a36684a3'
-  PropagateID: '77e75e6e-ae05-499a-b71e-9a40a36684a3'
-  ReservedCode1: 'f7f40cd5-6d26-4525-8b30-6698367ad983'
-  ReservedCode2: 'f7f40cd5-6d26-4525-8b30-6698367ad983'
+  ProduceID: 77e75e6e-ae05-499a-b71e-9a40a36684a3
+  PropagateID: 77e75e6e-ae05-499a-b71e-9a40a36684a3
+  ReservedCode1: f7f40cd5-6d26-4525-8b30-6698367ad983
+  ReservedCode2: f7f40cd5-6d26-4525-8b30-6698367ad983
 ---
 
 ## 藏在"年"字里的恐惧

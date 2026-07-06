@@ -1,38 +1,50 @@
-﻿---
-title: "Peking Duck — From the Emperor's Kitchen to the World's Table"
-description: "Peking Duck traveled from the Ming emperor's kitchen to every world capital — 600 years of roasting perfection behind China's most iconic dish."
-youtubeId: "Bkt0FAOWpgc"
-coverImage: "https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg"
-channel: "saintcavish"
-duration: "22:15"
+---
+title: Peking Duck — From the Emperor's Kitchen to the World's Table
+description: Peking Duck traveled from the Ming emperor's kitchen to every world capital
+  — 600 years of roasting perfection behind China's most iconic dish.
+youtubeId: Bkt0FAOWpgc
+coverImage: https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg
+channel: saintcavish
+duration: '22:15'
 publishedAt: 2024-11-10
 lang: en
-tags: ["peking-duck", "beijing", "roast-duck", "imperial-cuisine", "chinese-food", "culinary-history"]
+tags:
+- peking-duck
+- beijing
+- roast-duck
+- imperial-cuisine
+- chinese-food
+- culinary-history
 featured: true
 affiliate:
-  - title: "13.5 inch Carbon Steel Wok Pan Pre-Seasoned"
-    asin: "B0FMJW45CF"
-    url: "https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg"
-    price: "$51.48"
-  - title: "Souped Up Recipes 10 Inch Carbon Steel Wok"
-    asin: "B0F2FP917T"
-    url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
-    price: "$23.79"
-  - title: "Todlabe 13-Inch Carbon Steel Wok Pan with Glass Lid"
-    asin: "B0F9P1JM3X"
-    url: "https://www.amazon.com/dp/B0F9P1JM3X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gfeQg32WL._AC_UL640_.jpg"
-    price: "$26.39"
+- title: 13.5 inch Carbon Steel Wok Pan Pre-Seasoned
+  asin: B0FMJW45CF
+  url: https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg
+  price: $51.48
+- title: Souped Up Recipes 10 Inch Carbon Steel Wok
+  asin: B0F2FP917T
+  url: https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg
+  price: $23.79
+- title: Todlabe 13-Inch Carbon Steel Wok Pan with Glass Lid
+  asin: B0F9P1JM3X
+  url: https://www.amazon.com/dp/B0F9P1JM3X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gfeQg32WL._AC_UL640_.jpg
+  price: $26.39
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '44516c31-98f0-453d-8dcd-ab37aa7eeaf6'
-  PropagateID: '44516c31-98f0-453d-8dcd-ab37aa7eeaf6'
-  ReservedCode1: 'd07cbe15-3c89-4735-a44d-7dacbfd63378'
-  ReservedCode2: 'd07cbe15-3c89-4735-a44d-7dacbfd63378'
+  ProduceID: 44516c31-98f0-453d-8dcd-ab37aa7eeaf6
+  PropagateID: 44516c31-98f0-453d-8dcd-ab37aa7eeaf6
+  ReservedCode1: d07cbe15-3c89-4735-a44d-7dacbfd63378
+  ReservedCode2: d07cbe15-3c89-4735-a44d-7dacbfd63378
 ---
 
 ## A Dish Born in the Imperial Court

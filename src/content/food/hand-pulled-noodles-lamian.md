@@ -1,38 +1,51 @@
-﻿---
-title: "Hand-Pulled Noodles: The 3,000-Year-Old Art of Stretching Dough Into Silk"
-description: "Hand-pulled noodles stretch dough into silk with a 3,000-year technique — no machinery, just hands, flour, and the rhythm of a thousand pulls."
-youtubeId: "E_TMp6w8MkU"
-coverImage: "https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg"
-channel: "Topic"
-duration: "16:12"
+---
+title: 'Hand-Pulled Noodles: The 3,000-Year-Old Art of Stretching Dough Into Silk'
+description: Hand-pulled noodles stretch dough into silk with a 3,000-year technique
+  — no machinery, just hands, flour, and the rhythm of a thousand pulls.
+youtubeId: E_TMp6w8MkU
+coverImage: https://i.ytimg.com/vi/E_TMp6w8MkU/hqdefault.jpg
+channel: Topic
+duration: '16:12'
 publishedAt: 2018-09-11
 lang: en
-tags: ["lamian", "hand-pulled-noodles", "chinese-noodles", "lanzhou", "dough-art", "wheat", "chinese-cuisine"]
+tags:
+- lamian
+- hand-pulled-noodles
+- chinese-noodles
+- lanzhou
+- dough-art
+- wheat
+- chinese-cuisine
 featured: false
 affiliate:
-  - title: "Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings"
-    asin: "B07DP15B53"
-    url: "https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg"
-    price: "$29.99"
-  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
-    asin: "B0049B1VRW"
-    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch"
-    asin: "B08LCXZ3WD"
-    url: "https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg"
-    price: "$15.99"
+- title: Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings
+  asin: B07DP15B53
+  url: https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg
+  price: $29.99
+- title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
+  asin: B0049B1VRW
+  url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
+  price: $16.99
+- title: Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch
+  asin: B08LCXZ3WD
+  url: https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg
+  price: $15.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '391195f5-51f0-4b9d-88d4-abe95a0ca7ea'
-  PropagateID: '391195f5-51f0-4b9d-88d4-abe95a0ca7ea'
-  ReservedCode1: 'e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84'
-  ReservedCode2: 'e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84'
+  ProduceID: 391195f5-51f0-4b9d-88d4-abe95a0ca7ea
+  PropagateID: 391195f5-51f0-4b9d-88d4-abe95a0ca7ea
+  ReservedCode1: e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84
+  ReservedCode2: e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84
 ---
 
 ## Wheat, Water, and Three Millennia of Patience

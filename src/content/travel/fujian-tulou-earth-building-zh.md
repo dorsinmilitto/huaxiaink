@@ -1,39 +1,50 @@
-﻿---
-title: "福建土楼：大山深处的圆形城堡"
-description: "福建土楼——800人共居一座圆形土堡，被列为世界遗产的家族防御堡垒传承六百年。"
-youtubeId: "0nZue4_ceSY"
-coverImage: "https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg"
-channel: "Little Chinese Everywhere"
-duration: "22:18"
+---
+title: 福建土楼：大山深处的圆形城堡
+description: 福建土楼——800人共居一座圆形土堡，被列为世界遗产的家族防御堡垒传承六百年。
+youtubeId: 0nZue4_ceSY
+coverImage: https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg
+channel: Little Chinese Everywhere
+duration: '22:18'
 publishedAt: 2023-01-26
 lang: zh
-tags: ["土楼", "福建", "客家", "世界遗产", "圆形建筑", "传统建筑", "漳州"]
+tags:
+- 土楼
+- 福建
+- 客家
+- 世界遗产
+- 圆形建筑
+- 传统建筑
+- 漳州
 featured: false
 affiliate:
-  - title: "Architecture of China - Vernacular Dwellings and Tulou Buildings"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$35.00"
-  - title: "Lonely Planet Fujian & Taiwan Travel Guide"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$24.99"
-  - title: "Hakka Culture History Book - Migration and Architecture"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$29.50"
+- title: Architecture of China - Vernacular Dwellings and Tulou Buildings
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $35.00
+- title: Lonely Planet Fujian & Taiwan Travel Guide
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $24.99
+- title: Hakka Culture History Book - Migration and Architecture
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $29.50
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd76acc1b-c659-44fc-a80d-d1b7df65e74f'
-  PropagateID: 'd76acc1b-c659-44fc-a80d-d1b7df65e74f'
-  ReservedCode1: '91d595cc-8470-4072-8e1c-c5e132918698'
-  ReservedCode2: '91d595cc-8470-4072-8e1c-c5e132918698'
-
+  ProduceID: d76acc1b-c659-44fc-a80d-d1b7df65e74f
+  PropagateID: d76acc1b-c659-44fc-a80d-d1b7df65e74f
+  ReservedCode1: 91d595cc-8470-4072-8e1c-c5e132918698
+  ReservedCode2: 91d595cc-8470-4072-8e1c-c5e132918698
 ---
 
 ## 客家的堡垒与家园

@@ -1,38 +1,50 @@
-﻿---
-title: "Sichuan Spice Story: How a Province Turned Pain Into Philosophy"
-description: "Sichuan turned pain into philosophy — the peppercorn that numbs your lips and the chili that burns your tongue built a cuisine beloved by billions."
-youtubeId: "e0mW5CJWHWk"
-coverImage: "https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg"
-channel: "Food Ranger"
-duration: "15:42"
+---
+title: 'Sichuan Spice Story: How a Province Turned Pain Into Philosophy'
+description: Sichuan turned pain into philosophy — the peppercorn that numbs your
+  lips and the chili that burns your tongue built a cuisine beloved by billions.
+youtubeId: e0mW5CJWHWk
+coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
+channel: Food Ranger
+duration: '15:42'
 publishedAt: 2024-07-05
 lang: en
-tags: ["sichuan", "spice", "chili", "mala", "chinese-cuisine", "hot-pot"]
+tags:
+- sichuan
+- spice
+- chili
+- mala
+- chinese-cuisine
+- hot-pot
 featured: false
 affiliate:
-  - title: "13.5 inch Carbon Steel Wok Pan"
-    asin: "B0FMJW45CF"
-    url: "https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg"
-    price: "$51.48"
-  - title: "Amazon Basics Carbon Steel Pre-Seasoned Wok"
-    asin: "B0F183GV33"
-    url: "https://www.amazon.com/dp/B0F183GV33?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg"
-    price: "$31.49"
-  - title: "Zoie+Chloe Bamboo Steamer Basket"
-    asin: "B00WQR9N1M"
-    url: "https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 13.5 inch Carbon Steel Wok Pan
+  asin: B0FMJW45CF
+  url: https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg
+  price: $51.48
+- title: Amazon Basics Carbon Steel Pre-Seasoned Wok
+  asin: B0F183GV33
+  url: https://www.amazon.com/dp/B0F183GV33?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg
+  price: $31.49
+- title: Zoie+Chloe Bamboo Steamer Basket
+  asin: B00WQR9N1M
+  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '401eb7ae-37e3-43dc-ac6b-54f9476ea640'
-  PropagateID: '401eb7ae-37e3-43dc-ac6b-54f9476ea640'
-  ReservedCode1: '43fde3a6-8d29-4d71-91cd-acb5d70fa724'
-  ReservedCode2: '43fde3a6-8d29-4d71-91cd-acb5d70fa724'
+  ProduceID: 401eb7ae-37e3-43dc-ac6b-54f9476ea640
+  PropagateID: 401eb7ae-37e3-43dc-ac6b-54f9476ea640
+  ReservedCode1: 43fde3a6-8d29-4d71-91cd-acb5d70fa724
+  ReservedCode2: 43fde3a6-8d29-4d71-91cd-acb5d70fa724
 ---
 
 ## A Deficit That Became a Signature

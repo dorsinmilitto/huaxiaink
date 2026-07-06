@@ -1,38 +1,49 @@
-﻿---
-title: "功夫茶道：一门拒绝快的慢艺术"
-description: "功夫茶道用20分钟泡三杯——潮州四百年茶道传承中一门拒绝快的慢艺术。"
-youtubeId: "yA3SQdDQp6o"
-coverImage: "https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg"
-channel: "China Tea"
-duration: "8:45"
+---
+title: 功夫茶道：一门拒绝快的慢艺术
+description: 功夫茶道用20分钟泡三杯——潮州四百年茶道传承中一门拒绝快的慢艺术。
+youtubeId: yA3SQdDQp6o
+coverImage: https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg
+channel: China Tea
+duration: '8:45'
 publishedAt: 2024-08-20
 lang: zh
-tags: ["功夫茶", "茶道", "中国茶", "工夫茶", "茶文化", "乌龙茶"]
+tags:
+- 功夫茶
+- 茶道
+- 中国茶
+- 工夫茶
+- 茶文化
+- 乌龙茶
 featured: true
 affiliate:
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Chinese Kongfu Tea Set Portable"
-    asin: "B0C68TS8SX"
-    url: "https://www.amazon.com/dp/B0C68TS8SX?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81+ZMtkpA1L._AC_UL640_.jpg"
-    price: "$23.99"
-  - title: "Chinese Tea Pot Cup Set with Tray"
-    asin: "B0881KTP8J"
-    url: "https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg"
-    price: "$23.92"
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Chinese Kongfu Tea Set Portable
+  asin: B0C68TS8SX
+  url: https://www.amazon.com/dp/B0C68TS8SX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81+ZMtkpA1L._AC_UL640_.jpg
+  price: $23.99
+- title: Chinese Tea Pot Cup Set with Tray
+  asin: B0881KTP8J
+  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
+  price: $23.92
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '2b157975-dfdb-4400-96f9-a037849db6c3'
-  PropagateID: '2b157975-dfdb-4400-96f9-a037849db6c3'
-  ReservedCode1: '6a629403-8ee5-4881-9378-70e59268766a'
-  ReservedCode2: '6a629403-8ee5-4881-9378-70e59268766a'
+  ProduceID: 2b157975-dfdb-4400-96f9-a037849db6c3
+  PropagateID: 2b157975-dfdb-4400-96f9-a037849db6c3
+  ReservedCode1: 6a629403-8ee5-4881-9378-70e59268766a
+  ReservedCode2: 6a629403-8ee5-4881-9378-70e59268766a
 ---
 
 ## 两个"功夫"的故事

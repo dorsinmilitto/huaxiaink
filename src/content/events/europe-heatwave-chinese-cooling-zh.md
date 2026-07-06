@@ -1,43 +1,56 @@
-﻿---
-title: "欧洲热浪危机：中国物理降温智慧为何比空调更管用"
-description: "欧洲热浪频发之际，探索中国物理降温智慧——从竹席到绿豆汤，比空调更自然的消暑之道。"
-youtubeId: "WvftmYJgHno"
-coverImage: "https://i.ytimg.com/vi/WvftmYJgHno/hqdefault.jpg"
-channel: "India Today Global"
-duration: "3:03"
+---
+title: 欧洲热浪危机：中国物理降温智慧为何比空调更管用
+description: 欧洲热浪频发之际，探索中国物理降温智慧——从竹席到绿豆汤，比空调更自然的消暑之道。
+youtubeId: WvftmYJgHno
+coverImage: https://i.ytimg.com/vi/WvftmYJgHno/hqdefault.jpg
+channel: India Today Global
+duration: '3:03'
 publishedAt: 2025-06-15
 lang: zh
-tags: ["热浪", "欧洲", "降温", "竹扇", "中国传统文化", "夏天", "气候", "可持续"]
+tags:
+- 热浪
+- 欧洲
+- 降温
+- 竹扇
+- 中国传统文化
+- 夏天
+- 气候
+- 可持续
 featured: false
 affiliate:
-  - title: "OMyTea中式竹扇-复古折叠丝绸女扇"
-    asin: "B0BCPFWW5M"
-    url: "https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg"
-    price: "$14.99"
-  - title: "WEARXI 4把装中式折叠扇-丝绸竹骨手持扇"
-    asin: "B09WY5MK6Y"
-    url: "https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "AmyHomie冰丝凉毯-100%竹源人造丝夏季降温毯"
-    asin: "B08TTFHX7W"
-    url: "https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg"
-    price: "$19.99"
-  - title: "Bedsure冰丝夏季凉毯-竹源人造丝柔滑降温毯"
-    asin: "B0BR567SS3"
-    url: "https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg"
-    price: "$22.99"
+- title: OMyTea中式竹扇-复古折叠丝绸女扇
+  asin: B0BCPFWW5M
+  url: https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg
+  price: $14.99
+- title: WEARXI 4把装中式折叠扇-丝绸竹骨手持扇
+  asin: B09WY5MK6Y
+  url: https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg
+  price: $9.99
+- title: AmyHomie冰丝凉毯-100%竹源人造丝夏季降温毯
+  asin: B08TTFHX7W
+  url: https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg
+  price: $19.99
+- title: Bedsure冰丝夏季凉毯-竹源人造丝柔滑降温毯
+  asin: B0BR567SS3
+  url: https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg
+  price: $22.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd6616d59-367d-49a3-8694-174cc03d5cf1'
-  PropagateID: 'd6616d59-367d-49a3-8694-174cc03d5cf1'
-  ReservedCode1: '0deb9b7e-4ed1-44ef-8721-f92332616ee2'
-  ReservedCode2: '0deb9b7e-4ed1-44ef-8721-f92332616ee2'
+  ProduceID: d6616d59-367d-49a3-8694-174cc03d5cf1
+  PropagateID: d6616d59-367d-49a3-8694-174cc03d5cf1
+  ReservedCode1: 0deb9b7e-4ed1-44ef-8721-f92332616ee2
+  ReservedCode2: 0deb9b7e-4ed1-44ef-8721-f92332616ee2
 ---
 
 ## 当45度高温遇上500年古建筑

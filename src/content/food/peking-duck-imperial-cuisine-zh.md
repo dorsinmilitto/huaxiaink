@@ -1,38 +1,49 @@
-﻿---
-title: "北京烤鸭——从御膳房到世界餐桌"
-description: "北京烤鸭从明朝御膳房走向世界首都——六百年烤制技艺铸就中国最具标志性的名菜。"
-youtubeId: "Bkt0FAOWpgc"
-coverImage: "https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg"
-channel: "saintcavish"
-duration: "22:15"
+---
+title: 北京烤鸭——从御膳房到世界餐桌
+description: 北京烤鸭从明朝御膳房走向世界首都——六百年烤制技艺铸就中国最具标志性的名菜。
+youtubeId: Bkt0FAOWpgc
+coverImage: https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg
+channel: saintcavish
+duration: '22:15'
 publishedAt: 2024-11-10
 lang: zh
-tags: ["北京烤鸭", "北京", "烤鸭", "御膳", "中国美食", "烹饪历史"]
+tags:
+- 北京烤鸭
+- 北京
+- 烤鸭
+- 御膳
+- 中国美食
+- 烹饪历史
 featured: true
 affiliate:
-  - title: "13.5 inch Carbon Steel Wok Pan Pre-Seasoned"
-    asin: "B0FMJW45CF"
-    url: "https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg"
-    price: "$51.48"
-  - title: "Souped Up Recipes 10 Inch Carbon Steel Wok"
-    asin: "B0F2FP917T"
-    url: "https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg"
-    price: "$23.79"
-  - title: "Todlabe 13-Inch Carbon Steel Wok Pan with Glass Lid"
-    asin: "B0F9P1JM3X"
-    url: "https://www.amazon.com/dp/B0F9P1JM3X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61gfeQg32WL._AC_UL640_.jpg"
-    price: "$26.39"
+- title: 13.5 inch Carbon Steel Wok Pan Pre-Seasoned
+  asin: B0FMJW45CF
+  url: https://www.amazon.com/dp/B0FMJW45CF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gQhRN5KyL._AC_UL640_.jpg
+  price: $51.48
+- title: Souped Up Recipes 10 Inch Carbon Steel Wok
+  asin: B0F2FP917T
+  url: https://www.amazon.com/dp/B0F2FP917T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71oJMOJL4eL._AC_UL640_.jpg
+  price: $23.79
+- title: Todlabe 13-Inch Carbon Steel Wok Pan with Glass Lid
+  asin: B0F9P1JM3X
+  url: https://www.amazon.com/dp/B0F9P1JM3X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61gfeQg32WL._AC_UL640_.jpg
+  price: $26.39
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '9064b649-de76-44f4-9923-29dccb893cd9'
-  PropagateID: '9064b649-de76-44f4-9923-29dccb893cd9'
-  ReservedCode1: 'b6f47a1f-5cac-4427-985d-c085e4f73a04'
-  ReservedCode2: 'b6f47a1f-5cac-4427-985d-c085e4f73a04'
+  ProduceID: 9064b649-de76-44f4-9923-29dccb893cd9
+  PropagateID: 9064b649-de76-44f4-9923-29dccb893cd9
+  ReservedCode1: b6f47a1f-5cac-4427-985d-c085e4f73a04
+  ReservedCode2: b6f47a1f-5cac-4427-985d-c085e4f73a04
 ---
 
 ## 御膳房里长出的传奇

@@ -1,39 +1,50 @@
-﻿---
-title: "悬空寺：挂在悬崖上的千年奇迹"
-description: "悬空寺挂在悬崖上一千五百年——离地50米的木构寺庙融合佛道儒三教，世界建筑史上的悬空奇迹。"
-youtubeId: "Je9Y3pRyfX8"
-coverImage: "https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg"
-channel: "Travel East"
-duration: "23:09"
+---
+title: 悬空寺：挂在悬崖上的千年奇迹
+description: 悬空寺挂在悬崖上一千五百年——离地50米的木构寺庙融合佛道儒三教，世界建筑史上的悬空奇迹。
+youtubeId: Je9Y3pRyfX8
+coverImage: https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg
+channel: Travel East
+duration: '23:09'
 publishedAt: 2025-03-22
 lang: zh
-tags: ["悬空寺", "恒山", "山西", "古建筑", "佛教", "道教", "悬崖建筑"]
+tags:
+- 悬空寺
+- 恒山
+- 山西
+- 古建筑
+- 佛教
+- 道教
+- 悬崖建筑
 featured: false
 affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Shanxi Province China Travel Guide - Temples and Ancient Sites"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$32.00"
+- title: Lonely Planet China Travel Guide - Comprehensive Edition
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: Shanxi Province China Travel Guide - Temples and Ancient Sites
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $21.99
+- title: Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $32.00
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'c32bc031-e13b-4904-abe8-5cdca8909873'
-  PropagateID: 'c32bc031-e13b-4904-abe8-5cdca8909873'
-  ReservedCode1: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
-  ReservedCode2: 'c7667d4a-dc49-467f-b9f2-67e32d45b6be'
-
+  ProduceID: c32bc031-e13b-4904-abe8-5cdca8909873
+  PropagateID: c32bc031-e13b-4904-abe8-5cdca8909873
+  ReservedCode1: c7667d4a-dc49-467f-b9f2-67e32d45b6be
+  ReservedCode2: c7667d4a-dc49-467f-b9f2-67e32d45b6be
 ---
 
 ## 凌空而立的建筑奇观

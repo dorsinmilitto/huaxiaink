@@ -1,25 +1,38 @@
-﻿---
-title: "Shaolin Temple: The Birthplace of Kung Fu"
-description: "For 1,500 years, Shaolin Temple has been the cradle of Chinese martial arts. How Buddhist monks turned meditation into the world's most iconic fighting system — and why it still matters today."
-youtubeId: "9_qaHh2RF4Y"
-coverImage: "https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg"
-channel: "Sadhguru"
-duration: "6:57"
+---
+title: 'Shaolin Temple: The Birthplace of Kung Fu'
+description: For 1,500 years, Shaolin Temple has been the cradle of Chinese martial
+  arts. How Buddhist monks turned meditation into the world's most iconic fighting
+  system — and why it still matters today.
+youtubeId: 9_qaHh2RF4Y
+coverImage: https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg
+channel: Sadhguru
+duration: '6:57'
 publishedAt: 2024-03-15
 lang: en
-tags: ["shaolin", "kung-fu", "martial-arts", "buddhism", "henan", "chinese-history"]
+tags:
+- shaolin
+- kung-fu
+- martial-arts
+- buddhism
+- henan
+- chinese-history
 featured: true
 affiliate:
-  - asin: "1440474176"
-    title: "The Art of Shaolin Kung Fu"
-    url: "https://www.amazon.com/dp/1440474176?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg"
-    price: "$34.20"
-  - asin: "0804834393"
-    title: "The Shaolin Grandmasters Text"
-    url: "https://www.amazon.com/dp/0804834393?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg"
-    price: "$9.99"
+- asin: '1440474176'
+  title: The Art of Shaolin Kung Fu
+  url: https://www.amazon.com/dp/1440474176?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg
+  price: $34.20
+- asin: 0804834393
+  title: The Shaolin Grandmasters Text
+  url: https://www.amazon.com/dp/0804834393?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg
+  price: $9.99
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## The Origin of Kung Fu

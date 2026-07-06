@@ -1,38 +1,52 @@
-﻿---
-title: "Jianzi: The Chinese Hacky Sack That Predates Football by Two Millennia"
-description: "Jianzi — the Chinese hacky sack that predates football by 2,000 years — from Han dynasty royal courts to modern street corners, a national sport requiring no field."
-youtubeId: "JVSC2qmDQjM"
-coverImage: "https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg"
-channel: "CGTN"
-duration: "5:47"
+---
+title: 'Jianzi: The Chinese Hacky Sack That Predates Football by Two Millennia'
+description: Jianzi — the Chinese hacky sack that predates football by 2,000 years
+  — from Han dynasty royal courts to modern street corners, a national sport requiring
+  no field.
+youtubeId: JVSC2qmDQjM
+coverImage: https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg
+channel: CGTN
+duration: '5:47'
 publishedAt: 2020-12-22
 lang: en
-tags: ["jianzi", "shuttlecock", "chinese-sport", "traditional-game", "featherball", "folk-sport", "street-game"]
+tags:
+- jianzi
+- shuttlecock
+- chinese-sport
+- traditional-game
+- featherball
+- folk-sport
+- street-game
 featured: false
 affiliate:
-  - title: "5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch"
-    asin: "B0DBFZDRGC"
-    url: "https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg"
-    price: "$12.99"
-  - title: "2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport"
-    asin: "B0D13S11BZ"
-    url: "https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi"
-    asin: "B0CXDHQWXC"
-    url: "https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg"
-    price: "$10.99"
+- title: 5 Pack Chinese Jianzi Shuttlecock Foot Feather Sports Toy 7.5 Inch
+  asin: B0DBFZDRGC
+  url: https://www.amazon.com/dp/B0DBFZDRGC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71A2FCH5Y3L._AC_UL640_.jpg
+  price: $12.99
+- title: 2PCS Jianzi Shuttlecock Kick Vietnamese Feather Foot Sport
+  asin: B0D13S11BZ
+  url: https://www.amazon.com/dp/B0D13S11BZ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71pT2hE0WmL._AC_UL640_.jpg
+  price: $9.99
+- title: Jinshining 4Pcs Colorful Badminton Kick Shuttlecock Chinese Jianzi
+  asin: B0CXDHQWXC
+  url: https://www.amazon.com/dp/B0CXDHQWXC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sEp4iRpBL._AC_UL640_.jpg
+  price: $10.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '9591ca63-01cf-4224-96b9-a720574f9284'
-  PropagateID: '9591ca63-01cf-4224-96b9-a720574f9284'
-  ReservedCode1: '6161f247-8d73-4e9a-a066-f7b93e65def1'
-  ReservedCode2: '6161f247-8d73-4e9a-a066-f7b93e65def1'
+  ProduceID: 9591ca63-01cf-4224-96b9-a720574f9284
+  PropagateID: 9591ca63-01cf-4224-96b9-a720574f9284
+  ReservedCode1: 6161f247-8d73-4e9a-a066-f7b93e65def1
+  ReservedCode2: 6161f247-8d73-4e9a-a066-f7b93e65def1
 ---
 
 ## Four Feathers, One Rule: Don't Let It Touch the Ground

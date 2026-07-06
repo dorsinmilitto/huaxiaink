@@ -1,39 +1,49 @@
-﻿---
-title: "七巧板：七块木板拼出的千年智慧"
-description: "七块木板在欧几里得之前就教会中国几何——七巧板如何用三千年锻炼空间思维。"
-youtubeId: "X5mc-dkYLfI"
-coverImage: "https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg"
-channel: "mathverick"
-duration: "5:50"
+---
+title: 七巧板：七块木板拼出的千年智慧
+description: 七块木板在欧几里得之前就教会中国几何——七巧板如何用三千年锻炼空间思维。
+youtubeId: X5mc-dkYLfI
+coverImage: https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg
+channel: mathverick
+duration: '5:50'
 publishedAt: 2010-03-08
 lang: zh
-tags: ["七巧板", "智力游戏", "中国传统", "拼图", "益智", "古代游戏"]
+tags:
+- 七巧板
+- 智力游戏
+- 中国传统
+- 拼图
+- 益智
+- 古代游戏
 featured: false
 affiliate:
-  - title: "Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers"
-    asin: "B0CWS6XHJJ"
-    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
-    price: "$27.04"
-  - title: "Melissa & Doug Classic Tangram Wooden Puzzle"
-    asin: "B000GKUXX0"
-    url: "https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition"
-    asin: "B0B426KSXP"
-    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
-    price: "$23.99"
+- title: Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers
+  asin: B0CWS6XHJJ
+  url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
+  price: $27.04
+- title: Melissa & Doug Classic Tangram Wooden Puzzle
+  asin: B000GKUXX0
+  url: https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $15.99
+- title: Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition
+  asin: B0B426KSXP
+  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
+  price: $23.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'a9d03b15-3574-47c4-83a9-e9e94704ba07'
-  PropagateID: 'a9d03b15-3574-47c4-83a9-e9e94704ba07'
-  ReservedCode1: 'fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23'
-  ReservedCode2: 'fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23'
-
+  ProduceID: a9d03b15-3574-47c4-83a9-e9e94704ba07
+  PropagateID: a9d03b15-3574-47c4-83a9-e9e94704ba07
+  ReservedCode1: fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23
+  ReservedCode2: fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23
 ---
 
 ## 从宋代的宴席到世界的书桌

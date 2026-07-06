@@ -1,25 +1,36 @@
-﻿---
-title: "少林寺：功夫的诞生之地"
-description: "1500年来，少林寺是中国武术的摇篮。佛教僧侣如何将冥想转化为世界上最具标志性的格斗体系——以及它为何至今仍意义非凡。"
-youtubeId: "9_qaHh2RF4Y"
-coverImage: "https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg"
-channel: "Sadhguru"
-duration: "6:57"
+---
+title: 少林寺：功夫的诞生之地
+description: 1500年来，少林寺是中国武术的摇篮。佛教僧侣如何将冥想转化为世界上最具标志性的格斗体系——以及它为何至今仍意义非凡。
+youtubeId: 9_qaHh2RF4Y
+coverImage: https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg
+channel: Sadhguru
+duration: '6:57'
 publishedAt: 2024-03-15
 lang: zh
-tags: ["shaolin", "kung-fu", "martial-arts", "buddhism", "henan", "chinese-history"]
+tags:
+- shaolin
+- kung-fu
+- martial-arts
+- buddhism
+- henan
+- chinese-history
 featured: true
 affiliate:
-  - asin: "1440474176"
-    title: "The Art of Shaolin Kung Fu"
-    url: "https://www.amazon.com/dp/1440474176?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg"
-    price: "$34.20"
-  - asin: "0804834393"
-    title: "The Shaolin Grandmasters Text"
-    url: "https://www.amazon.com/dp/0804834393?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg"
-    price: "$9.99"
+- asin: '1440474176'
+  title: The Art of Shaolin Kung Fu
+  url: https://www.amazon.com/dp/1440474176?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81PXQ5l3MvL._AC_UL640_.jpg
+  price: $34.20
+- asin: 0804834393
+  title: The Shaolin Grandmasters Text
+  url: https://www.amazon.com/dp/0804834393?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51yEGpA1zEL._AC_UL640_.jpg
+  price: $9.99
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## 功夫的起源

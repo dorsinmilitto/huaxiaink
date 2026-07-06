@@ -1,38 +1,52 @@
-﻿---
-title: "The Li River: Where Chinese Landscape Painting Comes Alive"
-description: "The Li River is where Chinese landscape painting comes alive — Guilin's karst peaks, bamboo rafts, and misty waters have inspired poets for 1,500 years."
-youtubeId: "EIrV9JX5_mA"
-coverImage: "https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg"
-channel: "TRACKS - Travel Documentaries"
-duration: "46:08"
+---
+title: 'The Li River: Where Chinese Landscape Painting Comes Alive'
+description: The Li River is where Chinese landscape painting comes alive — Guilin's
+  karst peaks, bamboo rafts, and misty waters have inspired poets for 1,500 years.
+youtubeId: EIrV9JX5_mA
+coverImage: https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg
+channel: TRACKS - Travel Documentaries
+duration: '46:08'
 publishedAt: 2019-09-12
 lang: en
-tags: ["li-river", "guilin", "karst", "china-travel", "landscape", "river-cruise", "yangshuo", "guangxi"]
+tags:
+- li-river
+- guilin
+- karst
+- china-travel
+- landscape
+- river-cruise
+- yangshuo
+- guangxi
 featured: false
 affiliate:
-  - title: "Lonely Planet China Travel Guide - Comprehensive 2024 Edition"
-    asin: "1788687930"
-    url: "https://www.amazon.com/dp/1788687930?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "National Geographic China Adventure Map - Waterproof Tear-Resistant"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$24.97"
+- title: Lonely Planet China Travel Guide - Comprehensive 2024 Edition
+  asin: '1788687930'
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: $28.99
+- title: National Geographic China Adventure Map - Waterproof Tear-Resistant
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $28.99
+- title: China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $24.97
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'b45ba218-45b8-4906-86cf-9b8ea0b1702c'
-  PropagateID: 'b45ba218-45b8-4906-86cf-9b8ea0b1702c'
-  ReservedCode1: '2c5b7447-463c-47ca-91ab-7e435d7ee34d'
-  ReservedCode2: '2c5b7447-463c-47ca-91ab-7e435d7ee34d'
+  ProduceID: b45ba218-45b8-4906-86cf-9b8ea0b1702c
+  PropagateID: b45ba218-45b8-4906-86cf-9b8ea0b1702c
+  ReservedCode1: 2c5b7447-463c-47ca-91ab-7e435d7ee34d
+  ReservedCode2: 2c5b7447-463c-47ca-91ab-7e435d7ee34d
 ---
 
 ## The River That Painted Itself

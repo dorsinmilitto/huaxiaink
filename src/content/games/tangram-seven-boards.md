@@ -1,38 +1,51 @@
-﻿---
-title: "Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid"
-description: "Seven wooden pieces taught China geometry before Euclid — the tangram puzzle that's been shaping spatial thinking for 3,000 years and counting."
-youtubeId: "X5mc-dkYLfI"
-coverImage: "https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg"
-channel: "mathverick"
-duration: "5:50"
+---
+title: 'Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid'
+description: Seven wooden pieces taught China geometry before Euclid — the tangram
+  puzzle that's been shaping spatial thinking for 3,000 years and counting.
+youtubeId: X5mc-dkYLfI
+coverImage: https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg
+channel: mathverick
+duration: '5:50'
 publishedAt: 2010-03-08
 lang: en
-tags: ["tangram", "chinese-puzzle", "geometry", "seven-board", "brain-teaser", "math-history", "chinese-invention"]
+tags:
+- tangram
+- chinese-puzzle
+- geometry
+- seven-board
+- brain-teaser
+- math-history
+- chinese-invention
 featured: false
 affiliate:
-  - title: "Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers"
-    asin: "B0CWS6XHJJ"
-    url: "https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg"
-    price: "$27.04"
-  - title: "Melissa & Doug Classic Tangram Wooden Puzzle"
-    asin: "B000GKUXX0"
-    url: "https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition"
-    asin: "B0B426KSXP"
-    url: "https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg"
-    price: "$23.99"
+- title: Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers
+  asin: B0CWS6XHJJ
+  url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
+  price: $27.04
+- title: Melissa & Doug Classic Tangram Wooden Puzzle
+  asin: B000GKUXX0
+  url: https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $15.99
+- title: Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition
+  asin: B0B426KSXP
+  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
+  price: $23.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb'
-  PropagateID: '868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb'
-  ReservedCode1: 'af49ea54-84b3-4ec9-afff-dae6e0f69e0e'
-  ReservedCode2: 'af49ea54-84b3-4ec9-afff-dae6e0f69e0e'
+  ProduceID: 868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb
+  PropagateID: 868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb
+  ReservedCode1: af49ea54-84b3-4ec9-afff-dae6e0f69e0e
+  ReservedCode2: af49ea54-84b3-4ec9-afff-dae6e0f69e0e
 ---
 
 ## Seven Pieces, Infinite Possibilities

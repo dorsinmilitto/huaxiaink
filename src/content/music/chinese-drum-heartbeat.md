@@ -27,6 +27,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0BC5YRPS8?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/613YlFd0ZjL._AC_UL640_.jpg
   price: $40.99
+- asin: B0GYCXY8TD
+  title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
+  url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002

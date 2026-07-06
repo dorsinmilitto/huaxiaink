@@ -1,38 +1,50 @@
-﻿---
-title: "Xiangqi — Chinese Chess and the River That Divides Two Kingdoms"
-description: "Xiangqi splits the board with the Chu-Han border — Chinese chess where cannons jump, elephants can't cross rivers, and generals never leave the palace."
-youtubeId: "vklqOLf6mtU"
-coverImage: "https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg"
-channel: "Xiangqi Chinese Chess"
-duration: "12:38"
+---
+title: Xiangqi — Chinese Chess and the River That Divides Two Kingdoms
+description: Xiangqi splits the board with the Chu-Han border — Chinese chess where
+  cannons jump, elephants can't cross rivers, and generals never leave the palace.
+youtubeId: vklqOLf6mtU
+coverImage: https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg
+channel: Xiangqi Chinese Chess
+duration: '12:38'
 publishedAt: 2020-03-20
 lang: en
-tags: ["xiangqi", "chinese-chess", "strategy", "chinese-game", "river-border", "military-art"]
+tags:
+- xiangqi
+- chinese-chess
+- strategy
+- chinese-game
+- river-border
+- military-art
 featured: false
 affiliate:
-  - title: "GoodPlay Beechwood Chinese Chess Set Xiangqi"
-    asin: "B07K42VK4M"
-    url: "https://www.amazon.com/dp/B07K42VK4M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61WF30iLdGL._AC_UL640_.jpg"
-    price: "$19.90"
-  - title: "15 inch Chinese Chess Set Foldable Board"
-    asin: "B08B68RD31"
-    url: "https://www.amazon.com/dp/B08B68RD31?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61rDsujUcJL._AC_UL640_.jpg"
-    price: "$30.99"
-  - title: "Traditional Chinese Xiangqi Portable Chess Set"
-    asin: "B0BKYZT7VW"
-    url: "https://www.amazon.com/dp/B0BKYZT7VW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71EDVAlhNBL._AC_UL640_.jpg"
-    price: "$22.99"
+- title: GoodPlay Beechwood Chinese Chess Set Xiangqi
+  asin: B07K42VK4M
+  url: https://www.amazon.com/dp/B07K42VK4M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61WF30iLdGL._AC_UL640_.jpg
+  price: $19.90
+- title: 15 inch Chinese Chess Set Foldable Board
+  asin: B08B68RD31
+  url: https://www.amazon.com/dp/B08B68RD31?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61rDsujUcJL._AC_UL640_.jpg
+  price: $30.99
+- title: Traditional Chinese Xiangqi Portable Chess Set
+  asin: B0BKYZT7VW
+  url: https://www.amazon.com/dp/B0BKYZT7VW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71EDVAlhNBL._AC_UL640_.jpg
+  price: $22.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7e7cc1a6-0484-40d4-9d56-20a6ad6beccd'
-  PropagateID: '7e7cc1a6-0484-40d4-9d56-20a6ad6beccd'
-  ReservedCode1: '08d0628e-0971-4521-9030-b874573da875'
-  ReservedCode2: '08d0628e-0971-4521-9030-b874573da875'
+  ProduceID: 7e7cc1a6-0484-40d4-9d56-20a6ad6beccd
+  PropagateID: 7e7cc1a6-0484-40d4-9d56-20a6ad6beccd
+  ReservedCode1: 08d0628e-0971-4521-9030-b874573da875
+  ReservedCode2: 08d0628e-0971-4521-9030-b874573da875
 ---
 
 ## A Battlefield on Your Kitchen Table

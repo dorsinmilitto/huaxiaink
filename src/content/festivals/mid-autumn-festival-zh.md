@@ -1,38 +1,49 @@
-﻿---
-title: "中秋节——为什么中国人看到月亮就想家"
-description: "为什么14亿人仰望同一轮圆月就想家？中秋节揭示中国文化中最深的乡愁。"
-youtubeId: "iuzbA2I4KO8"
-coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
-channel: "CGTN"
-duration: "24:58"
+---
+title: 中秋节——为什么中国人看到月亮就想家
+description: 为什么14亿人仰望同一轮圆月就想家？中秋节揭示中国文化中最深的乡愁。
+youtubeId: iuzbA2I4KO8
+coverImage: https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg
+channel: CGTN
+duration: '24:58'
 publishedAt: 2024-09-15
 lang: zh
-tags: ["中秋节", "月饼", "月圆", "团圆", "嫦娥", "传统节日"]
+tags:
+- 中秋节
+- 月饼
+- 月圆
+- 团圆
+- 嫦娥
+- 传统节日
 featured: true
 affiliate:
-  - title: "Mooncake Mould Press with 11 Stamps"
-    asin: "B097BFJXP5"
-    url: "https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
+- title: Mooncake Mould Press with 11 Stamps
+  asin: B097BFJXP5
+  url: https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg
+  price: $15.99
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '05181142-51a8-4318-acb1-b5404dfe6999'
-  PropagateID: '05181142-51a8-4318-acb1-b5404dfe6999'
-  ReservedCode1: '1c831ab0-af63-4cd2-9c64-e4ee4661a883'
-  ReservedCode2: '1c831ab0-af63-4cd2-9c64-e4ee4661a883'
+  ProduceID: 05181142-51a8-4318-acb1-b5404dfe6999
+  PropagateID: 05181142-51a8-4318-acb1-b5404dfe6999
+  ReservedCode1: 1c831ab0-af63-4cd2-9c64-e4ee4661a883
+  ReservedCode2: 1c831ab0-af63-4cd2-9c64-e4ee4661a883
 ---
 
 ## 月亮，是一座桥

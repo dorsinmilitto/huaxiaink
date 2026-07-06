@@ -1,38 +1,49 @@
-﻿---
-title: "围棋——4000年的黑白博弈，教你什么都学不到（却学到了一切）"
-description: "围棋是四千年的黑白领土战争——一种教你战略、耐心和知道何时认输的棋盘艺术。"
-youtubeId: "oZTdT8MQexk"
-coverImage: "https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg"
-channel: "Go Magic"
-duration: "11:24"
+---
+title: 围棋——4000年的黑白博弈，教你什么都学不到（却学到了一切）
+description: 围棋是四千年的黑白领土战争——一种教你战略、耐心和知道何时认输的棋盘艺术。
+youtubeId: oZTdT8MQexk
+coverImage: https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg
+channel: Go Magic
+duration: '11:24'
 publishedAt: 2023-06-10
 lang: zh
-tags: ["围棋", "古代游戏", "中国策略", "黑白", "哲学", "传统文化"]
+tags:
+- 围棋
+- 古代游戏
+- 中国策略
+- 黑白
+- 哲学
+- 传统文化
 featured: true
 affiliate:
-  - title: "WE Games Go Game Set 12 Inch with Storage Drawers"
-    asin: "B0008EJXEW"
-    url: "https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg"
-    price: "$33.99"
-  - title: "19x19 Folding Go Game Set with Bamboo Bowls"
-    asin: "B0D5MKC51T"
-    url: "https://www.amazon.com/dp/B0D5MKC51T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81li90SbZUL._AC_UL640_.jpg"
-    price: "$36.99"
-  - title: "Yellow Mountain Imports 9x9 Go Set Beginner"
-    asin: "B00EK7UIY2"
-    url: "https://www.amazon.com/dp/B00EK7UIY2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qrfRm7GUL._AC_UL640_.jpg"
-    price: "$47.99"
+- title: WE Games Go Game Set 12 Inch with Storage Drawers
+  asin: B0008EJXEW
+  url: https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg
+  price: $33.99
+- title: 19x19 Folding Go Game Set with Bamboo Bowls
+  asin: B0D5MKC51T
+  url: https://www.amazon.com/dp/B0D5MKC51T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81li90SbZUL._AC_UL640_.jpg
+  price: $36.99
+- title: Yellow Mountain Imports 9x9 Go Set Beginner
+  asin: B00EK7UIY2
+  url: https://www.amazon.com/dp/B00EK7UIY2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qrfRm7GUL._AC_UL640_.jpg
+  price: $47.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1'
-  PropagateID: '93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1'
-  ReservedCode1: 'bd130e23-17b9-4088-a254-8f50464ca591'
-  ReservedCode2: 'bd130e23-17b9-4088-a254-8f50464ca591'
+  ProduceID: 93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1
+  PropagateID: 93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1
+  ReservedCode1: bd130e23-17b9-4088-a254-8f50464ca591
+  ReservedCode2: bd130e23-17b9-4088-a254-8f50464ca591
 ---
 
 ## 四千年了，还没人能破解它

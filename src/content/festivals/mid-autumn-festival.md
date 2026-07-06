@@ -1,38 +1,50 @@
-﻿---
-title: "Mid-Autumn Festival — Why the Chinese Look at the Moon and Think of Home"
-description: "Why do 1.4 billion people look at the same full moon and think of home? Mid-Autumn Festival reveals the deepest yearning in Chinese culture."
-youtubeId: "iuzbA2I4KO8"
-coverImage: "https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg"
-channel: "CGTN"
-duration: "24:58"
+---
+title: Mid-Autumn Festival — Why the Chinese Look at the Moon and Think of Home
+description: Why do 1.4 billion people look at the same full moon and think of home?
+  Mid-Autumn Festival reveals the deepest yearning in Chinese culture.
+youtubeId: iuzbA2I4KO8
+coverImage: https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg
+channel: CGTN
+duration: '24:58'
 publishedAt: 2024-09-15
 lang: en
-tags: ["mid-autumn", "mooncake", "moon-festival", "chinese-festival", "family-reunion", "chang-e"]
+tags:
+- mid-autumn
+- mooncake
+- moon-festival
+- chinese-festival
+- family-reunion
+- chang-e
 featured: true
 affiliate:
-  - title: "Mooncake Mould Press with 11 Stamps"
-    asin: "B097BFJXP5"
-    url: "https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Chinese/Japanese Gongfu Tea Set"
-    asin: "B08FYT6CCL"
-    url: "https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg"
-    price: "$34.80"
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
+- title: Mooncake Mould Press with 11 Stamps
+  asin: B097BFJXP5
+  url: https://www.amazon.com/dp/B097BFJXP5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61zoRwYwVqS._AC_UL640_.jpg
+  price: $15.99
+- title: Chinese/Japanese Gongfu Tea Set
+  asin: B08FYT6CCL
+  url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
+  price: $34.80
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '0006a73e-216c-43d5-805c-8e1b36402f4d'
-  PropagateID: '0006a73e-216c-43d5-805c-8e1b36402f4d'
-  ReservedCode1: '7084abbf-2349-4ac1-b4cb-7c441fba2af1'
-  ReservedCode2: '7084abbf-2349-4ac1-b4cb-7c441fba2af1'
+  ProduceID: 0006a73e-216c-43d5-805c-8e1b36402f4d
+  PropagateID: 0006a73e-216c-43d5-805c-8e1b36402f4d
+  ReservedCode1: 7084abbf-2349-4ac1-b4cb-7c441fba2af1
+  ReservedCode2: 7084abbf-2349-4ac1-b4cb-7c441fba2af1
 ---
 
 ## A Moon That Bridges a Thousand Miles

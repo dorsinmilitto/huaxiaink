@@ -1,38 +1,50 @@
-﻿---
-title: "Chinese New Year Lion Dance in Hong Kong — The Heartbeat of Spring Festival"
-description: "Experience Hong Kong's electrifying Chinese New Year lion dance — the tradition that kicks off Spring Festival with thundering drums and acrobatic lions."
-youtubeId: "Bs0GuU0cUtw"
-coverImage: "https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg"
-channel: "Asia HOT"
-duration: "8:00"
+---
+title: Chinese New Year Lion Dance in Hong Kong — The Heartbeat of Spring Festival
+description: Experience Hong Kong's electrifying Chinese New Year lion dance — the
+  tradition that kicks off Spring Festival with thundering drums and acrobatic lions.
+youtubeId: Bs0GuU0cUtw
+coverImage: https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg
+channel: Asia HOT
+duration: '8:00'
 publishedAt: 2019-02-06
 lang: en
-tags: ["chinese-new-year", "lion-dance", "hong-kong", "spring-festival", "tradition", "celebration"]
+tags:
+- chinese-new-year
+- lion-dance
+- hong-kong
+- spring-festival
+- tradition
+- celebration
 featured: true
 affiliate:
-  - title: "24 Pcs Red Silk Hanging Lantern Set"
-    asin: "B0B8NTPBB4"
-    url: "https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg"
-    price: "$36.99"
-  - title: "Whaline 72Pcs Red Envelopes"
-    asin: "B07L1HZHHC"
-    url: "https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 24 Pcs Red Silk Hanging Lantern Set
+  asin: B0B8NTPBB4
+  url: https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg
+  price: $36.99
+- title: Whaline 72Pcs Red Envelopes
+  asin: B07L1HZHHC
+  url: https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg
+  price: $16.99
+- title: I-MART Chinese Calligraphy Set
+  asin: B074FL5D9X
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '8c2e8393-4799-4fbb-af86-54f8bd46b2d2'
-  PropagateID: '8c2e8393-4799-4fbb-af86-54f8bd46b2d2'
-  ReservedCode1: '36bf8799-7bb0-49c9-b01b-3d178a1f3a09'
-  ReservedCode2: '36bf8799-7bb0-49c9-b01b-3d178a1f3a09'
+  ProduceID: 8c2e8393-4799-4fbb-af86-54f8bd46b2d2
+  PropagateID: 8c2e8393-4799-4fbb-af86-54f8bd46b2d2
+  ReservedCode1: 36bf8799-7bb0-49c9-b01b-3d178a1f3a09
+  ReservedCode2: 36bf8799-7bb0-49c9-b01b-3d178a1f3a09
 ---
 
 ## When the Lions Take the Streets

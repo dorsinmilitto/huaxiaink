@@ -1,38 +1,53 @@
-﻿---
-title: "Three Gorges: The Dam That Reshaped a River and a Civilization"
-description: "Three Gorges Dam reshaped the Yangtze River and a civilization — the world's largest hydro project that displaced millions and generated enough power for a nation."
-youtubeId: "gBobfHlvAVc"
-coverImage: "https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg"
-channel: "Lifeder"
-duration: "29:41"
+---
+title: 'Three Gorges: The Dam That Reshaped a River and a Civilization'
+description: Three Gorges Dam reshaped the Yangtze River and a civilization — the
+  world's largest hydro project that displaced millions and generated enough power
+  for a nation.
+youtubeId: gBobfHlvAVc
+coverImage: https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg
+channel: Lifeder
+duration: '29:41'
 publishedAt: 2025-10-01
 lang: en
-tags: ["three-gorges", "yangtze", "dam", "china", "river", "cruise", "landscape", "engineering"]
+tags:
+- three-gorges
+- yangtze
+- dam
+- china
+- river
+- cruise
+- landscape
+- engineering
 featured: false
 affiliate:
-  - title: "River Town: Two Years on the Yangtze"
-    asin: "0060855029"
-    url: "https://www.amazon.com/dp/0060855029?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91TMEkWfs2L._AC_UL640_.jpg"
-    price: "$16.93"
-  - title: "National Geographic China Adventure Map"
-    asin: "1566955920"
-    url: "https://www.amazon.com/dp/1566955920?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg"
-    price: "$28.99"
-  - title: "Scratch Off World Map with 233 Flags 36x24"
-    asin: "B084WVWNK1"
-    url: "https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg"
-    price: "$29.97"
+- title: 'River Town: Two Years on the Yangtze'
+  asin: 0060855029
+  url: https://www.amazon.com/dp/0060855029?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91TMEkWfs2L._AC_UL640_.jpg
+  price: $16.93
+- title: National Geographic China Adventure Map
+  asin: '1566955920'
+  url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
+  price: $28.99
+- title: Scratch Off World Map with 233 Flags 36x24
+  asin: B084WVWNK1
+  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
+  price: $29.97
+- asin: B0CKXBLLWV
+  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
+  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '71f8b337-3d8a-490f-b25d-14826c411a73'
-  PropagateID: '71f8b337-3d8a-490f-b25d-14826c411a73'
-  ReservedCode1: '351915a5-0c98-4743-8b15-e56ff9a52504'
-  ReservedCode2: '351915a5-0c98-4743-8b15-e56ff9a52504'
+  ProduceID: 71f8b337-3d8a-490f-b25d-14826c411a73
+  PropagateID: 71f8b337-3d8a-490f-b25d-14826c411a73
+  ReservedCode1: 351915a5-0c98-4743-8b15-e56ff9a52504
+  ReservedCode2: 351915a5-0c98-4743-8b15-e56ff9a52504
 ---
 
 ## A River That Carved a Nation

@@ -1,39 +1,50 @@
-﻿---
-title: "烤串：中国夜宵摊上的烟火传奇"
-description: "孜然羊肉串在午夜街头滋滋作响——中国夜宵如何把烤串变成深夜文化的灵魂。"
-youtubeId: "V0B8gz7kZTA"
-coverImage: "https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg"
-channel: "Blondie in China"
-duration: "14:12"
+---
+title: 烤串：中国夜宵摊上的烟火传奇
+description: 孜然羊肉串在午夜街头滋滋作响——中国夜宵如何把烤串变成深夜文化的灵魂。
+youtubeId: V0B8gz7kZTA
+coverImage: https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg
+channel: Blondie in China
+duration: '14:12'
 publishedAt: 2024-07-16
 lang: zh
-tags: ["烤串", "烧烤", "街头小吃", "新疆", "夜市", "孜然羊肉", "串儿"]
+tags:
+- 烤串
+- 烧烤
+- 街头小吃
+- 新疆
+- 夜市
+- 孜然羊肉
+- 串儿
 featured: false
 affiliate:
-  - title: "GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling"
-    asin: "B0931JFMRC"
-    url: "https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg"
-    price: "$8.99"
-  - title: "Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag"
-    asin: "B001VNECGI"
-    url: "https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg"
-    price: "$10.49"
-  - title: "Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack"
-    asin: "B0BV6MPHGM"
-    url: "https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg"
-    price: "$49.99"
+- title: GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling
+  asin: B0931JFMRC
+  url: https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg
+  price: $8.99
+- title: Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag
+  asin: B001VNECGI
+  url: https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg
+  price: $10.49
+- title: Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack
+  asin: B0BV6MPHGM
+  url: https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg
+  price: $49.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7188d005-dda7-437f-87e1-9bc1c275539a'
-  PropagateID: '7188d005-dda7-437f-87e1-9bc1c275539a'
-  ReservedCode1: '537a6076-c543-4386-9af0-ef686bc7e8d1'
-  ReservedCode2: '537a6076-c543-4386-9af0-ef686bc7e8d1'
-
+  ProduceID: 7188d005-dda7-437f-87e1-9bc1c275539a
+  PropagateID: 7188d005-dda7-437f-87e1-9bc1c275539a
+  ReservedCode1: 537a6076-c543-4386-9af0-ef686bc7e8d1
+  ReservedCode2: 537a6076-c543-4386-9af0-ef686bc7e8d1
 ---
 
 ## 火与签的古老对话

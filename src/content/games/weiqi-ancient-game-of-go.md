@@ -1,38 +1,51 @@
-﻿---
-title: "Weiqi — The 4,000-Year Game of Black and White That Teaches You Nothing (and Everything)"
-description: "Weiqi (Go) is 4,000 years of black and white territory wars on a wooden board — the game that teaches strategy, patience, and knowing when to lose."
-youtubeId: "oZTdT8MQexk"
-coverImage: "https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg"
-channel: "Go Magic"
-duration: "11:24"
+---
+title: Weiqi — The 4,000-Year Game of Black and White That Teaches You Nothing (and
+  Everything)
+description: Weiqi (Go) is 4,000 years of black and white territory wars on a wooden
+  board — the game that teaches strategy, patience, and knowing when to lose.
+youtubeId: oZTdT8MQexk
+coverImage: https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg
+channel: Go Magic
+duration: '11:24'
 publishedAt: 2023-06-10
 lang: en
-tags: ["weiqi", "go", "ancient-game", "chinese-strategy", "black-white", "philosophy"]
+tags:
+- weiqi
+- go
+- ancient-game
+- chinese-strategy
+- black-white
+- philosophy
 featured: true
 affiliate:
-  - title: "WE Games Go Game Set 12 Inch with Storage Drawers"
-    asin: "B0008EJXEW"
-    url: "https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg"
-    price: "$33.99"
-  - title: "19x19 Folding Go Game Set with Bamboo Bowls"
-    asin: "B0D5MKC51T"
-    url: "https://www.amazon.com/dp/B0D5MKC51T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81li90SbZUL._AC_UL640_.jpg"
-    price: "$36.99"
-  - title: "Yellow Mountain Imports 9x9 Go Set Beginner"
-    asin: "B00EK7UIY2"
-    url: "https://www.amazon.com/dp/B00EK7UIY2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71qrfRm7GUL._AC_UL640_.jpg"
-    price: "$47.99"
+- title: WE Games Go Game Set 12 Inch with Storage Drawers
+  asin: B0008EJXEW
+  url: https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg
+  price: $33.99
+- title: 19x19 Folding Go Game Set with Bamboo Bowls
+  asin: B0D5MKC51T
+  url: https://www.amazon.com/dp/B0D5MKC51T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81li90SbZUL._AC_UL640_.jpg
+  price: $36.99
+- title: Yellow Mountain Imports 9x9 Go Set Beginner
+  asin: B00EK7UIY2
+  url: https://www.amazon.com/dp/B00EK7UIY2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qrfRm7GUL._AC_UL640_.jpg
+  price: $47.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '1812f541-81c3-4fde-9a4e-8c0de910862b'
-  PropagateID: '1812f541-81c3-4fde-9a4e-8c0de910862b'
-  ReservedCode1: '0b41d14d-0682-4b67-969d-ce659ba584d2'
-  ReservedCode2: '0b41d14d-0682-4b67-969d-ce659ba584d2'
+  ProduceID: 1812f541-81c3-4fde-9a4e-8c0de910862b
+  PropagateID: 1812f541-81c3-4fde-9a4e-8c0de910862b
+  ReservedCode1: 0b41d14d-0682-4b67-969d-ce659ba584d2
+  ReservedCode2: 0b41d14d-0682-4b67-969d-ce659ba584d2
 ---
 
 ## The Oldest Game Nobody Has Solved

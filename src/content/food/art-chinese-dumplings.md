@@ -1,38 +1,50 @@
-﻿---
-title: "The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough"
-description: "Chinese dumplings fold 1,800 years of story into dough — from Han dynasty battlefield medicine to the must-have dish of Spring Festival reunion dinners."
-youtubeId: "EcqqhQqemxU"
-coverImage: "https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg"
-channel: "Tasty"
-duration: "6:12"
+---
+title: 'The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough'
+description: Chinese dumplings fold 1,800 years of story into dough — from Han dynasty
+  battlefield medicine to the must-have dish of Spring Festival reunion dinners.
+youtubeId: EcqqhQqemxU
+coverImage: https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg
+channel: Tasty
+duration: '6:12'
 publishedAt: 2024-01-15
 lang: en
-tags: ["dumplings", "jiaozi", "chinese-food", "ancient-recipes", "cooking-tradition", "bao"]
+tags:
+- dumplings
+- jiaozi
+- chinese-food
+- ancient-recipes
+- cooking-tradition
+- bao
 featured: true
 affiliate:
-  - title: "6.6'' Baozi Maker Machine"
-    asin: "B0D5HJ3JBL"
-    url: "https://www.amazon.com/dp/B0D5HJ3JBL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61QfR6ad65L._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "Empanada/Dumpling Maker Press"
-    asin: "B0CZ8YS2F9"
-    url: "https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg"
-    price: "$18.99"
-  - title: "Bamboo Steamer 10 Inch 2 Tier"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
+- title: 6.6'' Baozi Maker Machine
+  asin: B0D5HJ3JBL
+  url: https://www.amazon.com/dp/B0D5HJ3JBL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61QfR6ad65L._AC_UL640_.jpg
+  price: $15.99
+- title: Empanada/Dumpling Maker Press
+  asin: B0CZ8YS2F9
+  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
+  price: $18.99
+- title: Bamboo Steamer 10 Inch 2 Tier
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'dd280935-30ff-4e69-8512-4fb929e39b79'
-  PropagateID: 'dd280935-30ff-4e69-8512-4fb929e39b79'
-  ReservedCode1: '507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92'
-  ReservedCode2: '507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92'
+  ProduceID: dd280935-30ff-4e69-8512-4fb929e39b79
+  PropagateID: dd280935-30ff-4e69-8512-4fb929e39b79
+  ReservedCode1: 507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92
+  ReservedCode2: 507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92
 ---
 
 ## A Doctor's Prescription Became the World's Favorite Comfort Food

@@ -37,6 +37,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0FNW694F8?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51D-O9LUOOL._AC_UL640_.jpg
   price: $24.43
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
   ContentProducer: 001191110102MAD55U9H0F10002
   ContentPropagator: 001191110102MAD55U9H0F10002

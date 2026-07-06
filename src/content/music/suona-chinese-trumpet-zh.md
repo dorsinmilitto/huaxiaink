@@ -1,39 +1,50 @@
-﻿---
-title: "唢呐：百乐之王的狂放与深情"
-description: "唢呐是百乐之王——婚礼的红、丧礼的白，一千七百年来一个铜碗震碎所有耳膜。"
-youtubeId: "FYbNqSXZPd0"
-coverImage: "https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg"
-channel: "CGTN"
-duration: "5:49"
+---
+title: 唢呐：百乐之王的狂放与深情
+description: 唢呐是百乐之王——婚礼的红、丧礼的白，一千七百年来一个铜碗震碎所有耳膜。
+youtubeId: FYbNqSXZPd0
+coverImage: https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg
+channel: CGTN
+duration: '5:49'
 publishedAt: 2020-12-25
 lang: zh
-tags: ["唢呐", "中国乐器", "传统音乐", "婚丧嫁娶", "民间音乐", "百乐之王"]
+tags:
+- 唢呐
+- 中国乐器
+- 传统音乐
+- 婚丧嫁娶
+- 民间音乐
+- 百乐之王
 featured: false
 affiliate:
-  - title: "D Key Suona Chinese Traditional Musical Instrument for Beginners and Professionals"
-    asin: "B0CXDWYWC2"
-    url: "https://www.amazon.com/dp/B0CXDWYWC2?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61sfvj6mEOL._AC_UL640_.jpg"
-    price: "$35.99"
-  - title: "angwang Suona Reed Mouth, 4 Pcs Chinese National Musical Instrument Suona Reed"
-    asin: "B08JCBY597"
-    url: "https://www.amazon.com/dp/B08JCBY597?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/619q4OeN7lL._AC_UL640_.jpg"
-    price: "$8.99"
-  - title: "Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide"
-    asin: "B0CQN9TVWD"
-    url: "https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg"
-    price: "$9.99"
+- title: D Key Suona Chinese Traditional Musical Instrument for Beginners and Professionals
+  asin: B0CXDWYWC2
+  url: https://www.amazon.com/dp/B0CXDWYWC2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61sfvj6mEOL._AC_UL640_.jpg
+  price: $35.99
+- title: angwang Suona Reed Mouth, 4 Pcs Chinese National Musical Instrument Suona
+    Reed
+  asin: B08JCBY597
+  url: https://www.amazon.com/dp/B08JCBY597?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/619q4OeN7lL._AC_UL640_.jpg
+  price: $8.99
+- title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'
+  asin: B0CQN9TVWD
+  url: https://www.amazon.com/dp/B0CQN9TVWD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71V5j9nhMZL._AC_UL640_.jpg
+  price: $9.99
+- asin: B0GYCXY8TD
+  title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
+  url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
+  price: $4.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '4282c7b7-b82c-4e81-a5ef-d818f9499ab7'
-  PropagateID: '4282c7b7-b82c-4e81-a5ef-d818f9499ab7'
-  ReservedCode1: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
-  ReservedCode2: '3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e'
-
+  ProduceID: 4282c7b7-b82c-4e81-a5ef-d818f9499ab7
+  PropagateID: 4282c7b7-b82c-4e81-a5ef-d818f9499ab7
+  ReservedCode1: 3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e
+  ReservedCode2: 3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e
 ---
 
 ## 西来东渐：唢呐的丝路旅程

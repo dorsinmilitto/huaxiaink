@@ -1,38 +1,49 @@
-﻿---
-title: "龙舟竞渡：从悲愤中诞生的千年竞速"
-description: "龙舟竞渡如何从一个诗人的悲壮殉国演变为中国最热血的水上运动——跨越两千年的竞速传奇。"
-youtubeId: "YlPExNPyPwQ"
-coverImage: "https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg"
-channel: "National Geographic"
-duration: "3:21"
+---
+title: 龙舟竞渡：从悲愤中诞生的千年竞速
+description: 龙舟竞渡如何从一个诗人的悲壮殉国演变为中国最热血的水上运动——跨越两千年的竞速传奇。
+youtubeId: YlPExNPyPwQ
+coverImage: https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg
+channel: National Geographic
+duration: '3:21'
 publishedAt: 2024-06-10
 lang: zh
-tags: ["龙舟", "端午节", "屈原", "中国传统", "龙舟竞渡", "民俗"]
+tags:
+- 龙舟
+- 端午节
+- 屈原
+- 中国传统
+- 龙舟竞渡
+- 民俗
 featured: true
 affiliate:
-  - title: "Large 23inch White Round Paper Lantern"
-    asin: "B0C5D737ZS"
-    url: "https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg"
-    price: "$28.22"
-  - title: "Paper Lanterns Party Decorations"
-    asin: "B0D5GRT48T"
-    url: "https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg"
-    price: "$15.99"
-  - title: "12Pack Paper Lanterns with LED Lights"
-    asin: "B0BDDWZKNL"
-    url: "https://www.amazon.com/dp/B0BDDWZKNL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71F7pRHlDWL._AC_UL640_.jpg"
-    price: "$19.48"
+- title: Large 23inch White Round Paper Lantern
+  asin: B0C5D737ZS
+  url: https://www.amazon.com/dp/B0C5D737ZS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71WItzjUbRL._AC_UL640_.jpg
+  price: $28.22
+- title: Paper Lanterns Party Decorations
+  asin: B0D5GRT48T
+  url: https://www.amazon.com/dp/B0D5GRT48T?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71ti7e4L2KL._AC_UL640_.jpg
+  price: $15.99
+- title: 12Pack Paper Lanterns with LED Lights
+  asin: B0BDDWZKNL
+  url: https://www.amazon.com/dp/B0BDDWZKNL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71F7pRHlDWL._AC_UL640_.jpg
+  price: $19.48
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '68178ba5-c270-42d7-a3c5-62b76c988ca3'
-  PropagateID: '68178ba5-c270-42d7-a3c5-62b76c988ca3'
-  ReservedCode1: '1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab'
-  ReservedCode2: '1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab'
+  ProduceID: 68178ba5-c270-42d7-a3c5-62b76c988ca3
+  PropagateID: 68178ba5-c270-42d7-a3c5-62b76c988ca3
+  ReservedCode1: 1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab
+  ReservedCode2: 1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab
 ---
 
 ## 诗人的最后一程

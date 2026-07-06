@@ -1,25 +1,38 @@
-﻿---
-title: "Wudang Mountain: Where Daoist Sword Dance Was Born"
-description: "High in the misty Wudang Mountains, Daoist monks transformed swordplay into spiritual practice. The legendary Zhang Sanfeng created internal martial arts that still thrive 700 years later."
-youtubeId: "dxI3LTp2Grw"
-coverImage: "https://i.ytimg.com/vi/dxI3LTp2Grw/hqdefault.jpg"
-channel: "Free Documentary"
-duration: "50:00"
+---
+title: 'Wudang Mountain: Where Daoist Sword Dance Was Born'
+description: High in the misty Wudang Mountains, Daoist monks transformed swordplay
+  into spiritual practice. The legendary Zhang Sanfeng created internal martial arts
+  that still thrive 700 years later.
+youtubeId: dxI3LTp2Grw
+coverImage: https://i.ytimg.com/vi/dxI3LTp2Grw/hqdefault.jpg
+channel: Free Documentary
+duration: '50:00'
 publishedAt: 2024-02-10
 lang: en
-tags: ["wudang", "kung-fu", "daoism", "internal-martial-arts", "sword", "zhang-sanfeng"]
+tags:
+- wudang
+- kung-fu
+- daoism
+- internal-martial-arts
+- sword
+- zhang-sanfeng
 featured: true
 affiliate:
-  - asin: "B07C9CH8NB"
-    title: "Chinese Sword Training"
-    url: "https://www.amazon.com/dp/B07C9CH8NB?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81JMAoX0NqL._AC_UL640_.jpg"
-    price: "$46.88"
-  - asin: "B0CF48R8SL"
-    title: "Chinese Martial Arts Sword"
-    url: "https://www.amazon.com/dp/B0CF48R8SL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61rsjzBHypL._AC_UL640_.jpg"
-    price: "$39.99"
+- asin: B07C9CH8NB
+  title: Chinese Sword Training
+  url: https://www.amazon.com/dp/B07C9CH8NB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81JMAoX0NqL._AC_UL640_.jpg
+  price: $46.88
+- asin: B0CF48R8SL
+  title: Chinese Martial Arts Sword
+  url: https://www.amazon.com/dp/B0CF48R8SL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61rsjzBHypL._AC_UL640_.jpg
+  price: $39.99
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## The Sacred Peaks of Wudang

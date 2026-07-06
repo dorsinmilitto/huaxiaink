@@ -1,33 +1,44 @@
 ---
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd2b60802-397a-48aa-bf80-4e334008736f'
-  PropagateID: 'd2b60802-397a-48aa-bf80-4e334008736f'
-  ReservedCode1: 'caf9ce1d-92a7-4494-bd20-8ef260acdfe4'
-  ReservedCode2: 'caf9ce1d-92a7-4494-bd20-8ef260acdfe4'
-title: "从李小龙到成龙：功夫电影如何征服世界"
-description: "功夫电影不仅是娱乐——它塑造了全世界对中国的认知。从邵氏片场到《黑客帝国》，银幕上武术的演变之路。"
-youtubeId: "I-Zzr50se_Q"
-coverImage: "https://i.ytimg.com/vi/I-Zzr50se_Q/hqdefault.jpg"
-channel: "SLICE Full Doc"
-duration: "46:00"
+  ProduceID: d2b60802-397a-48aa-bf80-4e334008736f
+  PropagateID: d2b60802-397a-48aa-bf80-4e334008736f
+  ReservedCode1: caf9ce1d-92a7-4494-bd20-8ef260acdfe4
+  ReservedCode2: caf9ce1d-92a7-4494-bd20-8ef260acdfe4
+title: 从李小龙到成龙：功夫电影如何征服世界
+description: 功夫电影不仅是娱乐——它塑造了全世界对中国的认知。从邵氏片场到《黑客帝国》，银幕上武术的演变之路。
+youtubeId: I-Zzr50se_Q
+coverImage: https://i.ytimg.com/vi/I-Zzr50se_Q/hqdefault.jpg
+channel: SLICE Full Doc
+duration: '46:00'
 publishedAt: 2024-01-20
 lang: zh
-tags: ["bruce-lee", "jackie-chan", "kung-fu-films", "shaw-brothers", "cinema", "hong-kong"]
+tags:
+- bruce-lee
+- jackie-chan
+- kung-fu-films
+- shaw-brothers
+- cinema
+- hong-kong
 featured: true
 affiliate:
-  - asin: "B09X1XPG8R"
-    title: "Bruce Lee Film Collection"
-    url: "https://www.amazon.com/dp/B09X1XPG8R?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61+BU+BndhL._AC_UL640_.jpg"
-    price: "$24.99"
-  - asin: "B00005QW4W"
-    title: "Enter the Dragon DVD"
-    url: "https://www.amazon.com/dp/B00005QW4W?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/5149VC2AAPL._AC_UL640_.jpg"
-    price: "$6.04"
+- asin: B09X1XPG8R
+  title: Bruce Lee Film Collection
+  url: https://www.amazon.com/dp/B09X1XPG8R?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61+BU+BndhL._AC_UL640_.jpg
+  price: $24.99
+- asin: B00005QW4W
+  title: Enter the Dragon DVD
+  url: https://www.amazon.com/dp/B00005QW4W?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/5149VC2AAPL._AC_UL640_.jpg
+  price: $6.04
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## 邵氏时代：功夫电影的摇篮

@@ -1,38 +1,52 @@
-﻿---
-title: "Where Winds Meet: How a Chinese Wuxia Game Conquered 15 Million Players Worldwide"
-description: "Where Winds Meet brought wuxia to 15 million global players — the open-world Tang dynasty adventure that made the world fall for Chinese martial arts fantasy."
-youtubeId: "cpY_JFJRA9Q"
-coverImage: "https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg"
-channel: "IGN"
-duration: "2:18"
+---
+title: 'Where Winds Meet: How a Chinese Wuxia Game Conquered 15 Million Players Worldwide'
+description: Where Winds Meet brought wuxia to 15 million global players — the open-world
+  Tang dynasty adventure that made the world fall for Chinese martial arts fantasy.
+youtubeId: cpY_JFJRA9Q
+coverImage: https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg
+channel: IGN
+duration: '2:18'
 publishedAt: 2025-11-15
 lang: en
-tags: ["wuxia", "chinese-game", "where-winds-meet", "martial-arts", "open-world", "netease", "cultural-export"]
+tags:
+- wuxia
+- chinese-game
+- where-winds-meet
+- martial-arts
+- open-world
+- netease
+- cultural-export
 featured: true
 affiliate:
-  - title: "A Hero Born: The Definitive Edition (Legends of the Condor Heroes, 1)"
-    asin: "1250220602"
-    url: "https://www.amazon.com/dp/1250220602?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61S20snBe+L._SY300_.jpg"
-    price: "$24.95"
-  - title: "A Snake Lies Waiting: The Definitive Edition (Legends of the Condor Heroes, 3)"
-    asin: "1250250129"
-    url: "https://www.amazon.com/dp/1250250129?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91TKpYe2cVL._SY300_.jpg"
-    price: "$30.99"
-  - title: "The Shaolin Monastery: History, Religion, and the Chinese Martial Arts"
-    asin: "082483349X"
-    url: "https://www.amazon.com/dp/082483349X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81T64qdaCpL._SY300_.jpg"
-    price: "$29.00"
+- title: 'A Hero Born: The Definitive Edition (Legends of the Condor Heroes, 1)'
+  asin: '1250220602'
+  url: https://www.amazon.com/dp/1250220602?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61S20snBe+L._SY300_.jpg
+  price: $24.95
+- title: 'A Snake Lies Waiting: The Definitive Edition (Legends of the Condor Heroes,
+    3)'
+  asin: '1250250129'
+  url: https://www.amazon.com/dp/1250250129?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91TKpYe2cVL._SY300_.jpg
+  price: $30.99
+- title: 'The Shaolin Monastery: History, Religion, and the Chinese Martial Arts'
+  asin: 082483349X
+  url: https://www.amazon.com/dp/082483349X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81T64qdaCpL._SY300_.jpg
+  price: $29.00
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '6413c82c-7603-48b4-8441-317bdf4c1629'
-  PropagateID: '6413c82c-7603-48b4-8441-317bdf4c1629'
-  ReservedCode1: 'd32ddd7a-2737-408c-9660-7e5706752f00'
-  ReservedCode2: 'd32ddd7a-2737-408c-9660-7e5706752f00'
+  ProduceID: 6413c82c-7603-48b4-8441-317bdf4c1629
+  PropagateID: 6413c82c-7603-48b4-8441-317bdf4c1629
+  ReservedCode1: d32ddd7a-2737-408c-9660-7e5706752f00
+  ReservedCode2: d32ddd7a-2737-408c-9660-7e5706752f00
 ---
 
 ## The Game That Brought Wuxia to the World

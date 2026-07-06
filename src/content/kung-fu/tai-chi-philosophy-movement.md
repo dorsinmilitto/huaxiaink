@@ -1,25 +1,38 @@
-﻿---
-title: "The Philosophy of Tai Chi: Movement as Meditation"
-description: "Tai Chi blends Daoist philosophy with martial power — slow movements hiding devastating force. From Chen Village to Harvard Medical School, discover why the world is embracing this ancient art."
-youtubeId: "4c-ywGdAiAo"
-coverImage: "https://i.ytimg.com/vi/4c-ywGdAiAo/hqdefault.jpg"
-channel: "George Thompson"
-duration: "8:09"
+---
+title: 'The Philosophy of Tai Chi: Movement as Meditation'
+description: Tai Chi blends Daoist philosophy with martial power — slow movements
+  hiding devastating force. From Chen Village to Harvard Medical School, discover
+  why the world is embracing this ancient art.
+youtubeId: 4c-ywGdAiAo
+coverImage: https://i.ytimg.com/vi/4c-ywGdAiAo/hqdefault.jpg
+channel: George Thompson
+duration: '8:09'
 publishedAt: 2024-04-01
 lang: en
-tags: ["tai-chi", "kung-fu", "philosophy", "taoism", "yin-yang", "martial-arts"]
+tags:
+- tai-chi
+- kung-fu
+- philosophy
+- taoism
+- yin-yang
+- martial-arts
 featured: true
 affiliate:
-  - asin: "B0H1CR5MZ8"
-    title: "Tai Chi for Beginners"
-    url: "https://www.amazon.com/dp/B0H1CR5MZ8?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/718ai3bnevL._AC_UL640_.jpg"
-    price: "$22.95"
-  - asin: "B0GXTQS243"
-    title: "Tai Chi Health Guide"
-    url: "https://www.amazon.com/dp/B0GXTQS243?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71JHSwzP-KL._AC_UL640_.jpg"
-    price: "$21.97"
+- asin: B0H1CR5MZ8
+  title: Tai Chi for Beginners
+  url: https://www.amazon.com/dp/B0H1CR5MZ8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/718ai3bnevL._AC_UL640_.jpg
+  price: $22.95
+- asin: B0GXTQS243
+  title: Tai Chi Health Guide
+  url: https://www.amazon.com/dp/B0GXTQS243?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71JHSwzP-KL._AC_UL640_.jpg
+  price: $21.97
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## Daoist Roots: Where Philosophy Meets Flesh

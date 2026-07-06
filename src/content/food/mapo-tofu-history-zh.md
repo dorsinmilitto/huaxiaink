@@ -1,39 +1,50 @@
-﻿---
-title: "麻婆豆腐：让世界着迷的川菜之魂"
-description: "麻婆豆腐1862年点燃四川——然后征服世界。麻脸婆婆的豆腐如何成为全球最受欢迎的中国菜。"
-youtubeId: "uL_YQMkkbUg"
-coverImage: "https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg"
-channel: "Chinese Cooking Demystified"
-duration: "23:19"
+---
+title: 麻婆豆腐：让世界着迷的川菜之魂
+description: 麻婆豆腐1862年点燃四川——然后征服世界。麻脸婆婆的豆腐如何成为全球最受欢迎的中国菜。
+youtubeId: uL_YQMkkbUg
+coverImage: https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg
+channel: Chinese Cooking Demystified
+duration: '23:19'
 publishedAt: 2025-01-07
 lang: zh
-tags: ["麻婆豆腐", "川菜", "豆腐", "中国美食", "陈麻婆", "麻辣", "成都"]
+tags:
+- 麻婆豆腐
+- 川菜
+- 豆腐
+- 中国美食
+- 陈麻婆
+- 麻辣
+- 成都
 featured: false
 affiliate:
-  - title: "52USA Sichuan Peppercorns, 4OZ Authentic Szechuan Red Peppercorn"
-    asin: "B0FQF5ZZCL"
-    url: "https://www.amazon.com/dp/B0FQF5ZZCL?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71pIlCSAe3L._AC_UL640_.jpg"
-    price: "$10.99"
-  - title: "14 Inch Cast Iron Wok with Flat Base and Handles - Pre-Seasoned"
-    asin: "B07H7XNFP8"
-    url: "https://www.amazon.com/dp/B07H7XNFP8?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/710TLXFAf7L._AC_UL640_.jpg"
-    price: "$49.99"
-  - title: "Chinese Food At Home: Simple and Authentic Sichuan Family Cookbook"
-    asin: "B07DFLNTT8"
-    url: "https://www.amazon.com/dp/B07DFLNTT8?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91H9OOvvTTL._AC_UL640_.jpg"
-    price: "$9.99"
+- title: 52USA Sichuan Peppercorns, 4OZ Authentic Szechuan Red Peppercorn
+  asin: B0FQF5ZZCL
+  url: https://www.amazon.com/dp/B0FQF5ZZCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71pIlCSAe3L._AC_UL640_.jpg
+  price: $10.99
+- title: 14 Inch Cast Iron Wok with Flat Base and Handles - Pre-Seasoned
+  asin: B07H7XNFP8
+  url: https://www.amazon.com/dp/B07H7XNFP8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/710TLXFAf7L._AC_UL640_.jpg
+  price: $49.99
+- title: 'Chinese Food At Home: Simple and Authentic Sichuan Family Cookbook'
+  asin: B07DFLNTT8
+  url: https://www.amazon.com/dp/B07DFLNTT8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91H9OOvvTTL._AC_UL640_.jpg
+  price: $9.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '8c1075b8-4fa6-4e24-b0da-82818e272c6b'
-  PropagateID: '8c1075b8-4fa6-4e24-b0da-82818e272c6b'
-  ReservedCode1: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
-  ReservedCode2: '29efa930-6d15-4ee4-a1b9-d1b10bb6064f'
-
+  ProduceID: 8c1075b8-4fa6-4e24-b0da-82818e272c6b
+  PropagateID: 8c1075b8-4fa6-4e24-b0da-82818e272c6b
+  ReservedCode1: 29efa930-6d15-4ee4-a1b9-d1b10bb6064f
+  ReservedCode2: 29efa930-6d15-4ee4-a1b9-d1b10bb6064f
 ---
 
 ## 麻子脸女人的传奇

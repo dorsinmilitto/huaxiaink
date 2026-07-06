@@ -1,38 +1,51 @@
-﻿---
-title: "Winter Solstice: Why Northern China Calls It 'Bigger Than New Year'"
-description: "Northern China calls Winter Solstice 'bigger than New Year' — discover the tangyuan and dumpling traditions that make the longest night the warmest reunion."
-youtubeId: "_6qel02Hw4c"
-coverImage: "https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg"
-channel: "SCCC"
-duration: "5:03"
+---
+title: 'Winter Solstice: Why Northern China Calls It ''Bigger Than New Year'''
+description: Northern China calls Winter Solstice 'bigger than New Year' — discover
+  the tangyuan and dumpling traditions that make the longest night the warmest reunion.
+youtubeId: _6qel02Hw4c
+coverImage: https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg
+channel: SCCC
+duration: '5:03'
 publishedAt: 2020-12-10
 lang: en
-tags: ["winter-solstice", "dongzhi", "chinese-festival", "dumplings", "shortest-day", "solar-term", "winter-tradition"]
+tags:
+- winter-solstice
+- dongzhi
+- chinese-festival
+- dumplings
+- shortest-day
+- solar-term
+- winter-tradition
 featured: false
 affiliate:
-  - title: "COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker"
-    asin: "B09DYP7J76"
-    url: "https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg"
-    price: "$9.99"
-  - title: "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant"
-    asin: "B0049B1VRW"
-    url: "https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W"
-    asin: "B0BPLRK1LN"
-    url: "https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg"
-    price: "$39.99"
+- title: COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker
+  asin: B09DYP7J76
+  url: https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg
+  price: $9.99
+- title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
+  asin: B0049B1VRW
+  url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
+  price: $16.99
+- title: 3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W
+  asin: B0BPLRK1LN
+  url: https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg
+  price: $39.99
+- asin: B0F26RW6T1
+  title: Chinese Knot with Tassels Festival Ornament Handmade
+  url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
+  price: $4.69
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '12e02e9d-9f16-4606-9661-53443e14d267'
-  PropagateID: '12e02e9d-9f16-4606-9661-53443e14d267'
-  ReservedCode1: '7c4f0526-28a5-464c-a5ff-2b4ab28469b0'
-  ReservedCode2: '7c4f0526-28a5-464c-a5ff-2b4ab28469b0'
+  ProduceID: 12e02e9d-9f16-4606-9661-53443e14d267
+  PropagateID: 12e02e9d-9f16-4606-9661-53443e14d267
+  ReservedCode1: 7c4f0526-28a5-464c-a5ff-2b4ab28469b0
+  ReservedCode2: 7c4f0526-28a5-464c-a5ff-2b4ab28469b0
 ---
 
 ## The Shortest Day, the Longest Tradition

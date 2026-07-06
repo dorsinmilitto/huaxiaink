@@ -1,38 +1,50 @@
-﻿---
-title: "Spring Festival Traditions: The 15-Day Ritual of Renewal"
-description: "From reunion dinner to Lantern Festival, explore the 15-day ritual of Spring Festival — the world's largest annual human migration and celebration."
-youtubeId: "r4Ql5MsSBT4"
-coverImage: "https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg"
-channel: "CGTN"
-duration: "25:31"
+---
+title: 'Spring Festival Traditions: The 15-Day Ritual of Renewal'
+description: From reunion dinner to Lantern Festival, explore the 15-day ritual of
+  Spring Festival — the world's largest annual human migration and celebration.
+youtubeId: r4Ql5MsSBT4
+coverImage: https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg
+channel: CGTN
+duration: '25:31'
 publishedAt: 2024-02-05
 lang: en
-tags: ["spring-festival", "chinese-new-year", "traditions", "red-envelopes", "reunion-dinner", "fireworks"]
+tags:
+- spring-festival
+- chinese-new-year
+- traditions
+- red-envelopes
+- reunion-dinner
+- fireworks
 featured: false
 affiliate:
-  - title: "13 PCS 3D Chinese Paper Dragon Decorations"
-    asin: "B0BFGWGGKY"
-    url: "https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg"
-    price: "$19.99"
-  - title: "Whaline 3D Dragon Ceiling Decorations 21Pcs"
-    asin: "B0BJCHM49S"
-    url: "https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71maE-lBM5L._AC_UL640_.jpg"
-    price: "$15.49"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 13 PCS 3D Chinese Paper Dragon Decorations
+  asin: B0BFGWGGKY
+  url: https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg
+  price: $19.99
+- title: Whaline 3D Dragon Ceiling Decorations 21Pcs
+  asin: B0BJCHM49S
+  url: https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71maE-lBM5L._AC_UL640_.jpg
+  price: $15.49
+- title: I-MART Chinese Calligraphy Set
+  asin: B074FL5D9X
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '309248f3-a8d3-477e-af37-1ef5ed330ed6'
-  PropagateID: '309248f3-a8d3-477e-af37-1ef5ed330ed6'
-  ReservedCode1: '93b67f54-8e4b-4e7e-920d-7693f60d3aa7'
-  ReservedCode2: '93b67f54-8e4b-4e7e-920d-7693f60d3aa7'
+  ProduceID: 309248f3-a8d3-477e-af37-1ef5ed330ed6
+  PropagateID: 309248f3-a8d3-477e-af37-1ef5ed330ed6
+  ReservedCode1: 93b67f54-8e4b-4e7e-920d-7693f60d3aa7
+  ReservedCode2: 93b67f54-8e4b-4e7e-920d-7693f60d3aa7
 ---
 
 ## Not a Day — a Season

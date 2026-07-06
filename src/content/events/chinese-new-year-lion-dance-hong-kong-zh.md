@@ -1,38 +1,49 @@
-﻿---
-title: "香港春节舞狮——农历新年的心跳"
-description: "感受香港春节舞狮的震撼力量——雷鸣般的鼓点与翻腾的醒狮，揭开农历新年最热血的序幕。"
-youtubeId: "Bs0GuU0cUtw"
-coverImage: "https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg"
-channel: "Asia HOT"
-duration: "8:00"
+---
+title: 香港春节舞狮——农历新年的心跳
+description: 感受香港春节舞狮的震撼力量——雷鸣般的鼓点与翻腾的醒狮，揭开农历新年最热血的序幕。
+youtubeId: Bs0GuU0cUtw
+coverImage: https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg
+channel: Asia HOT
+duration: '8:00'
 publishedAt: 2019-02-06
 lang: zh
-tags: ["春节", "舞狮", "香港", "农历新年", "传统文化", "新年庆典"]
+tags:
+- 春节
+- 舞狮
+- 香港
+- 农历新年
+- 传统文化
+- 新年庆典
 featured: true
 affiliate:
-  - title: "24 Pcs Red Silk Hanging Lantern Set"
-    asin: "B0B8NTPBB4"
-    url: "https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg"
-    price: "$36.99"
-  - title: "Whaline 72Pcs Red Envelopes"
-    asin: "B07L1HZHHC"
-    url: "https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg"
-    price: "$16.99"
-  - title: "I-MART Chinese Calligraphy Set"
-    asin: "B074FL5D9X"
-    url: "https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg"
-    price: "$21.99"
+- title: 24 Pcs Red Silk Hanging Lantern Set
+  asin: B0B8NTPBB4
+  url: https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg
+  price: $36.99
+- title: Whaline 72Pcs Red Envelopes
+  asin: B07L1HZHHC
+  url: https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81IYDlepzhL._AC_UL640_.jpg
+  price: $16.99
+- title: I-MART Chinese Calligraphy Set
+  asin: B074FL5D9X
+  url: https://www.amazon.com/dp/B074FL5D9X?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91e-RWOBo5L._AC_UL640_.jpg
+  price: $21.99
+- asin: B0GKPNC74V
+  title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
+  url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
+  price: $2.88
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: 'd67da943-29b2-430a-b013-6c56958c1ff2'
-  PropagateID: 'd67da943-29b2-430a-b013-6c56958c1ff2'
-  ReservedCode1: '5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f'
-  ReservedCode2: '5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f'
+  ProduceID: d67da943-29b2-430a-b013-6c56958c1ff2
+  PropagateID: d67da943-29b2-430a-b013-6c56958c1ff2
+  ReservedCode1: 5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f
+  ReservedCode2: 5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f
 ---
 
 ## 狮子上街的时刻

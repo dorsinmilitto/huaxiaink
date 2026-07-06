@@ -1,38 +1,50 @@
-﻿---
-title: "Dim Sum — The Morning Ritual That Invented Brunch 200 Years Ago"
-description: "Dim sum invented brunch 200 years before the word existed — the Cantonese morning tea ritual of bamboo baskets, push carts, and steamed perfection."
-youtubeId: "qAqvfxIgCaY"
-coverImage: "https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg"
-channel: "South China Morning Post"
-duration: "7:30"
+---
+title: Dim Sum — The Morning Ritual That Invented Brunch 200 Years Ago
+description: Dim sum invented brunch 200 years before the word existed — the Cantonese
+  morning tea ritual of bamboo baskets, push carts, and steamed perfection.
+youtubeId: qAqvfxIgCaY
+coverImage: https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg
+channel: South China Morning Post
+duration: '7:30'
 publishedAt: 2023-05-15
 lang: en
-tags: ["dim-sum", "yum-cha", "cantonese", "morning-tea", "dumplings", "hong-kong"]
+tags:
+- dim-sum
+- yum-cha
+- cantonese
+- morning-tea
+- dumplings
+- hong-kong
 featured: true
 affiliate:
-  - title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket"
-    asin: "B09YWK6CWW"
-    url: "https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg"
-    price: "$29.59"
-  - title: "Zoie + Chloe Bamboo Steamer Basket 2-Tier"
-    asin: "B00WQR9N1M"
-    url: "https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg"
-    price: "$21.99"
-  - title: "Empanada/Dumpling Maker Press with Dough Cutter"
-    asin: "B0CZ8YS2F9"
-    url: "https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg"
-    price: "$18.99"
+- title: Bamboo Steamer 10 Inch 2 Tier Wooden Basket
+  asin: B09YWK6CWW
+  url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
+  price: $29.59
+- title: Zoie + Chloe Bamboo Steamer Basket 2-Tier
+  asin: B00WQR9N1M
+  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
+  price: $21.99
+- title: Empanada/Dumpling Maker Press with Dough Cutter
+  asin: B0CZ8YS2F9
+  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
+  price: $18.99
+- asin: B0H1S23GY4
+  title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
+  url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
+  price: $2.99
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '7a8fc842-b018-4df8-92b5-33451abd3d03'
-  PropagateID: '7a8fc842-b018-4df8-92b5-33451abd3d03'
-  ReservedCode1: 'a253682a-47f7-432e-a871-5b3531607a2b'
-  ReservedCode2: 'a253682a-47f7-432e-a871-5b3531607a2b'
+  ProduceID: 7a8fc842-b018-4df8-92b5-33451abd3d03
+  PropagateID: 7a8fc842-b018-4df8-92b5-33451abd3d03
+  ReservedCode1: a253682a-47f7-432e-a871-5b3531607a2b
+  ReservedCode2: a253682a-47f7-432e-a871-5b3531607a2b
 ---
 
 ## The Tea Houses That Started Everything

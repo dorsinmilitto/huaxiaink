@@ -1,38 +1,49 @@
-﻿---
-title: "象棋——楚河汉界上的千年对弈"
-description: "象棋以楚河汉界分割棋盘——炮要翻山、象不过河、将不离宫的中国千年棋局。"
-youtubeId: "vklqOLf6mtU"
-coverImage: "https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg"
-channel: "Xiangqi Chinese Chess"
-duration: "12:38"
+---
+title: 象棋——楚河汉界上的千年对弈
+description: 象棋以楚河汉界分割棋盘——炮要翻山、象不过河、将不离宫的中国千年棋局。
+youtubeId: vklqOLf6mtU
+coverImage: https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg
+channel: Xiangqi Chinese Chess
+duration: '12:38'
 publishedAt: 2020-03-20
 lang: zh
-tags: ["象棋", "中国象棋", "策略", "楚河汉界", "兵法", "传统游戏"]
+tags:
+- 象棋
+- 中国象棋
+- 策略
+- 楚河汉界
+- 兵法
+- 传统游戏
 featured: false
 affiliate:
-  - title: "GoodPlay Beechwood Chinese Chess Set Xiangqi"
-    asin: "B07K42VK4M"
-    url: "https://www.amazon.com/dp/B07K42VK4M?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61WF30iLdGL._AC_UL640_.jpg"
-    price: "$19.90"
-  - title: "15 inch Chinese Chess Set Foldable Board"
-    asin: "B08B68RD31"
-    url: "https://www.amazon.com/dp/B08B68RD31?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/61rDsujUcJL._AC_UL640_.jpg"
-    price: "$30.99"
-  - title: "Traditional Chinese Xiangqi Portable Chess Set"
-    asin: "B0BKYZT7VW"
-    url: "https://www.amazon.com/dp/B0BKYZT7VW?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/71EDVAlhNBL._AC_UL640_.jpg"
-    price: "$22.99"
+- title: GoodPlay Beechwood Chinese Chess Set Xiangqi
+  asin: B07K42VK4M
+  url: https://www.amazon.com/dp/B07K42VK4M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61WF30iLdGL._AC_UL640_.jpg
+  price: $19.90
+- title: 15 inch Chinese Chess Set Foldable Board
+  asin: B08B68RD31
+  url: https://www.amazon.com/dp/B08B68RD31?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61rDsujUcJL._AC_UL640_.jpg
+  price: $30.99
+- title: Traditional Chinese Xiangqi Portable Chess Set
+  asin: B0BKYZT7VW
+  url: https://www.amazon.com/dp/B0BKYZT7VW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71EDVAlhNBL._AC_UL640_.jpg
+  price: $22.99
+- asin: '1441306447'
+  title: Yin Yang Beaded Bookmark
+  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
+  price: $3.95
 AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
+  ContentProducer: 001191110102MAD55U9H0F10002
+  ContentPropagator: 001191110102MAD55U9H0F10002
   Label: '1'
-  ProduceID: '90bf9449-3add-4dc4-a27f-720bb9b9723c'
-  PropagateID: '90bf9449-3add-4dc4-a27f-720bb9b9723c'
-  ReservedCode1: 'decfcbd0-5647-43d9-8799-6478b5793592'
-  ReservedCode2: 'decfcbd0-5647-43d9-8799-6478b5793592'
+  ProduceID: 90bf9449-3add-4dc4-a27f-720bb9b9723c
+  PropagateID: 90bf9449-3add-4dc4-a27f-720bb9b9723c
+  ReservedCode1: decfcbd0-5647-43d9-8799-6478b5793592
+  ReservedCode2: decfcbd0-5647-43d9-8799-6478b5793592
 ---
 
 ## 餐桌上的沙场

@@ -1,25 +1,36 @@
-﻿---
-title: "少林对武当：中国武术的永恒之争"
-description: "数百年来中国武术分为外家少林与内家武当两大阵营，这一哲学分歧揭示了两种完全不同的力量理解方式。"
-youtubeId: "f82U18uQTEU"
-coverImage: "https://i.ytimg.com/vi/f82U18uQTEU/hqdefault.jpg"
-channel: "Learn Chinese Now"
-duration: "9:44"
+---
+title: 少林对武当：中国武术的永恒之争
+description: 数百年来中国武术分为外家少林与内家武当两大阵营，这一哲学分歧揭示了两种完全不同的力量理解方式。
+youtubeId: f82U18uQTEU
+coverImage: https://i.ytimg.com/vi/f82U18uQTEU/hqdefault.jpg
+channel: Learn Chinese Now
+duration: '9:44'
 publishedAt: 2024-08-01
 lang: zh
-tags: ["shaolin", "wudang", "kung-fu", "internal-martial-arts", "external-martial-arts", "neijia"]
+tags:
+- shaolin
+- wudang
+- kung-fu
+- internal-martial-arts
+- external-martial-arts
+- neijia
 featured: true
 affiliate:
-  - asin: "0804852677"
-    title: "The Complete Guide to Kung Fu"
-    url: "https://www.amazon.com/dp/0804852677?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81pH3Ra8VdL._AC_UL640_.jpg"
-    price: "$9.99"
-  - asin: "0804849811"
-    title: "Kung Fu Fundamentals"
-    url: "https://www.amazon.com/dp/0804849811?tag=huaxiaink-20"
-    imageUrl: "https://m.media-amazon.com/images/I/81+DTikXpZL._AC_UL640_.jpg"
-    price: "$7.55"
+- asin: 0804852677
+  title: The Complete Guide to Kung Fu
+  url: https://www.amazon.com/dp/0804852677?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81pH3Ra8VdL._AC_UL640_.jpg
+  price: $9.99
+- asin: 0804849811
+  title: Kung Fu Fundamentals
+  url: https://www.amazon.com/dp/0804849811?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81+DTikXpZL._AC_UL640_.jpg
+  price: $7.55
+- asin: B0GCX75MWB
+  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+  url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
+  price: $4.99
 ---
 
 ## 内家与外家：两种力量的哲学根源
