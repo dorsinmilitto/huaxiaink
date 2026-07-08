@@ -58,7 +58,7 @@ const translations = {
     'seal.kung-fu': '武',
 
     // Detail page
-    'detail.by': 'by',
+    'detail.source': 'Source:',
     'detail.video_analysis': 'Explore and learn about',
     'detail.on': 'on HuaxiaInk',
 
@@ -130,7 +130,7 @@ const translations = {
     'seal.kung-fu': '武',
 
     // Detail page
-    'detail.by': '作者',
+    'detail.source': '来源：',
     'detail.video_analysis': '观看并了解',
     'detail.on': '来自华夏墨韵',
 

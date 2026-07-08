@@ -80,13 +80,14 @@ const articleSchema = {
   "description": frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`,
   "datePublished": frontmatter.publishedAt.toISOString(),
   "dateModified": frontmatter.publishedAt.toISOString(),
-  "author": { "@type": "Organization", "name": "HuaxiaInk", "url": "https://www.huaxiaink.com" },
+  "author": { "@type": "Organization", "name": "HuaxiaInk Editorial", "url": "https://www.huaxiaink.com" },
   "publisher": { "@type": "Organization", "name": "HuaxiaInk", "url": "https://www.huaxiaink.com", "logo": { "@type": "ImageObject", "url": "https://www.huaxiaink.com/favicon.svg" } },
   "mainEntityOfPage": `https://www.huaxiaink.com/${l}/${category}/${slug}`,
   "inLanguage": l === 'zh' ? 'zh-CN' : 'en',
   "articleSection": category,
   ...(frontmatter.tags.length > 0 ? { "keywords": frontmatter.tags.join(', ') } : {}),
   ...(ogImage ? { "image": ogImage } : {}),
+  ...(frontmatter.channel ? { "contributor": { "@type": "Organization", "name": frontmatter.channel } } : {}),
 };
 
 const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`;
@@ -96,7 +97,7 @@ const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 
   type="article"
   publishedTime={frontmatter.publishedAt.toISOString()}
   modifiedTime={frontmatter.publishedAt.toISOString()}
-  author="HuaxiaInk"
+  author="HuaxiaInk Editorial"
   section={category}
   tags={frontmatter.tags}
 >
@@ -116,7 +117,7 @@ const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 
     <div class="video-info">
       <h1>{frontmatter.title}</h1>
       <div class="video-meta-detail">
-        <span>{t(l, 'detail.by')} {frontmatter.channel}</span>
+        <span>{t(l, 'detail.source')} {frontmatter.channel} (YouTube)</span>
         <span>{frontmatter.publishedAt.toLocaleDateString(l === 'zh' ? 'zh-CN' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
         {frontmatter.duration && <span>{frontmatter.duration}</span>}
       </div>
