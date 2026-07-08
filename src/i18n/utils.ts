@@ -63,7 +63,7 @@ const translations = {
     'detail.on': 'on HuaxiaInk',
 
     // About
-    'about.title': 'About HuaxiaInk',
+    'about.title': 'About',
 
     // Footer
     'footer.tagline': 'Discover China Through Authentic Voices',
@@ -135,7 +135,7 @@ const translations = {
     'detail.on': '来自华夏墨韵',
 
     // About
-    'about.title': '关于华夏墨韵',
+    'about.title': '关于',
 
     // Footer
     'footer.tagline': '用当代视角，发现真实中国',

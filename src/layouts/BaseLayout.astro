@@ -95,7 +95,7 @@ const siteSchema = {
   <!-- Site-wide JSON-LD -->
   <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
 
-  <title>{title} | HuaxiaInk</title>
+  <title>{title} | {l === 'zh' ? '华夏墨韵' : 'HuaxiaInk'}</title>
 </head>
 <body>
   <nav class="main-nav">
