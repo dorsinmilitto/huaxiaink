@@ -91,7 +91,7 @@ const tagDesc = `${t(l, 'tag.desc')} "${tag}" — ${articles.length} ${l === 'zh
       <h2 class="section-title">{t(l, 'tag.all')}</h2>
       <div style="display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:1rem">
         {allTags.map((tg: string) => (
-          <a href={`/${l}/tag/${tg}`}
+          <a href={`/${l}/tag/${tg}/`}
             class={`video-tag${tg === tag ? ' active' : ''}`}
             style={tg === tag ? 'background:var(--accent);color:#fff;font-weight:700' : ''}
           >{tg}</a>

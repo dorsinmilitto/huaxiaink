@@ -46,7 +46,7 @@ const featured = allVideos.find(v => v.featured) || allVideos[0];
 
   <div class="category-grid">
     {categories.map(cat => (
-      <a href={`/${l}/${cat.slug}`} class="category-card">
+      <a href={`/${l}/${cat.slug}/`} class="category-card">
         <span class="category-icon">{cat.icon}</span>
         <h3>{t(l, `cat.${cat.slug}` as any)}</h3>
       </a>

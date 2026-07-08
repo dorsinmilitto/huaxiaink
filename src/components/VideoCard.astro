@@ -15,7 +15,7 @@ const { id, title, channel, duration, category, tags = [], slug, lang, coverImag
 const thumbnail = id
   ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg`
   : coverImage || '';
-const href = `/${lang}/${category}/${slug}`;
+const href = `/${lang}/${category}/${slug}/`;
 ---
 
 <a href={href} class="video-card">

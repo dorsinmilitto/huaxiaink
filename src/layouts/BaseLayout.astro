@@ -102,18 +102,18 @@ const siteSchema = {
 <body>
   <nav class="main-nav">
     <div class="nav-inner">
-      <a href={`/${l}`} class="logo">
+      <a href={`/${l}/`} class="logo">
         <span class="logo-ink">墨</span>
         <span class="logo-text">{l === 'zh' ? '华夏墨韵' : 'HuaxiaInk'}</span>
       </a>
       <div class="nav-links">
-        <a href={`/${l}/events`}>{l === 'zh' ? '热点' : 'Events'}</a>
-        <a href={`/${l}/games`}>{l === 'zh' ? '游戏' : 'Games'}</a>
-        <a href={`/${l}/music`}>{l === 'zh' ? '音乐' : 'Music'}</a>
-        <a href={`/${l}/travel`}>{l === 'zh' ? '旅行' : 'Travel'}</a>
-        <a href={`/${l}/festivals`}>{l === 'zh' ? '节日' : 'Festivals'}</a>
-        <a href={`/${l}/food`}>{l === 'zh' ? '美食' : 'Food'}</a>
-        <a href={`/${l}/kung-fu`}>{l === 'zh' ? '功夫' : 'Kung Fu'}</a>
+        <a href={`/${l}/events/`}>{l === 'zh' ? '热点' : 'Events'}</a>
+        <a href={`/${l}/games/`}>{l === 'zh' ? '游戏' : 'Games'}</a>
+        <a href={`/${l}/music/`}>{l === 'zh' ? '音乐' : 'Music'}</a>
+        <a href={`/${l}/travel/`}>{l === 'zh' ? '旅行' : 'Travel'}</a>
+        <a href={`/${l}/festivals/`}>{l === 'zh' ? '节日' : 'Festivals'}</a>
+        <a href={`/${l}/food/`}>{l === 'zh' ? '美食' : 'Food'}</a>
+        <a href={`/${l}/kung-fu/`}>{l === 'zh' ? '功夫' : 'Kung Fu'}</a>
       </div>
       <a href={altPath} class="lang-switch" title={altLang === 'zh' ? '切换到中文' : 'Switch to English'}>
         {altLang === 'zh' ? '中文' : 'EN'}
@@ -132,11 +132,11 @@ const siteSchema = {
       </div>
       <p class="footer-tagline">{l === 'zh' ? '用当代视角，发现真实中国' : 'Discover China Through Authentic Voices'}</p>
       <nav class="footer-links">
-        <a href={`/${l}/about`}>{l === 'zh' ? '关于我们' : 'About'}</a>
-        <a href={`/${l}/contact`}>{l === 'zh' ? '联系我们' : 'Contact'}</a>
-        <a href={`/${l}/terms`}>{l === 'zh' ? '使用条款' : 'Terms'}</a>
-        <a href={`/${l}/privacy`}>{l === 'zh' ? '隐私政策' : 'Privacy'}</a>
-        <a href={`/${l}/affiliate-disclosure`}>{l === 'zh' ? '联盟披露' : 'Affiliate Disclosure'}</a>
+        <a href={`/${l}/about/`}>{l === 'zh' ? '关于我们' : 'About'}</a>
+        <a href={`/${l}/contact/`}>{l === 'zh' ? '联系我们' : 'Contact'}</a>
+        <a href={`/${l}/terms/`}>{l === 'zh' ? '使用条款' : 'Terms'}</a>
+        <a href={`/${l}/privacy/`}>{l === 'zh' ? '隐私政策' : 'Privacy'}</a>
+        <a href={`/${l}/affiliate-disclosure/`}>{l === 'zh' ? '联盟披露' : 'Affiliate Disclosure'}</a>
       </nav>
       <p class="footer-copy">&copy; {new Date().getFullYear()} HuaxiaInk. {l === 'zh' ? '版权所有' : 'All rights reserved.'}</p>
     </div>
