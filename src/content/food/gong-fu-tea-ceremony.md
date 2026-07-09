@@ -3,7 +3,6 @@ title: 'Gong Fu Tea Ceremony: The Slow Art That Refuses to Rush'
 description: Gong Fu tea ceremony takes 20 minutes to brew three cups — the slow art
   that refuses to rush, rooted in Chaozhou's 400-year tea mastery tradition.
 youtubeId: yA3SQdDQp6o
-coverImage: https://i.ytimg.com/vi/yA3SQdDQp6o/hqdefault.jpg
 channel: China Tea
 duration: '8:45'
 publishedAt: 2024-08-20

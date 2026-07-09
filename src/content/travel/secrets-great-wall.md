@@ -3,7 +3,6 @@ title: Secrets of the Great Wall — 20,000 km of Dynasty, Defeat, and Sticky Ri
 description: 'Uncover the Great Wall''s hidden secrets: sticky rice mortar, beacon
   tower networks, and 2,000 years of dynasty defense across 20,000 km.'
 youtubeId: quLhkqwtOg8
-coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
 channel: National Geographic
 duration: '50:31'
 publishedAt: 2024-05-15

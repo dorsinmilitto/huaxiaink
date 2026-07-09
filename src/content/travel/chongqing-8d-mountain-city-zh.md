@@ -2,7 +2,6 @@
 title: 重庆8D魔幻城：物理定律在这里失效
 description: 重庆是8D魔幻城——轻轨穿楼、桥梁盖楼、屋顶当街，中国赛博朋克山城让物理定律失效。
 youtubeId: IbnSuon2nrI
-coverImage: https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg
 channel: CoolVision
 duration: '1:00'
 publishedAt: 2025-06-01

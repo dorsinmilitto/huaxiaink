@@ -12,7 +12,6 @@ description: Kung fu cinema didn't just entertain — it shaped how the entire w
   sees China. From Shaw Brothers studios to The Matrix, the evolution of martial arts
   on screen.
 youtubeId: I-Zzr50se_Q
-coverImage: https://i.ytimg.com/vi/I-Zzr50se_Q/hqdefault.jpg
 channel: SLICE Full Doc
 duration: '46:00'
 publishedAt: 2024-01-20

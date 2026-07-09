@@ -3,7 +3,6 @@ title: Mahjong — The Game That Built Chinese Social Life
 description: Mahjong built Chinese social life — from Qing dynasty salons to family
   living rooms, the tile game that's been shuffling relationships for 150 years.
 youtubeId: qpYF-xmNMew
-coverImage: https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg
 channel: South China Morning Post
 duration: '2:30'
 publishedAt: 2019-05-15

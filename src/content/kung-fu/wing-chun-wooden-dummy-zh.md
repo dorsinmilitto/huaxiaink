@@ -2,7 +2,6 @@
 title: 咏春拳：木人桩的艺术
 description: 咏春木人桩法传承数百年，从叶问到李小龙走向世界。探索中线理论、寸劲发力与木人桩训练体系，理解这门近身格斗术的深邃智慧。
 youtubeId: DgG-ttflBNU
-coverImage: https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg
 channel: Kung Fu & Tai Chi Center w/ Jake Mace
 duration: '6:07'
 publishedAt: 2024-05-20

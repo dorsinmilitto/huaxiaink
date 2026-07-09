@@ -2,7 +2,6 @@
 title: 琵琶：大珠小珠落玉盘的千年绝响
 description: 琵琶教会中国用声音讲故事——四根弦、两千年，五指齐拨的瀑布音效震撼至今。
 youtubeId: M4Ye7AisnFM
-coverImage: https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg
 channel: Musical Moments - East
 duration: '8:51'
 publishedAt: 2021-11-15

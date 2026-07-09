@@ -4,7 +4,6 @@ description: Chinese shadow puppetry is a 2,000-year art form where leather figu
   dance behind a lit screen — now modern artists are rescuing it from extinction with
   animation, AR, and storytelling.
 youtubeId: 8-mzqxZNp2g
-coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
 channel: UNESCO
 duration: '10:07'
 publishedAt: 2011-11-22

@@ -4,7 +4,6 @@ description: Wing Chun's centerline theory is the most efficient fighting concep
   ever devised — control the shortest distance between you and your opponent, and
   every strike lands in four inches.
 youtubeId: KcIGuMn4vB4
-coverImage: https://i.ytimg.com/vi/KcIGuMn4vB4/hqdefault.jpg
 channel: International Wing Chun Academy
 duration: '5:31'
 publishedAt: 2009-06-30

@@ -2,7 +2,6 @@
 title: 当二胡遇见《大鱼海棠》：法国人的中国动画情结
 description: 法国人用二胡演奏《大鱼海棠》——当两根弦的中国胡琴遇上宫崎骏风格的动画，冲破文化边界。
 youtubeId: 4CAFafOUyX0
-coverImage: https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg
 channel: Eliott Tordo 二胡演奏家
 duration: '5:44'
 publishedAt: 2023-01-10

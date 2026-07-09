@@ -2,7 +2,6 @@
 title: 法国人用中国二胡，弹碎了日本动漫最催泪的旋律
 description: 法国人用中国二胡弹碎了犬夜叉最催泪的旋律——当动漫情感遇上传统音色，文化桥梁就此搭建。
 youtubeId: lSCHU3kwrm8
-coverImage: https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg
 channel: Eliott Tordo 二胡演奏家
 duration: '2:57'
 publishedAt: 2022-06-15

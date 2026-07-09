@@ -4,7 +4,6 @@ description: The pipa is a 2,000-year Chinese lute played with all five fingers 
   its signature tremolo technique produces more notes per second than any Western
   guitar, and its repertoire includes war, heartbreak, and cosmic beauty.
 youtubeId: ksiM1wRcutQ
-coverImage: https://i.ytimg.com/vi/ksiM1wRcutQ/hqdefault.jpg
 channel: The Met
 duration: '4:25'
 publishedAt: 2016-08-01

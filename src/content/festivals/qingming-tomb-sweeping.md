@@ -3,7 +3,6 @@ title: Qingming — How the Chinese Talk to Their Ancestors Once a Year
 description: Qingming is when China talks to its ancestors — sweeping tombs, burning
   paper money, and hiking spring mountains in a 2,500-year ritual of remembrance.
 youtubeId: aZtZlYE5i8M
-coverImage: https://i.ytimg.com/vi/aZtZlYE5i8M/hqdefault.jpg
 channel: China Travel
 duration: '6:45'
 publishedAt: 2024-04-01

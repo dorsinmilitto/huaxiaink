@@ -4,7 +4,6 @@ description: A new generation of guzheng players is covering rock, pop, and anim
   on the 21-string Chinese zither — turning a 2,500-year court instrument into YouTube's
   most unexpected crossover star.
 youtubeId: gf6v59c5yuY
-coverImage: https://i.ytimg.com/vi/gf6v59c5yuY/hqdefault.jpg
 channel: 墨韵 Moyun Official
 duration: '5:50'
 publishedAt: 2023-04-01

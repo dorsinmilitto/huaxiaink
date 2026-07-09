@@ -3,7 +3,6 @@ title: Dragon Boat Festival — How a Poet's Grief Became China's Most Exciting 
 description: Dragon Boat Festival turned a poet's tragic drowning into China's most
   exciting holiday — zongzi, dragon boats, and 2,000 years of remembrance.
 youtubeId: oKHLDPuI98Q
-coverImage: https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg
 channel: Off the Great Wall
 duration: '5:30'
 publishedAt: 2024-06-01

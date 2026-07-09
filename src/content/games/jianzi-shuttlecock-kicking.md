@@ -4,7 +4,6 @@ description: Jianzi — the Chinese hacky sack that predates football by 2,000 y
   — from Han dynasty royal courts to modern street corners, a national sport requiring
   no field.
 youtubeId: JVSC2qmDQjM
-coverImage: https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg
 channel: CGTN
 duration: '5:47'
 publishedAt: 2020-12-22

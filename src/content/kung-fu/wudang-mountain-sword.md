@@ -4,7 +4,6 @@ description: High in the misty Wudang Mountains, Daoist monks transformed swordp
   into spiritual practice. The legendary Zhang Sanfeng created internal martial arts
   that still thrive 700 years later.
 youtubeId: dxI3LTp2Grw
-coverImage: https://i.ytimg.com/vi/dxI3LTp2Grw/hqdefault.jpg
 channel: Free Documentary
 duration: '50:00'
 publishedAt: 2024-02-10

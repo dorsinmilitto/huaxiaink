@@ -2,7 +2,6 @@
 title: 昆曲——600年不肯消逝的中国雅音
 description: 昆曲——六百年不肯消逝的中国雅音，从明代宫廷到联合国非遗名录，最精致的舞台艺术生生不息。
 youtubeId: m1GxmBsxQ1g
-coverImage: https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg
 channel: 自得琴社 Zi De Guqin Studio
 duration: '5:42'
 publishedAt: 2022-09-01

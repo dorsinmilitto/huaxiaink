@@ -2,7 +2,6 @@
 title: 麻婆豆腐：让世界着迷的川菜之魂
 description: 麻婆豆腐1862年点燃四川——然后征服世界。麻脸婆婆的豆腐如何成为全球最受欢迎的中国菜。
 youtubeId: uL_YQMkkbUg
-coverImage: https://i.ytimg.com/vi/uL_YQMkkbUg/hqdefault.jpg
 channel: Chinese Cooking Demystified
 duration: '23:19'
 publishedAt: 2025-01-07

@@ -3,7 +3,6 @@ title: Qixi — The Love Story Written in the Stars (Literally)
 description: Qixi — where two stars separated by the Milky Way meet once a year. The
   real Chinese Valentine's Day, written in constellations 2,600 years ago.
 youtubeId: WCbztd58LLE
-coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
 channel: chinahighlights
 duration: '4:20'
 publishedAt: 2023-08-01

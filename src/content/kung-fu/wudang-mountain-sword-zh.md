@@ -2,7 +2,6 @@
 title: 武当山：道家剑舞的诞生之地
 description: 武当山云雾缭绕，道家僧侣将剑术化为修行。张三丰创内家武术七百年传承不衰，太乙五行剑等剑法至今令世人惊叹。
 youtubeId: dxI3LTp2Grw
-coverImage: https://i.ytimg.com/vi/dxI3LTp2Grw/hqdefault.jpg
 channel: Free Documentary
 duration: '50:00'
 publishedAt: 2024-02-10

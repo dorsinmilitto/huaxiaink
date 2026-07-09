@@ -3,7 +3,6 @@ title: Xiangqi — Chinese Chess and the River That Divides Two Kingdoms
 description: Xiangqi splits the board with the Chu-Han border — Chinese chess where
   cannons jump, elephants can't cross rivers, and generals never leave the palace.
 youtubeId: vklqOLf6mtU
-coverImage: https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg
 channel: Xiangqi Chinese Chess
 duration: '12:38'
 publishedAt: 2020-03-20

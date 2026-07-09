@@ -2,7 +2,6 @@
 title: 紫禁城——中国皇帝的9999间宫殿
 description: 探索紫禁城，这座拥有9999间房屋的帝王宫殿，见证明清两代24位皇帝、500年王朝兴衰。
 youtubeId: sHypO2ISPas
-coverImage: https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg
 channel: Documentary Hub
 duration: '48:22'
 publishedAt: 2024-03-20

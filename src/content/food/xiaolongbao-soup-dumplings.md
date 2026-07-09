@@ -4,7 +4,6 @@ description: Xiaolongbao holds an entire bowl of hot soup inside a dumpling skin
   than paper — a Shanghainese culinary miracle that took centuries to perfect and
   seconds to eat.
 youtubeId: MpRxnCqUAFM
-coverImage: https://i.ytimg.com/vi/MpRxnCqUAFM/hqdefault.jpg
 channel: Joshua Weissman
 duration: '9:50'
 publishedAt: 2022-01-12

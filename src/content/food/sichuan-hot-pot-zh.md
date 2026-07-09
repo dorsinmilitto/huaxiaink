@@ -2,7 +2,6 @@
 title: 四川火锅——麻辣翻滚的沸腾之锅
 description: 四川火锅将食材投入辣椒花椒翻涌的油锅——一种围炉共食的体验，辣度攀升、麻感加剧、陌生人变成朋友。
 youtubeId: e0mW5CJWHWk
-coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
 channel: Goldthread
 duration: '4:33'
 publishedAt: 2019-12-06

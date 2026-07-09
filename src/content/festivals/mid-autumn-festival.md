@@ -3,7 +3,6 @@ title: Mid-Autumn Festival — Why the Chinese Look at the Moon and Think of Hom
 description: Why do 1.4 billion people look at the same full moon and think of home?
   Mid-Autumn Festival reveals the deepest yearning in Chinese culture.
 youtubeId: iuzbA2I4KO8
-coverImage: https://i.ytimg.com/vi/iuzbA2I4KO8/hqdefault.jpg
 channel: CGTN
 duration: '24:58'
 publishedAt: 2024-09-15

@@ -2,7 +2,6 @@
 title: 京剧——变成另一个人的艺术
 description: 京剧是变成另一个人的艺术——脸谱、武打、假声，两百年传统中的极致变身术。
 youtubeId: yzAdZDK4XKA
-coverImage: https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg
 channel: CrashCourse
 duration: '12:08'
 publishedAt: 2019-08-30

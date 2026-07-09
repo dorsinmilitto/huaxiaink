@@ -4,7 +4,6 @@ description: West Lake in Hangzhou inspired 1,000 years of Chinese poetry and pa
   — Su Dongpo, Bai Juyi, and emperors all tried to capture it. Now a UNESCO site,
   it remains China's most literary lake.
 youtubeId: I8fbJZMhvGQ
-coverImage: https://i.ytimg.com/vi/I8fbJZMhvGQ/hqdefault.jpg
 channel: Davidsbeenhere
 duration: '2:30:59'
 publishedAt: 2023-05-02

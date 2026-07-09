@@ -2,7 +2,6 @@
 title: 上海复兴计划——中国民谣遇上电子爵士
 description: 上海复兴计划用电子节拍和传统中国乐器重混1930年代上海爵士——证明中国音乐从来就是一种混搭文化。
 youtubeId: E-JmtRItvbY
-coverImage: https://i.ytimg.com/vi/E-JmtRItvbY/hqdefault.jpg
 channel: Shanghai Restoration Project
 duration: '3:36'
 publishedAt: 2013-02-08

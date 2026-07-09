@@ -2,7 +2,6 @@
 title: 漓江：山水甲天下的千年画卷
 description: 漓江是山水画活过来的地方——桂林喀斯特峰林、竹筏、薄雾，一千五百年来不断激发诗人灵感。
 youtubeId: EIrV9JX5_mA
-coverImage: https://i.ytimg.com/vi/EIrV9JX5_mA/hqdefault.jpg
 channel: TRACKS - Travel Documentaries
 duration: '46:08'
 publishedAt: 2019-09-12

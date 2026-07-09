@@ -2,7 +2,6 @@
 title: 二十四节气：中国人与天地对话的千年历法
 description: 二十四节气教会中国农民何时播种、收获与庆祝——这套观天四千年的历法体系已被列入联合国非遗名录。
 youtubeId: qTrd010vMp8
-coverImage: https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg
 channel: UNESCO
 duration: '10:00'
 publishedAt: 2016-11-30

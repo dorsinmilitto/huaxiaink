@@ -2,7 +2,6 @@
 title: 太极的哲学：以动为静
 description: 太极融合道家阴阳哲学与身体修炼，陈式杨式各有千秋。探索太极拳的宇宙观、健康功效与内家修行之道，理解以柔克刚的东方智慧。
 youtubeId: 4c-ywGdAiAo
-coverImage: https://i.ytimg.com/vi/4c-ywGdAiAo/hqdefault.jpg
 channel: George Thompson
 duration: '8:09'
 publishedAt: 2024-04-01

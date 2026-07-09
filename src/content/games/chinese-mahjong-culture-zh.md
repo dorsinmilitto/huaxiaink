@@ -2,7 +2,6 @@
 title: 麻将——塑造中国人社交生活的国粹
 description: 麻将塑造了中国人的社交生活——从清代沙龙到家庭客厅，150年来一直在洗牌人际关系。
 youtubeId: qpYF-xmNMew
-coverImage: https://i.ytimg.com/vi/qpYF-xmNMew/hqdefault.jpg
 channel: South China Morning Post
 duration: '2:30'
 publishedAt: 2019-05-15

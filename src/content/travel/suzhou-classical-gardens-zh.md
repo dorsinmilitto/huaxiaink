@@ -2,7 +2,6 @@
 title: 苏州园林——中国人如何把宇宙装进后院
 description: 苏州园林把宇宙装进后院——列入世界遗产的古典园林，石为山、池为海，每一步都是一幅画。
 youtubeId: xsPOs-yCJ3g
-coverImage: https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg
 channel: UNESCO
 duration: '2:18'
 publishedAt: 2020-12-01

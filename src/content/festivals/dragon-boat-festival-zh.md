@@ -2,7 +2,6 @@
 title: 端午节——一个诗人的悲伤如何变成中国最热血的节日
 description: 端午节如何将诗人的悲壮殉国变成中国最热血的节日——粽子、龙舟与两千年的家国记忆。
 youtubeId: oKHLDPuI98Q
-coverImage: https://i.ytimg.com/vi/oKHLDPuI98Q/hqdefault.jpg
 channel: Off the Great Wall
 duration: '5:30'
 publishedAt: 2024-06-01

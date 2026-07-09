@@ -4,7 +4,6 @@ description: AlphaGo defeated the world's best Weiqi player in 2016, ending 4,00
   years of human supremacy — and revealing that the ancient game still holds secrets
   no machine has found.
 youtubeId: WXuK6gekU1Y
-coverImage: https://i.ytimg.com/vi/WXuK6gekU1Y/hqdefault.jpg
 channel: Google DeepMind
 duration: '1:30:27'
 publishedAt: 2020-03-13

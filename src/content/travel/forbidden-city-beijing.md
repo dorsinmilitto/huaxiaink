@@ -3,7 +3,6 @@ title: Forbidden City — The 9,999-Room Imperial Palace of China's Emperors
 description: Explore the Forbidden City, Beijing's 9,999-room imperial palace that
   housed 24 emperors across 500 years of Ming and Qing dynasty rule.
 youtubeId: sHypO2ISPas
-coverImage: https://i.ytimg.com/vi/sHypO2ISPas/hqdefault.jpg
 channel: Documentary Hub
 duration: '48:22'
 publishedAt: 2024-03-20

@@ -2,7 +2,6 @@
 title: 腊八节——一碗粥开启了中国新年
 description: 农历腊月初八的腊八节标志着中国新年庆祝的开始——一项与邻里和陌生人共享腊八粥的千年传统。
 youtubeId: hcqtYeDk83w
-coverImage: https://i.ytimg.com/vi/hcqtYeDk83w/hqdefault.jpg
 channel: South China Morning Post
 duration: '1:46'
 publishedAt: 2021-01-21

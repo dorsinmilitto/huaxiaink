@@ -3,7 +3,6 @@ title: 'Dragon Boat Races: The Ancient Sport Born From Grief'
 description: Discover how Dragon Boat racing was born from the grief of a poet's drowning
   2,000 years ago — and became China's most thrilling water sport.
 youtubeId: YlPExNPyPwQ
-coverImage: https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg
 channel: National Geographic
 duration: '3:21'
 publishedAt: 2024-06-10

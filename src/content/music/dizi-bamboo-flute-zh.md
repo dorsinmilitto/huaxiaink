@@ -2,7 +2,6 @@
 title: 笛子：一根竹管吹出的山水长卷
 description: 笛子——一根竹管六个孔，吹出中国山水——八千年来用声音画风景的竹笛。
 youtubeId: lI1L2l6vi-4
-coverImage: https://i.ytimg.com/vi/lI1L2l6vi-4/hqdefault.jpg
 channel: Musical Moments - East
 duration: '7:22'
 publishedAt: 2022-01-15

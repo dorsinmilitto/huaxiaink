@@ -2,7 +2,6 @@
 title: 中国皮影戏——2000年的光影影院拒绝消亡
 description: 皮影戏是2000年的艺术形式，皮制人物在光屏后舞动——如今现代艺术家正用动画、AR和叙事手段将它从消亡中拯救。
 youtubeId: 8-mzqxZNp2g
-coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
 channel: UNESCO
 duration: '10:07'
 publishedAt: 2011-11-22

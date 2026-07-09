@@ -4,7 +4,6 @@ description: The Mogao Caves at Dunhuang hold 500 caves with 1,000 years of Budd
   murals and sculpture — a Silk Road treasure trove that survived war, looters, and
   the Gobi desert for 16 centuries.
 youtubeId: R29A0GyLYlE
-coverImage: https://i.ytimg.com/vi/R29A0GyLYlE/hqdefault.jpg
 channel: UNESCO
 duration: '2:45'
 publishedAt: 2010-06-03

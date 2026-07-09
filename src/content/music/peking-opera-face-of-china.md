@@ -3,7 +3,6 @@ title: Peking Opera — The Art of Becoming Someone Else
 description: Peking Opera is the art of becoming someone else — painted faces, acrobatic
   combat, and falsetto singing in a 200-year tradition of total transformation.
 youtubeId: yzAdZDK4XKA
-coverImage: https://i.ytimg.com/vi/yzAdZDK4XKA/hqdefault.jpg
 channel: CrashCourse
 duration: '12:08'
 publishedAt: 2019-08-30

@@ -2,7 +2,6 @@
 title: 烤串：中国夜宵摊上的烟火传奇
 description: 孜然羊肉串在午夜街头滋滋作响——中国夜宵如何把烤串变成深夜文化的灵魂。
 youtubeId: V0B8gz7kZTA
-coverImage: https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg
 channel: Blondie in China
 duration: '14:12'
 publishedAt: 2024-07-16

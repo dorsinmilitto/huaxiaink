@@ -4,7 +4,6 @@ title: Weiqi — The 4,000-Year Game of Black and White That Teaches You Nothing
 description: Weiqi (Go) is 4,000 years of black and white territory wars on a wooden
   board — the game that teaches strategy, patience, and knowing when to lose.
 youtubeId: oZTdT8MQexk
-coverImage: https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg
 channel: Go Magic
 duration: '11:24'
 publishedAt: 2023-06-10

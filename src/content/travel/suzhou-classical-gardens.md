@@ -3,7 +3,6 @@ title: Suzhou Gardens — How the Chinese Fit the Universe Into a Backyard
 description: Suzhou Gardens fit the universe into a backyard — UNESCO-listed classical
   gardens where rocks become mountains, ponds become oceans, and every view is a painting.
 youtubeId: xsPOs-yCJ3g
-coverImage: https://i.ytimg.com/vi/xsPOs-yCJ3g/hqdefault.jpg
 channel: UNESCO
 duration: '2:18'
 publishedAt: 2020-12-01

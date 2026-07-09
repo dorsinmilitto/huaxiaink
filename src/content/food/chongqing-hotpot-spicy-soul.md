@@ -3,7 +3,6 @@ title: 'Chongqing Hotpot: The Spicy Soul of China''s Mountain City'
 description: Chongqing hotpot drowns everything in numbing chili oil — discover how
   a码头 workers' meal became the fiery soul of China's mountain city.
 youtubeId: EewnoXvCzgE
-coverImage: https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg
 channel: Best Ever Food Review Show
 duration: '25:35'
 publishedAt: 2025-06-01

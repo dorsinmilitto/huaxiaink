@@ -2,7 +2,6 @@
 title: 春节习俗：十五天的重生仪式
 description: 从年夜饭到元宵灯会，探索春节十五天的完整仪式——全球最大规模年度人口迁徙与庆典背后的文化密码。
 youtubeId: r4Ql5MsSBT4
-coverImage: https://i.ytimg.com/vi/r4Ql5MsSBT4/hqdefault.jpg
 channel: CGTN
 duration: '25:31'
 publishedAt: 2024-02-05

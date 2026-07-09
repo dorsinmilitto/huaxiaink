@@ -2,7 +2,6 @@
 title: 北京烤鸭——从御膳房到世界餐桌
 description: 北京烤鸭从明朝御膳房走向世界首都——六百年烤制技艺铸就中国最具标志性的名菜。
 youtubeId: Bkt0FAOWpgc
-coverImage: https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg
 channel: saintcavish
 duration: '22:15'
 publishedAt: 2024-11-10

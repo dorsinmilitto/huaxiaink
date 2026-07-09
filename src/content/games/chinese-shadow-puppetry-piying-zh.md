@@ -2,7 +2,6 @@
 title: 皮影戏：光影之间流传千年的民间艺术
 description: 皮影戏是世界最古老的动画——在灯火背后，皮革人影讲述中国史诗，比迪士尼早了两千年。
 youtubeId: 8-mzqxZNp2g
-coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
 channel: UNESCO
 duration: '10:08'
 publishedAt: 2011-11-22

@@ -4,7 +4,6 @@ description: For centuries, Chinese martial arts have been divided into external
   and internal (Wudang) camps. The philosophical divide reveals two completely different
   ways of understanding power.
 youtubeId: f82U18uQTEU
-coverImage: https://i.ytimg.com/vi/f82U18uQTEU/hqdefault.jpg
 channel: Learn Chinese Now
 duration: '9:44'
 publishedAt: 2024-08-01

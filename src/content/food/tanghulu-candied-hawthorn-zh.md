@@ -2,7 +2,6 @@
 title: 糖葫芦——中国山楂裹糖的千年街头小吃
 description: 糖葫芦是中国北方千年街头小吃——山楂果穿在竹签上裹冰糖，形成脆裂的糖衣包住酸果。
 youtubeId: VwSG7m5eqzk
-coverImage: https://i.ytimg.com/vi/VwSG7m5eqzk/hqdefault.jpg
 channel: Weird Explorer
 duration: '28:36'
 publishedAt: 2026-02-22

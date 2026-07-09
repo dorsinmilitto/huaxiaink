@@ -3,7 +3,6 @@ title: This Guzheng Player Drops Beats Like a Rapper
 description: This guzheng player drops beats like a rapper — when the 2,500-year-old
   zither meets trap rhythms, Chinese tradition gets its wildest upgrade.
 youtubeId: HSaJdXxn7zU
-coverImage: https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg
 channel: Moyun Official
 duration: '3:38'
 publishedAt: 2021-11-20

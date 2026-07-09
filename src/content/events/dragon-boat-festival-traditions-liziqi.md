@@ -4,7 +4,6 @@ title: Dragon Boat Festival Through Liziqi's Eyes — Zongzi, Rice Fields, and a
 description: Watch Liziqi bring Dragon Boat Festival to life — hand-wrapping zongzi,
   racing dragon boats, and preserving 2,000 years of tradition in rural Sichuan.
 youtubeId: vusE2HqaAEY
-coverImage: https://i.ytimg.com/vi/vusE2HqaAEY/hqdefault.jpg
 channel: 李子柒 Liziqi
 duration: '6:07'
 publishedAt: 2019-06-04

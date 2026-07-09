@@ -4,7 +4,6 @@ description: Qixi (Double Seventh Festival) is China's original Valentine's Day 
   a 2,600-year legend of a weaver girl and cowherd separated by the Milky Way, reunited
   once a year on a bridge of magpies.
 youtubeId: WCbztd58LLE
-coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
 channel: chinahighlights
 duration: '8:30'
 publishedAt: 2021-08-02

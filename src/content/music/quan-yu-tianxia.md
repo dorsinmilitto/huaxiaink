@@ -3,7 +3,6 @@ title: When a Guzheng and Drum Dismantle a Virtual Idol's Empire
 description: A guzheng and drum dismantle a virtual idol's empire — when traditional
   Chinese instruments cover virtual singer hits, the real versus digital debate ignites.
 youtubeId: IxM1tjTvFAc
-coverImage: https://i.ytimg.com/vi/IxM1tjTvFAc/hqdefault.jpg
 channel: Saberbutterfly
 duration: '5:08'
 publishedAt: 2015-07-15

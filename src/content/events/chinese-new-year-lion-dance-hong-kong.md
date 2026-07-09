@@ -3,7 +3,6 @@ title: Chinese New Year Lion Dance in Hong Kong — The Heartbeat of Spring Fest
 description: Experience Hong Kong's electrifying Chinese New Year lion dance — the
   tradition that kicks off Spring Festival with thundering drums and acrobatic lions.
 youtubeId: Bs0GuU0cUtw
-coverImage: https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg
 channel: Asia HOT
 duration: '8:00'
 publishedAt: 2019-02-06

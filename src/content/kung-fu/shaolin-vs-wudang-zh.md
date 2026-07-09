@@ -2,7 +2,6 @@
 title: 少林对武当：中国武术的永恒之争
 description: 数百年来中国武术分为外家少林与内家武当两大阵营，这一哲学分歧揭示了两种完全不同的力量理解方式。
 youtubeId: f82U18uQTEU
-coverImage: https://i.ytimg.com/vi/f82U18uQTEU/hqdefault.jpg
 channel: Learn Chinese Now
 duration: '9:44'
 publishedAt: 2024-08-01

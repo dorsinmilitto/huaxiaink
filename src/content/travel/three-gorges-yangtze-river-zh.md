@@ -2,7 +2,6 @@
 title: 三峡：大坝重塑了一条河，也重塑了一个文明
 description: 三峡大坝重塑了长江和一个文明——世界最大水利工程让百万移民搬迁，却为一个国家提供了足够的电力。
 youtubeId: gBobfHlvAVc
-coverImage: https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg
 channel: Lifeder
 duration: '29:41'
 publishedAt: 2025-10-01

@@ -4,7 +4,6 @@ description: The Laba Festival on the 8th day of the 12th lunar month marks the 
   of Chinese New Year celebrations — a 1,000-year tradition of sharing laba congee
   with neighbors and strangers alike.
 youtubeId: hcqtYeDk83w
-coverImage: https://i.ytimg.com/vi/hcqtYeDk83w/hqdefault.jpg
 channel: South China Morning Post
 duration: '1:46'
 publishedAt: 2021-01-21

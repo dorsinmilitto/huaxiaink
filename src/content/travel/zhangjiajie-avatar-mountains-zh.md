@@ -2,7 +2,6 @@
 title: 张家界：阿凡达悬浮山的真实原型
 description: 探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。
 youtubeId: Na3ToBLUfFk
-coverImage: https://i.ytimg.com/vi/Na3ToBLUfFk/hqdefault.jpg
 channel: Wonder World
 duration: '11:24'
 publishedAt: 2024-04-10

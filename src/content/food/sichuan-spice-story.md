@@ -3,7 +3,6 @@ title: 'Sichuan Spice Story: How a Province Turned Pain Into Philosophy'
 description: Sichuan turned pain into philosophy — the peppercorn that numbs your
   lips and the chili that burns your tongue built a cuisine beloved by billions.
 youtubeId: e0mW5CJWHWk
-coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
 channel: Food Ranger
 duration: '15:42'
 publishedAt: 2024-07-05

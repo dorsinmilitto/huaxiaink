@@ -2,7 +2,6 @@
 title: 古筝说唱：当千年乐器炸出说唱节拍
 description: 古筝炸出说唱节拍——当2500年的古筝遇上trap节奏，中国传统音乐迎来最狂野的升级。
 youtubeId: HSaJdXxn7zU
-coverImage: https://i.ytimg.com/vi/HSaJdXxn7zU/hqdefault.jpg
 channel: 墨韻 Moyun Official
 duration: '3:38'
 publishedAt: 2021-11-20

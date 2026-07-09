@@ -2,7 +2,6 @@
 title: 邵氏——一间电影厂如何发明了功夫电影
 description: 香港邵氏电影公司创造了功夫片类型——从《独臂刀》到《五毒》，它们塑造了全世界对中国武术的想象。
 youtubeId: luBMSzcQ8p0
-coverImage: https://i.ytimg.com/vi/luBMSzcQ8p0/hqdefault.jpg
 channel: MUBI
 duration: '7:54'
 publishedAt: 2024-04-19

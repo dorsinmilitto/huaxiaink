@@ -3,7 +3,6 @@ title: 'Where Winds Meet: How a Chinese Wuxia Game Conquered 15 Million Players 
 description: Where Winds Meet brought wuxia to 15 million global players — the open-world
   Tang dynasty adventure that made the world fall for Chinese martial arts fantasy.
 youtubeId: cpY_JFJRA9Q
-coverImage: https://i.ytimg.com/vi/cpY_JFJRA9Q/hqdefault.jpg
 channel: IGN
 duration: '2:18'
 publishedAt: 2025-11-15

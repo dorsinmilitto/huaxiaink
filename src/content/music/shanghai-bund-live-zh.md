@@ -2,7 +2,6 @@
 title: 二胡竹笛古筝，奏响《上海滩》的时代回响
 description: 二胡、竹笛、古筝奏响《上海滩》——三件传统乐器演奏定义1930年代上海黄金时代的经典。
 youtubeId: 2EhTnwxg9y4
-coverImage: https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg
 channel: 二胡沛瑶现场音乐
 duration: '3:08'
 publishedAt: 2023-06-10

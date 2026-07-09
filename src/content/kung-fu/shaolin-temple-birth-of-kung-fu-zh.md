@@ -2,7 +2,6 @@
 title: 少林寺：功夫的诞生之地
 description: 1500年来，少林寺是中国武术的摇篮。佛教僧侣如何将冥想转化为世界上最具标志性的格斗体系——以及它为何至今仍意义非凡。
 youtubeId: 9_qaHh2RF4Y
-coverImage: https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg
 channel: Sadhguru
 duration: '6:57'
 publishedAt: 2024-03-15

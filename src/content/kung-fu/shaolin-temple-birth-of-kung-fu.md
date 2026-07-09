@@ -4,7 +4,6 @@ description: For 1,500 years, Shaolin Temple has been the cradle of Chinese mart
   arts. How Buddhist monks turned meditation into the world's most iconic fighting
   system — and why it still matters today.
 youtubeId: 9_qaHh2RF4Y
-coverImage: https://i.ytimg.com/vi/9_qaHh2RF4Y/hqdefault.jpg
 channel: Sadhguru
 duration: '6:57'
 publishedAt: 2024-03-15

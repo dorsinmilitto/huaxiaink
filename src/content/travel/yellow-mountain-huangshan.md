@@ -4,7 +4,6 @@ description: Yellow Mountain (Huangshan) is a real-life ink painting you can wal
   through — sea of clouds, twisted pines, and granite peaks inspiring Chinese art
   for 1,200 years.
 youtubeId: T_gAPaN6IKQ
-coverImage: https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg
 channel: Little Chinese Everywhere
 duration: '18:42'
 publishedAt: 2024-10-15

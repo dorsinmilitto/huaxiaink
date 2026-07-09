@@ -3,7 +3,6 @@ title: Chongyang — The Festival That Asks You to Climb a Mountain for Your Gra
 description: Chongyang Festival asks you to climb a mountain for your grandparents
   — discover the 2,000-year-old tradition honoring elders and autumn's beauty.
 youtubeId: wj2hUzJmdsA
-coverImage: https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg
 channel: China Culture
 duration: '3:45'
 publishedAt: 2024-10-05

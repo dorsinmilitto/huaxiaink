@@ -2,7 +2,6 @@
 title: 七夕——写在星星上的爱情故事（字面意义上的）
 description: 七夕——被银河隔开的两颗星每年相会一次。两千六百年前写在星座里的中国情人节。
 youtubeId: WCbztd58LLE
-coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
 channel: chinahighlights
 duration: '4:20'
 publishedAt: 2023-08-01

@@ -2,7 +2,6 @@
 title: 八达岭之外——你从未见过的长城
 description: 多数游客只到八达岭，但长城横跨沙漠、山脉和草原绵延两万公里——这些野性、被遗忘的段落里，历史仍在呼吸。
 youtubeId: quLhkqwtOg8
-coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
 channel: National Geographic Asia
 duration: '44:01'
 publishedAt: 2020-09-30

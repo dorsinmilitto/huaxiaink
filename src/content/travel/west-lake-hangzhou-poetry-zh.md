@@ -2,7 +2,6 @@
 title: 杭州西湖——中国诗词化为山水的地方
 description: 杭州西湖启发了一千年的中国诗词和绘画——苏东坡、白居易和帝王都曾试图描绘它。如今是联合国遗产，仍是中国最有文学气质的湖泊。
 youtubeId: I8fbJZMhvGQ
-coverImage: https://i.ytimg.com/vi/I8fbJZMhvGQ/hqdefault.jpg
 channel: Davidsbeenhere
 duration: '2:30:59'
 publishedAt: 2023-05-02

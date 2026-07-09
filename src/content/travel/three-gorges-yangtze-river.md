@@ -4,7 +4,6 @@ description: Three Gorges Dam reshaped the Yangtze River and a civilization — 
   world's largest hydro project that displaced millions and generated enough power
   for a nation.
 youtubeId: gBobfHlvAVc
-coverImage: https://i.ytimg.com/vi/gBobfHlvAVc/hqdefault.jpg
 channel: Lifeder
 duration: '29:41'
 publishedAt: 2025-10-01

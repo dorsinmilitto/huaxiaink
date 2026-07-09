@@ -3,7 +3,6 @@ title: When a 3,000-Year-Old Instrument Plays a Pop Drama Theme
 description: A 3,000-year-old guqin plays a pop drama theme — when China's most ancient
   stringed instrument meets modern TV, tradition doesn't die, it evolves.
 youtubeId: h0AAFhx3RmA
-coverImage: https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg
 channel: Zi De Guqin Studio
 duration: '4:09'
 publishedAt: 2018-12-27

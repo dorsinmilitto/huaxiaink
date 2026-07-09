@@ -2,7 +2,6 @@
 title: 当中国古筝与西方大提琴在法国街头相遇
 description: 中国古筝与西方大提琴在法国街头合奏《Lemon Tree》——当东西方乐器在同一条街角即兴，音乐无需翻译。
 youtubeId: lfZcIe4s0C4
-coverImage: https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg
 channel: 碰碰彭碰彭古筝
 duration: '2:49'
 publishedAt: 2023-03-20

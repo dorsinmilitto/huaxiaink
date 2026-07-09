@@ -4,7 +4,6 @@ description: The Zhongyuan Festival on the 15th of the 7th lunar month is when C
   believes the gates of hell open — ancestor money, food offerings, and water lanterns
   guide hungry ghosts back to the living world.
 youtubeId: 7-KQNoDmz8A
-coverImage: https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg
 channel: ReligionForBreakfast
 duration: '15:35'
 publishedAt: 2023-08-24

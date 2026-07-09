@@ -4,7 +4,6 @@ description: The pipa taught China to tell stories in sound — four strings, 2,
   years, and the technique of playing all five fingers simultaneously in cascading
   notes.
 youtubeId: M4Ye7AisnFM
-coverImage: https://i.ytimg.com/vi/M4Ye7AisnFM/hqdefault.jpg
 channel: Musical Moments - East
 duration: '8:51'
 publishedAt: 2021-11-15

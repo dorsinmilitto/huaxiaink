@@ -2,7 +2,6 @@
 title: 重庆火锅：山城之辣，灵魂之沸
 description: 重庆火锅把一切浸入麻辣汤底——码头工人的粗犷一锅如何变成山城的灵魂之辣。
 youtubeId: EewnoXvCzgE
-coverImage: https://i.ytimg.com/vi/EewnoXvCzgE/hqdefault.jpg
 channel: Best Ever Food Review Show
 duration: '25:35'
 publishedAt: 2025-06-01

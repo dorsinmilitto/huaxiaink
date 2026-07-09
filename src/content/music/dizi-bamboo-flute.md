@@ -3,7 +3,6 @@ title: 'The Dizi: One Bamboo Tube, Six Holes, and the Sound of Mountains'
 description: The dizi — one bamboo tube, six holes, and the sound of Chinese mountains
   — the flute that's been painting landscapes in sound for 8,000 years.
 youtubeId: lI1L2l6vi-4
-coverImage: https://i.ytimg.com/vi/lI1L2l6vi-4/hqdefault.jpg
 channel: Musical Moments - East
 duration: '7:22'
 publishedAt: 2022-01-15

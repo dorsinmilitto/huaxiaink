@@ -2,7 +2,6 @@
 title: 咏春中线——李小龙第一门功夫背后的搏击理论
 description: 咏春中线理论是有史以来最高效的搏击理念——控制你与对手之间的最短距离，每一拳都在四寸内命中。
 youtubeId: KcIGuMn4vB4
-coverImage: https://i.ytimg.com/vi/KcIGuMn4vB4/hqdefault.jpg
 channel: International Wing Chun Academy
 duration: '5:31'
 publishedAt: 2009-06-30

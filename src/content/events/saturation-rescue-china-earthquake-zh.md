@@ -2,7 +2,6 @@
 title: 饱和式救援：中国如何改写灾难响应的规则
 description: 饱和式救援如何以压倒性资源投入拯救地震生命——中国改写全球灾难响应规则的壮举。
 youtubeId: AaXYmt6qrbM
-coverImage: https://i.ytimg.com/vi/AaXYmt6qrbM/hqdefault.jpg
 channel: Al Jazeera English
 duration: '1:33'
 publishedAt: 2025-01-07

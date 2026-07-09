@@ -3,7 +3,6 @@ title: When a Chinese Guzheng and a Western Cello Meet on 'Lemon Tree'
 description: A Chinese guzheng and Western cello meet on 'Lemon Tree' — when East
   and West jam on the same Paris street corner, music needs no translation.
 youtubeId: lfZcIe4s0C4
-coverImage: https://i.ytimg.com/vi/lfZcIe4s0C4/hqdefault.jpg
 channel: Pengpeng Jingxuan Guzheng
 duration: '2:49'
 publishedAt: 2023-03-20

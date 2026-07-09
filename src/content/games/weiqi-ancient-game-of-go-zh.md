@@ -2,7 +2,6 @@
 title: 围棋——4000年的黑白博弈，教你什么都学不到（却学到了一切）
 description: 围棋是四千年的黑白领土战争——一种教你战略、耐心和知道何时认输的棋盘艺术。
 youtubeId: oZTdT8MQexk
-coverImage: https://i.ytimg.com/vi/oZTdT8MQexk/hqdefault.jpg
 channel: Go Magic
 duration: '11:24'
 publishedAt: 2023-06-10

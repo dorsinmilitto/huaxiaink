@@ -2,7 +2,6 @@
 title: 七巧板：七块木板拼出的千年智慧
 description: 七块木板在欧几里得之前就教会中国几何——七巧板如何用三千年锻炼空间思维。
 youtubeId: X5mc-dkYLfI
-coverImage: https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg
 channel: mathverick
 duration: '5:50'
 publishedAt: 2010-03-08

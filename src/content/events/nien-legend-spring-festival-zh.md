@@ -2,7 +2,6 @@
 title: 年兽传说：一头怪兽如何催生了春节
 description: 年兽曾吞噬村庄——直到红纸、爆竹和舞狮把它赶走。春节最古老的传说，揭露中国年的真正起源。
 youtubeId: GVPHdFX9iHY
-coverImage: https://i.ytimg.com/vi/GVPHdFX9iHY/hqdefault.jpg
 channel: PandaExpressTV
 duration: '4:29'
 publishedAt: 2024-02-01

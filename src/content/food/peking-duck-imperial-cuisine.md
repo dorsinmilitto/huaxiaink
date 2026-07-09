@@ -3,7 +3,6 @@ title: Peking Duck — From the Emperor's Kitchen to the World's Table
 description: Peking Duck traveled from the Ming emperor's kitchen to every world capital
   — 600 years of roasting perfection behind China's most iconic dish.
 youtubeId: Bkt0FAOWpgc
-coverImage: https://i.ytimg.com/vi/Bkt0FAOWpgc/hqdefault.jpg
 channel: saintcavish
 duration: '22:15'
 publishedAt: 2024-11-10

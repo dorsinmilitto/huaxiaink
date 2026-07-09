@@ -3,7 +3,6 @@ title: 'Winter Solstice: Why Northern China Calls It ''Bigger Than New Year'''
 description: Northern China calls Winter Solstice 'bigger than New Year' — discover
   the tangyuan and dumpling traditions that make the longest night the warmest reunion.
 youtubeId: _6qel02Hw4c
-coverImage: https://i.ytimg.com/vi/_6qel02Hw4c/hqdefault.jpg
 channel: SCCC
 duration: '5:03'
 publishedAt: 2020-12-10

@@ -3,7 +3,6 @@ title: Terracotta Warriors — The Emperor Who Tried to Conquer Death
 description: Terracotta Warriors — 8,000 clay soldiers guarding China's first emperor
   for 2,200 years, accidentally discovered by a farmer in 1974 and still being excavated.
 youtubeId: mP5p4QbvPtc
-coverImage: https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg
 channel: TED-Ed
 duration: '4:59'
 publishedAt: 2018-06-14

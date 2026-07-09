@@ -2,7 +2,6 @@
 title: 琵琶——比任何吉他弹得更快的华夏之弦
 description: 琵琶是2000年的中国弹拨乐器，五指齐拨——其标志性轮指技法每秒产出音符数超过任何西方吉他，曲目涵盖战争、心碎与宇宙之美。
 youtubeId: ksiM1wRcutQ
-coverImage: https://i.ytimg.com/vi/ksiM1wRcutQ/hqdefault.jpg
 channel: The Met
 duration: '4:25'
 publishedAt: 2016-08-01

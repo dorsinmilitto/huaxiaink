@@ -2,7 +2,6 @@
 title: 龙舟竞渡：从悲愤中诞生的千年竞速
 description: 龙舟竞渡如何从一个诗人的悲壮殉国演变为中国最热血的水上运动——跨越两千年的竞速传奇。
 youtubeId: YlPExNPyPwQ
-coverImage: https://i.ytimg.com/vi/YlPExNPyPwQ/hqdefault.jpg
 channel: National Geographic
 duration: '3:21'
 publishedAt: 2024-06-10

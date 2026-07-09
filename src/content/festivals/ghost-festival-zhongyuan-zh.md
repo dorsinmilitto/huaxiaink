@@ -1,8 +1,7 @@
-﻿---
+---
 title: "中元节：阴阳交界的七月十五"
 description: "每年七月，阴阳之间的门轰然洞开——中元节揭示一个不惧死亡的文化如何与逝者对话。"
 youtubeId: "7-KQNoDmz8A"
-coverImage: "https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg"
 channel: "ReligionForBreakfast"
 duration: "15:36"
 publishedAt: 2023-08-24

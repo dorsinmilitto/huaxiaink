@@ -3,7 +3,6 @@ title: Lantern Festival — China's Original Night of a Thousand Lights
 description: Before Valentine's Day, China had the Lantern Festival — a night of a
   thousand lights where lovers once met under riddle-lit lanterns 2,000 years ago.
 youtubeId: kFQKWYGZNlE
-coverImage: https://i.ytimg.com/vi/kFQKWYGZNlE/hqdefault.jpg
 channel: CGTN
 duration: '24:30'
 publishedAt: 2024-02-24

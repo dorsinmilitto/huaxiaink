@@ -4,7 +4,6 @@ description: Most tourists visit Badaling, but the Great Wall stretches 20,000 k
   across deserts, mountains, and grasslands — here are the wild, forgotten sections
   where history still breathes.
 youtubeId: quLhkqwtOg8
-coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
 channel: National Geographic Asia
 duration: '44:01'
 publishedAt: 2020-09-30

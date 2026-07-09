@@ -3,7 +3,6 @@ title: 'Europe''s Heatwave Crisis: How Chinese Cooling Wisdom Outperforms Air Co
 description: As Europe faces record heatwaves, discover how Chinese cooling wisdom
   — from bamboo mats to mung bean soup — outperforms air conditioning naturally.
 youtubeId: WvftmYJgHno
-coverImage: https://i.ytimg.com/vi/WvftmYJgHno/hqdefault.jpg
 channel: India Today Global
 duration: '3:03'
 publishedAt: 2025-06-15

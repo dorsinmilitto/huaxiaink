@@ -4,7 +4,6 @@ description: The Shanghai Restoration Project remixes 1930s Shanghai jazz with e
   beats and traditional Chinese instruments — proving that Chinese music has always
   been a remix culture.
 youtubeId: E-JmtRItvbY
-coverImage: https://i.ytimg.com/vi/E-JmtRItvbY/hqdefault.jpg
 channel: Shanghai Restoration Project
 duration: '3:36'
 publishedAt: 2013-02-08

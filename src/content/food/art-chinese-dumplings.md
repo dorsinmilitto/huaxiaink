@@ -3,7 +3,6 @@ title: 'The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough'
 description: Chinese dumplings fold 1,800 years of story into dough — from Han dynasty
   battlefield medicine to the must-have dish of Spring Festival reunion dinners.
 youtubeId: EcqqhQqemxU
-coverImage: https://i.ytimg.com/vi/EcqqhQqemxU/hqdefault.jpg
 channel: Tasty
 duration: '6:12'
 publishedAt: 2024-01-15

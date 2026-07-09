@@ -4,7 +4,6 @@ description: Chongqing is the 8D city where physics goes to die — buildings st
   on bridges, trains through apartments, and streets on rooftops in China's cyberpunk
   mountain city.
 youtubeId: IbnSuon2nrI
-coverImage: https://i.ytimg.com/vi/IbnSuon2nrI/hqdefault.jpg
 channel: CoolVision
 duration: '1:00'
 publishedAt: 2025-06-01

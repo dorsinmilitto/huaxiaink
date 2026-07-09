@@ -2,7 +2,6 @@
 title: 兵马俑——试图征服死亡的皇帝
 description: 兵马俑——8000泥塑士兵守卫中国第一位皇帝两千两百年，1974年被农民意外发现并持续挖掘至今。
 youtubeId: mP5p4QbvPtc
-coverImage: https://i.ytimg.com/vi/mP5p4QbvPtc/hqdefault.jpg
 channel: TED-Ed
 duration: '4:59'
 publishedAt: 2018-06-14

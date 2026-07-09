@@ -2,7 +2,6 @@
 title: 七夕——写在中国星辰中的2600年爱情故事
 description: 七夕（双七节）是中国原创的情人节——一个2600年的传说：织女与牛郎被银河隔开，每年一次由喜鹊搭桥相会。
 youtubeId: WCbztd58LLE
-coverImage: https://i.ytimg.com/vi/WCbztd58LLE/hqdefault.jpg
 channel: chinahighlights
 duration: '8:30'
 publishedAt: 2021-08-02

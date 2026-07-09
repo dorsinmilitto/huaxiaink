@@ -4,7 +4,6 @@ title: 'Black Myth: Wukong — How a Chinese Game Made the World Read Journey to
 description: 'Black Myth: Wukong made the world read Journey to the West — how a Chinese
   AAA game reached 15M copies and put Sun Wukong on the global stage.'
 youtubeId: rQW2C4iQwTQ
-coverImage: https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg
 channel: NeddyTheNoodle
 duration: '1:03:50'
 publishedAt: 2024-09-20

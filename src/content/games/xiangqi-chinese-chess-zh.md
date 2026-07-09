@@ -2,7 +2,6 @@
 title: 象棋——楚河汉界上的千年对弈
 description: 象棋以楚河汉界分割棋盘——炮要翻山、象不过河、将不离宫的中国千年棋局。
 youtubeId: vklqOLf6mtU
-coverImage: https://i.ytimg.com/vi/vklqOLf6mtU/hqdefault.jpg
 channel: Xiangqi Chinese Chess
 duration: '12:38'
 publishedAt: 2020-03-20

@@ -3,7 +3,6 @@ title: 'The 24 Solar Terms: The Calendar System That Taught Farmers Everything'
 description: The 24 Solar Terms taught Chinese farmers when to plant, harvest, and
   celebrate — a UNESCO-listed calendar system born from 4,000 years of sky-watching.
 youtubeId: qTrd010vMp8
-coverImage: https://i.ytimg.com/vi/qTrd010vMp8/hqdefault.jpg
 channel: UNESCO
 duration: '10:00'
 publishedAt: 2016-11-30

@@ -4,7 +4,6 @@ description: Tanghulu is a 1,000-year northern Chinese street snack — hawthorn
   dipped in rock-sugar glaze on a bamboo skewer, producing a shatteringly crisp candy
   shell around tart fruit.
 youtubeId: VwSG7m5eqzk
-coverImage: https://i.ytimg.com/vi/VwSG7m5eqzk/hqdefault.jpg
 channel: Weird Explorer
 duration: '28:36'
 publishedAt: 2026-02-22

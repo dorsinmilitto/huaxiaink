@@ -3,7 +3,6 @@ title: Simon & Garfunkel's Classic, Reborn Through Asian Folk Instruments
 description: Simon & Garfunkel's 'Sound of Silence' reborn through Asian folk instruments
   — when the erhu and dizi cover a Western classic, silence sounds different.
 youtubeId: QOm1-PFsLv0
-coverImage: https://i.ytimg.com/vi/QOm1-PFsLv0/hqdefault.jpg
 channel: Nini Music
 duration: '3:02'
 publishedAt: 2023-05-20

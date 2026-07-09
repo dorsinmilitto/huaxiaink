@@ -2,7 +2,6 @@
 title: 象棋——中国象棋与心智的战场
 description: 象棋是棋盘上的战争——隔山打牛的炮、纵横驰骋的车、永不离宫的将，这是一款比国际象棋更古老的博弈。
 youtubeId: MyLXgkL4C5A
-coverImage: https://i.ytimg.com/vi/MyLXgkL4C5A/hqdefault.jpg
 channel: Xiangqi Chinese Chess
 duration: '11:27'
 publishedAt: 2021-08-04

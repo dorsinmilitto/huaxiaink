@@ -2,7 +2,6 @@
 title: 福建土楼：大山深处的圆形城堡
 description: 福建土楼——800人共居一座圆形土堡，被列为世界遗产的家族防御堡垒传承六百年。
 youtubeId: 0nZue4_ceSY
-coverImage: https://i.ytimg.com/vi/0nZue4_ceSY/hqdefault.jpg
 channel: Little Chinese Everywhere
 duration: '22:18'
 publishedAt: 2023-01-26

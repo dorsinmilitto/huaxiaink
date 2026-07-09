@@ -3,7 +3,6 @@ title: 'Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Eu
 description: Seven wooden pieces taught China geometry before Euclid — the tangram
   puzzle that's been shaping spatial thinking for 3,000 years and counting.
 youtubeId: X5mc-dkYLfI
-coverImage: https://i.ytimg.com/vi/X5mc-dkYLfI/hqdefault.jpg
 channel: mathverick
 duration: '5:50'
 publishedAt: 2010-03-08

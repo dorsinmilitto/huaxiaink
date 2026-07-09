@@ -3,7 +3,6 @@ title: 'Chuanr: How China''s Street-Side Skewers Became a Midnight Institution'
 description: Chuanr — China's cumin-dusted lamb skewers sizzling on midnight streets
   — the street food that turned midnight snacking into a cultural institution.
 youtubeId: V0B8gz7kZTA
-coverImage: https://i.ytimg.com/vi/V0B8gz7kZTA/hqdefault.jpg
 channel: Blondie in China
 duration: '14:12'
 publishedAt: 2024-07-16

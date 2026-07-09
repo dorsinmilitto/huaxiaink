@@ -3,7 +3,6 @@ title: A Frenchman Plays Anime's Most Heartbreaking Song on a Chinese Erhu
 description: A Frenchman plays Inuyasha's most heartbreaking song on a Chinese erhu
   — when anime emotion meets traditional timbre, bridges get built.
 youtubeId: lSCHU3kwrm8
-coverImage: https://i.ytimg.com/vi/lSCHU3kwrm8/hqdefault.jpg
 channel: Eliott Tordo Erhu Player
 duration: '2:57'
 publishedAt: 2022-06-15

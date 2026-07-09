@@ -2,7 +2,6 @@
 title: 欧洲热浪危机：中国物理降温智慧为何比空调更管用
 description: 欧洲热浪频发之际，探索中国物理降温智慧——从竹席到绿豆汤，比空调更自然的消暑之道。
 youtubeId: WvftmYJgHno
-coverImage: https://i.ytimg.com/vi/WvftmYJgHno/hqdefault.jpg
 channel: India Today Global
 duration: '3:03'
 publishedAt: 2025-06-15

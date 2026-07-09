@@ -3,7 +3,6 @@ title: 'Chinese Shadow Puppetry: The World''s Oldest Animation, Still Alive'
 description: Shadow puppetry is the world's oldest animation — behind a lit screen,
   leather figures have told Chinese epics for 2,000 years before Disney existed.
 youtubeId: 8-mzqxZNp2g
-coverImage: https://i.ytimg.com/vi/8-mzqxZNp2g/hqdefault.jpg
 channel: UNESCO
 duration: '10:08'
 publishedAt: 2011-11-22

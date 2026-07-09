@@ -2,7 +2,6 @@
 title: 中元鬼节——中国向亡者开门之夜
 description: 农历七月十五中元节，中国相信地狱之门开启——纸钱、供品和荷灯引领孤魂回到人间。
 youtubeId: 7-KQNoDmz8A
-coverImage: https://i.ytimg.com/vi/7-KQNoDmz8A/hqdefault.jpg
 channel: ReligionForBreakfast
 duration: '15:35'
 publishedAt: 2023-08-24

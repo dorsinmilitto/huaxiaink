@@ -2,7 +2,6 @@
 title: 早茶点心——200年前发明Brunch的晨间仪式
 description: 点心在Brunch这个词出现前两百年就发明了早茶——竹笼、推车、蒸笼里的广式晨间仪式。
 youtubeId: qAqvfxIgCaY
-coverImage: https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg
 channel: South China Morning Post
 duration: '7:30'
 publishedAt: 2023-05-15

@@ -3,7 +3,6 @@ title: 'The Suona: China''s Loudest Instrument and the Sound of Life and Death'
 description: The suona is China's loudest instrument — the sound of weddings, funerals,
   and everything in between, shattering eardrums with one brass bell for 1,700 years.
 youtubeId: FYbNqSXZPd0
-coverImage: https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg
 channel: CGTN
 duration: '5:49'
 publishedAt: 2020-12-25

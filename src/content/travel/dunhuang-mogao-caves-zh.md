@@ -2,7 +2,6 @@
 title: 敦煌莫高窟——沙漠中千年的佛教艺术
 description: 敦煌莫高窟拥有500座洞窟和千年佛教壁画与雕塑——一个丝路宝库，在战火、劫掠和戈壁沙漠中幸存了16个世纪。
 youtubeId: R29A0GyLYlE
-coverImage: https://i.ytimg.com/vi/R29A0GyLYlE/hqdefault.jpg
 channel: UNESCO
 duration: '2:45'
 publishedAt: 2010-06-03

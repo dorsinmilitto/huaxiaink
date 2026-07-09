@@ -4,7 +4,6 @@ description: Tai chi push hands (tui shou) is a two-person practice where you le
   to redirect force instead of resisting it — Sun Tzu's philosophy made physical,
   and the most misunderstood martial art in the world.
 youtubeId: EHEUkj8F_pM
-coverImage: https://i.ytimg.com/vi/EHEUkj8F_pM/hqdefault.jpg
 channel: Chi Skills
 duration: '4:17'
 publishedAt: 2021-01-04

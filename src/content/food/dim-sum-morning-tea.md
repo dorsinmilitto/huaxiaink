@@ -3,7 +3,6 @@ title: Dim Sum — The Morning Ritual That Invented Brunch 200 Years Ago
 description: Dim sum invented brunch 200 years before the word existed — the Cantonese
   morning tea ritual of bamboo baskets, push carts, and steamed perfection.
 youtubeId: qAqvfxIgCaY
-coverImage: https://i.ytimg.com/vi/qAqvfxIgCaY/hqdefault.jpg
 channel: South China Morning Post
 duration: '7:30'
 publishedAt: 2023-05-15

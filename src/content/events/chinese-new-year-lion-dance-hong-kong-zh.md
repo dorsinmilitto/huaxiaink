@@ -2,7 +2,6 @@
 title: 香港春节舞狮——农历新年的心跳
 description: 感受香港春节舞狮的震撼力量——雷鸣般的鼓点与翻腾的醒狮，揭开农历新年最热血的序幕。
 youtubeId: Bs0GuU0cUtw
-coverImage: https://i.ytimg.com/vi/Bs0GuU0cUtw/hqdefault.jpg
 channel: Asia HOT
 duration: '8:00'
 publishedAt: 2019-02-06

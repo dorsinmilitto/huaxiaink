@@ -2,7 +2,6 @@
 title: AlphaGo与围棋——当AI破解了世界上最古老的棋类游戏
 description: 2016年AlphaGo击败世界围棋冠军，终结了人类4000年的霸主地位——同时也揭示了这个古老棋类仍藏着机器未发现的秘密。
 youtubeId: WXuK6gekU1Y
-coverImage: https://i.ytimg.com/vi/WXuK6gekU1Y/hqdefault.jpg
 channel: Google DeepMind
 duration: '1:30:27'
 publishedAt: 2020-03-13

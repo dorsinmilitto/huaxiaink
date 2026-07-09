@@ -2,7 +2,6 @@
 title: 古筝翻弹《加州旅馆》——21弦革命
 description: 新一代古筝手在21弦中国筝上翻弹摇滚、流行和动漫——把2500年的宫廷乐器变成了YouTube最意想不到的跨界明星。
 youtubeId: gf6v59c5yuY
-coverImage: https://i.ytimg.com/vi/gf6v59c5yuY/hqdefault.jpg
 channel: 墨韵 Moyun Official
 duration: '5:50'
 publishedAt: 2023-04-01

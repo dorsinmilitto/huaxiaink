@@ -2,7 +2,6 @@
 title: 黑神话：悟空——一款中国游戏如何让全世界开始读西游记
 description: 黑神话：悟空让全世界开始读西游记——一款中国3A游戏如何卖出1500万份，把孙悟空推上世界舞台。
 youtubeId: rQW2C4iQwTQ
-coverImage: https://i.ytimg.com/vi/rQW2C4iQwTQ/hqdefault.jpg
 channel: NeddyTheNoodle
 duration: '1:03:50'
 publishedAt: 2024-09-20

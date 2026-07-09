@@ -3,7 +3,6 @@ title: 'When the Erhu Meets Big Fish & Begonia: A Frenchman''s Chinese Animation
 description: A Frenchman plays Big Fish & Begonia on the erhu — when a two-stringed
   Chinese fiddle meets Studio Ghibli-style animation, the result breaks cultural borders.
 youtubeId: 4CAFafOUyX0
-coverImage: https://i.ytimg.com/vi/4CAFafOUyX0/hqdefault.jpg
 channel: Eliott Tordo Erhu Player
 duration: '5:44'
 publishedAt: 2023-01-10

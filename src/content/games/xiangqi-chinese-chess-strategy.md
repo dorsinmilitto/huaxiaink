@@ -4,7 +4,6 @@ description: Xiangqi (Chinese Chess) is war on a board — cannons that leap, ch
   that charge, and a general who must never leave the palace, in a game older than
   chess itself.
 youtubeId: MyLXgkL4C5A
-coverImage: https://i.ytimg.com/vi/MyLXgkL4C5A/hqdefault.jpg
 channel: Xiangqi Chinese Chess
 duration: '11:27'
 publishedAt: 2021-08-04

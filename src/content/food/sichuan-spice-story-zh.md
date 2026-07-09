@@ -2,7 +2,6 @@
 title: 川辣传奇：一个省份如何把痛苦熬成哲学
 description: 四川把痛苦熬成哲学——麻唇的花椒和灼舌的辣椒，塑造了数十亿人追捧的川菜之魂。
 youtubeId: e0mW5CJWHWk
-coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
 channel: Food Ranger
 duration: '15:42'
 publishedAt: 2024-07-05

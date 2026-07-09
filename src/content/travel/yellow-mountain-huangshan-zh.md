@@ -2,7 +2,6 @@
 title: 黄山——你可以走进去的水墨画
 description: 黄山是你可以走进去的水墨画——云海、奇松、花岗岩峰林，一千两百年来不断激发中国艺术灵感。
 youtubeId: T_gAPaN6IKQ
-coverImage: https://i.ytimg.com/vi/T_gAPaN6IKQ/hqdefault.jpg
 channel: Little Chinese Everywhere
 duration: '18:42'
 publishedAt: 2024-10-15

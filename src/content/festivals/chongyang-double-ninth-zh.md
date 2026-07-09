@@ -2,7 +2,6 @@
 title: 重阳节——让你为爷爷奶奶爬山的节日
 description: 重阳节让你为爷爷奶奶爬山——探索这个两千年传统如何将敬老与秋日登高融为一体。
 youtubeId: wj2hUzJmdsA
-coverImage: https://i.ytimg.com/vi/wj2hUzJmdsA/hqdefault.jpg
 channel: China Culture
 duration: '3:45'
 publishedAt: 2024-10-05

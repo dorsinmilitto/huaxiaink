@@ -3,7 +3,6 @@ title: Erhu, Dizi & Guzheng Revive the Shanghai Bund — A Classic Reborn
 description: Erhu, dizi, and guzheng revive the Shanghai Bund classic — three traditional
   instruments play the song that defined 1930s Shanghai's golden era.
 youtubeId: 2EhTnwxg9y4
-coverImage: https://i.ytimg.com/vi/2EhTnwxg9y4/hqdefault.jpg
 channel: Erhu Peiyao Live Music
 duration: '3:08'
 publishedAt: 2023-06-10

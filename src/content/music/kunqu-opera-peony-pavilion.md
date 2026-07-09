@@ -3,7 +3,6 @@ title: Kunqu Opera — The 600-Year Voice That Refuses to Die
 description: Kunqu Opera — the 600-year voice that refuses to die, from Ming dynasty
   courts to UNESCO's masterpiece list, China's most refined stage art lives on.
 youtubeId: m1GxmBsxQ1g
-coverImage: https://i.ytimg.com/vi/m1GxmBsxQ1g/hqdefault.jpg
 channel: 自得琴社 Zi De Guqin Studio
 duration: '5:42'
 publishedAt: 2022-09-01

@@ -4,7 +4,6 @@ description: Tai Chi blends Daoist philosophy with martial power — slow moveme
   hiding devastating force. From Chen Village to Harvard Medical School, discover
   why the world is embracing this ancient art.
 youtubeId: 4c-ywGdAiAo
-coverImage: https://i.ytimg.com/vi/4c-ywGdAiAo/hqdefault.jpg
 channel: George Thompson
 duration: '8:09'
 publishedAt: 2024-04-01

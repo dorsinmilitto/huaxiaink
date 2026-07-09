@@ -2,7 +2,6 @@
 title: 唢呐：百乐之王的狂放与深情
 description: 唢呐是百乐之王——婚礼的红、丧礼的白，一千七百年来一个铜碗震碎所有耳膜。
 youtubeId: FYbNqSXZPd0
-coverImage: https://i.ytimg.com/vi/FYbNqSXZPd0/hqdefault.jpg
 channel: CGTN
 duration: '5:49'
 publishedAt: 2020-12-25

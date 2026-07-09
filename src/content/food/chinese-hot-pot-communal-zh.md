@@ -2,7 +2,6 @@
 title: 火锅——为什么中国人真的要围在一起沸腾着吃饭
 description: 火锅——中国人围在一起沸腾着吃饭的方式，一千年共享锅底背后的社交哲学。
 youtubeId: gBr_1YWMOLA
-coverImage: https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg
 channel: China Matters
 duration: '3:56'
 publishedAt: 2024-12-01

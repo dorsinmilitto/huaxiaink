@@ -4,7 +4,6 @@ description: Sichuan hot pot drowns ingredients in a bubbling cauldron of chili 
   and Sichuan peppercorns — a communal dining experience where the heat builds, the
   numbing intensifies, and strangers become friends.
 youtubeId: e0mW5CJWHWk
-coverImage: https://i.ytimg.com/vi/e0mW5CJWHWk/hqdefault.jpg
 channel: Goldthread
 duration: '4:33'
 publishedAt: 2019-12-06

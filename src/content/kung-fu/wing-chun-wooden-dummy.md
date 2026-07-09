@@ -4,7 +4,6 @@ description: Wing Chun's wooden dummy form, made famous by Ip Man and Bruce Lee,
   center-line theory and inch-power. Discover the 108 movements that define close-range
   combat.
 youtubeId: DgG-ttflBNU
-coverImage: https://i.ytimg.com/vi/DgG-ttflBNU/hqdefault.jpg
 channel: Kung Fu & Tai Chi Center w/ Jake Mace
 duration: '6:07'
 publishedAt: 2024-05-20

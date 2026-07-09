@@ -3,7 +3,6 @@ title: Chinese Drum — The Heartbeat Behind Every Festival, Battle, and Dynasty
 description: The Chinese drum is the heartbeat behind every festival, battle, and
   dynasty — from Qin army signals to Spring Festival celebrations, rhythm is power.
 youtubeId: 9NSej1sFr3g
-coverImage: https://i.ytimg.com/vi/9NSej1sFr3g/hqdefault.jpg
 channel: Gary von der Ahé
 duration: '4:15'
 publishedAt: 2023-06-01

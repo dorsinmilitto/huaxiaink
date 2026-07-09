@@ -2,7 +2,6 @@
 title: 当三千年古琴弹起仙侠剧主题曲
 description: 三千年古琴弹起仙侠剧主题曲——当中国最古老的弦乐器遇上现代电视，传统不死，而是进化。
 youtubeId: h0AAFhx3RmA
-coverImage: https://i.ytimg.com/vi/h0AAFhx3RmA/hqdefault.jpg
 channel: 自得琴社
 duration: '4:09'
 publishedAt: 2018-12-27

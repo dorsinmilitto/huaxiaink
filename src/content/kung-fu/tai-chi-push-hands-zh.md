@@ -2,7 +2,6 @@
 title: 太极推手——不战而胜的艺术
 description: 太极推手是双人练习，学会化力而非抗力——孙子的哲学变成身体实践，也是世界上最被误解的武术。
 youtubeId: EHEUkj8F_pM
-coverImage: https://i.ytimg.com/vi/EHEUkj8F_pM/hqdefault.jpg
 channel: Chi Skills
 duration: '4:17'
 publishedAt: 2021-01-04

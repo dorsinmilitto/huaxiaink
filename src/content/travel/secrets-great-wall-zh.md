@@ -2,7 +2,6 @@
 title: 长城秘史——两万公里的王朝、战败与糯米灰浆
 description: 揭秘长城隐藏的真相：糯米灰浆配方、烽火台通信网络，以及两千年间横跨两万公里的王朝防御。
 youtubeId: quLhkqwtOg8
-coverImage: https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg
 channel: National Geographic
 duration: '50:31'
 publishedAt: 2024-05-15

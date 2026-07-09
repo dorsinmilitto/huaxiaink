@@ -2,7 +2,6 @@
 title: 小笼包——挑战物理学的汤包
 description: 小笼包将整碗热汤裹在薄如纸的面皮里——一道上海烹饪奇迹，花了几个世纪完善，几秒钟吃完。
 youtubeId: MpRxnCqUAFM
-coverImage: https://i.ytimg.com/vi/MpRxnCqUAFM/hqdefault.jpg
 channel: Joshua Weissman
 duration: '9:50'
 publishedAt: 2022-01-12

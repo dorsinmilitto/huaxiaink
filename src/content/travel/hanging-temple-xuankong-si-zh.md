@@ -2,7 +2,6 @@
 title: 悬空寺：挂在悬崖上的千年奇迹
 description: 悬空寺挂在悬崖上一千五百年——离地50米的木构寺庙融合佛道儒三教，世界建筑史上的悬空奇迹。
 youtubeId: Je9Y3pRyfX8
-coverImage: https://i.ytimg.com/vi/Je9Y3pRyfX8/hqdefault.jpg
 channel: Travel East
 duration: '23:09'
 publishedAt: 2025-03-22

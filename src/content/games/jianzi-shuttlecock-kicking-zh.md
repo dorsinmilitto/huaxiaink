@@ -2,7 +2,6 @@
 title: 踢毽子：从汉代宫廷到街头巷尾的国民运动
 description: 踢毽子比足球早两千年的中国花式踢法——从汉代宫廷到现代街头，一项不需要球场的国民运动。
 youtubeId: JVSC2qmDQjM
-coverImage: https://i.ytimg.com/vi/JVSC2qmDQjM/hqdefault.jpg
 channel: CGTN
 duration: '5:47'
 publishedAt: 2020-12-22

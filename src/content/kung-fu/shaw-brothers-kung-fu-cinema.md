@@ -4,7 +4,6 @@ description: The Shaw Brothers studio in Hong Kong created the kung fu film genr
   — from One-Armed Swordsman to Five Deadly Venoms, their movies shaped how the world
   imagines Chinese martial arts.
 youtubeId: luBMSzcQ8p0
-coverImage: https://i.ytimg.com/vi/luBMSzcQ8p0/hqdefault.jpg
 channel: MUBI
 duration: '7:54'
 publishedAt: 2024-04-19

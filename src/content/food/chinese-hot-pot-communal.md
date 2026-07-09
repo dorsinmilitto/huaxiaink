@@ -3,7 +3,6 @@ title: Hot Pot — Why the Chinese Eat Their Meals Literally Boiling Together
 description: Hot pot is how the Chinese eat literally boiling together — a shared
   pot that turns dining into bonding across 1,000 years of communal cooking history.
 youtubeId: gBr_1YWMOLA
-coverImage: https://i.ytimg.com/vi/gBr_1YWMOLA/hqdefault.jpg
 channel: China Matters
 duration: '3:56'
 publishedAt: 2024-12-01
