@@ -48,15 +48,17 @@ const related = relatedEntries
   .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
   .slice(0, 4);
 
-const ogImage = frontmatter.coverImage
-  || (frontmatter.youtubeId ? `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg` : undefined);
+// Self-hosted cover: /covers/{youtubeId}.webp
+const ogImage = frontmatter.youtubeId
+  ? `https://www.huaxiaink.com/covers/${frontmatter.youtubeId}.webp`
+  : frontmatter.coverImage || undefined;
 
 const videoSchema = frontmatter.youtubeId ? {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": frontmatter.title,
   "description": `${t(l, 'detail.video_analysis')} ${frontmatter.title} ${t(l, 'detail.on')}`,
-  "thumbnailUrl": `https://i.ytimg.com/vi/${frontmatter.youtubeId}/hqdefault.jpg`,
+  "thumbnailUrl": `https://www.huaxiaink.com/covers/${frontmatter.youtubeId}.webp`,
   "embedUrl": `https://www.youtube.com/embed/${frontmatter.youtubeId}`,
   "uploadDate": frontmatter.publishedAt.toISOString(),
   "contentUrl": `https://www.youtube.com/watch?v=${frontmatter.youtubeId}`,

@@ -12,8 +12,9 @@ export interface Props {
 }
 
 const { id, title, channel, duration, category, tags = [], slug, lang, coverImage } = Astro.props;
+// Priority: self-hosted WebP > coverImage prop > empty
 const thumbnail = id
-  ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg`
+  ? `/covers/${id}.webp`
   : coverImage || '';
 const href = `/${lang}/${category}/${slug}/`;
 ---
@@ -21,7 +22,7 @@ const href = `/${lang}/${category}/${slug}/`;
 <a href={href} class="video-card">
   {thumbnail && (
     <div class="video-thumb">
-      <img src={thumbnail} alt={title} loading="lazy" width="480" height="270" />
+      <img src={thumbnail} alt={title} loading="lazy" width="1280" height="720" />
       {duration && <span class="video-duration">{duration}</span>}
     </div>
   )}
