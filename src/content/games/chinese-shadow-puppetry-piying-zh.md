@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 0ad71c50-2d99-425e-8e1a-9c51e0e80135
-  PropagateID: 0ad71c50-2d99-425e-8e1a-9c51e0e80135
-  ReservedCode1: f4c52e81-f7e4-4628-beb1-39614e23fe9c
-  ReservedCode2: f4c52e81-f7e4-4628-beb1-39614e23fe9c
 ---
 
 ## 光与影的诞生

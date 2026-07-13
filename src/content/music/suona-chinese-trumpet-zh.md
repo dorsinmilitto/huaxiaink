@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 4282c7b7-b82c-4e81-a5ef-d818f9499ab7
-  PropagateID: 4282c7b7-b82c-4e81-a5ef-d818f9499ab7
-  ReservedCode1: 3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e
-  ReservedCode2: 3c2ecfd4-ce46-4ad3-8423-fef6bc01b13e
 ---
 
 ## 西来东渐：唢呐的丝路旅程

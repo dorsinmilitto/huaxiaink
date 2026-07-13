@@ -20,18 +20,18 @@ affiliate:
 - title: Hawthorn Fruit Rolls Candied Hawthorn Snack Traditional Chinese
   asin: B0FF4T1H4L
   url: https://www.amazon.com/dp/B0FF4T1H4L?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51hPz9xWfdL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/81fIvDsq+yL._AC_UL640_.jpg
   price: $12.99
-- title: Candy Thermometer Digital for Sugar and Deep Frying
-  asin: B0D2L5JQJ6
-  url: https://www.amazon.com/dp/B0D2L5JQJ6?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61UqLqWXTfL._AC_UL640_.jpg
-  price: $9.99
 - title: Chinese Breakfast Waterproof Vinyl Stickers 50Pcs
   asin: B0H1S23GY4
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61C8n1xZw0L._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
+- title: Digital Candy Thermometer with Pot Clip 10 Inch Stainless Steel Probe
+  asin: "B0DMNQZTR3"
+  url: https://www.amazon.com/dp/B0DMNQZTR3?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Z9fAIUq3L._AC_UL640_.jpg
+  price: $13.99
 ---
 
 ## The Sound of Winter

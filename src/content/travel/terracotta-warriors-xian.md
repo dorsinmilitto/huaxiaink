@@ -42,14 +42,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 7b8c1d2f-6276-44ef-bb99-d5cceafa7c49
-  PropagateID: 7b8c1d2f-6276-44ef-bb99-d5cceafa7c49
-  ReservedCode1: 51a7aa61-75b1-457c-a423-3dea58653db7
-  ReservedCode2: 51a7aa61-75b1-457c-a423-3dea58653db7
 ---
 
 ## An Army That Stood Guard for Two Thousand Years

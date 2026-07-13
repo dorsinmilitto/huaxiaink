@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 3ca396d8-2d2a-4ecf-93be-6e3bb5050174
-  PropagateID: 3ca396d8-2d2a-4ecf-93be-6e3bb5050174
-  ReservedCode1: e20fdffe-5462-41a3-a505-d8a64b1dc26e
-  ReservedCode2: e20fdffe-5462-41a3-a505-d8a64b1dc26e
 ---
 
 ## 一口不为独食者存在的锅

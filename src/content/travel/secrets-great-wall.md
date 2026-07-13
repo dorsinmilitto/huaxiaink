@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c21cb7f5-3056-4c8a-a43a-aff6a41783b1
-  PropagateID: c21cb7f5-3056-4c8a-a43a-aff6a41783b1
-  ReservedCode1: 5002a7aa-de92-4d76-beb0-328dc104367a
-  ReservedCode2: 5002a7aa-de92-4d76-beb0-328dc104367a
 ---
 
 ## More Than Bricks and Mortar

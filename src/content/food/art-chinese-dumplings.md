@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: dd280935-30ff-4e69-8512-4fb929e39b79
-  PropagateID: dd280935-30ff-4e69-8512-4fb929e39b79
-  ReservedCode1: 507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92
-  ReservedCode2: 507dfb79-a9ee-4da6-94aa-8d1cd0eb9f92
 ---
 
 ## A Doctor's Prescription Became the World's Favorite Comfort Food

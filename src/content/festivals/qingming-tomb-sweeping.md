@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 0a43c783-9d83-48c8-94bf-186094c1d6fd
-  PropagateID: 0a43c783-9d83-48c8-94bf-186094c1d6fd
-  ReservedCode1: b5450a4a-9d3d-40dd-8bfe-5db2145926b2
-  ReservedCode2: b5450a4a-9d3d-40dd-8bfe-5db2145926b2
 ---
 
 ## A Conversation Across Time

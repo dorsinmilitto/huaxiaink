@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: b08e6176-04e2-47b1-91ce-02ede61327c7
-  PropagateID: b08e6176-04e2-47b1-91ce-02ede61327c7
-  ReservedCode1: 5f949f41-3569-49ba-b8da-73468026f5f6
-  ReservedCode2: 5f949f41-3569-49ba-b8da-73468026f5f6
 ---
 
 ## 竹声溯源：笛子的古老身世

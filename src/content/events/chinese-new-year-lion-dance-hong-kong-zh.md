@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: d67da943-29b2-430a-b013-6c56958c1ff2
-  PropagateID: d67da943-29b2-430a-b013-6c56958c1ff2
-  ReservedCode1: 5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f
-  ReservedCode2: 5fb6dc2c-1cbb-4543-bb72-a0bcc263b68f
 ---
 
 ## 狮子上街的时刻

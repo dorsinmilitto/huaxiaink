@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 7fc444ae-6590-422c-886e-782d67ea6088
-  PropagateID: 7fc444ae-6590-422c-886e-782d67ea6088
-  ReservedCode1: cdbd30b2-89d1-4510-8463-4a3f77504b38
-  ReservedCode2: cdbd30b2-89d1-4510-8463-4a3f77504b38
 ---
 
 ## 最长的夜，最早的春

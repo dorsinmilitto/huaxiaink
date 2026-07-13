@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f2ed39f6-711b-4671-9e18-daefc2132df4
-  PropagateID: f2ed39f6-711b-4671-9e18-daefc2132df4
-  ReservedCode1: 07b7f08a-9e34-47d8-8448-f88baedc848d
-  ReservedCode2: 07b7f08a-9e34-47d8-8448-f88baedc848d
 ---
 
 ## 每年一次的跨时空对话

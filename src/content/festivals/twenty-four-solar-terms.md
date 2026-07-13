@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 2a107c88-1a21-4d1d-a33d-938b0bcf04a9
-  PropagateID: 2a107c88-1a21-4d1d-a33d-938b0bcf04a9
-  ReservedCode1: 446da713-340c-4833-a494-21cd64347213
-  ReservedCode2: 446da713-340c-4833-a494-21cd64347213
 ---
 
 ## A Calendar Written by the Sun

@@ -15,21 +15,21 @@ tags:
 - 电影
 featured: true
 affiliate:
-- title: Shaolin Temple DVD (Jet Li) Remastered Edition
-  asin: B01GKR0L0U
-  url: https://www.amazon.com/dp/B01GKR0L0U?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51AOHvJq5IL._AC_UL640_.jpg
-  price: $7.99
-- title: Heroes Of The East DVD Shaw Brothers Classic
-  asin: B00RBYLMFA
-  url: https://www.amazon.com/dp/B00RBYLMFA?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51kB2C5E7NL._AC_UL640_.jpg
-  price: $3.99
 - title: Feng Shui Wealth God Keychain Good Luck Charm
   asin: B0GCX75MWB
   url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51pXD7KRfpL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
   price: $4.99
+- title: Mens Surely Not Everybody was Kung Fu Fighting T Shirt
+  asin: "B07772TB67"
+  url: https://www.amazon.com/dp/B07772TB67?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71y5PlkW+DL._AC_UL640_.jpg
+  price: $14.99
+- title: ZooBoo Chinese Clothing Tang Suit Kung Fu Short Sleeve Shirt
+  asin: "B07Q98J1MW"
+  url: https://www.amazon.com/dp/B07Q98J1MW?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41oR9dwvN3L._AC_UL640_.jpg
+  price: $19.99
 ---
 
 ## 造就一种类型的工厂

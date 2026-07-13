@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ab9a330d-e217-4fcc-b728-423d1993d4e5
-  PropagateID: ab9a330d-e217-4fcc-b728-423d1993d4e5
-  ReservedCode1: 3f4a6ed8-d966-4a72-832d-a7dbd49ff135
-  ReservedCode2: 3f4a6ed8-d966-4a72-832d-a7dbd49ff135
 ---
 
 ## 雾中滚沸

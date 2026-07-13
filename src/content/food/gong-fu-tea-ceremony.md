@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 91dc772c-ef74-40ff-9854-76fdc81188a9
-  PropagateID: 91dc772c-ef74-40ff-9854-76fdc81188a9
-  ReservedCode1: bb1f8964-94f6-40ac-9f6d-2920054ed2bf
-  ReservedCode2: bb1f8964-94f6-40ac-9f6d-2920054ed2bf
 ---
 
 ## The Name That Confuses Everyone

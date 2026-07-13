@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ab32f682-894e-436c-a425-ed83867e836d
-  PropagateID: ab32f682-894e-436c-a425-ed83867e836d
-  ReservedCode1: 65f4fcf8-106f-4375-8e42-c68c953f10bc
-  ReservedCode2: 65f4fcf8-106f-4375-8e42-c68c953f10bc
 ---
 
 ## A Love Story That Broke the Rules Six Centuries Ago

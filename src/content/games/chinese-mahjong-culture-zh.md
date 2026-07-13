@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f29c67ff-7f07-43dd-9bec-a6c8932f9bc1
-  PropagateID: f29c67ff-7f07-43dd-9bec-a6c8932f9bc1
-  ReservedCode1: fdec90b5-f5b6-4539-b0ec-ad90e9e23c54
-  ReservedCode2: fdec90b5-f5b6-4539-b0ec-ad90e9e23c54
 ---
 
 ## 那个声音，刻在中国人骨子里

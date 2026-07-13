@@ -18,17 +18,17 @@ affiliate:
 - title: Wing Chun Rattan Ring for Training and Practice 11.8 inch
   asin: B09Y1W3T6L
   url: https://www.amazon.com/dp/B09Y1W3T6L?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51dLGk7yIgL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/5190vBz6JML._AC_UL640_.jpg
   price: $21.99
 - title: Mini Wooden Wing Chun Dummy for Training Practice
   asin: B0FJ5ZZ2PJ
   url: https://www.amazon.com/dp/B0FJ5ZZ2PJ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71KJ3YqJWGL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71ZiCIsJ+uL._AC_UL640_.jpg
   price: $32.00
 - title: Feng Shui Wealth God Keychain Good Luck Charm
   asin: B0GCX75MWB
   url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51pXD7KRfpL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
   price: $4.99
 ---
 

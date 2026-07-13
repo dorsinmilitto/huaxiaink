@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F24F3376?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81ArCZEruGL._AC_UY218_.jpg
   price: $0.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 9d7ad14e-dbe6-429c-aa9b-e6d35b1cb21f
-  PropagateID: 9d7ad14e-dbe6-429c-aa9b-e6d35b1cb21f
-  ReservedCode1: a523bbbb-41f0-41e4-bb2f-b909fa3cff50
-  ReservedCode2: a523bbbb-41f0-41e4-bb2f-b909fa3cff50
 ---
 
 ## 按一张图纸造出的宇宙

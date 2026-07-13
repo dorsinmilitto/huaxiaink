@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 6413c82c-7603-48b4-8441-317bdf4c1629
-  PropagateID: 6413c82c-7603-48b4-8441-317bdf4c1629
-  ReservedCode1: d32ddd7a-2737-408c-9660-7e5706752f00
-  ReservedCode2: d32ddd7a-2737-408c-9660-7e5706752f00
 ---
 
 ## The Game That Brought Wuxia to the World

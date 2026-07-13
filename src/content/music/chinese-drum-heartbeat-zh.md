@@ -30,14 +30,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f3b1ad96-5634-47b3-a8c9-ebdabed565c6
-  PropagateID: f3b1ad96-5634-47b3-a8c9-ebdabed565c6
-  ReservedCode1: 6087f177-d72e-41ea-9dae-55fc82024e02
-  ReservedCode2: 6087f177-d72e-41ea-9dae-55fc82024e02
 ---
 
 ## 先有鼓声，后有文字

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c22153b6-8331-4d21-a3de-3204f05c564b
-  PropagateID: c22153b6-8331-4d21-a3de-3204f05c564b
-  ReservedCode1: 32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5
-  ReservedCode2: 32b0fb75-1d96-4b71-9b5d-2a2c514c2ec5
 ---
 
 ## 1980年代的香港传奇，在2026年现场响起

@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb
-  PropagateID: 868849b8-8ac7-4d2b-9ab3-0ce03bfa04cb
-  ReservedCode1: af49ea54-84b3-4ec9-afff-dae6e0f69e0e
-  ReservedCode2: af49ea54-84b3-4ec9-afff-dae6e0f69e0e
 ---
 
 ## Seven Pieces, Infinite Possibilities

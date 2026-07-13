@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ec5a8fe7-92af-4beb-b15a-0e220226896c
-  PropagateID: ec5a8fe7-92af-4beb-b15a-0e220226896c
-  ReservedCode1: 609fdffc-0747-4161-8285-b998fac3af60
-  ReservedCode2: 609fdffc-0747-4161-8285-b998fac3af60
 ---
 
 ## The Sound That Defines a Nation

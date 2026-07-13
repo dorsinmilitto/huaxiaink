@@ -42,14 +42,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: d6616d59-367d-49a3-8694-174cc03d5cf1
-  PropagateID: d6616d59-367d-49a3-8694-174cc03d5cf1
-  ReservedCode1: 0deb9b7e-4ed1-44ef-8721-f92332616ee2
-  ReservedCode2: 0deb9b7e-4ed1-44ef-8721-f92332616ee2
 ---
 
 ## 当45度高温遇上500年古建筑

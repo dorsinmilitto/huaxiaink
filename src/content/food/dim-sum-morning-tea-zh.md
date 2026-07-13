@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 8266a350-3251-4ab1-af35-d1c6c47c0425
-  PropagateID: 8266a350-3251-4ab1-af35-d1c6c47c0425
-  ReservedCode1: 52021878-e363-4083-aaca-2510bd6369ac
-  ReservedCode2: 52021878-e363-4083-aaca-2510bd6369ac
 ---
 
 ## 茶楼：早于Brunch两百年的晨间社交

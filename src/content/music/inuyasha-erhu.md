@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ed1e796b-faeb-4f6b-b445-7efe3a6cfe3d
-  PropagateID: ed1e796b-faeb-4f6b-b445-7efe3a6cfe3d
-  ReservedCode1: b9087426-b9eb-4f47-9fbe-9135000142c7
-  ReservedCode2: b9087426-b9eb-4f47-9fbe-9135000142c7
 ---
 
 ## Three Cultures, One Instrument

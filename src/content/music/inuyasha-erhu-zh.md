@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc
-  PropagateID: e9d99589-bed1-4a8d-a6ea-92fabe0fb3dc
-  ReservedCode1: 47a6c912-6389-4b7c-b187-6cac666d4bc8
-  ReservedCode2: 47a6c912-6389-4b7c-b187-6cac666d4bc8
 ---
 
 ## 三种文化，一件乐器

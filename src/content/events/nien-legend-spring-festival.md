@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ca9eea97-c619-450e-9e7c-742199da0c95
-  PropagateID: ca9eea97-c619-450e-9e7c-742199da0c95
-  ReservedCode1: 46a5e937-5aeb-4fce-b8ad-34005721017f
-  ReservedCode2: 46a5e937-5aeb-4fce-b8ad-34005721017f
 ---
 
 ## The Beast That Haunted Every Winter

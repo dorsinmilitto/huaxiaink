@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 2b310360-6a3b-4657-9da8-03f03eff8e20
-  PropagateID: 2b310360-6a3b-4657-9da8-03f03eff8e20
-  ReservedCode1: f01069fe-8441-4037-a7b3-efb173e7d5e5
-  ReservedCode2: f01069fe-8441-4037-a7b3-efb173e7d5e5
 ---
 
 ## 不止一道墙

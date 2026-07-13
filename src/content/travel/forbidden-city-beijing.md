@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F24F3376?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81ArCZEruGL._AC_UY218_.jpg
   price: $0.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: aed82882-5b0c-4c03-904d-0cd9356f6be4
-  PropagateID: aed82882-5b0c-4c03-904d-0cd9356f6be4
-  ReservedCode1: 600d3e3e-232b-445c-bc6a-667f24c1e019
-  ReservedCode2: 600d3e3e-232b-445c-bc6a-667f24c1e019
 ---
 
 ## A City Built on a Single Vision

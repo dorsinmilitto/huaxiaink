@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 23a0ef4c-9ca0-42d5-9166-53d9595a60f5
-  PropagateID: 23a0ef4c-9ca0-42d5-9166-53d9595a60f5
-  ReservedCode1: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
-  ReservedCode2: eb7d098a-e0d4-419d-a5d8-74fe6cc415d7
 ---
 
 ## An American Classic, Translated

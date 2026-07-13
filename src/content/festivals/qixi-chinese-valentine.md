@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/1952601584?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61-NB+AMICL._AC_UY218_.jpg
   price: $0.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f4572016-57c7-4ef4-ae85-52e80c384fd5
-  PropagateID: f4572016-57c7-4ef4-ae85-52e80c384fd5
-  ReservedCode1: eefedc40-1973-4438-8c9a-ed0f8c10be73
-  ReservedCode2: eefedc40-1973-4438-8c9a-ed0f8c10be73
 ---
 
 ## A Love Story Older Than Romeo and Juliet by About 1,500 Years

@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 8595c0f6-ca88-4335-8c12-964b2524a3ad
-  PropagateID: 8595c0f6-ca88-4335-8c12-964b2524a3ad
-  ReservedCode1: a51d7027-b4e3-4863-b298-2574f7da58ab
-  ReservedCode2: a51d7027-b4e3-4863-b298-2574f7da58ab
 ---
 
 ## 32 Million People You've Never Heard Of

@@ -24,15 +24,6 @@ affiliate:
     url: "https://www.amazon.com/dp/B07C6T996J?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71GGC-aEQNL._AC_UL640_.jpg"
     price: "$2.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '879b0c8b-1da7-4232-8aa8-719109eae4f0'
-  PropagateID: '879b0c8b-1da7-4232-8aa8-719109eae4f0'
-  ReservedCode1: 'a983b023-351b-48d5-b466-ec4a92aeb93b'
-  ReservedCode2: 'a983b023-351b-48d5-b466-ec4a92aeb93b'
-
 ---
 
 ## 七月半：一扇打开的门

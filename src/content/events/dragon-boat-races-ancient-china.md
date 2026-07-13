@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 44095557-0835-40b8-81c7-09dcd575b026
-  PropagateID: 44095557-0835-40b8-81c7-09dcd575b026
-  ReservedCode1: 385dc466-1b7a-4602-8ee4-e0d1304f9c71
-  ReservedCode2: 385dc466-1b7a-4602-8ee4-e0d1304f9c71
 ---
 
 ## A Poet's Last Stand

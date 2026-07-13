@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: d6bd9e2d-d977-4757-b4be-116b6fe849d0
-  PropagateID: d6bd9e2d-d977-4757-b4be-116b6fe849d0
-  ReservedCode1: f6975624-b303-493d-a1a0-177ccc31f211
-  ReservedCode2: f6975624-b303-493d-a1a0-177ccc31f211
 ---
 
 ## 一条河刻出的国家

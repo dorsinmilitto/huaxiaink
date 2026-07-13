@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 68178ba5-c270-42d7-a3c5-62b76c988ca3
-  PropagateID: 68178ba5-c270-42d7-a3c5-62b76c988ca3
-  ReservedCode1: 1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab
-  ReservedCode2: 1e370f2d-1ac6-4a41-8d9a-2fb4d484c4ab
 ---
 
 ## 诗人的最后一程

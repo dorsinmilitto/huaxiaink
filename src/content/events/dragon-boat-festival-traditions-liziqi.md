@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 07dad050-4e52-4bec-8846-3af3e4d3014c
-  PropagateID: 07dad050-4e52-4bec-8846-3af3e4d3014c
-  ReservedCode1: 6b1b05aa-aa11-432b-971c-205e25354a44
-  ReservedCode2: 6b1b05aa-aa11-432b-971c-205e25354a44
 ---
 
 ## A Festival Told Through Sticky Rice and Bamboo Leaves

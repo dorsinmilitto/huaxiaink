@@ -20,18 +20,18 @@ affiliate:
 - title: 'Cave Temples of Mogao: Art and History on the Silk Road'
   asin: 0892365854
   url: https://www.amazon.com/dp/0892365854?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51VqT-VJxQL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/51EMVFJ4ESL._AC_UL640_.jpg
   price: $39.99
-- title: 'Spatial Dunhuang: Experiencing the Mogao Caves'
-  asin: 0295749276
-  url: https://www.amazon.com/dp/0295749276?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/41fMg2KjJSL._AC_UL640_.jpg
-  price: $40.00
 - title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   asin: B0CKXBLLWV
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
+- title: "Cave Temples of Dunhuang: Buddhist Art on China Silk Road"
+  asin: "1606064894"
+  url: https://www.amazon.com/dp/1606064894?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61MQGtv2vQL._AC_UL640_.jpg
+  price: $45.00
 ---
 
 ## A Library Sealed for 900 Years

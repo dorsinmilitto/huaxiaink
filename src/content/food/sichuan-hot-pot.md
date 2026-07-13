@@ -20,17 +20,17 @@ affiliate:
 - title: Szechuan Peppercorns Whole Red Maize Pepper for Cooking
   asin: B0GYNZYCTP
   url: https://www.amazon.com/dp/B0GYNZYCTP?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71yPjfp3URL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71nBUBYT+HL._AC_UL640_.jpg
   price: $9.99
 - title: Haorenjia Sichuan Spicy Hot Pot Soup Base
   asin: B09MQB2ZLT
   url: https://www.amazon.com/dp/B09MQB2ZLT?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71dQCQpD5JL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71O8+NSa+BL._AC_UL640_.jpg
   price: $12.98
 - title: Chinese Breakfast Waterproof Vinyl Stickers 50Pcs
   asin: B0H1S23GY4
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61C8n1xZw0L._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
 ---
 

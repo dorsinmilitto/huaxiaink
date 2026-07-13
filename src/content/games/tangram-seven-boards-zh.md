@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: a9d03b15-3574-47c4-83a9-e9e94704ba07
-  PropagateID: a9d03b15-3574-47c4-83a9-e9e94704ba07
-  ReservedCode1: fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23
-  ReservedCode2: fd54e3d4-bca4-40b6-89f4-b6fc4c7d6b23
 ---
 
 ## 从宋代的宴席到世界的书桌

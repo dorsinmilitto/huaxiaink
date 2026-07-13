@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 735b8226-30dc-4a1e-b99a-5fb04e1a8091
-  PropagateID: 735b8226-30dc-4a1e-b99a-5fb04e1a8091
-  ReservedCode1: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
-  ReservedCode2: 7dc621a6-3eee-41f0-b81f-1f9fd841c8e2
 ---
 
 ## 一段不可思议的二重奏

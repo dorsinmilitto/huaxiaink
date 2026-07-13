@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8
-  PropagateID: 1b1c6c71-36b1-4078-b92f-69d7c7b8b9c8
-  ReservedCode1: b9bf1dfc-f4cc-440a-a9fe-f5102e49882d
-  ReservedCode2: b9bf1dfc-f4cc-440a-a9fe-f5102e49882d
 ---
 
 ## The Game That Made the World Googling "Journey to the West"

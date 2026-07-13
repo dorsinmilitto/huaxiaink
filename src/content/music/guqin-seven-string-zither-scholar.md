@@ -28,16 +28,8 @@ affiliate:
 - asin: 'B0H1S23GY4'
   title: Chinese Breakfast Waterproof Vinyl Stickers 50Pcs
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61C8n1xZw0L._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'a079e858-8845-4ad9-8a10-7d3cd7a9c79a'
-  PropagateID: 'a079e858-8845-4ad9-8a10-7d3cd7a9c79a'
-  ReservedCode1: '2b3d2817-2d30-48b2-b431-c17a4df23963'
-  ReservedCode2: '2b3d2817-2d30-48b2-b431-c17a4df23963'
 ---
 
 ## The Instrument of Sages

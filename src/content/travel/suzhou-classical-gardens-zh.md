@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 3f7f98be-9edf-413c-9fbb-c2ce98a1455e
-  PropagateID: 3f7f98be-9edf-413c-9fbb-c2ce98a1455e
-  ReservedCode1: 851bde4a-973a-4fa1-9728-eb5d85e4b4f2
-  ReservedCode2: 851bde4a-973a-4fa1-9728-eb5d85e4b4f2
 ---
 
 ## 把宇宙缩进一面院墙

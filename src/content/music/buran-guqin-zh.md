@@ -29,14 +29,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: a5dbf2f2-3620-4d28-a177-6ee2c964b0ab
-  PropagateID: a5dbf2f2-3620-4d28-a177-6ee2c964b0ab
-  ReservedCode1: eaa38188-78fa-4935-9f09-839611878d73
-  ReservedCode2: eaa38188-78fa-4935-9f09-839611878d73
 ---
 
 ## 一首流行歌，遇上中国最古老的乐器

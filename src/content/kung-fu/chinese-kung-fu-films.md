@@ -1,16 +1,6 @@
 ---
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c9974391-e62c-44b6-b059-bea6aaf35ec9
-  PropagateID: c9974391-e62c-44b6-b059-bea6aaf35ec9
-  ReservedCode1: c9bbabcb-2916-469e-af03-3aa21791c1a3
-  ReservedCode2: c9bbabcb-2916-469e-af03-3aa21791c1a3
-title: 'From Bruce Lee to Jackie Chan: How Kung Fu Films Conquered the World'
-description: Kung fu cinema didn't just entertain — it shaped how the entire world
-  sees China. From Shaw Brothers studios to The Matrix, the evolution of martial arts
-  on screen.
+title: "From Bruce Lee to Jackie Chan: How Kung Fu Films Conquered the World"
+description: "Kung fu cinema didn't just entertain - it shaped how the entire world sees China. From Shaw Brothers studios to The Matrix, the evolution of martial arts on screen."
 youtubeId: I-Zzr50se_Q
 channel: SLICE Full Doc
 duration: '46:00'
@@ -25,24 +15,24 @@ tags:
 - hong-kong
 featured: true
 affiliate:
-- asin: B09X1XPG8R
-  title: Bruce Lee Film Collection
+- title: Bruce Lee Film Collection
+  asin: B09X1XPG8R
   url: https://www.amazon.com/dp/B09X1XPG8R?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61+BU+BndhL._AC_UL640_.jpg
   price: $24.99
-- asin: B00005QW4W
-  title: Enter the Dragon DVD
+- title: Enter the Dragon DVD
+  asin: B00005QW4W
   url: https://www.amazon.com/dp/B00005QW4W?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/5149VC2AAPL._AC_UL640_.jpg
   price: $6.04
-- asin: B0GCX75MWB
-  title: Traditional Feng Shui Good Luck Charm - Brass Wealth God Keychain
+- title: Feng Shui Wealth God Keychain Good Luck Charm
+  asin: B0GCX75MWB
   url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
   price: $4.99
 ---
 
-## The Shaw Brothers## The Shaw Brothers and the Birth of Kung Fu Cinema
+## The Shaw Brothers and the Birth of Kung Fu Cinema
 
 The story of kung fu cinema begins not with a single film but with an entire studio system. Run Run Shaw and his brother Runme Shaw established Shaw Brothers Studio in Hong Kong in 1958, and over the following decades they built the most prolific and influential Chinese-language film production company in history. At its peak, Shaw Brothers operated a 46-acre studio complex in Clear Water Bay with permanent sets, its own laboratory, and a roster of contract actors, directors, and martial arts choreographers who worked in a factory-like production schedule.
 

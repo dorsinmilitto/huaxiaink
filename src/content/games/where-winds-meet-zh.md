@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 1821906f-aaff-4baf-9f20-6d24d9a627de
-  PropagateID: 1821906f-aaff-4baf-9f20-6d24d9a627de
-  ReservedCode1: 1316f449-50a1-4104-bdfd-70fb1e09e9dc
-  ReservedCode2: 1316f449-50a1-4104-bdfd-70fb1e09e9dc
 ---
 
 ## 将武侠带给世界的游戏

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 401eb7ae-37e3-43dc-ac6b-54f9476ea640
-  PropagateID: 401eb7ae-37e3-43dc-ac6b-54f9476ea640
-  ReservedCode1: 43fde3a6-8d29-4d71-91cd-acb5d70fa724
-  ReservedCode2: 43fde3a6-8d29-4d71-91cd-acb5d70fa724
 ---
 
 ## A Deficit That Became a Signature

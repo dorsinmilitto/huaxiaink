@@ -30,14 +30,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: e9c1975b-c57d-46b8-b215-45857a13f40b
-  PropagateID: e9c1975b-c57d-46b8-b215-45857a13f40b
-  ReservedCode1: ae6a2e6d-0051-43b9-ab1e-357bd552d3b2
-  ReservedCode2: ae6a2e6d-0051-43b9-ab1e-357bd552d3b2
 ---
 
 ## 画一张脸，成一段传奇

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 7188d005-dda7-437f-87e1-9bc1c275539a
-  PropagateID: 7188d005-dda7-437f-87e1-9bc1c275539a
-  ReservedCode1: 537a6076-c543-4386-9af0-ef686bc7e8d1
-  ReservedCode2: 537a6076-c543-4386-9af0-ef686bc7e8d1
 ---
 
 ## 火与签的古老对话

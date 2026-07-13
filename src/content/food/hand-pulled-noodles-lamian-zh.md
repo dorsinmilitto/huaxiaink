@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: a8f92d5f-50ba-4d65-824a-013097cdfd83
-  PropagateID: a8f92d5f-50ba-4d65-824a-013097cdfd83
-  ReservedCode1: 261e5cb7-398a-415b-a215-ebf456d5328d
-  ReservedCode2: 261e5cb7-398a-415b-a215-ebf456d5328d
 ---
 
 ## 一把面，拉出整部文明史

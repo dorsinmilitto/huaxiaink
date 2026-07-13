@@ -43,14 +43,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 804edfc9-42b3-47c7-9370-61419481503e
-  PropagateID: 804edfc9-42b3-47c7-9370-61419481503e
-  ReservedCode1: 354ad1d1-79be-4fc9-aa9c-4ef197655506
-  ReservedCode2: 354ad1d1-79be-4fc9-aa9c-4ef197655506
 ---
 
 ## When 45 Degrees Meets 500-Year-Old Architecture

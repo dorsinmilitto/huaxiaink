@@ -40,14 +40,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 89fc9bf8-7c9e-41fa-9724-396070e584c5
-  PropagateID: 89fc9bf8-7c9e-41fa-9724-396070e584c5
-  ReservedCode1: cecbdde3-20b2-4bce-bad7-aecc5bba3b59
-  ReservedCode2: cecbdde3-20b2-4bce-bad7-aecc5bba3b59
 ---
 
 ## 从一个人的死亡开始的节日

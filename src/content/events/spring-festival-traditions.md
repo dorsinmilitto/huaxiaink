@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 309248f3-a8d3-477e-af37-1ef5ed330ed6
-  PropagateID: 309248f3-a8d3-477e-af37-1ef5ed330ed6
-  ReservedCode1: 93b67f54-8e4b-4e7e-920d-7693f60d3aa7
-  ReservedCode2: 93b67f54-8e4b-4e7e-920d-7693f60d3aa7
 ---
 
 ## Not a Day — a Season

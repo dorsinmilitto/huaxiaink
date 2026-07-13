@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c6e09488-72cf-4f94-ab85-2984294ff7ca
-  PropagateID: c6e09488-72cf-4f94-ab85-2984294ff7ca
-  ReservedCode1: 479091a6-1574-42a3-a284-4ebfe08af4c7
-  ReservedCode2: 479091a6-1574-42a3-a284-4ebfe08af4c7
 ---
 
 ## 把黑夜点燃的那个晚上

@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1952601584?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61-NB+AMICL._AC_UY218_.jpg
   price: $0.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 8da5b81e-fd0e-4319-8b28-835c5b757329
-  PropagateID: 8da5b81e-fd0e-4319-8b28-835c5b757329
-  ReservedCode1: 4801e002-8459-43cd-8c40-45e3f4f64823
-  ReservedCode2: 4801e002-8459-43cd-8c40-45e3f4f64823
 ---
 
 ## 比罗密欧与朱丽叶早1500年的爱情

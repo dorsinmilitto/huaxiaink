@@ -41,14 +41,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 5ade3818-af27-433b-b9f1-fa3a3cd85f3d
-  PropagateID: 5ade3818-af27-433b-b9f1-fa3a3cd85f3d
-  ReservedCode1: 7a4be47d-b236-41d1-b94b-10b175935a39
-  ReservedCode2: 7a4be47d-b236-41d1-b94b-10b175935a39
 ---
 
 ## 地下军团的两千年守望

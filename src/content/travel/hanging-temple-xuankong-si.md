@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 26a1185f-5905-4267-8dfe-923dae3e4bf2
-  PropagateID: 26a1185f-5905-4267-8dfe-923dae3e4bf2
-  ReservedCode1: 989f17da-4220-4da6-84f9-12ae121f42cb
-  ReservedCode2: 989f17da-4220-4da6-84f9-12ae121f42cb
 ---
 
 ## Halfway Up a Cliff, Three Religions Share One Roof

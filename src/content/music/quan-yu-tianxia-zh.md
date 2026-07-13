@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 3b90dfd0-3629-4fd7-9757-200151febae3
-  PropagateID: 3b90dfd0-3629-4fd7-9757-200151febae3
-  ReservedCode1: 305b924b-27fc-41b2-8073-0a0875b72cc2
-  ReservedCode2: 305b924b-27fc-41b2-8073-0a0875b72cc2
 ---
 
 ## 电脑里诞生的歌，在古老弦上重生

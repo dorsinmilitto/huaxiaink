@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 3ee390fb-8b57-489c-bf06-729f7be97e2b
-  PropagateID: 3ee390fb-8b57-489c-bf06-729f7be97e2b
-  ReservedCode1: 1655cd22-d458-48bc-83cc-03d9ef261290
-  ReservedCode2: 1655cd22-d458-48bc-83cc-03d9ef261290
 ---
 
 ## A Village That Is Also One House

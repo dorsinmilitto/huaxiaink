@@ -41,14 +41,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 5f9589a1-284e-457e-bf49-cd3b657c7fa4
-  PropagateID: 5f9589a1-284e-457e-bf49-cd3b657c7fa4
-  ReservedCode1: 652eb2ee-5f00-4ea4-82e0-b4acb5eceda6
-  ReservedCode2: 652eb2ee-5f00-4ea4-82e0-b4acb5eceda6
 ---
 
 ## Stone Pillars That Defy Explanation

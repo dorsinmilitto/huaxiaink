@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: e91ce947-df0e-47c6-83ec-4664d5b4c87b
-  PropagateID: e91ce947-df0e-47c6-83ec-4664d5b4c87b
-  ReservedCode1: cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f
-  ReservedCode2: cb3ab7ec-b8a3-456b-adc9-27d3f3d20a1f
 ---
 
 ## The Guzheng Goes Hip-Hop

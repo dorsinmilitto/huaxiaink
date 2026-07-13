@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 391195f5-51f0-4b9d-88d4-abe95a0ca7ea
-  PropagateID: 391195f5-51f0-4b9d-88d4-abe95a0ca7ea
-  ReservedCode1: e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84
-  ReservedCode2: e91ecb71-1b20-4a7c-ae0c-1bc6247b8c84
 ---
 
 ## Wheat, Water, and Three Millennia of Patience

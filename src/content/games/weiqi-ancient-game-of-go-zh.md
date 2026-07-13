@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1
-  PropagateID: 93ca17f7-6945-4a9a-9dd7-a8a5e3c2cde1
-  ReservedCode1: bd130e23-17b9-4088-a254-8f50464ca591
-  ReservedCode2: bd130e23-17b9-4088-a254-8f50464ca591
 ---
 
 ## 四千年了，还没人能破解它

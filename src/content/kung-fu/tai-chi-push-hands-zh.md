@@ -18,17 +18,17 @@ affiliate:
 - title: Tai Chi Fan Bamboo Dragon Phoenix 13-Inch Folding Kung Fu Fan
   asin: B01LYX47II
   url: https://www.amazon.com/dp/B01LYX47II?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51p8Q4Jq4GL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/712J0dUuCpL._AC_UL640_.jpg
   price: $11.99
 - title: Traditional Tai Chi Kung Fu Fan Silk Bamboo Rib
   asin: B0DY73L5YF
   url: https://www.amazon.com/dp/B0DY73L5YF?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61rNvp3qZrL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71OWdLWcJzL._AC_UL640_.jpg
   price: $14.99
 - title: Feng Shui Wealth God Keychain Good Luck Charm
   asin: B0GCX75MWB
   url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51pXD7KRfpL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
   price: $4.99
 ---
 

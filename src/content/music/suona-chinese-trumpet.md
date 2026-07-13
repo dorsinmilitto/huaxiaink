@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 4cb6782d-2ee7-4e4b-a04a-2423ade3b483
-  PropagateID: 4cb6782d-2ee7-4e4b-a04a-2423ade3b483
-  ReservedCode1: 2e18f99d-5974-4c21-9f7f-b2f4d6149ff4
-  ReservedCode2: 2e18f99d-5974-4c21-9f7f-b2f4d6149ff4
 ---
 
 ## 140 Decibels of Human Emotion

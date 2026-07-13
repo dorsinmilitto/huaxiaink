@@ -40,14 +40,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: ccb7967b-abd0-41ca-bf71-39a17ebc8249
-  PropagateID: ccb7967b-abd0-41ca-bf71-39a17ebc8249
-  ReservedCode1: bccdc967-deb3-493f-ae7b-77c0fee68eea
-  ReservedCode2: bccdc967-deb3-493f-ae7b-77c0fee68eea
 ---
 
 ## 一座看起来像画的山

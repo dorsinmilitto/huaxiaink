@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 05181142-51a8-4318-acb1-b5404dfe6999
-  PropagateID: 05181142-51a8-4318-acb1-b5404dfe6999
-  ReservedCode1: 1c831ab0-af63-4cd2-9c64-e4ee4661a883
-  ReservedCode2: 1c831ab0-af63-4cd2-9c64-e4ee4661a883
 ---
 
 ## 月亮，是一座桥

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: eeb27ded-0ec5-4673-af57-f428b1089a72
-  PropagateID: eeb27ded-0ec5-4673-af57-f428b1089a72
-  ReservedCode1: fc572f79-31dd-4143-af1d-33ddc2a0adb4
-  ReservedCode2: fc572f79-31dd-4143-af1d-33ddc2a0adb4
 ---
 
 ## 让全世界开始搜索"西游记"的游戏

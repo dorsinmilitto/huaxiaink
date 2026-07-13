@@ -34,14 +34,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c7804e56-c477-49f7-b326-a633b22d86b2
-  PropagateID: c7804e56-c477-49f7-b326-a633b22d86b2
-  ReservedCode1: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
-  ReservedCode2: 18a1230c-8a5f-4f22-b280-d8befe2e2d7e
 ---
 
 ## 古筝，原来可以这样"燥"

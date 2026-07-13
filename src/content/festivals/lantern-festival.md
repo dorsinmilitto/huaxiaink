@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 008ecd78-71df-4630-bad1-2b1c4deca059
-  PropagateID: 008ecd78-71df-4630-bad1-2b1c4deca059
-  ReservedCode1: 0d8d867a-80fa-42db-91a8-55209066ae9d
-  ReservedCode2: 0d8d867a-80fa-42db-91a8-55209066ae9d
 ---
 
 ## The Night China Invented the Spectacle

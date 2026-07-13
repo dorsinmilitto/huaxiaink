@@ -40,14 +40,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 08584a64-31c9-44f3-af20-36a53ec7c59f
-  PropagateID: 08584a64-31c9-44f3-af20-36a53ec7c59f
-  ReservedCode1: 45651f6c-8328-47b8-a62c-9b63840b3c32
-  ReservedCode2: 45651f6c-8328-47b8-a62c-9b63840b3c32
 ---
 
 ## 不该站着的石头

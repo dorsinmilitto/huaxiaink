@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: c32bc031-e13b-4904-abe8-5cdca8909873
-  PropagateID: c32bc031-e13b-4904-abe8-5cdca8909873
-  ReservedCode1: c7667d4a-dc49-467f-b9f2-67e32d45b6be
-  ReservedCode2: c7667d4a-dc49-467f-b9f2-67e32d45b6be
 ---
 
 ## 凌空而立的建筑奇观

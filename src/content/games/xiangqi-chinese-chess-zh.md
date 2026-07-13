@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 90bf9449-3add-4dc4-a27f-720bb9b9723c
-  PropagateID: 90bf9449-3add-4dc4-a27f-720bb9b9723c
-  ReservedCode1: decfcbd0-5647-43d9-8799-6478b5793592
-  ReservedCode2: decfcbd0-5647-43d9-8799-6478b5793592
 ---
 
 ## 餐桌上的沙场

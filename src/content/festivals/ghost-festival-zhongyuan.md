@@ -24,14 +24,6 @@ affiliate:
     url: "https://www.amazon.com/dp/B07C6T996J?tag=huaxiaink-20"
     imageUrl: "https://m.media-amazon.com/images/I/71GGC-aEQNL._AC_UL640_.jpg"
     price: "$2.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'dae4dcf6-a352-477a-989b-25e377b2be09'
-  PropagateID: 'dae4dcf6-a352-477a-989b-25e377b2be09'
-  ReservedCode1: '10988050-038b-4e15-96d4-ded750402045'
-  ReservedCode2: '10988050-038b-4e15-96d4-ded750402045'
 ---
 
 ## One Night a Year, the Dead Come Home

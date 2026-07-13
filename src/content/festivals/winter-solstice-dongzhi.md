@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 12e02e9d-9f16-4606-9661-53443e14d267
-  PropagateID: 12e02e9d-9f16-4606-9661-53443e14d267
-  ReservedCode1: 7c4f0526-28a5-464c-a5ff-2b4ab28469b0
-  ReservedCode2: 7c4f0526-28a5-464c-a5ff-2b4ab28469b0
 ---
 
 ## The Shortest Day, the Longest Tradition

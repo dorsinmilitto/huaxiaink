@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: dfa91348-195d-4865-89c9-89f2e75b2703
-  PropagateID: dfa91348-195d-4865-89c9-89f2e75b2703
-  ReservedCode1: 4f990514-0c18-4d99-ae72-d5cafdcdf22f
-  ReservedCode2: 4f990514-0c18-4d99-ae72-d5cafdcdf22f
 ---
 
 ## 缺什么，补什么，补到全世界都认你

@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 83b76112-b41c-4eee-8ead-63b4744c73e4
-  PropagateID: 83b76112-b41c-4eee-8ead-63b4744c73e4
-  ReservedCode1: cf200af6-75bb-40ee-8ab5-351ea1766adb
-  ReservedCode2: cf200af6-75bb-40ee-8ab5-351ea1766adb
 ---
 
 ## 一位法国人，一把二胡，一部中国神话

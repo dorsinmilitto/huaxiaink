@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 665ee4fb-e683-4875-864c-f212af90e227
-  PropagateID: 665ee4fb-e683-4875-864c-f212af90e227
-  ReservedCode1: cd7bf671-2681-402d-a503-84e923c347d3
-  ReservedCode2: cd7bf671-2681-402d-a503-84e923c347d3
 ---
 
 ## A French Erhu in a Chinese Fairy Tale

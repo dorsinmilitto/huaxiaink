@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 749523d1-cf8a-47e8-a191-2b7e3c4fc97e
-  PropagateID: 749523d1-cf8a-47e8-a191-2b7e3c4fc97e
-  ReservedCode1: c0228997-3482-4e27-a566-8cc0873f3c13
-  ReservedCode2: c0228997-3482-4e27-a566-8cc0873f3c13
 ---
 
 ## 六百年前，一段反叛的爱情

@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 8ac9f714-517d-47b5-99ed-494e01d60dbd
-  PropagateID: 8ac9f714-517d-47b5-99ed-494e01d60dbd
-  ReservedCode1: 8d1e9451-610f-4d16-a664-4b4e51c2baa4
-  ReservedCode2: 8d1e9451-610f-4d16-a664-4b4e51c2baa4
 ---
 
 ## The Pockmarked Woman and Her Legend

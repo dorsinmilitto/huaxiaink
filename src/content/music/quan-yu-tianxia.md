@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 6d65f054-2081-4d83-a87e-dddadaa23d87
-  PropagateID: 6d65f054-2081-4d83-a87e-dddadaa23d87
-  ReservedCode1: ef250d7b-7a9b-40ed-af7a-b4ffc26a5f43
-  ReservedCode2: ef250d7b-7a9b-40ed-af7a-b4ffc26a5f43
 ---
 
 ## A Song Born in a Computer, Reborn on Ancient Strings

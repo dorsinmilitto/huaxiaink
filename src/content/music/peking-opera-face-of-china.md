@@ -31,14 +31,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 2cac7ab2-baf1-4fa4-8b87-fb94e56be204
-  PropagateID: 2cac7ab2-baf1-4fa4-8b87-fb94e56be204
-  ReservedCode1: 644b8c36-104d-4d75-9be9-d960f8164140
-  ReservedCode2: 644b8c36-104d-4d75-9be9-d960f8164140
 ---
 
 ## Paint a Face, Become a Legend

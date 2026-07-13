@@ -30,14 +30,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: bbd27180-0ad0-48dc-85da-89bed73e40cf
-  PropagateID: bbd27180-0ad0-48dc-85da-89bed73e40cf
-  ReservedCode1: 429f8865-0de9-4bb2-8b09-6118b74d8310
-  ReservedCode2: 429f8865-0de9-4bb2-8b09-6118b74d8310
 ---
 
 ## A Pop Song Meets China's Oldest Instrument

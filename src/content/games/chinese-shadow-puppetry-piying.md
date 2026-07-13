@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 91612055-6fb8-47c3-956f-1d62f215fe46
-  PropagateID: 91612055-6fb8-47c3-956f-1d62f215fe46
-  ReservedCode1: d76cb190-8231-42a9-a175-b709af9b6559
-  ReservedCode2: d76cb190-8231-42a9-a175-b709af9b6559
 ---
 
 ## A Screen Made of Goat Skin

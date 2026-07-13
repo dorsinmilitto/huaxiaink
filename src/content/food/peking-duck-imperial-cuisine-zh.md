@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 9064b649-de76-44f4-9923-29dccb893cd9
-  PropagateID: 9064b649-de76-44f4-9923-29dccb893cd9
-  ReservedCode1: b6f47a1f-5cac-4427-985d-c085e4f73a04
-  ReservedCode2: b6f47a1f-5cac-4427-985d-c085e4f73a04
 ---
 
 ## 御膳房里长出的传奇

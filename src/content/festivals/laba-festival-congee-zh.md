@@ -18,18 +18,18 @@ affiliate:
 - title: Aroma 20-Cup Digital Rice Cooker and Food Steamer
   asin: B0055FSN0Y
   url: https://www.amazon.com/dp/B0055FSN0Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81VwPCQnURL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71gSLKXMcSL._AC_UL640_.jpg
   price: $39.99
-- title: Lotus Seeds Dried 8oz for Cooking and Baking
-  asin: B08GJZS2RL
-  url: https://www.amazon.com/dp/B08GJZS2RL?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61m8c5RZUoL._AC_UL640_.jpg
-  price: $13.99
 - title: Chinese Knot Hanging Ornament Festival Decoration
   asin: B0F26RW6T1
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51NZ-vNxUCL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
+- title: 15oz Natural Dried Lotus Seeds Peeled and De-cored for Cooking
+  asin: "B0GJHSL7VH"
+  url: https://www.amazon.com/dp/B0GJHSL7VH?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81K9SBW95BL._AC_UL640_.jpg
+  price: $14.99
 ---
 
 ## 倒计时从一碗粥开始

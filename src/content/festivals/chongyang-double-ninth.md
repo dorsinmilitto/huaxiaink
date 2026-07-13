@@ -41,14 +41,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 41beb9cf-b316-4c60-bd0f-e0f7ad9c699f
-  PropagateID: 41beb9cf-b316-4c60-bd0f-e0f7ad9c699f
-  ReservedCode1: 9cf17792-7cb3-4502-bdf5-129d3f8d7bc2
-  ReservedCode2: 9cf17792-7cb3-4502-bdf5-129d3f8d7bc2
 ---
 
 ## Nine Nine — The Number That Means "Long Life"

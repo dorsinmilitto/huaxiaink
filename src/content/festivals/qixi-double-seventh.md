@@ -20,17 +20,17 @@ affiliate:
 - title: Basket Weaving Kit for Beginners with Reed and Cane
   asin: B0BFJBHSQR
   url: https://www.amazon.com/dp/B0BFJBHSQR?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71RkVPRJrxL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/81pjE155lvL._AC_UL640_.jpg
   price: $24.39
 - title: Wooden Weaving Loom Kit with Yarn for Adults and Kids
   asin: B0D9NSPBSS
   url: https://www.amazon.com/dp/B0D9NSPBSS?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61I4sWdGkZL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/81-8T+h97KL._AC_UL640_.jpg
   price: $37.49
 - title: Chinese Knot Hanging Ornament Festival Decoration
   asin: B0F26RW6T1
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51NZ-vNxUCL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
 ---
 

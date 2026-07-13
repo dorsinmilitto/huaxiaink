@@ -39,14 +39,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 71f8b337-3d8a-490f-b25d-14826c411a73
-  PropagateID: 71f8b337-3d8a-490f-b25d-14826c411a73
-  ReservedCode1: 351915a5-0c98-4743-8b15-e56ff9a52504
-  ReservedCode2: 351915a5-0c98-4743-8b15-e56ff9a52504
 ---
 
 ## A River That Carved a Nation

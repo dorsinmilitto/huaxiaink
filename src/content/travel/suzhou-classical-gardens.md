@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 22310a9b-7158-47fd-be6f-edf241d2c98e
-  PropagateID: 22310a9b-7158-47fd-be6f-edf241d2c98e
-  ReservedCode1: 4cb22a6d-2201-414b-8c0e-6a343e7a822f
-  ReservedCode2: 4cb22a6d-2201-414b-8c0e-6a343e7a822f
 ---
 
 ## A Universe Shrunk to the Size of a Courtyard

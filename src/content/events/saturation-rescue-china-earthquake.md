@@ -41,14 +41,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 7df28179-14c0-4bff-9c6f-ac099d187e8f
-  PropagateID: 7df28179-14c0-4bff-9c6f-ac099d187e8f
-  ReservedCode1: 4a64fca3-46ff-4b55-90ab-4de40fec0e49
-  ReservedCode2: 4a64fca3-46ff-4b55-90ab-4de40fec0e49
 ---
 
 ## A Name the World Hadn't Heard Before

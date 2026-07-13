@@ -18,17 +18,17 @@ affiliate:
 - title: 200Pcs Ancestor Money Joss Paper for Tomb Sweeping and Worship
   asin: B0FGPL68Q8
   url: https://www.amazon.com/dp/B0FGPL68Q8?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61k5R8F1hXL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/812pB6INr5L._AC_UL640_.jpg
   price: $5.69
 - title: Earth God Fortune Joss Paper Gold Silver Paper for Praying
   asin: B0FCC19YL4
   url: https://www.amazon.com/dp/B0FCC19YL4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51HZKZy2BcL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71G8AXGaa0L._AC_UL640_.jpg
   price: $16.99
 - title: Chinese Knot Hanging Ornament Festival Decoration
   asin: B0F26RW6T1
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51NZ-vNxUCL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
 ---
 

@@ -42,14 +42,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f5f50d82-e528-4380-8f8d-50c6780c0cf3
-  PropagateID: f5f50d82-e528-4380-8f8d-50c6780c0cf3
-  ReservedCode1: 531a5ec2-baf4-463a-b34d-ab78761e970b
-  ReservedCode2: 531a5ec2-baf4-463a-b34d-ab78761e970b
 ---
 
 ## A Mountain That Looks Like a Painting

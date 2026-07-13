@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 77e75e6e-ae05-499a-b71e-9a40a36684a3
-  PropagateID: 77e75e6e-ae05-499a-b71e-9a40a36684a3
-  ReservedCode1: f7f40cd5-6d26-4525-8b30-6698367ad983
-  ReservedCode2: f7f40cd5-6d26-4525-8b30-6698367ad983
 ---
 
 ## 藏在"年"字里的恐惧

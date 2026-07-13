@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: bc7c7444-e5ad-48f2-813c-0913d8f1a60f
-  PropagateID: bc7c7444-e5ad-48f2-813c-0913d8f1a60f
-  ReservedCode1: 9d3a271e-7cd9-400d-8a61-5896dab75874
-  ReservedCode2: 9d3a271e-7cd9-400d-8a61-5896dab75874
 ---
 
 ## 糯米和竹叶讲述的节日

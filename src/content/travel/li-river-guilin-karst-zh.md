@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: d6233ad7-c996-4105-94eb-607376301ed8
-  PropagateID: d6233ad7-c996-4105-94eb-607376301ed8
-  ReservedCode1: df445717-f3f5-454d-8ca3-03d136585cad
-  ReservedCode2: df445717-f3f5-454d-8ca3-03d136585cad
 ---
 
 ## 千年水墨的诞生

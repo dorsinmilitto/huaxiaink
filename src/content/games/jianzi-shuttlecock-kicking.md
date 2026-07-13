@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 9591ca63-01cf-4224-96b9-a720574f9284
-  PropagateID: 9591ca63-01cf-4224-96b9-a720574f9284
-  ReservedCode1: 6161f247-8d73-4e9a-a066-f7b93e65def1
-  ReservedCode2: 6161f247-8d73-4e9a-a066-f7b93e65def1
 ---
 
 ## Four Feathers, One Rule: Don't Let It Touch the Ground

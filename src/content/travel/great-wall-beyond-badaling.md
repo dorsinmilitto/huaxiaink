@@ -20,18 +20,18 @@ affiliate:
 - title: Boardwalk Great Wall of China 210 Piece Jigsaw Puzzle
   asin: B0CMDHL4LV
   url: https://www.amazon.com/dp/B0CMDHL4LV?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51C8Y1qKxEL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71YPLCvEiRL._AC_UL640_.jpg
   price: $12.99
-- title: 'The Great Wall: From Beginning to End'
-  asin: '1931784074'
-  url: https://www.amazon.com/dp/1931784074?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51ZV2YB8E9L._AC_UL640_.jpg
-  price: $16.95
 - title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   asin: B0CKXBLLWV
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
+- title: "The Great Wall: From Beginning to End"
+  asin: "1402731604"
+  url: https://www.amazon.com/dp/1402731604?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81Z0QWVenCL._AC_UL640_.jpg
+  price: $29.95
 ---
 
 ## The Wall Nobody Visits

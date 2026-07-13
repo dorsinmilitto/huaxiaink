@@ -31,14 +31,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 33955de4-c08c-4648-9140-8508947e2c74
-  PropagateID: 33955de4-c08c-4648-9140-8508947e2c74
-  ReservedCode1: f40be758-6aa1-4bc0-8ab3-f315771a10c0
-  ReservedCode2: f40be758-6aa1-4bc0-8ab3-f315771a10c0
 ---
 
 ## Before There Were Words, There Was the Drum

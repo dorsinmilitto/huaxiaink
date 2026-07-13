@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816LoZqg4AL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 5ac5331c-4530-465d-8502-f2f4f276f4f0
-  PropagateID: 5ac5331c-4530-465d-8502-f2f4f276f4f0
-  ReservedCode1: b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b
-  ReservedCode2: b9434968-7f5f-4a0d-8e3b-2b4520dc5e3b
 ---
 
 ## An Unlikely Duet

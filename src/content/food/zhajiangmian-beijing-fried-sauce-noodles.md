@@ -23,7 +23,7 @@ affiliate:
 - asin: 'B08FTFP2YN'
   title: Bamboo Steamer 10 Inch Deep Dim Sum Steamer Basket
   url: https://www.amazon.com/dp/B08FTFP2YN?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71nVv8pQHXL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/81pobfRKPEL._AC_UL640_.jpg
   price: $38.99
 - asin: 'B07JRGRRBX'
   title: HIWARE 10 Pairs Fiberglass Chopsticks Reusable Dishwasher Safe

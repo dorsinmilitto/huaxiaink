@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 8c2e8393-4799-4fbb-af86-54f8bd46b2d2
-  PropagateID: 8c2e8393-4799-4fbb-af86-54f8bd46b2d2
-  ReservedCode1: 36bf8799-7bb0-49c9-b01b-3d178a1f3a09
-  ReservedCode2: 36bf8799-7bb0-49c9-b01b-3d178a1f3a09
 ---
 
 ## When the Lions Take the Streets

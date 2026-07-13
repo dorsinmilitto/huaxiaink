@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 2b157975-dfdb-4400-96f9-a037849db6c3
-  PropagateID: 2b157975-dfdb-4400-96f9-a037849db6c3
-  ReservedCode1: 6a629403-8ee5-4881-9378-70e59268766a
-  ReservedCode2: 6a629403-8ee5-4881-9378-70e59268766a
 ---
 
 ## 两个"功夫"的故事

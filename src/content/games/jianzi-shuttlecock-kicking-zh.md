@@ -35,14 +35,6 @@ affiliate:
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
   price: $3.95
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 629a6142-397a-4518-966c-dee1691e57fe
-  PropagateID: 629a6142-397a-4518-966c-dee1691e57fe
-  ReservedCode1: 169f7820-6110-4a7a-ad14-0ddb007bc87e
-  ReservedCode2: 169f7820-6110-4a7a-ad14-0ddb007bc87e
 ---
 
 ## 汉宫中的蹴羽之戏

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 0006a73e-216c-43d5-805c-8e1b36402f4d
-  PropagateID: 0006a73e-216c-43d5-805c-8e1b36402f4d
-  ReservedCode1: 7084abbf-2349-4ac1-b4cb-7c441fba2af1
-  ReservedCode2: 7084abbf-2349-4ac1-b4cb-7c441fba2af1
 ---
 
 ## A Moon That Bridges a Thousand Miles

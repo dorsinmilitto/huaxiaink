@@ -38,14 +38,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: b45ba218-45b8-4906-86cf-9b8ea0b1702c
-  PropagateID: b45ba218-45b8-4906-86cf-9b8ea0b1702c
-  ReservedCode1: 2c5b7447-463c-47ca-91ab-7e435d7ee34d
-  ReservedCode2: 2c5b7447-463c-47ca-91ab-7e435d7ee34d
 ---
 
 ## The River That Painted Itself

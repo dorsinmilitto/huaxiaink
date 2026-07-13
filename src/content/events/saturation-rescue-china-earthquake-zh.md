@@ -40,14 +40,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71mp0NNMNaL._AC_UL640_.jpg
   price: $2.88
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 6f877645-89e3-44fb-b54f-e40900c67f00
-  PropagateID: 6f877645-89e3-44fb-b54f-e40900c67f00
-  ReservedCode1: 5fefb3bc-e052-4658-b948-d9dd266761f0
-  ReservedCode2: 5fefb3bc-e052-4658-b948-d9dd266761f0
 ---
 
 ## 一个世界从未听过的名字

@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91DAU6MhAUL._AC_UL640_.jpg
   price: $2.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 44516c31-98f0-453d-8dcd-ab37aa7eeaf6
-  PropagateID: 44516c31-98f0-453d-8dcd-ab37aa7eeaf6
-  ReservedCode1: d07cbe15-3c89-4735-a44d-7dacbfd63378
-  ReservedCode2: d07cbe15-3c89-4735-a44d-7dacbfd63378
 ---
 
 ## A Dish Born in the Imperial Court

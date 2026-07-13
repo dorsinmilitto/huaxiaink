@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: d76acc1b-c659-44fc-a80d-d1b7df65e74f
-  PropagateID: d76acc1b-c659-44fc-a80d-d1b7df65e74f
-  ReservedCode1: 91d595cc-8470-4072-8e1c-c5e132918698
-  ReservedCode2: 91d595cc-8470-4072-8e1c-c5e132918698
 ---
 
 ## 客家的堡垒与家园

@@ -37,14 +37,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61DRYBDTGEL._AC_UL640_.jpg
   price: $4.69
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: f0931f10-2083-4070-93b6-2ef82312a4b0
-  PropagateID: f0931f10-2083-4070-93b6-2ef82312a4b0
-  ReservedCode1: 69f9ebd7-b778-43e8-9ccd-e03f385bd906
-  ReservedCode2: 69f9ebd7-b778-43e8-9ccd-e03f385bd906
 ---
 
 ## 用太阳写诗的人

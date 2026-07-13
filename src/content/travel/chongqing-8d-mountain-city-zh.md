@@ -36,14 +36,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
   price: $4.99
-AIGC:
-  ContentProducer: 001191110102MAD55U9H0F10002
-  ContentPropagator: 001191110102MAD55U9H0F10002
-  Label: '1'
-  ProduceID: 4f460647-c894-4ea1-ab85-ad54fcbf1b7a
-  PropagateID: 4f460647-c894-4ea1-ab85-ad54fcbf1b7a
-  ReservedCode1: 2c1177cf-397c-4684-a5ac-8fecc2a0500e
-  ReservedCode2: 2c1177cf-397c-4684-a5ac-8fecc2a0500e
 ---
 
 ## 3200万人，你可能从没听说过
