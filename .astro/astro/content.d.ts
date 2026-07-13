@@ -367,6 +367,20 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"spring-festival-chinese-new-year-zh.md": {
+	id: "spring-festival-chinese-new-year-zh.md";
+  slug: "spring-festival-chinese-new-year-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"spring-festival-chinese-new-year.md": {
+	id: "spring-festival-chinese-new-year.md";
+  slug: "spring-festival-chinese-new-year";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "twenty-four-solar-terms-zh.md": {
 	id: "twenty-four-solar-terms-zh.md";
   slug: "twenty-four-solar-terms-zh";
@@ -593,6 +607,20 @@ declare module 'astro:content' {
   collection: "food";
   data: InferEntrySchema<"food">
 } & { render(): Render[".md"] };
+"zhajiangmian-beijing-fried-sauce-noodles-zh.md": {
+	id: "zhajiangmian-beijing-fried-sauce-noodles-zh.md";
+  slug: "zhajiangmian-beijing-fried-sauce-noodles-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"zhajiangmian-beijing-fried-sauce-noodles.md": {
+	id: "zhajiangmian-beijing-fried-sauce-noodles.md";
+  slug: "zhajiangmian-beijing-fried-sauce-noodles";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
 };
 "games": {
 "alpha-go-weiqi-ai-zh.md": {
@@ -661,6 +689,20 @@ declare module 'astro:content' {
 "chinese-shadow-puppetry-revival.md": {
 	id: "chinese-shadow-puppetry-revival.md";
   slug: "chinese-shadow-puppetry-revival";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"dou-dizhu-fight-the-landlord-zh.md": {
+	id: "dou-dizhu-fight-the-landlord-zh.md";
+  slug: "dou-dizhu-fight-the-landlord-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"dou-dizhu-fight-the-landlord.md": {
+	id: "dou-dizhu-fight-the-landlord.md";
+  slug: "dou-dizhu-fight-the-landlord";
   body: string;
   collection: "games";
   data: InferEntrySchema<"games">
@@ -761,6 +803,20 @@ declare module 'astro:content' {
 "chinese-kung-fu-films.md": {
 	id: "chinese-kung-fu-films.md";
   slug: "chinese-kung-fu-films";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-iron-body-hard-qigong-zh.md": {
+	id: "shaolin-iron-body-hard-qigong-zh.md";
+  slug: "shaolin-iron-body-hard-qigong-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"shaolin-iron-body-hard-qigong.md": {
+	id: "shaolin-iron-body-hard-qigong.md";
+  slug: "shaolin-iron-body-hard-qigong";
   body: string;
   collection: "kung-fu";
   data: InferEntrySchema<"kung-fu">
@@ -959,6 +1015,20 @@ declare module 'astro:content' {
 "dizi-bamboo-flute.md": {
 	id: "dizi-bamboo-flute.md";
   slug: "dizi-bamboo-flute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"guqin-seven-string-zither-scholar-zh.md": {
+	id: "guqin-seven-string-zither-scholar-zh.md";
+  slug: "guqin-seven-string-zither-scholar-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"guqin-seven-string-zither-scholar.md": {
+	id: "guqin-seven-string-zither-scholar.md";
+  slug: "guqin-seven-string-zither-scholar";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
@@ -1199,6 +1269,20 @@ declare module 'astro:content' {
 "hanging-temple-xuankong-si.md": {
 	id: "hanging-temple-xuankong-si.md";
   slug: "hanging-temple-xuankong-si";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"jiuzhaigou-fairy-tale-valley-zh.md": {
+	id: "jiuzhaigou-fairy-tale-valley-zh.md";
+  slug: "jiuzhaigou-fairy-tale-valley-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"jiuzhaigou-fairy-tale-valley.md": {
+	id: "jiuzhaigou-fairy-tale-valley.md";
+  slug: "jiuzhaigou-fairy-tale-valley";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
