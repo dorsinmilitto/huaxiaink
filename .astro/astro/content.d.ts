@@ -141,6 +141,20 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"events": {
+"china-drone-flood-rescue-guangxi-zh.md": {
+	id: "china-drone-flood-rescue-guangxi-zh.md";
+  slug: "china-drone-flood-rescue-guangxi-zh";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
+"china-drone-flood-rescue-guangxi.md": {
+	id: "china-drone-flood-rescue-guangxi.md";
+  slug: "china-drone-flood-rescue-guangxi";
+  body: string;
+  collection: "events";
+  data: InferEntrySchema<"events">
+} & { render(): Render[".md"] };
 "chinese-new-year-lion-dance-hong-kong-zh.md": {
 	id: "chinese-new-year-lion-dance-hong-kong-zh.md";
   slug: "chinese-new-year-lion-dance-hong-kong-zh";
