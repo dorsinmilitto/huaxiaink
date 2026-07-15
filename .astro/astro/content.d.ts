@@ -283,6 +283,20 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"dragon-boat-racing-sport-zh.md": {
+	id: "dragon-boat-racing-sport-zh.md";
+  slug: "dragon-boat-racing-sport-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"dragon-boat-racing-sport.md": {
+	id: "dragon-boat-racing-sport.md";
+  slug: "dragon-boat-racing-sport";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "ghost-festival-zhongyuan-zh.md": {
 	id: "ghost-festival-zhongyuan-zh.md";
   slug: "ghost-festival-zhongyuan-zh";
@@ -481,6 +495,20 @@ declare module 'astro:content' {
   collection: "food";
   data: InferEntrySchema<"food">
 } & { render(): Render[".md"] };
+"chinese-spring-rolls-chunjuan-zh.md": {
+	id: "chinese-spring-rolls-chunjuan-zh.md";
+  slug: "chinese-spring-rolls-chunjuan-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"chinese-spring-rolls-chunjuan.md": {
+	id: "chinese-spring-rolls-chunjuan.md";
+  slug: "chinese-spring-rolls-chunjuan";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
 "chongqing-hotpot-spicy-soul-zh.md": {
 	id: "chongqing-hotpot-spicy-soul-zh.md";
   slug: "chongqing-hotpot-spicy-soul-zh";
@@ -665,6 +693,20 @@ declare module 'astro:content' {
   collection: "games";
   data: InferEntrySchema<"games">
 } & { render(): Render[".md"] };
+"chinese-diabolo-kongzhu-zh.md": {
+	id: "chinese-diabolo-kongzhu-zh.md";
+  slug: "chinese-diabolo-kongzhu-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"chinese-diabolo-kongzhu.md": {
+	id: "chinese-diabolo-kongzhu.md";
+  slug: "chinese-diabolo-kongzhu";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
 "chinese-mahjong-culture-zh.md": {
 	id: "chinese-mahjong-culture-zh.md";
   slug: "chinese-mahjong-culture-zh";
@@ -807,6 +849,20 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "kung-fu": {
+"baguazhang-eight-trigram-palm-zh.md": {
+	id: "baguazhang-eight-trigram-palm-zh.md";
+  slug: "baguazhang-eight-trigram-palm-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"baguazhang-eight-trigram-palm.md": {
+	id: "baguazhang-eight-trigram-palm.md";
+  slug: "baguazhang-eight-trigram-palm";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
 "chinese-kung-fu-films-zh.md": {
 	id: "chinese-kung-fu-films-zh.md";
   slug: "chinese-kung-fu-films-zh";
@@ -949,6 +1005,20 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "music": {
+"bianzhong-chime-bells-zeng-zh.md": {
+	id: "bianzhong-chime-bells-zeng-zh.md";
+  slug: "bianzhong-chime-bells-zeng-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"bianzhong-chime-bells-zeng.md": {
+	id: "bianzhong-chime-bells-zeng.md";
+  slug: "bianzhong-chime-bells-zeng";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "big-fish-erhu-zh.md": {
 	id: "big-fish-erhu-zh.md";
   slug: "big-fish-erhu-zh";
@@ -1297,6 +1367,20 @@ declare module 'astro:content' {
 "jiuzhaigou-fairy-tale-valley.md": {
 	id: "jiuzhaigou-fairy-tale-valley.md";
   slug: "jiuzhaigou-fairy-tale-valley";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"leshan-giant-buddha-zh.md": {
+	id: "leshan-giant-buddha-zh.md";
+  slug: "leshan-giant-buddha-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"leshan-giant-buddha.md": {
+	id: "leshan-giant-buddha.md";
+  slug: "leshan-giant-buddha";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
