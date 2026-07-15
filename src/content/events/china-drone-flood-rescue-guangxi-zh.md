@@ -15,20 +15,20 @@ tags:
 - 重载无人机
 featured: true
 affiliate:
-- title: DJI Mini 4 Pro Drone
-  asin: B0CG1YX4Z3
-  url: https://www.amazon.com/dp/B0CG1YX4Z3?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71qkNpP2hQL._AC_UL640_.jpg
-  price: $759.00
-- title: Holy Stone HS720E GPS Drone with 4K Camera
-  asin: B099XKVY2J
-  url: https://www.amazon.com/dp/B099XKVY2J?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61VYJlQyNZL._AC_UL640_.jpg
-  price: $299.99
+- title: DJI Mini 4 Pro Fly More Combo
+  asin: "B0CFF4RYDM"
+  url: https://www.amazon.com/dp/B0CFF4RYDM?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61ED-SY-s9L._AC_UL640_.jpg
+  price: $859.00
+- title: Potensic ATOM SE GPS Drone with 4K Camera
+  asin: "B0CBLQDJ98"
+  url: https://www.amazon.com/dp/B0CBLQDJ98?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61l8VATjG8L._AC_UL640_.jpg
+  price: $249.99
 - title: Emergency Survival Kit 250pcs
-  asin: B0CQ2HVJ7Y
+  asin: "B0CQ2HVJ7Y"
   url: https://www.amazon.com/dp/B0CQ2HVJ7Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71m4Vn3RURL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61GhZXLYSjL._AC_UL640_.jpg
   price: $4.99
 ---
 
