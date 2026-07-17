@@ -1,5 +1,5 @@
 ---
-title: 'Shaolin Temple: The Birthplace of Kung Fu'
+title: "Shaolin Temple: The Birthplace of Kung Fu"
 description: For 1,500 years, Shaolin Temple has been the cradle of Chinese martial
   arts. How Buddhist monks turned meditation into the world's most iconic fighting
   system — and why it still matters today.

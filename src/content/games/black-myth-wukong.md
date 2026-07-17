@@ -1,6 +1,6 @@
 ---
-title: 'Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the
-  West'
+title: "Black Myth: Wukong — How a Chinese Game Made the World Read Journey to the
+  West"
 description: 'Black Myth: Wukong made the world read Journey to the West — how a Chinese
   AAA game reached 15M copies and put Sun Wukong on the global stage.'
 youtubeId: rQW2C4iQwTQ

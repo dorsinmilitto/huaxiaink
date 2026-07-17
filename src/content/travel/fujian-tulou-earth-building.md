@@ -1,5 +1,5 @@
 ---
-title: 'Fujian Tulou: When 800 People Live Inside One Building'
+title: "Fujian Tulou: When 800 People Live Inside One Building"
 description: Fujian Tulou — when 800 people live inside one circular earthen building,
   a UNESCO fortress-home that housed entire clans for 600 years of communal defense.
 youtubeId: 0nZue4_ceSY

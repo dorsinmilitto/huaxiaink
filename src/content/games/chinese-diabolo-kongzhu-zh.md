@@ -1,5 +1,5 @@
 ---
-title: '空竹：两千年旋转、抛接与挑战重力的中国游戏'
+title: "空竹：两千年旋转、抛接与挑战重力的中国游戏"
 description: '空竹旋转了两千多年——从宫廷娱乐到现代世界锦标赛竞技，一根细线上的木制陀螺如何成为中国文化的符号。'
 youtubeId: Zxm9s5fd5oU
 channel: Kuma Films

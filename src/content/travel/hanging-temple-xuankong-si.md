@@ -1,5 +1,5 @@
 ---
-title: 'The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years'
+title: "The Hanging Temple: A Temple Clinging to a Cliff Face for 1,500 Years"
 description: The Hanging Temple clings to a cliff face for 1,500 years — a wooden
   temple suspended 50 meters above ground that integrates Buddhism, Daoism, and Confucianism.
 youtubeId: Je9Y3pRyfX8

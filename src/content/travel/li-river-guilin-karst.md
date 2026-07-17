@@ -1,5 +1,5 @@
 ---
-title: 'The Li River: Where Chinese Landscape Painting Comes Alive'
+title: "The Li River: Where Chinese Landscape Painting Comes Alive"
 description: The Li River is where Chinese landscape painting comes alive — Guilin's
   karst peaks, bamboo rafts, and misty waters have inspired poets for 1,500 years.
 youtubeId: EIrV9JX5_mA

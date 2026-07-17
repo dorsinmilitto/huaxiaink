@@ -1,5 +1,5 @@
 ---
-title: 'Dragon Boat Racing: 2,300 Years of Drums, Sticky Rice, and Perfect Synchronicity'
+title: "Dragon Boat Racing: 2,300 Years of Drums, Sticky Rice, and Perfect Synchronicity"
 description: 'From a desperate rescue attempt for a drowned poet to a global Olympic sport — dragon boat racing is the only competition where 20 people must move as one. The story behind the Dragon Boat Festival and the physics of perfect synchronization.'
 youtubeId: QyWxZR4pAtw
 channel: RTHK

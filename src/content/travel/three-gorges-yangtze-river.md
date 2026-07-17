@@ -1,5 +1,5 @@
 ---
-title: 'Three Gorges: The Dam That Reshaped a River and a Civilization'
+title: "Three Gorges: The Dam That Reshaped a River and a Civilization"
 description: Three Gorges Dam reshaped the Yangtze River and a civilization — the
   world's largest hydro project that displaced millions and generated enough power
   for a nation.

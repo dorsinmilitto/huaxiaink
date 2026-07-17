@@ -1,5 +1,5 @@
 ---
-title: 'Spring Rolls: The 2,500-Year Journey from Tree Bark Wrappers to Golden Crunch'
+title: "Spring Rolls: The 2,500-Year Journey from Tree Bark Wrappers to Golden Crunch"
 description: 'From a practical field lunch wrapped in tree bark during the Spring and Autumn period to the golden, shatteringly crisp appetizer on every Chinese restaurant menu — the spring roll has been evolving for 2,500 years. The physics, the regional variations, and the seal that makes or breaks a roll.'
 youtubeId: zWHKmI3yPco
 channel: Souped Up Recipes

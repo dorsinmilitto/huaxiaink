@@ -1,5 +1,5 @@
 ---
-title: 'Bianzhong: The 2,500-Year-Old Bronze Orchestra That Plays Itself'
+title: "Bianzhong: The 2,500-Year-Old Bronze Orchestra That Plays Itself"
 description: 'The Bianzhong of Marquis Yi of Zeng — 65 bronze bells cast 2,500 years ago that can play two notes each, covering five and a half octaves. This is the instrument that made China the world''s first symphonic civilization.'
 youtubeId: 07-NdJpm9yA
 channel: National Treasure

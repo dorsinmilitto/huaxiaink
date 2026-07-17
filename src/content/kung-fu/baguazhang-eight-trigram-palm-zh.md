@@ -1,5 +1,5 @@
 ---
-title: '八卦掌：永远在走圈的中国武术'
+title: "八卦掌：永远在走圈的中国武术"
 description: '八卦掌是中国最神秘的武术——练习者不停地走圈，从不可能的角度出手，整套搏击体系基于《易经》八卦。探索让70公斤高手不可触及的艺术。'
 youtubeId: 0E_mVfFfsPU
 channel: blue hippo films

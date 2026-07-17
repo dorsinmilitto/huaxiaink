@@ -1,5 +1,5 @@
 ---
-title: 'Wudang Mountain: Where Daoist Sword Dance Was Born'
+title: "Wudang Mountain: Where Daoist Sword Dance Was Born"
 description: High in the misty Wudang Mountains, Daoist monks transformed swordplay
   into spiritual practice. The legendary Zhang Sanfeng created internal martial arts
   that still thrive 700 years later.

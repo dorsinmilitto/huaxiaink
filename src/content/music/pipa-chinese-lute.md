@@ -1,5 +1,5 @@
 ---
-title: 'The Pipa: How Four Strings Taught China to Tell Stories in Sound'
+title: "The Pipa: How Four Strings Taught China to Tell Stories in Sound"
 description: The pipa taught China to tell stories in sound — four strings, 2,000
   years, and the technique of playing all five fingers simultaneously in cascading
   notes.

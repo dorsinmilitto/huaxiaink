@@ -1,5 +1,5 @@
 ---
-title: 'The Legend of Nien: How a Monster Gave Birth to Chinese New Year'
+title: "The Legend of Nien: How a Monster Gave Birth to Chinese New Year"
 description: The Nien monster once terrorized Chinese villages — until red paper,
   firecrackers, and lion dances drove it away. The origin story of Chinese New Year.
 youtubeId: GVPHdFX9iHY

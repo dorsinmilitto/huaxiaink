@@ -1,5 +1,5 @@
 ---
-title: 'Shaolin vs Wudang: The Eternal Rivalry of Chinese Martial Arts'
+title: "Shaolin vs Wudang: The Eternal Rivalry of Chinese Martial Arts"
 description: For centuries, Chinese martial arts have been divided into external (Shaolin)
   and internal (Wudang) camps. The philosophical divide reveals two completely different
   ways of understanding power.

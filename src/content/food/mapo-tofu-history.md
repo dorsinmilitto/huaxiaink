@@ -1,5 +1,5 @@
 ---
-title: 'Mapo Tofu: The Dish That Set Sichuan on Fire — Then Conquered the World'
+title: "Mapo Tofu: The Dish That Set Sichuan on Fire — Then Conquered the World"
 description: Mapo Tofu set Sichuan on fire in 1862 — then conquered the world. The
   pockmarked grandmother's tofu that became the planet's favorite Chinese dish.
 youtubeId: uL_YQMkkbUg

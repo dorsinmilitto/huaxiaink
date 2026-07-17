@@ -1,5 +1,5 @@
 ---
-title: 'Wing Chun: The Art of the Wooden Dummy'
+title: "Wing Chun: The Art of the Wooden Dummy"
 description: Wing Chun's wooden dummy form, made famous by Ip Man and Bruce Lee, teaches
   center-line theory and inch-power. Discover the 108 movements that define close-range
   combat.

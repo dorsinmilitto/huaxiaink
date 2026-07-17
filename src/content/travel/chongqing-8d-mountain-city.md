@@ -1,5 +1,5 @@
 ---
-title: 'Chongqing: The 8D City Where Physics Goes to Die'
+title: "Chongqing: The 8D City Where Physics Goes to Die"
 description: Chongqing is the 8D city where physics goes to die — buildings stacked
   on bridges, trains through apartments, and streets on rooftops in China's cyberpunk
   mountain city.

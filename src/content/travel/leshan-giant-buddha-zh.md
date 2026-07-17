@@ -1,5 +1,5 @@
 ---
-title: '乐山大佛：平息三江水患的71米石造巨像'
+title: "乐山大佛：平息三江水患的71米石造巨像"
 description: '雕刻在三江汇流处崖壁上的乐山大佛高71米，是世界上最大的石刻佛像。历时90年建成，既是宗教纪念碑，也是水利工程奇迹。'
 youtubeId: 9pt6o6e7Z_s
 channel: Institute for Planets

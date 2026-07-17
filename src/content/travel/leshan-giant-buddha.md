@@ -1,5 +1,5 @@
 ---
-title: 'Leshan Giant Buddha: The 71-Meter Stone Colossus That Calmed Three Rivers'
+title: "Leshan Giant Buddha: The 71-Meter Stone Colossus That Calmed Three Rivers"
 description: 'Carved into a cliff at the confluence of three rivers, the Leshan Giant Buddha stands 71 meters tall — the largest stone Buddha in the world. Built over 90 years, it is both a religious monument and a hydraulic engineering marvel.'
 youtubeId: 9pt6o6e7Z_s
 channel: Institute for Planets

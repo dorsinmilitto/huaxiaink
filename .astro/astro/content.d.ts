@@ -423,6 +423,20 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"water-splashing-festival-dai-zh.md": {
+	id: "water-splashing-festival-dai-zh.md";
+  slug: "water-splashing-festival-dai-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"water-splashing-festival-dai.md": {
+	id: "water-splashing-festival-dai.md";
+  slug: "water-splashing-festival-dai";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "winter-solstice-dongzhi-zh.md": {
 	id: "winter-solstice-dongzhi-zh.md";
   slug: "winter-solstice-dongzhi-zh";
@@ -519,6 +533,20 @@ declare module 'astro:content' {
 "chongqing-hotpot-spicy-soul.md": {
 	id: "chongqing-hotpot-spicy-soul.md";
   slug: "chongqing-hotpot-spicy-soul";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"cross-bridge-rice-noodles-yunnan-zh.md": {
+	id: "cross-bridge-rice-noodles-yunnan-zh.md";
+  slug: "cross-bridge-rice-noodles-yunnan-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"cross-bridge-rice-noodles-yunnan.md": {
+	id: "cross-bridge-rice-noodles-yunnan.md";
+  slug: "cross-bridge-rice-noodles-yunnan";
   body: string;
   collection: "food";
   data: InferEntrySchema<"food">
@@ -689,6 +717,20 @@ declare module 'astro:content' {
 "black-myth-wukong.md": {
 	id: "black-myth-wukong.md";
   slug: "black-myth-wukong";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"cat-s-cradle-game-zh.md": {
+	id: "cat-s-cradle-game-zh.md";
+  slug: "cat-s-cradle-game-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"cat-s-cradle-game.md": {
+	id: "cat-s-cradle-game.md";
+  slug: "cat-s-cradle-game";
   body: string;
   collection: "games";
   data: InferEntrySchema<"games">
@@ -873,6 +915,20 @@ declare module 'astro:content' {
 "chinese-kung-fu-films.md": {
 	id: "chinese-kung-fu-films.md";
   slug: "chinese-kung-fu-films";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"emei-kung-fu-art-of-peace-zh.md": {
+	id: "emei-kung-fu-art-of-peace-zh.md";
+  slug: "emei-kung-fu-art-of-peace-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"emei-kung-fu-art-of-peace.md": {
+	id: "emei-kung-fu-art-of-peace.md";
+  slug: "emei-kung-fu-art-of-peace";
   body: string;
   collection: "kung-fu";
   data: InferEntrySchema<"kung-fu">
@@ -1271,6 +1327,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"xun-ocarina-clay-flute-zh.md": {
+	id: "xun-ocarina-clay-flute-zh.md";
+  slug: "xun-ocarina-clay-flute-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"xun-ocarina-clay-flute.md": {
+	id: "xun-ocarina-clay-flute.md";
+  slug: "xun-ocarina-clay-flute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 };
 "travel": {
 "chongqing-8d-mountain-city-zh.md": {
@@ -1395,6 +1465,20 @@ declare module 'astro:content' {
 "li-river-guilin-karst.md": {
 	id: "li-river-guilin-karst.md";
   slug: "li-river-guilin-karst";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"lijiang-ancient-town-jade-dragon-zh.md": {
+	id: "lijiang-ancient-town-jade-dragon-zh.md";
+  slug: "lijiang-ancient-town-jade-dragon-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"lijiang-ancient-town-jade-dragon.md": {
+	id: "lijiang-ancient-town-jade-dragon.md";
+  slug: "lijiang-ancient-town-jade-dragon";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">

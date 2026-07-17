@@ -1,5 +1,5 @@
 ---
-title: 'Spring Festival Traditions: The 15-Day Ritual of Renewal'
+title: "Spring Festival Traditions: The 15-Day Ritual of Renewal"
 description: From reunion dinner to Lantern Festival, explore the 15-day ritual of
   Spring Festival — the world's largest annual human migration and celebration.
 youtubeId: r4Ql5MsSBT4

@@ -1,5 +1,5 @@
 ---
-title: 'The Chinese Diabolo: 2,000 Years of Spinning, Tossing, and Defying Gravity'
+title: "The Chinese Diabolo: 2,000 Years of Spinning, Tossing, and Defying Gravity"
 description: 'The Chinese diabolo (kongzhu) has been spinning for over 2,000 years — from imperial court entertainment to modern world-championship sport. Discover how a wooden spool on a string became a cultural icon.'
 youtubeId: Zxm9s5fd5oU
 channel: Kuma Films

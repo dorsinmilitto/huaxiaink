@@ -1,5 +1,5 @@
 ---
-title: 'Drones Save Lives in China Floods: Heavy-Lift UAVs Airlift People and Supplies When Roads Vanish'
+title: "Drones Save Lives in China Floods: Heavy-Lift UAVs Airlift People and Supplies When Roads Vanish"
 description: 'When Typhoon Maysak submerged Guangxi, heavy-lift drones carrying 400 kg payloads airlifted stranded residents and delivered tons of supplies to flood-isolated villages — rewriting disaster rescue playbook.'
 youtubeId: a7qKxRO0ZLI
 channel: MIRROR NOW

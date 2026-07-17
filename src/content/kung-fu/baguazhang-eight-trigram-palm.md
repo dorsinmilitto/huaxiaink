@@ -1,5 +1,5 @@
 ---
-title: 'Baguazhang: The Martial Art Where You Never Stop Walking in Circles'
+title: "Baguazhang: The Martial Art Where You Never Stop Walking in Circles"
 description: 'Baguazhang (Eight Trigram Palm) is China''s most enigmatic martial art — practitioners walk endless circles, strike from impossible angles, and base their entire combat system on the eight trigrams of the I Ching. Discover the art that makes 70 kg masters untouchable.'
 youtubeId: 0E_mVfFfsPU
 channel: blue hippo films

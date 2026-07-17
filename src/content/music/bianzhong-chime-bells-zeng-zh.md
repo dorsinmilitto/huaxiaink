@@ -1,5 +1,5 @@
 ---
-title: '编钟：两千五百年前就能演奏交响乐的青铜乐队'
+title: "编钟：两千五百年前就能演奏交响乐的青铜乐队"
 description: '曾侯乙编钟——65枚青铜钟，两千五百年前铸造，每钟能发两个音，音域横跨五个半八度。这是让中国成为世界上第一个交响文明的乐器。'
 youtubeId: 07-NdJpm9yA
 channel: National Treasure

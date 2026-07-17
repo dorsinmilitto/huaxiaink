@@ -1,5 +1,5 @@
 ---
-title: 'The Philosophy of Tai Chi: Movement as Meditation'
+title: "The Philosophy of Tai Chi: Movement as Meditation"
 description: Tai Chi blends Daoist philosophy with martial power — slow movements
   hiding devastating force. From Chen Village to Harvard Medical School, discover
   why the world is embracing this ancient art.
