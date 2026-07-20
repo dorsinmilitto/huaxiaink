@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'd3dbc9a9-3706-4212-bfec-b0b988d19c1e'
-  PropagateID: 'd3dbc9a9-3706-4212-bfec-b0b988d19c1e'
-  ReservedCode1: '4a8aae49-8a16-4a32-bd2d-fd831b1405f8'
-  ReservedCode2: '4a8aae49-8a16-4a32-bd2d-fd831b1405f8'
----
-
----
 title: "The Philosophy of Tai Chi: Movement as Meditation"
 description: "Tai Chi blends Daoist philosophy with martial power — slow movements hiding devastating force. From Chen Village to Harvard Medical School, discover why the world is embracing this ancient art."
 youtubeId: YWZas2KPJPg

@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '3f1c9c78-b67e-4e5f-8abf-f81b969922c6'
-  PropagateID: '3f1c9c78-b67e-4e5f-8abf-f81b969922c6'
-  ReservedCode1: 'c539791c-4fea-4b64-867a-c81feaed4f31'
-  ReservedCode2: 'c539791c-4fea-4b64-867a-c81feaed4f31'
----
-
----
 title: "Zhangjiajie: The Real Floating Mountains That Inspired Avatar"
 description: "Discover Zhangjiajie's quartzite pillar peaks — the real-life floating mountains that inspired James Cameron's Avatar Hallelujah Mountains."
 youtubeId: 6T9q_DyqYdA

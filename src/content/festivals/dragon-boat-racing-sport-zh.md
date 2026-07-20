@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'c15fae79-7128-41ab-9c1c-35bab5c724b9'
-  PropagateID: 'c15fae79-7128-41ab-9c1c-35bab5c724b9'
-  ReservedCode1: '4f9698f7-9811-4997-ac14-a8c170ce2e3b'
-  ReservedCode2: '4f9698f7-9811-4997-ac14-a8c170ce2e3b'
----
-
----
 title: "龙舟竞渡：两千三百年的鼓声、粽子与完美同步"
 description: "从营救投江诗人的绝望之举到全球奥运项目——龙舟竞渡是唯一要求20人如一人般行动的竞技。"
 youtubeId: YlPExNPyPwQ

@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'd3afaf13-50c8-413f-98f9-9c53e77e6b9c'
-  PropagateID: 'd3afaf13-50c8-413f-98f9-9c53e77e6b9c'
-  ReservedCode1: 'b82de842-25ac-44c1-b9cf-0bf751376496'
-  ReservedCode2: 'b82de842-25ac-44c1-b9cf-0bf751376496'
----
-
----
 title: "七巧板：七块木板拼出的千年智慧"
 description: "七块木板在欧几里得之前就教会中国几何——七巧板如何用三千年锻炼空间思维。"
 youtubeId: cq5hWxwcKAQ

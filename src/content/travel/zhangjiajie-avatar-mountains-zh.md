@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f9c03be5-b869-4647-8143-5f7a3a8f2782'
-  PropagateID: 'f9c03be5-b869-4647-8143-5f7a3a8f2782'
-  ReservedCode1: '7c2c3b36-f0e7-41df-a011-db950a7f1758'
-  ReservedCode2: '7c2c3b36-f0e7-41df-a011-db950a7f1758'
----
-
----
 title: "张家界：阿凡达悬浮山的真实原型"
 description: "探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。"
 youtubeId: 6T9q_DyqYdA

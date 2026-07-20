@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '6de6e3a8-81c0-4ca5-884c-0ed9cfdb03b0'
-  PropagateID: '6de6e3a8-81c0-4ca5-884c-0ed9cfdb03b0'
-  ReservedCode1: '5e5ce3fa-3d39-4d65-8d70-d90ba123e2db'
-  ReservedCode2: '5e5ce3fa-3d39-4d65-8d70-d90ba123e2db'
----
-
----
 title: "太极的哲学：以动为静"
 description: "太极融合道家阴阳哲学与身体修炼，陈式杨式各有千秋。探索太极拳的宇宙观、健康功效与内家修行之道，理解以柔克刚的东方智慧。"
 youtubeId: YWZas2KPJPg

@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "postinstall": "node scripts/patch-gray-matter.js",
+    "prebuild": "node scripts/strip-aigc.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.1.6",

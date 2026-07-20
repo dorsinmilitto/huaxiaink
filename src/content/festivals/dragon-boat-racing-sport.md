@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'e5618b39-6609-454f-b1ad-0e1a3f9b7b6c'
-  PropagateID: 'e5618b39-6609-454f-b1ad-0e1a3f9b7b6c'
-  ReservedCode1: '5dab31a5-055c-4392-aea3-7e4f802f05f2'
-  ReservedCode2: '5dab31a5-055c-4392-aea3-7e4f802f05f2'
----
-
----
 title: "Dragon Boat Racing: 2,300 Years of Drums, Sticky Rice, and Perfect Synchronicity"
 description: "From a desperate rescue attempt for a drowned poet to a global Olympic sport — dragon boat racing is the only competition where 20 people must move as one."
 youtubeId: YlPExNPyPwQ

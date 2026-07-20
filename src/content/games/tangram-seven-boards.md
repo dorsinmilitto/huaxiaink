@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f00a5a7a-d536-47bc-a24a-7a8839ad0318'
-  PropagateID: 'f00a5a7a-d536-47bc-a24a-7a8839ad0318'
-  ReservedCode1: 'b145d06c-fd3b-49da-81b2-3b7240abbd57'
-  ReservedCode2: 'b145d06c-fd3b-49da-81b2-3b7240abbd57'
----
-
----
 title: "Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid"
 description: "Seven wooden pieces taught China geometry before Euclid — the tangram puzzle that's been shaping spatial thinking for 3,000 years and counting."
 youtubeId: cq5hWxwcKAQ
@@ -41,6 +30,14 @@ affiliate:
   url: https://www.amazon.com/dp/B075R3NJTN?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61MKRlmhxBL._AC_UL640_.jpg
   price: "$7.99"
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: '40199fa5-4a61-43e5-b8e1-e464b8191111'
+  PropagateID: '40199fa5-4a61-43e5-b8e1-e464b8191111'
+  ReservedCode1: '781820d8-8b78-4446-888e-121077a295bf'
+  ReservedCode2: '781820d8-8b78-4446-888e-121077a295bf'
 ---
 
 ## Seven Pieces, Infinite Possibilities

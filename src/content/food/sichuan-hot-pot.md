@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'ae90d1b4-0bd3-4a6f-a90a-0786334993e9'
-  PropagateID: 'ae90d1b4-0bd3-4a6f-a90a-0786334993e9'
-  ReservedCode1: 'a3a5252d-e61a-43bc-9837-64a2ae9625b1'
-  ReservedCode2: 'a3a5252d-e61a-43bc-9837-64a2ae9625b1'
----
-
----
 title: "Sichuan Hot Pot — The Boiling Cauldron of Numb and Spice"
 description: "Sichuan hot pot drowns ingredients in a bubbling cauldron of chili oil and Sichuan peppercorns — a communal dining experience where the heat builds, the numbing intensifies, and strangers become friends."
 youtubeId: 2vlcAA8rPkU

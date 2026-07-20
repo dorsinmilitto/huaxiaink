@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'a01eff38-3367-429c-b239-ad315ccda699'
-  PropagateID: 'a01eff38-3367-429c-b239-ad315ccda699'
-  ReservedCode1: 'b7fe1602-92b7-40ce-9845-ed7a2f4799e9'
-  ReservedCode2: 'b7fe1602-92b7-40ce-9845-ed7a2f4799e9'
----
-
----
 title: "四川火锅——麻辣翻滚的沸腾之锅"
 description: "四川火锅将食材投入辣椒花椒翻涌的油锅——一种围炉共食的体验，辣度攀升、麻感加剧、陌生人变成朋友。"
 youtubeId: 2vlcAA8rPkU
