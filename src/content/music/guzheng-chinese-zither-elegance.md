@@ -28,14 +28,6 @@ affiliate:
   url: https://www.amazon.com/dp/B0H41813MR?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/816VgLgl2uL._AC_UL640_.jpg
   price: "$24.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '9c89ce60-1c28-47e7-8b8d-beb487ed2c01'
-  PropagateID: '9c89ce60-1c28-47e7-8b8d-beb487ed2c01'
-  ReservedCode1: '6cd07c10-c9a0-405e-a7ea-6c4071f28170'
-  ReservedCode2: '6cd07c10-c9a0-405e-a7ea-6c4071f28170'
 ---
 
 *Like this article? Share it with someone who needs to hear the sound of silk and water.*
