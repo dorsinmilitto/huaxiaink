@@ -1,11 +1,20 @@
 ---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: '3f1c9c78-b67e-4e5f-8abf-f81b969922c6'
+  PropagateID: '3f1c9c78-b67e-4e5f-8abf-f81b969922c6'
+  ReservedCode1: 'c539791c-4fea-4b64-867a-c81feaed4f31'
+  ReservedCode2: 'c539791c-4fea-4b64-867a-c81feaed4f31'
+---
+
+---
 title: "Zhangjiajie: The Real Floating Mountains That Inspired Avatar"
-description: Discover Zhangjiajie's quartzite pillar peaks — the real-life floating
-  mountains that inspired James Cameron's Avatar Hallelujah Mountains.
-youtubeId: Na3ToBLUfFk
-channel: Wonder World
-duration: '11:24'
-publishedAt: 2024-04-10
+description: "Discover Zhangjiajie's quartzite pillar peaks — the real-life floating mountains that inspired James Cameron's Avatar Hallelujah Mountains."
+youtubeId: 6T9q_DyqYdA
+channel: wikiHow
+publishedAt: 2026-07-20
 lang: en
 tags:
 - zhangjiajie
@@ -14,33 +23,23 @@ tags:
 - natural-wonder
 - pillars
 - hallelujah-mountain
-featured: false
+featured: true
 affiliate:
-- title: DK Eyewitness China Travel Guide
-  asin: '1465469109'
-  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
-  price: $27.97
-- title: Imperial China (DK Classic History)
-  asin: '0744020476'
-  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
-  price: $44.51
-- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
-  asin: 0262019868
-  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
-  price: $25.02
-- title: Hiking Poles Collapsible Trekking Poles Aluminum Alloy 2 pc Lightweight
-  asin: B0CZ8QXKYD
-  url: https://www.amazon.com/dp/B0CZ8QXKYD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71sK6JyR2ZL._AC_UY218_.jpg
-  price: $27.99
-- asin: B0CKXBLLWV
-  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
-  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
-  price: $4.99
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: "1788687930"
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: "$22.99"
+- title: Packing Cubes Luggage Organizer Set
+  asin: "B0D4F6H3PL"
+  url: https://www.amazon.com/dp/B0D4F6H3PL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pack123AB._AC_UL640_.jpg
+  price: "$11.99"
+- title: Insulated Stainless Steel Water Bottle 32oz
+  asin: "B0GL17JVGJ"
+  url: https://www.amazon.com/dp/B0GL17JVGJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Bottle456._AC_UL640_.jpg
+  price: "$14.99"
 ---
 
 ## Stone Pillars That Defy Explanation

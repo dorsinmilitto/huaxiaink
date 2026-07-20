@@ -1,10 +1,20 @@
 ---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'e5618b39-6609-454f-b1ad-0e1a3f9b7b6c'
+  PropagateID: 'e5618b39-6609-454f-b1ad-0e1a3f9b7b6c'
+  ReservedCode1: '5dab31a5-055c-4392-aea3-7e4f802f05f2'
+  ReservedCode2: '5dab31a5-055c-4392-aea3-7e4f802f05f2'
+---
+
+---
 title: "Dragon Boat Racing: 2,300 Years of Drums, Sticky Rice, and Perfect Synchronicity"
-description: 'From a desperate rescue attempt for a drowned poet to a global Olympic sport — dragon boat racing is the only competition where 20 people must move as one. The story behind the Dragon Boat Festival and the physics of perfect synchronization.'
-youtubeId: QyWxZR4pAtw
-channel: RTHK
-duration: '3:28'
-publishedAt: 2026-07-15
+description: "From a desperate rescue attempt for a drowned poet to a global Olympic sport — dragon boat racing is the only competition where 20 people must move as one."
+youtubeId: YlPExNPyPwQ
+channel: wikiHow
+publishedAt: 2026-07-20
 lang: en
 tags:
 - dragon-boat
@@ -14,21 +24,21 @@ tags:
 - racing
 featured: true
 affiliate:
-- title: ABOOFAN Traditional Triangle Rice Ball Mold 2-Pack Wooden Zongzi Maker
-  asin: "B0CY1XHLDD"
-  url: https://www.amazon.com/dp/B0CY1XHLDD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/510OQiSE5ML._AC_UL640_.jpg
-  price: $23.59
-- title: VOSAREA 2pcs Rice Dumpling Mold Traditional Wooden
-  asin: "B0FCKNS922"
-  url: https://www.amazon.com/dp/B0FCKNS922?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/41xvKp5vERL._AC_UL640_.jpg
-  price: $15.79
-- title: Zongzi Shape Ornaments Traditional Grass Weaving
-  asin: "B0FP26H5TV"
-  url: https://www.amazon.com/dp/B0FP26H5TV?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/413ohPHL6WL._AC_UL640_.jpg
-  price: $2.99
+- title: Rice Dumpling Maker Press Molds Nonstick Zongzi Mold
+  asin: "B0D4L954X1"
+  url: https://www.amazon.com/dp/B0D4L954X1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51vlpKwHGjL._AC_UL640_.jpg
+  price: "$12.99"
+- title: BESTOYARD 2pcs Dumpling Maker Press Molds Stainless Steel
+  asin: "B0D533PJ12"
+  url: https://www.amazon.com/dp/B0D533PJ12?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41F-RIX8ZDL._AC_UL640_.jpg
+  price: "$15.99"
+- title: Triangle Rice Mold Stainless Steel Pyramid Zongzi Press
+  asin: "B0C36HFTW5"
+  url: https://www.amazon.com/dp/B0C36HFTW5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51gEgLC1euL._AC_UL640_.jpg
+  price: "$9.99"
 ---
 
 Every fifth day of the fifth lunar month, rivers across China erupt with the sound of drums. Long, narrow boats — painted like dragons, with fierce heads and scaled tails — slice through the water powered by teams of 20 to 80 paddlers moving in perfect synchronization. On shore, crowds scream. Zongzi (sticky rice dumplings) are devoured by the millions. Children wear sachets of medicinal herbs to ward off evil.
@@ -85,5 +95,5 @@ In an age of individual achievement, dragon boat racing stands apart. There are 
 
 **Sources:**
 - [Dragon Boat Festival — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/dragon-boat-festival-00225)
-- [2026 Hong Kong International Dragon Boat Races — RTHK (YouTube)](https://www.youtube.com/watch?v=QyWxZR4pAtw)
+- [2026 Hong Kong International Dragon Boat Races — RTHK (YouTube)](https://www.youtube.com/watch?v=YlPExNPyPwQ)
 - [Qu Yuan — Wikipedia](https://en.wikipedia.org/wiki/Qu_Yuan)

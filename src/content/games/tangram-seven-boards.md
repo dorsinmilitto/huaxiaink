@@ -1,11 +1,20 @@
 ---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'f00a5a7a-d536-47bc-a24a-7a8839ad0318'
+  PropagateID: 'f00a5a7a-d536-47bc-a24a-7a8839ad0318'
+  ReservedCode1: 'b145d06c-fd3b-49da-81b2-3b7240abbd57'
+  ReservedCode2: 'b145d06c-fd3b-49da-81b2-3b7240abbd57'
+---
+
+---
 title: "Tangrams: The 3,000-Year-Old Puzzle That Taught China Geometry Before Euclid"
-description: Seven wooden pieces taught China geometry before Euclid — the tangram
-  puzzle that's been shaping spatial thinking for 3,000 years and counting.
-youtubeId: X5mc-dkYLfI
-channel: mathverick
-duration: '5:50'
-publishedAt: 2010-03-08
+description: "Seven wooden pieces taught China geometry before Euclid — the tangram puzzle that's been shaping spatial thinking for 3,000 years and counting."
+youtubeId: cq5hWxwcKAQ
+channel: wikiHow
+publishedAt: 2026-07-20
 lang: en
 tags:
 - tangram
@@ -15,28 +24,23 @@ tags:
 - brain-teaser
 - math-history
 - chinese-invention
-featured: false
+featured: true
 affiliate:
-- title: Tangram Wooden Puzzle Book - 500+ Challenges Brain Teasers
-  asin: B0CWS6XHJJ
-  url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
-  price: $27.04
-- title: Melissa & Doug Classic Tangram Wooden Puzzle
-  asin: B000GKUXX0
-  url: https://www.amazon.com/dp/B000GKUXX0?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
-  price: $15.99
-- title: Tangram Jigsaw Puzzle Book for Kids Adults - Magnetic Travel Edition
-  asin: B0B426KSXP
-  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
-  price: $23.99
-- asin: '1441306447'
-  title: Yin Yang Beaded Bookmark
-  url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71qhua9VvGL._AC_UL640_.jpg
-  price: $3.95
+- title: Coogam Wooden Tangram Puzzle Set
+  asin: "B0C3QG5QZB"
+  url: https://www.amazon.com/dp/B0C3QG5QZB?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91d3A28kM5L._AC_UL640_.jpg
+  price: "$9.99"
+- title: Wooden Puzzle Brain Teasers Toy Tangram Jigsaw Intelligence 40 Pcs
+  asin: "B07GF9421C"
+  url: https://www.amazon.com/dp/B07GF9421C?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61Z9XY-gORL._AC_UL640_.jpg
+  price: "$12.99"
+- title: Magnetic Travel Tangram Game 360 Puzzles
+  asin: "B075R3NJTN"
+  url: https://www.amazon.com/dp/B075R3NJTN?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61MKRlmhxBL._AC_UL640_.jpg
+  price: "$7.99"
 ---
 
 ## Seven Pieces, Infinite Possibilities

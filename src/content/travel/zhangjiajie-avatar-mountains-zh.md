@@ -1,10 +1,20 @@
 ---
-title: 张家界：阿凡达悬浮山的真实原型
-description: 探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。
-youtubeId: Na3ToBLUfFk
-channel: Wonder World
-duration: '11:24'
-publishedAt: 2024-04-10
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'f9c03be5-b869-4647-8143-5f7a3a8f2782'
+  PropagateID: 'f9c03be5-b869-4647-8143-5f7a3a8f2782'
+  ReservedCode1: '7c2c3b36-f0e7-41df-a011-db950a7f1758'
+  ReservedCode2: '7c2c3b36-f0e7-41df-a011-db950a7f1758'
+---
+
+---
+title: "张家界：阿凡达悬浮山的真实原型"
+description: "探索张家界石英砂岩峰林——詹姆斯·卡梅隆《阿凡达》中哈利路亚悬浮山的真实灵感来源。"
+youtubeId: 6T9q_DyqYdA
+channel: wikiHow
+publishedAt: 2026-07-20
 lang: zh
 tags:
 - 张家界
@@ -13,33 +23,23 @@ tags:
 - 自然奇观
 - 石柱
 - 哈利路亚山
-featured: false
+featured: true
 affiliate:
-- title: DK Eyewitness China Travel Guide
-  asin: '1465469109'
-  url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UY218_.jpg
-  price: $27.97
-- title: Imperial China (DK Classic History)
-  asin: '0744020476'
-  url: https://www.amazon.com/dp/0744020476?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81KNZwlxv8L._AC_UY218_.jpg
-  price: $44.51
-- title: 'China''s Vanishing Worlds: Countryside, Traditions, and Cultural Spaces'
-  asin: 0262019868
-  url: https://www.amazon.com/dp/0262019868?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81xNm225B8L._AC_UY218_.jpg
-  price: $25.02
-- title: Hiking Poles Collapsible Trekking Poles Aluminum Alloy 2 pc Lightweight
-  asin: B0CZ8QXKYD
-  url: https://www.amazon.com/dp/B0CZ8QXKYD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71sK6JyR2ZL._AC_UY218_.jpg
-  price: $27.99
-- asin: B0CKXBLLWV
-  title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
-  url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71ix4KkqvmL._AC_UL640_.jpg
-  price: $4.99
+- title: Lonely Planet China 2025-2026 Travel Guide
+  asin: "1788687930"
+  url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
+  price: "$22.99"
+- title: Packing Cubes Luggage Organizer Set
+  asin: "B0D4F6H3PL"
+  url: https://www.amazon.com/dp/B0D4F6H3PL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Pack123AB._AC_UL640_.jpg
+  price: "$11.99"
+- title: Insulated Stainless Steel Water Bottle 32oz
+  asin: "B0GL17JVGJ"
+  url: https://www.amazon.com/dp/B0GL17JVGJ?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Bottle456._AC_UL640_.jpg
+  price: "$14.99"
 ---
 
 ## 不该站着的石头

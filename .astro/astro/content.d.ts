@@ -1173,6 +1173,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"guzheng-chinese-zither-elegance-zh.md": {
+	id: "guzheng-chinese-zither-elegance-zh.md";
+  slug: "guzheng-chinese-zither-elegance-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"guzheng-chinese-zither-elegance.md": {
+	id: "guzheng-chinese-zither-elegance.md";
+  slug: "guzheng-chinese-zither-elegance";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "guzheng-pop-rock-covers-zh.md": {
 	id: "guzheng-pop-rock-covers-zh.md";
   slug: "guzheng-pop-rock-covers-zh";

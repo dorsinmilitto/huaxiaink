@@ -1,10 +1,20 @@
 ---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: 'c15fae79-7128-41ab-9c1c-35bab5c724b9'
+  PropagateID: 'c15fae79-7128-41ab-9c1c-35bab5c724b9'
+  ReservedCode1: '4f9698f7-9811-4997-ac14-a8c170ce2e3b'
+  ReservedCode2: '4f9698f7-9811-4997-ac14-a8c170ce2e3b'
+---
+
+---
 title: "龙舟竞渡：两千三百年的鼓声、粽子与完美同步"
-description: '从营救投江诗人的绝望之举到全球奥运项目——龙舟竞渡是唯一要求20人如一人般行动的竞技。端午节的故事与完美同步的物理学。'
-youtubeId: QyWxZR4pAtw
-channel: RTHK
-duration: '3:28'
-publishedAt: 2026-07-15
+description: "从营救投江诗人的绝望之举到全球奥运项目——龙舟竞渡是唯一要求20人如一人般行动的竞技。"
+youtubeId: YlPExNPyPwQ
+channel: wikiHow
+publishedAt: 2026-07-20
 lang: zh
 tags:
 - 龙舟
@@ -14,21 +24,21 @@ tags:
 - 赛龙舟
 featured: true
 affiliate:
-- title: ABOOFAN Traditional Triangle Rice Ball Mold 2-Pack Wooden Zongzi Maker
-  asin: "B0CY1XHLDD"
-  url: https://www.amazon.com/dp/B0CY1XHLDD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/510OQiSE5ML._AC_UL640_.jpg
-  price: $23.59
-- title: VOSAREA 2pcs Rice Dumpling Mold Traditional Wooden
-  asin: "B0FCKNS922"
-  url: https://www.amazon.com/dp/B0FCKNS922?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/41xvKp5vERL._AC_UL640_.jpg
-  price: $15.79
-- title: Zongzi Shape Ornaments Traditional Grass Weaving
-  asin: "B0FP26H5TV"
-  url: https://www.amazon.com/dp/B0FP26H5TV?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/413ohPHL6WL._AC_UL640_.jpg
-  price: $2.99
+- title: Rice Dumpling Maker Press Molds Nonstick Zongzi Mold
+  asin: "B0D4L954X1"
+  url: https://www.amazon.com/dp/B0D4L954X1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51vlpKwHGjL._AC_UL640_.jpg
+  price: "$12.99"
+- title: BESTOYARD 2pcs Dumpling Maker Press Molds Stainless Steel
+  asin: "B0D533PJ12"
+  url: https://www.amazon.com/dp/B0D533PJ12?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41F-RIX8ZDL._AC_UL640_.jpg
+  price: "$15.99"
+- title: Triangle Rice Mold Stainless Steel Pyramid Zongzi Press
+  asin: "B0C36HFTW5"
+  url: https://www.amazon.com/dp/B0C36HFTW5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51gEgLC1euL._AC_UL640_.jpg
+  price: "$9.99"
 ---
 
 每年农历五月初五，中国各地的江面上鼓声震天。细长的龙舟——画着龙首龙尾——由20到80人的队伍齐心划桨，破浪前行。岸上人声鼎沸，粽子被吃掉数以百万计，孩子们佩戴草药香囊驱邪。
@@ -85,5 +95,5 @@ affiliate:
 
 **信息来源：**
 - [端午节 — 联合国教科文组织非物质文化遗产](https://ich.unesco.org/en/RL/dragon-boat-festival-00225)
-- [2026香港国际龙舟赛事 — RTHK (YouTube)](https://www.youtube.com/watch?v=QyWxZR4pAtw)
+- [2026香港国际龙舟赛事 — RTHK (YouTube)](https://www.youtube.com/watch?v=YlPExNPyPwQ)
 - [屈原 — 维基百科](https://zh.wikipedia.org/wiki/%E5%B1%88%E5%8E%9F)
