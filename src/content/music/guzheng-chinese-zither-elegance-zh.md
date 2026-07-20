@@ -1,15 +1,4 @@
 ---
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '05ae3628-2379-4a92-ab68-93598b32e100'
-  PropagateID: '05ae3628-2379-4a92-ab68-93598b32e100'
-  ReservedCode1: '9d2784e7-1ebb-49f1-a872-6b036d7f086a'
-  ReservedCode2: '9d2784e7-1ebb-49f1-a872-6b036d7f086a'
----
-
----
 title: "古筝——拥有两千五百年优雅的Chinese Zither"
 description: "古筝，中国古老的拨弦乐器，其声音跨越千年，启迪了无数诗人与音乐家。"
 youtubeId: P5WyJZsDHoY
