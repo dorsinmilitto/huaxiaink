@@ -3,16 +3,15 @@ title: Chinese Shadow Puppetry — The 2,000-Year Cinema That Refuses to Die
 description: Chinese shadow puppetry is a 2,000-year art form where leather figures
   dance behind a lit screen — now modern artists are rescuing it from extinction with
   animation, AR, and storytelling.
-youtubeId: 8-mzqxZNp2g
-channel: UNESCO
-duration: '10:07'
+youtubeId: bPDR6S8dFWc
+channel: CGTN
 publishedAt: 2011-11-22
 lang: en
 tags:
 - shadow-puppetry
 - piying
 - chinese-theater
-- unesco
+- cgtn
 - folk-art
 - animation
 featured: true
