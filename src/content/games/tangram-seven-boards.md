@@ -30,16 +30,7 @@ affiliate:
   url: https://www.amazon.com/dp/B075R3NJTN?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61MKRlmhxBL._AC_UL640_.jpg
   price: "$7.99"
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '40199fa5-4a61-43e5-b8e1-e464b8191111'
-  PropagateID: '40199fa5-4a61-43e5-b8e1-e464b8191111'
-  ReservedCode1: '781820d8-8b78-4446-888e-121077a295bf'
-  ReservedCode2: '781820d8-8b78-4446-888e-121077a295bf'
 ---
-
 ## Seven Pieces, Infinite Possibilities
 
 There is a puzzle that consists of exactly seven flat shapes — five triangles, one square, one parallelogram — that together form a perfect square. Separated, they can be rearranged to create thousands of recognizable figures: cats, houses, running men, sailing ships, birds in flight, warriors with swords.
