@@ -22,12 +22,12 @@ affiliate:
 - title: Packing Cubes Luggage Organizer Set
   asin: "B0D4F6H3PL"
   url: https://www.amazon.com/dp/B0D4F6H3PL?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71Pack123AB._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/81u7b2l-rwL._AC_UL640_.jpg
   price: "$11.99"
 - title: Insulated Stainless Steel Water Bottle 32oz
   asin: "B0GL17JVGJ"
   url: https://www.amazon.com/dp/B0GL17JVGJ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71Bottle456._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71TtcSQwoVL._AC_UL640_.jpg
   price: "$14.99"
 ---
 

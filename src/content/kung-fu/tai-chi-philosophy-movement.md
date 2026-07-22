@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Philosophy of Tai Chi: Movement as Meditation"
 description: "Tai Chi blends Daoist philosophy with martial power — slow movements hiding devastating force. From Chen Village to Harvard Medical School, discover why the world is embracing this ancient art."
 youtubeId: YWZas2KPJPg
@@ -27,7 +27,7 @@ affiliate:
 - title: Men's Martial Art Kung Fu Tai Chi Rubber Sole Canvas Shoes
   asin: "B074PPRPCB"
   url: https://www.amazon.com/dp/B074PPRPCB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71WMQMF3eL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61FXiFZyv5L._AC_UL640_.jpg
   price: "$3.99"
 ---
 

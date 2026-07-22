@@ -11,18 +11,18 @@ affiliate:
   - title: 'Hiearcool Waterproof Phone Pouch 2-Pack'
     asin: "B079HV3TC9"
     url: https://www.amazon.com/dp/B079HV3TC9?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/71water123._AC_UL640_.jpg
+    imageUrl: https://m.media-amazon.com/images/I/61741W37lIL._AC_UL640_.jpg
     price: "$7.99"
-  - title: 'Quick-Dry Microfiber Travel Towel'
-    asin: "B07NQ6QT2B"
-    url: https://www.amazon.com/dp/B07NQ6QT2B?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/81towel456._AC_UL640_.jpg
-    price: "$14.99"
-  - title: 'Chinese Red Lantern Decoration Set'
-    asin: "B08K6KQ7YN"
-    url: https://www.amazon.com/dp/B08K6KQ7YN?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/61gun789AB._AC_UL640_.jpg
-    price: "$4.99"
+  - title: 'Rainleaf Microfiber Quick Dry Travel Towel'
+    asin: "B01K1TX77W"
+    url: https://www.amazon.com/dp/B01K1TX77W?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/61HHXRkRz6L._AC_UL640_.jpg
+    price: "$12.99"
+  - title: 'Red Paper Lanterns Decoration 10-Piece Set'
+    asin: "B08D9HLJC4"
+    url: https://www.amazon.com/dp/B08D9HLJC4?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/71G4z3HXQzL._AC_UL640_.jpg
+    price: "$5.99"
 ---
 
 *喜欢这篇文章？分享给那些需要湿身狂欢的人。*

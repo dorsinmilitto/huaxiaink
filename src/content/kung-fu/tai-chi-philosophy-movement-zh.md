@@ -1,4 +1,4 @@
----
+﻿---
 title: "太极的哲学：以动为静"
 description: "太极融合道家阴阳哲学与身体修炼，陈式杨式各有千秋。探索太极拳的宇宙观、健康功效与内家修行之道，理解以柔克刚的东方智慧。"
 youtubeId: YWZas2KPJPg
@@ -27,7 +27,7 @@ affiliate:
 - title: Men's Martial Art Kung Fu Tai Chi Rubber Sole Canvas Shoes
   asin: "B074PPRPCB"
   url: https://www.amazon.com/dp/B074PPRPCB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71WMQMF3eL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/61FXiFZyv5L._AC_UL640_.jpg
   price: "$3.99"
 ---
 

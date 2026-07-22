@@ -8,21 +8,21 @@ lang: zh
 tags: [云南菜, 米线, 街头小吃, 传说, 中国美食历史]
 featured: true
 affiliate:
-  - title: 'Chinese Porcelain Soup Bowl Set'
-    asin: "B08P7QX3T5"
-    url: https://www.amazon.com/dp/B08P7QX3T5?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/81soupbowl._AC_UL640_.jpg
-    price: "$24.99"
-  - title: 'Rice Noodle Maker and Steamer Kit'
-    asin: "B09CV3B7X2"
-    url: https://www.amazon.com/dp/B09CV3B7X2?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/71noodle1._AC_UL640_.jpg
+  - title: 'Japanese Ceramic Bowls Set of 6'
+    asin: "B0DHS1Y7Q7"
+    url: https://www.amazon.com/dp/B0DHS1Y7Q7?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/81rySghVE2L._AC_UL640_.jpg
+    price: "$28.99"
+  - title: 'MARCATO Atlas 150 Pasta Maker Machine'
+    asin: "B0009U5OSO"
+    url: https://www.amazon.com/dp/B0009U5OSO?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/61bbptSFINL._AC_UL640_.jpg
     price: "$29.99"
-  - title: 'Vietnamese Rice Noodle Soup 6-Pack'
-    asin: "B007WMC3EQ"
-    url: https://www.amazon.com/dp/B007WMC3EQ?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/61instantn._AC_UL640_.jpg
-    price: "$4.99"
+  - title: 'Three Ladies Rice Vermicelli Noodles 2-Pack'
+    asin: "B00WW3A70Q"
+    url: https://www.amazon.com/dp/B00WW3A70Q?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/91MhpmtzZNL._AC_UL640_.jpg
+    price: "$5.99"
 ---
 
 *喜欢这篇文章？分享给那些需要一碗温暖爱意的人。*

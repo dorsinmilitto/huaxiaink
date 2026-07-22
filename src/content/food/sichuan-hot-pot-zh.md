@@ -17,12 +17,12 @@ affiliate:
 - title: Food Party Electric Hot Pot 6L
   asin: "B0C98982H9"
   url: https://www.amazon.com/dp/B0C98982H9?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71nBUBYT_HL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71XSHqw4oCL._AC_UL640_.jpg
   price: "$39.99"
 - title: Food Party Hot Pot Electric Skillet 2in1
   asin: "B0D89YCMDD"
   url: https://www.amazon.com/dp/B0D89YCMDD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71O8_NSa_BL._AC_UL640_.jpg
+  imageUrl: https://m.media-amazon.com/images/I/71M3cq005fL._AC_UL640_.jpg
   price: "$45.99"
 - title: TOPKITCH Commercial Soup Warmer 12L
   asin: "B0FFH29TKJ"

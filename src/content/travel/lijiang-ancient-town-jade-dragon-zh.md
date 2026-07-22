@@ -11,18 +11,18 @@ affiliate:
   - title: 'BAGAIL 6 Set Packing Cubes'
     asin: "B07D4F1T2L"
     url: https://www.amazon.com/dp/B07D4F1T2L?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/71N1C8Y5VnL._AC_UL640_.jpg
+    imageUrl: https://m.media-amazon.com/images/I/81Tvkj9yyJL._AC_UL640_.jpg
     price: "$16.99"
-  - title: 'China Travel Guide Book'
-    asin: "B0CF7LK9X4"
-    url: https://www.amazon.com/dp/B0CF7LK9X4?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/81vY0mF8RnL._AC_UL640_.jpg
-    price: "$14.99"
-  - title: 'Vintage Chinese Architecture Fridge Magnet'
-    asin: "B09Y3PKX7L"
-    url: https://www.amazon.com/dp/B09Y3PKX7L?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/51C8Y5VnYAL._AC_UL640_.jpg
-    price: "$4.99"
+  - title: 'DK Eyewitness China Travel Guide'
+    asin: "1465469109"
+    url: https://www.amazon.com/dp/1465469109?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/81OKpNw7bHL._AC_UL640_.jpg
+    price: "$15.99"
+  - title: 'World Landmark Fridge Magnet Souvenir Set'
+    asin: "B0GKNM1SHZ"
+    url: https://www.amazon.com/dp/B0GKNM1SHZ?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/81-8zqtEE2L._AC_UL640_.jpg
+    price: "$5.99"
 ---
 
 *喜欢这篇文章？分享给那些需要在人生美丽的迷宫中找到方向的人。*

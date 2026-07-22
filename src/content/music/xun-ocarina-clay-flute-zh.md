@@ -8,21 +8,21 @@ lang: zh
 tags: [古乐器, 陶埙, 泥塑, 中国音乐, 考古]
 featured: true
 affiliate:
-  - title: 'Night By Noble Plastic Ocarina Alto C'
-    asin: "B00J8JQDWG"
-    url: https://www.amazon.com/dp/B00J8JQDWG?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/51C8Y5VnYAL._AC_UL640_.jpg
-    price: "$32.99"
-  - title: 'OcarinaWind 6 Hole Ceramic Ocarina'
-    asin: "B00FMJKZZE"
-    url: https://www.amazon.com/dp/B00FMJKZZE?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/71QF8mP0VL._AC_UL640_.jpg
-    price: "$9.99"
-  - title: 'Ocarina Songbook for Beginners'
-    asin: "B0CKQ8Y7X2"
-    url: https://www.amazon.com/dp/B0CKQ8Y7X2?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/61vY0mF8RnL._AC_UL640_.jpg
-    price: "$4.99"
+  - title: 'Zelda Ocarina 12 Hole Alto C with Song Book'
+    asin: "B076DX5PBY"
+    url: https://www.amazon.com/dp/B076DX5PBY?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/61rj6L6e1yL._AC_UL640_.jpg
+    price: "$29.99"
+  - title: 'Hand Painting 6 Hole Ceramic Ocarina Alto C'
+    asin: "B01AXLZIFW"
+    url: https://www.amazon.com/dp/B01AXLZIFW?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/61tTrxTe46L._AC_UL640_.jpg
+    price: "$10.99"
+  - title: 'How to Play Ocarina Beginner Songbook'
+    asin: "1969068132"
+    url: https://www.amazon.com/dp/1969068132?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/611gjGV+y1L._AC_UL640_.jpg
+    price: "$8.99"
 ---
 
 *喜欢这篇文章？分享给那些需要聆听大地之声的人。*
