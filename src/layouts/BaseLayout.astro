@@ -98,6 +98,15 @@ const siteSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
 
   <title>{title} | {l === 'zh' ? '华夏墨韵' : 'HuaxiaInk'}</title>
+
+  <!-- Google Analytics 4 -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-QWQ8BVKV5K"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QWQ8BVKV5K');
+  </script>
 </head>
 <body>
   <nav class="main-nav">
