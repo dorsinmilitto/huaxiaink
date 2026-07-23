@@ -1,4 +1,4 @@
----
+﻿---
 title: 三峡：大坝重塑了一条河，也重塑了一个文明
 description: 三峡大坝重塑了长江和一个文明——世界最大水利工程让百万移民搬迁，却为一个国家提供了足够的电力。
 youtubeId: gBobfHlvAVc
@@ -27,11 +27,10 @@ affiliate:
   url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
   price: $28.99
-- title: Scratch Off World Map with 233 Flags 36x24
-  asin: B084WVWNK1
-  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
-  price: $29.97
+- title: "Migrations in New World Culture History"
+  asin: "B00KES5KYE"
+  url: https://www.amazon.com/dp/B00KES5KYE?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61HQoN7aHeL._AC_UL640_.jpg
 - asin: B0CKXBLLWV
   title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20

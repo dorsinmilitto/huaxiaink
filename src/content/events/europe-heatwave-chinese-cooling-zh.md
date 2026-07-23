@@ -1,4 +1,4 @@
----
+﻿---
 title: 欧洲热浪危机：中国物理降温智慧为何比空调更管用
 description: 欧洲热浪频发之际，探索中国物理降温智慧——从竹席到绿豆汤，比空调更自然的消暑之道。
 youtubeId: WvftmYJgHno
@@ -17,26 +17,26 @@ tags:
 - 可持续
 featured: false
 affiliate:
-- title: OMyTea中式竹扇-复古折叠丝绸女扇
-  asin: B0BCPFWW5M
-  url: https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg
-  price: $14.99
-- title: WEARXI 4把装中式折叠扇-丝绸竹骨手持扇
-  asin: B09WY5MK6Y
-  url: https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg
-  price: $9.99
-- title: AmyHomie冰丝凉毯-100%竹源人造丝夏季降温毯
-  asin: B08TTFHX7W
-  url: https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg
-  price: $19.99
-- title: Bedsure冰丝夏季凉毯-竹源人造丝柔滑降温毯
-  asin: B0BR567SS3
-  url: https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg
-  price: $22.99
+- title: "WEARXI Handheld Fan, 4 PCS Hand Fan, Chinese Folding Fan for Women Foldable, Silk Bamboo Hand Held Fan, Paper Hand Fan"
+  asin: "B09WXP1Z1N"
+  url: https://www.amazon.com/dp/B09WXP1Z1N?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71TmpQA2GOL._AC_UL640_.jpg
+  price: "SGD 12.90"
+- title: WEARXI Hand Fan, 4 Pcs Hand Fan Women Folding Fan Silk Bamboo Handheld Fan Paper Hand Fan
+  asin: B0F1N72M4R
+  url: https://www.amazon.com/dp/B0F1N72M4R?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81qeYEc02fL._AC_UL640_.jpg
+  price: $11.99
+- title: "Bedsure"
+  asin: "B0BV6PMWCK"
+  url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
+  price: "SGD 59.40"
+- title: "Bedsure"
+  asin: "B0BV6PMWCK"
+  url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
+  price: "SGD 59.40"
 - asin: B0GKPNC74V
   title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20

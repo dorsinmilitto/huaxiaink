@@ -21,16 +21,16 @@ affiliate:
   url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71Ad-024-kL._AC_UL640_.jpg
   price: $34.80
-- title: Chinese Tea Pot Cup Set with Tray Infuser
-  asin: B0881KTP8J
-  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
-  price: $23.92
-- title: INCAS Organic Chrysanthemum Tea 3.53 oz - Dried Flowers Caffeine Free
-  asin: B09C5S8T1G
-  url: https://www.amazon.com/dp/B09C5S8T1G?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81a6lsitetL._AC_UL640_.jpg
-  price: $19.99
+- title: Ceramic Gongfu Tea Set 12 Pcs, Mini Portable Travel Tea Set with Teapot, 4 Tea Cups, Bamboo Tea Tray, Tea Caddy, Travel Bag
+  asin: B096P4NVH4
+  url: https://www.amazon.com/dp/B096P4NVH4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91kvkGcWlkS._AC_UL640_.jpg
+  price: $24.99
+- title: Snow Chrysanthemum Tea 3.5 oz Loose Leaf Dried Flowers, Caffeine Free, Vegan | Dry Chrysanthemum Bulk
+  asin: B0B4JJ8THX
+  url: https://www.amazon.com/dp/B0B4JJ8THX?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81xHxxodRlL._AC_UL640_.jpg
+  price: $18.99
 - title: Hiking Trekking Poles - 2 Pack Anti Shock Adjustable Collapsible
   asin: B0FNW694F8
   url: https://www.amazon.com/dp/B0FNW694F8?tag=huaxiaink-20

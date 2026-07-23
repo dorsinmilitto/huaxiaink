@@ -15,11 +15,11 @@ tags:
 - 新年庆典
 featured: true
 affiliate:
-- title: 24 Pcs Red Silk Hanging Lantern Set
-  asin: B0B8NTPBB4
-  url: https://www.amazon.com/dp/B0B8NTPBB4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81k+jvjTg6L._AC_UL640_.jpg
-  price: $36.99
+- title: Chinese New Year Red Lantern - 15Pcs Year of the Horse Lantern Decorations, Hanging Red Paper Lanterns and Paper Fans
+  asin: B0FVXD5XDC
+  url: https://www.amazon.com/dp/B0FVXD5XDC?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71p4ah67c6L._AC_UL640_.jpg
+  price: $15.99
 - title: Whaline 72Pcs Red Envelopes
   asin: B07L1HZHHC
   url: https://www.amazon.com/dp/B07L1HZHHC?tag=huaxiaink-20

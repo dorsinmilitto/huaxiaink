@@ -1,4 +1,4 @@
----
+﻿---
 title: 九寨沟——美到中国把同一片山谷两次设为国家公园
 description: 九寨沟108个翠绿海子、层叠瀑布和大熊猫让它成为中国首批UNESCO自然遗产。2017年地震几乎毁灭它，它又回来了。
 youtubeId: I5a3UAbGMV0
@@ -20,7 +20,7 @@ affiliate:
   url: https://www.amazon.com/dp/B09CG2JG5N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81IqkOnG6uL._AC_UL640_.jpg
   price: $32.99
-- asin: 'B07JRGRRBX'
+- asin: B07JRGRRBX
   title: HIWARE 10 Pairs Fiberglass Chopsticks Reusable Dishwasher Safe
   url: https://www.amazon.com/dp/B07JRGRRBX?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51+5AdFaguL._AC_UL640_.jpg

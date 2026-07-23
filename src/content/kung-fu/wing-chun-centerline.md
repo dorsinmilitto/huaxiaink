@@ -17,11 +17,11 @@ tags:
 - kung-fu
 featured: true
 affiliate:
-- title: Wing Chun Rattan Ring for Training and Practice 11.8 inch
-  asin: B09Y1W3T6L
-  url: https://www.amazon.com/dp/B09Y1W3T6L?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/5190vBz6JML._AC_UL640_.jpg
-  price: $21.99
+- title: ZooBoo Wing Chun Rattan Training Rings, 2-Pack 9-Inch & 11-Inch | Includes 9-Inch 11-Inch Rattan Rings for Martial Arts Training
+  asin: B0FKT1XC3L
+  url: https://www.amazon.com/dp/B0FKT1XC3L?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61PVHbc-Z0L._AC_UL640_.jpg
+  price: $26.99
 - title: Mini Wooden Wing Chun Dummy for Training Practice
   asin: B0FJ5ZZ2PJ
   url: https://www.amazon.com/dp/B0FJ5ZZ2PJ?tag=huaxiaink-20

@@ -1,4 +1,4 @@
----
+﻿---
 title: Spring Festival — The 15-Day Holiday That Moves 2 Billion People and Stops a Nation
 description: Chinese New Year triggers the world's largest human migration — 2 billion trips in 40 days. For 15 days, 1.4 billion people live by rules that defy modern logic.
 youtubeId: 0fib3as0gH8
@@ -15,14 +15,14 @@ tags:
 - nian
 featured: false
 affiliate:
-- asin: 'B0BFGWGGKY'
+- asin: 'B0DNTR3XHS'
   title: Chinese New Year Decorations 13 PCS 3D Paper Dragon with Red Lanterns
-  url: https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20
+  url: https://www.amazon.com/dp/B0DNTR3XHS?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg
   price: $19.99
-- asin: 'B096V2JKPP'
+- asin: B0GWN5YRN1
   title: Porcelain Chinese Gongfu Tea Set Portable Teapot Set
-  url: https://www.amazon.com/dp/B096V2JKPP?tag=huaxiaink-20
+  url: https://www.amazon.com/dp/B0GWN5YRN1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71bj4PVx4sS._AC_UL640_.jpg
   price: $38.99
 - asin: 'B0GCX75MWB'

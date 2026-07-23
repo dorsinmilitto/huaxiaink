@@ -17,11 +17,11 @@ tags:
 - tradition
 featured: true
 affiliate:
-- title: Aroma 20-Cup Digital Rice Cooker and Food Steamer
-  asin: B0055FSN0Y
-  url: https://www.amazon.com/dp/B0055FSN0Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71gSLKXMcSL._AC_UL640_.jpg
-  price: $39.99
+- title: Gourmia Rice Cooker - 5 Quart Capacity, 20 Cup Cooked, Digital Control, 6 Cooking Presets, Grain Cooker & Steamer
+  asin: B0F68ZCDDY
+  url: https://www.amazon.com/dp/B0F68ZCDDY?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71u5rCj2N-L._AC_UL640_.jpg
+  price: $49.99
 - title: Chinese Knot Hanging Ornament Festival Decoration
   asin: B0F26RW6T1
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20

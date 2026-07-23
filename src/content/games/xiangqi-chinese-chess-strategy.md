@@ -1,4 +1,4 @@
----
+﻿---
 title: Xiangqi — Chinese Chess and the Battlefield of the Mind
 description: Xiangqi (Chinese Chess) is war on a board — cannons that leap, chariots
   that charge, and a general who must never leave the palace, in a game older than
@@ -17,16 +17,15 @@ tags:
 - chariot
 featured: true
 affiliate:
-- title: Yellow Mountain Imports Chinese Chess Xiangqi Magnetic Travel Set 14.6-inch
-  asin: B0CFXMQQ1W
-  url: https://www.amazon.com/dp/B0CFXMQQ1W?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/816kFwmtNwL._AC_UL640_.jpg
-  price: $26.99
-- title: Yellow Mountain Imports Chinese Chess Xiangqi Set 12.8-Inch Jade
-  asin: B009DWUIIK
+- title: "Yellow Mountain Imports"
+  asin: "B009DWUIIK"
+  url: https://www.amazon.com/dp/B009DWUIIK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81H0qbeH+DL._AC_SX679_.jpg
+  price: "S$43.09"
+- title: "Yellow Mountain Imports Chinese Chess (Xiangqi) Magnetic Travel Board Game Set"
+  asin: "B009DWUIIK"
   url: https://www.amazon.com/dp/B009DWUIIK?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81H0qbeH+DL._AC_UL640_.jpg
-  price: $21.99
 - title: Yin Yang Beaded Bookmark
   asin: '1441306447'
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20

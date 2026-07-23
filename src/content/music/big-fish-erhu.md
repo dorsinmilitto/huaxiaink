@@ -22,10 +22,10 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: ABING Erhu Strings (General) - Inner & Outer Steel Core
-  asin: B099XY4W1M
-  url: https://www.amazon.com/dp/B099XY4W1M?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/7161WqNdLaL._AC_UL640_.jpg
+- title: 2 Sets ErHu Strings Set Steel Core German Silver Alloy Wound for Chinese Musical Instrument
+  asin: B075KK1M76
+  url: https://www.amazon.com/dp/B075KK1M76?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61xDnEEuCyL._AC_UL640_.jpg
   price: $8.99
 - title: Horsetail Bow Hair Replacement for Erhu & Violin
   asin: B0B9K3HBXV

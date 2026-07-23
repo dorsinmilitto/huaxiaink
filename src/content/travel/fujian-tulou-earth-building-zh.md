@@ -1,4 +1,4 @@
----
+﻿---
 title: 福建土楼：大山深处的圆形城堡
 description: 福建土楼——800人共居一座圆形土堡，被列为世界遗产的家族防御堡垒传承六百年。
 youtubeId: 0nZue4_ceSY
@@ -26,11 +26,10 @@ affiliate:
   url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
   price: $24.99
-- title: Hakka Culture History Book - Migration and Architecture
-  asin: B084WVWNK1
-  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
-  price: $29.50
+- title: "Migrations in New World Culture History"
+  asin: "B00KES5KYE"
+  url: https://www.amazon.com/dp/B00KES5KYE?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61HQoN7aHeL._AC_UL640_.jpg
 - asin: B0CKXBLLWV
   title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20

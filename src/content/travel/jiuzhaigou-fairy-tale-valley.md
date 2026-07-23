@@ -1,4 +1,4 @@
----
+﻿---
 title: Jiuzhaigou — The Valley So Beautiful China Made It a National Park Twice
 description: Jiuzhaigou's 108 turquoise lakes, cascading waterfalls, and pandas made it China's first UNESCO nature site. A 2017 earthquake nearly destroyed it. It came back.
 youtubeId: I5a3UAbGMV0
@@ -20,7 +20,7 @@ affiliate:
   url: https://www.amazon.com/dp/B09CG2JG5N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81IqkOnG6uL._AC_UL640_.jpg
   price: $32.99
-- asin: 'B07JRGRRBX'
+- asin: B07JRGRRBX
   title: HIWARE 10 Pairs Fiberglass Chopsticks Reusable Dishwasher Safe
   url: https://www.amazon.com/dp/B07JRGRRBX?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51+5AdFaguL._AC_UL640_.jpg

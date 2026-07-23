@@ -1,4 +1,4 @@
----
+﻿---
 title: 端午节——一个诗人的悲伤如何变成中国最热血的节日
 description: 端午节如何将诗人的悲壮殉国变成中国最热血的节日——粽子、龙舟与两千年的家国记忆。
 youtubeId: oKHLDPuI98Q
@@ -15,11 +15,11 @@ tags:
 - 传统节日
 featured: true
 affiliate:
-- title: Bamboo Steamer 10 Inch 2 Tier
-  asin: B09YWK6CWW
+- title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
+  asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: $29.59
+  price: "SGD 40.60"
 - title: Chinese/Japanese Gongfu Tea Set
   asin: B08FYT6CCL
   url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20

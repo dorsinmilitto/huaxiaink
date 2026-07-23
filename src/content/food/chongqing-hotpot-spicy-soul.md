@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Chongqing Hotpot: The Spicy Soul of China''s Mountain City'
 description: Chongqing hotpot drowns everything in numbing chili oil — discover how
   a码头 workers' meal became the fiery soul of China's mountain city.
@@ -17,21 +17,21 @@ tags:
 - mala
 featured: false
 affiliate:
-- title: Little Sheep Hot Pot Soup Base (Hot) Pack of 5
-  asin: B004XY6IPK
-  url: https://www.amazon.com/dp/B004XY6IPK?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81e6+c00cqL._AC_UL640_.jpg
-  price: $39.99
+- title: "Little Sheep Mongolian Hot Pot Soup Base (3 Packs, Hot/Spicy)"
+  asin: "B08LQYZG3G"
+  url: https://www.amazon.com/dp/B08LQYZG3G?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41+GDmTxsnL.jpg
+  price: "S$67.79"
 - title: Teewe Carbon Steel Wok 13 Inch with Lid
   asin: B0CWS6XHJJ
   url: https://www.amazon.com/dp/B0CWS6XHJJ?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91G1J7JMeYL._AC_UL640_.jpg
   price: $27.04
-- title: Craft Wok Traditional Hand Hammered Carbon Steel 14 Inch
-  asin: B00PUZT9MU
-  url: https://www.amazon.com/dp/B00PUZT9MU?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71emkWTryEL._AC_UL640_.jpg
-  price: $51.75
+- title: "Made In"
+  asin: "B0DXHKKR3M"
+  url: https://www.amazon.com/dp/B0DXHKKR3M?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61u8Vs+CNZL._AC_SX569_.jpg
+  price: "S$192.43"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

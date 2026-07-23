@@ -1,4 +1,4 @@
----
+﻿---
 title: Dou Dizhu — The Card Game That 300 Million Chinese Play Every Day
 description: Dou Dizhu (Fight the Landlord) is China's most popular card game — a three-player battle of bidding, bombs, and betrayal that outsells poker in daily play.
 youtubeId: ZEZe7seOH1Y
@@ -19,7 +19,7 @@ affiliate:
   url: https://www.amazon.com/dp/B003M2O1J4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81AmbpMdVoL._AC_UL640_.jpg
   price: $14.99
-- asin: 'B009DWUIIK'
+- asin: B009DWUIIK
   title: Chinese Chess (Xiangqi) Magnetic Travel Board Game Set
   url: https://www.amazon.com/dp/B009DWUIIK?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81H0qbeH+DL._AC_UL640_.jpg

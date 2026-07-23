@@ -20,9 +20,9 @@ affiliate:
   url: https://www.amazon.com/dp/0986622508?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71v0vIh3RAL._AC_UL640_.jpg
   price: $29.95
-- asin: 'B096V2JKPP'
+- asin: B0GWN5YRN1
   title: Porcelain Chinese Gongfu Tea Set Portable Teapot Set
-  url: https://www.amazon.com/dp/B096V2JKPP?tag=huaxiaink-20
+  url: https://www.amazon.com/dp/B0GWN5YRN1?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71bj4PVx4sS._AC_UL640_.jpg
   price: $38.99
 - asin: 'B0H1S23GY4'

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Chuanr: How China''s Street-Side Skewers Became a Midnight Institution'
 description: Chuanr — China's cumin-dusted lamb skewers sizzling on midnight streets
   — the street food that turned midnight snacking into a cultural institution.
@@ -17,21 +17,21 @@ tags:
 - cumin-lamb
 featured: false
 affiliate:
-- title: GUSTO 12 Inch 100 Count Bamboo Skewers for Shish Kabob and Grilling
-  asin: B0931JFMRC
-  url: https://www.amazon.com/dp/B0931JFMRC?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71KMhb27YyL._AC_UL640_.jpg
-  price: $8.99
-- title: Frontier Co-op Ground Cumin Seed, 1-pound Bulk Bag
-  asin: B001VNECGI
-  url: https://www.amazon.com/dp/B001VNECGI?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61TILDZCNjL._AC_UL640_.jpg
-  price: $10.49
-- title: Royal Gourmet CD1519 Portable Charcoal Grill with Warming Rack
-  asin: B0BV6MPHGM
-  url: https://www.amazon.com/dp/B0BV6MPHGM?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71CwIghCI1L._AC_UL640_.jpg
-  price: $49.99
+- title: GoodCook Everyday 12 Inch Bamboo Skewers, 100 Count for BBQ Grilling Shish Kabob and Barbecue Skewers
+  asin: B0028LRKJI
+  url: https://www.amazon.com/dp/B0028LRKJI?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71KyzZ+rL+L._AC_UL640_.jpg
+  price: $6.49
+- title: Organic Whole Cumin Seeds, 1 lb (1 pound) | Organic, Whole Seeds
+  asin: B0H6QW8BQ9
+  url: https://www.amazon.com/dp/B0H6QW8BQ9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61Sv7ts3sdL._AC_UL640_.jpg
+  price: $12.99
+- title: "Royal Gourmet"
+  asin: "B0DNM17XWR"
+  url: https://www.amazon.com/dp/B0DNM17XWR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/7103PD2-qyL._AC_UL640_.jpg
+  price: "SGD 170.31"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

@@ -26,11 +26,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0C68TS8SX?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81+ZMtkpA1L._AC_UL640_.jpg
   price: $23.99
-- title: Chinese Tea Pot Cup Set with Tray
-  asin: B0881KTP8J
-  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
-  price: $23.92
+- title: Ceramic Gongfu Tea Set 12 Pcs, Mini Portable Travel Tea Set with Teapot, 4 Tea Cups, Bamboo Tea Tray, Tea Caddy, Travel Bag
+  asin: B096P4NVH4
+  url: https://www.amazon.com/dp/B096P4NVH4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91kvkGcWlkS._AC_UL640_.jpg
+  price: $24.99
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

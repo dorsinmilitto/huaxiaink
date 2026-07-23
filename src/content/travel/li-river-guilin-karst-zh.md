@@ -1,4 +1,4 @@
----
+﻿---
 title: 漓江：山水甲天下的千年画卷
 description: 漓江是山水画活过来的地方——桂林喀斯特峰林、竹筏、薄雾，一千五百年来不断激发诗人灵感。
 youtubeId: EIrV9JX5_mA
@@ -26,11 +26,10 @@ affiliate:
   url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
   price: $28.99
-- title: China Photography Guide Book - Capturing Landscapes of Guilin and Yangshuo
-  asin: B084WVWNK1
-  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
-  price: $24.97
+- title: "Migrations in New World Culture History"
+  asin: "B00KES5KYE"
+  url: https://www.amazon.com/dp/B00KES5KYE?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61HQoN7aHeL._AC_UL640_.jpg
 - asin: B0CKXBLLWV
   title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20

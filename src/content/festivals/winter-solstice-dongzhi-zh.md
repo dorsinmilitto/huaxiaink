@@ -16,21 +16,21 @@ tags:
 - 民俗
 featured: false
 affiliate:
-- title: COTEY 6 Inch Empanada Press, Large Stainless Steel Dumpling Maker
-  asin: B09DYP7J76
-  url: https://www.amazon.com/dp/B09DYP7J76?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/41CeMKM3VOL._AC_UL640_.jpg
-  price: $9.99
+- title: 6 Inch Stainless Steel Empanada Press - 2 in 1 Dough Cutter Mold for Pie, Dumpling, Wonton, Pierogi and Hand Pies
+  asin: B0FTWVMWSG
+  url: https://www.amazon.com/dp/B0FTWVMWSG?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61vcVACNc4L._AC_UL640_.jpg
+  price: $13.99
 - title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
   asin: B0049B1VRW
   url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
   price: $16.99
-- title: 3 Tier Electric Food Steamer for Cooking, 13.7QT Vegetable Steamer, 800W
-  asin: B0BPLRK1LN
-  url: https://www.amazon.com/dp/B0BPLRK1LN?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71QOQR569jL._AC_UL640_.jpg
-  price: $39.99
+- title: 25QT Electric Food Steamer, 3 Tier Vegetable and Seafood Steamer | 800W Fast Heating, 24H Delay Start, Auto Keep Warm
+  asin: B0FJ2LGSSK
+  url: https://www.amazon.com/dp/B0FJ2LGSSK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71W7BGjsWaL._AC_UL640_.jpg
+  price: $119.99
 - asin: B0F26RW6T1
   title: Chinese Knot with Tassels Festival Ornament Handmade
   url: https://www.amazon.com/dp/B0F26RW6T1?tag=huaxiaink-20

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Europe''s Heatwave Crisis: How Chinese Cooling Wisdom Outperforms Air Conditioning'
 description: As Europe faces record heatwaves, discover how Chinese cooling wisdom
   — from bamboo mats to mung bean soup — outperforms air conditioning naturally.
@@ -18,26 +18,26 @@ tags:
 - sustainability
 featured: false
 affiliate:
-- title: OMyTea Chinese Bamboo Hand Fan for Women - Foldable Vintage Silk Fan
-  asin: B0BCPFWW5M
-  url: https://www.amazon.com/dp/B0BCPFWW5M?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71XyKcg9fPL._AC_UL640_.jpg
-  price: $14.99
-- title: WEARXI 4 PCS Chinese Folding Fan for Women - Silk Bamboo Hand Held Fan
-  asin: B09WY5MK6Y
-  url: https://www.amazon.com/dp/B09WY5MK6Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81mfa9hfFtL._AC_UL640_.jpg
-  price: $9.99
-- title: AmyHomie Cooling Blanket - 100% Rayon Derived from Bamboo for Hot Sleepers
-  asin: B08TTFHX7W
-  url: https://www.amazon.com/dp/B08TTFHX7W?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/91kftmurumL._AC_UL640_.jpg
-  price: $19.99
-- title: Bedsure Silky Soft Summer Cooling Blanket - Rayon Derived from Bamboo
-  asin: B0BR567SS3
-  url: https://www.amazon.com/dp/B0BR567SS3?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/913w0HoY0yL._AC_UL640_.jpg
-  price: $22.99
+- title: "WEARXI Handheld Fan, 4 PCS Hand Fan, Chinese Folding Fan for Women Foldable, Silk Bamboo Hand Held Fan, Paper Hand Fan"
+  asin: "B09WXP1Z1N"
+  url: https://www.amazon.com/dp/B09WXP1Z1N?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71TmpQA2GOL._AC_UL640_.jpg
+  price: "SGD 12.90"
+- title: WEARXI Hand Fan, 4 Pcs Hand Fan Women Folding Fan Silk Bamboo Handheld Fan Paper Hand Fan
+  asin: B0F1N72M4R
+  url: https://www.amazon.com/dp/B0F1N72M4R?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81qeYEc02fL._AC_UL640_.jpg
+  price: $11.99
+- title: "Bedsure"
+  asin: "B0BV6PMWCK"
+  url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
+  price: "SGD 59.40"
+- title: "Bedsure"
+  asin: "B0BV6PMWCK"
+  url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
+  price: "SGD 59.40"
 - asin: B0GKPNC74V
   title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20

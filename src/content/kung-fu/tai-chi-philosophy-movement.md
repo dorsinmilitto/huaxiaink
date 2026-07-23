@@ -19,16 +19,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0D4QX9T5L?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71wmQMF3etL._AC_UL640_.jpg
   price: "$18.99"
-- title: Tai Chi Kung fu Shoes Unisex Traditional Old Beijing Cloth
-  asin: "B078BS5CJZ"
-  url: https://www.amazon.com/dp/B078BS5CJZ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71S-8fz1rgL._AC_UL640_.jpg
-  price: "$16.99"
-- title: Men's Martial Art Kung Fu Tai Chi Rubber Sole Canvas Shoes
-  asin: "B074PPRPCB"
-  url: https://www.amazon.com/dp/B074PPRPCB?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61FXiFZyv5L._AC_UL640_.jpg
-  price: "$3.99"
+- title: "YunPeng Chinese Traditional Old Beijing Shoes Unisex Martial Art Kung Fu Tai Chi Rubber Sole Shoes"
+  asin: "B07B8DSVWD"
+  url: https://www.amazon.com/dp/B07B8DSVWD?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61tPRXUKQ6L._AC_UL640_.jpg
+  price: "SGD 23.23"
+- title: "Men's Martial Art Kung Fu Tai Chi Cotton Sole Canvas Shoes (11) Black"
+  asin: "B00HXNJYD6"
+  url: https://www.amazon.com/dp/B00HXNJYD6?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/41Ma2g5I92L._AC_UL640_.jpg
+  price: "SGD 23.25"
 ---
 
 ## Daoist Roots: Where Philosophy Meets Flesh

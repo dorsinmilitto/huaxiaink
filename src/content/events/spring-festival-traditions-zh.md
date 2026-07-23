@@ -1,4 +1,4 @@
----
+﻿---
 title: 春节习俗：十五天的重生仪式
 description: 从年夜饭到元宵灯会，探索春节十五天的完整仪式——全球最大规模年度人口迁徙与庆典背后的文化密码。
 youtubeId: r4Ql5MsSBT4
@@ -15,11 +15,11 @@ tags:
 - 春联
 featured: false
 affiliate:
-- title: 13 PCS 3D Chinese Paper Dragon Decorations
-  asin: B0BFGWGGKY
-  url: https://www.amazon.com/dp/B0BFGWGGKY?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71tFctaUGDL._AC_UL640_.jpg
-  price: $19.99
+- title: "13Pcs Chinese Decorations for Party, 1 3D Chinese Dragon & 12 Red Lanterns | 8\", 10\" and 12\" layered hanging decor for birthdays, Lunar New Year, Asian theme parties, homes and offices"
+  asin: "B0DNTR3XHS"
+  url: https://www.amazon.com/dp/B0DNTR3XHS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71UutDj7TZL._AC_UL640_.jpg
+  price: "SGD 21.70"
 - title: Whaline 3D Dragon Ceiling Decorations 21Pcs
   asin: B0BJCHM49S
   url: https://www.amazon.com/dp/B0BJCHM49S?tag=huaxiaink-20

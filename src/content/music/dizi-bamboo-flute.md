@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Dizi: One Bamboo Tube, Six Holes, and the Sound of Mountains"
 description: The dizi — one bamboo tube, six holes, and the sound of Chinese mountains
   — the flute that's been painting landscapes in sound for 8,000 years.
@@ -19,8 +19,8 @@ featured: false
 affiliate:
 - title: C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue
     Set
-  asin: B07KXBJHWF
-  url: https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20
+  asin: B0DPXJ3RQQ
+  url: https://www.amazon.com/dp/B0DPXJ3RQQ?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg
   price: $25.99
 - title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'
@@ -30,8 +30,8 @@ affiliate:
   price: $9.99
 - title: Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key
     D
-  asin: B08HQ9ML9R
-  url: https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20
+  asin: B0DPXJWF8N
+  url: https://www.amazon.com/dp/B0DPXJWF8N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg
   price: $19.99
 - asin: B0GYCXY8TD

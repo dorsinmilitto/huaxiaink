@@ -21,11 +21,11 @@ affiliate:
   imageUrl: https://m.media-amazon.com/images/I/61CbCLanWQL._SY466_.jpg
   price: $9
   url: https://www.amazon.com/dp/1973409194?tag=huaxiaink-20
-- title: Vintage Style Bamboo Flute Chinese Dizi (Key D)
-  asin: B08HQ9ML9R
-  url: https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg
-  price: $17.99
+- title: D Key - Bamboo Flute Professional Bitter Bamboo Dizi Handmade | Traditional Chinese Musical Instrument for Beginners, Students, Adults
+  asin: B0DPXJWF8N
+  url: https://www.amazon.com/dp/B0DPXJWF8N?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71mF8S9xgAL._AC_UL640_.jpg
+  price: $28.99
 - title: C Key Hulusi Purple Bamboo Professional Cucurbit Flute
   asin: B0CXF1CSYZ
   url: https://www.amazon.com/dp/B0CXF1CSYZ?tag=huaxiaink-20

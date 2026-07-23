@@ -17,16 +17,16 @@ tags:
 - classical
 featured: true
 affiliate:
-- title: Generic Pipa Strings Set Steel Core Copper & Nylon Wound
-  asin: B01MV9MFFN
-  url: https://www.amazon.com/dp/B01MV9MFFN?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71D8I5stLcL._AC_UL640_.jpg
-  price: $12.00
-- title: Xinghai Pipa Strings for Chinese Pipa Lute (1 Set)
-  asin: B01GFIIVHE
-  url: https://www.amazon.com/dp/B01GFIIVHE?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51DMPkhwGBL._AC_UL640_.jpg
-  price: $7.50
+- title: Xinghai Professional Nylon Wound Pipa Strings, Stranded Steel Core Nylon Wound, 1 Set
+  asin: B01GFJ0VO4
+  url: https://www.amazon.com/dp/B01GFJ0VO4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51iKWQkOBhL._AC_UL640_.jpg
+  price: $18.99
+- title: Mikinona 4-Piece Professional Pipa Strings Set Chinese Lute Steel Strings Replacement for Learners and Practitioners
+  asin: B0C6W5CPVG
+  url: https://www.amazon.com/dp/B0C6W5CPVG?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/51befHoot2L._AC_UL640_.jpg
+  price: $11.99
 - title: Chinese Japanese Vintage Bamboo Silk Folding Fan
   asin: B0GYCXY8TD
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20

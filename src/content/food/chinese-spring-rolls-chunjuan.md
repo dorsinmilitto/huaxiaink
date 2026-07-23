@@ -1,4 +1,4 @@
----
+﻿---
 title: "Spring Rolls: The 2,500-Year Journey from Tree Bark Wrappers to Golden Crunch"
 description: 'From a practical field lunch wrapped in tree bark during the Spring and Autumn period to the golden, shatteringly crisp appetizer on every Chinese restaurant menu — the spring roll has been evolving for 2,500 years. The physics, the regional variations, and the seal that makes or breaks a roll.'
 youtubeId: zWHKmI3yPco
@@ -19,16 +19,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0963168FR?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81Pcw948hAL._AC_UL640_.jpg
   price: $22.99
-- title: Spring Roll Maker Water Bowl Dipper for Rice Paper Wrappers
-  asin: "B0CGNNK1Z8"
-  url: https://www.amazon.com/dp/B0CGNNK1Z8?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/610bLTC3dSL._AC_UL640_.jpg
-  price: $17.99
-- title: Cathay Fresh Spring Roll Rice Paper Wrappers 30 Sheets Non-GMO
-  asin: "B08778TKZQ"
-  url: https://www.amazon.com/dp/B08778TKZQ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71LP9i+lPTL._AC_UL640_.jpg
-  price: $6.99
+- title: "WRINGKIT 2 Pack Rice Paper Water Bowl Dipper, Spring Roll Water Bowl with Side Pocket, Plastic Rice Paper Holder for Spring Summer Roll Maker, Rices Papers Wrappers"
+  asin: "B0DMV6P8YP"
+  url: https://www.amazon.com/dp/B0DMV6P8YP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71K8HybxLpL._AC_UL640_.jpg
+  price: "SGD 21.94"
+- title: "TANISA"
+  asin: "B07QBYQQVS"
+  url: https://www.amazon.com/dp/B07QBYQQVS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81s2J5pURUL._AC_UL640_.jpg
+  price: "SGD 29.17"
 ---
 
 Crisp on the outside. Tender and savory on the inside. Shatteringly golden when you bite in, then a burst of vegetables, meat, and umami. The Chinese spring roll (春卷, chun juan) is one of the most perfect foods ever invented — and its story spans **2,500 years**.

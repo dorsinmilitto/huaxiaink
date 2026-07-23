@@ -1,4 +1,4 @@
----
+﻿---
 title: 法国人用中国二胡，弹碎了日本动漫最催泪的旋律
 description: 法国人用中国二胡弹碎了犬夜叉最催泪的旋律——当动漫情感遇上传统音色，文化桥梁就此搭建。
 youtubeId: lSCHU3kwrm8
@@ -20,11 +20,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: ABING Erhu Strings (Double Gold) - Steel Core Gold Plated
-  asin: B09B4JMBCY
-  url: https://www.amazon.com/dp/B09B4JMBCY?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61vEXh+EyNL._AC_UL640_.jpg
-  price: $16.99
+- title: "ABING Erhu Strings (Silver) 1 Set Inner & Outer Strings | Steel Core | Silver Plated | Chinese Traditional Instrument"
+  asin: "B09B4HNTG8"
+  url: https://www.amazon.com/dp/B09B4HNTG8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71-b98dvGeL._AC_UL640_.jpg
+  price: "SGD 14.19"
 - title: Professional Erhu Bow - Purple Bamboo Horsehair
   asin: B0FD7VD5MD
   url: https://www.amazon.com/dp/B0FD7VD5MD?tag=huaxiaink-20

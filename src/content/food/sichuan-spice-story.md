@@ -26,11 +26,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0F183GV33?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51buY+hFjUL._AC_UL640_.jpg
   price: $31.49
-- title: Zoie+Chloe Bamboo Steamer Basket
-  asin: B00WQR9N1M
-  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
-  price: $21.99
+- title: Bamboo Steamer Basket | 2 Tier 10-Inch Steaming Basket for Dim Sum, Bao Buns, Momos, Rice & Vegetables
+  asin: B0FX4VFDXR
+  url: https://www.amazon.com/dp/B0FX4VFDXR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816+wkh29cL._AC_UL640_.jpg
+  price: $29.99
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

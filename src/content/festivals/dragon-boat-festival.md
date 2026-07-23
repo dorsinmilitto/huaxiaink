@@ -1,4 +1,4 @@
----
+﻿---
 title: Dragon Boat Festival — How a Poet's Grief Became China's Most Exciting Holiday
 description: Dragon Boat Festival turned a poet's tragic drowning into China's most
   exciting holiday — zongzi, dragon boats, and 2,000 years of remembrance.
@@ -16,11 +16,11 @@ tags:
 - rice-dumpling
 featured: true
 affiliate:
-- title: Bamboo Steamer 10 Inch 2 Tier
-  asin: B09YWK6CWW
+- title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
+  asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: $29.59
+  price: "SGD 40.60"
 - title: Chinese/Japanese Gongfu Tea Set
   asin: B08FYT6CCL
   url: https://www.amazon.com/dp/B08FYT6CCL?tag=huaxiaink-20

@@ -1,4 +1,4 @@
----
+﻿---
 title: 李子柒镜头下的端午节——粽子、稻田与两千年的记忆
 description: 李子柒镜头下的端午节——手工包粽子、龙舟竞渡，在四川乡间延续两千年的传统记忆。
 youtubeId: vusE2HqaAEY
@@ -15,16 +15,16 @@ tags:
 - 龙舟
 featured: true
 affiliate:
-- title: Bamboo Steamer 10 Inch 2 Tier
-  asin: B09YWK6CWW
+- title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
+  asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: $29.99
-- title: Chinese Tea Pot Cup Set with Tray
-  asin: B0881KTP8J
-  url: https://www.amazon.com/dp/B0881KTP8J?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/713JccfseAL._AC_UL640_.jpg
-  price: $22.99
+  price: "SGD 40.60"
+- title: Ceramic Gongfu Tea Set 12 Pcs, Mini Portable Travel Tea Set with Teapot, 4 Tea Cups, Bamboo Tea Tray, Tea Caddy, Travel Bag
+  asin: B096P4NVH4
+  url: https://www.amazon.com/dp/B096P4NVH4?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/91kvkGcWlkS._AC_UL640_.jpg
+  price: $24.99
 - title: Dumpling Bamboo Steamer 10 Inch
   asin: B0CC6C5S5H
   url: https://www.amazon.com/dp/B0CC6C5S5H?tag=huaxiaink-20

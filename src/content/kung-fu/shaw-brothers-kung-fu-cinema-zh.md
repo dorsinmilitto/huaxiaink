@@ -1,4 +1,4 @@
----
+﻿---
 title: 邵氏——一间电影厂如何发明了功夫电影
 description: 香港邵氏电影公司创造了功夫片类型——从《独臂刀》到《五毒》，它们塑造了全世界对中国武术的想象。
 youtubeId: luBMSzcQ8p0
@@ -20,16 +20,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0GCX75MWB?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71v3MWcWR2L._AC_UL640_.jpg
   price: $4.99
-- title: Mens Surely Not Everybody was Kung Fu Fighting T Shirt
-  asin: "B07772TB67"
-  url: https://www.amazon.com/dp/B07772TB67?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71y5PlkW+DL._AC_UL640_.jpg
-  price: $14.99
-- title: ZooBoo Chinese Clothing Tang Suit Kung Fu Short Sleeve Shirt
-  asin: "B07Q98J1MW"
-  url: https://www.amazon.com/dp/B07Q98J1MW?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/41oR9dwvN3L._AC_UL640_.jpg
-  price: $19.99
+- title: "Mens Surely Not Everybody was Kung Fu Fighting T Shirt Funny Sarcastic Saying"
+  asin: "B0776YJKTT"
+  url: https://www.amazon.com/dp/B0776YJKTT?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71y5PlkW+DL._AC_SX466_.jpg
+  price: "S$19.36"
+- title: "ZooBoo Men's Kung Fu Uniform Short Sleeve Chinese Shirt | Loose-Fitting Suitable For Kung Fu, Tai Chi, Meditation ,Daily Wear"
+  asin: "B0FC65WD9H"
+  url: https://www.amazon.com/dp/B0FC65WD9H?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/614bEn9tfHL._AC_UL640_.jpg
+  price: "SGD 25.82"
 ---
 
 ## 造就一种类型的工厂

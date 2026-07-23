@@ -1,4 +1,4 @@
----
+﻿---
 title: Dim Sum — The Morning Ritual That Invented Brunch 200 Years Ago
 description: Dim sum invented brunch 200 years before the word existed — the Cantonese
   morning tea ritual of bamboo baskets, push carts, and steamed perfection.
@@ -16,21 +16,21 @@ tags:
 - hong-kong
 featured: true
 affiliate:
-- title: Bamboo Steamer 10 Inch 2 Tier Wooden Basket
-  asin: B09YWK6CWW
+- title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
+  asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: $29.59
-- title: Zoie + Chloe Bamboo Steamer Basket 2-Tier
-  asin: B00WQR9N1M
-  url: https://www.amazon.com/dp/B00WQR9N1M?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71cTD2je62L._AC_UL640_.jpg
-  price: $21.99
-- title: Empanada/Dumpling Maker Press with Dough Cutter
-  asin: B0CZ8YS2F9
-  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
-  price: $18.99
+  price: "SGD 40.60"
+- title: Bamboo Steamer Basket | 2 Tier 10-Inch Steaming Basket for Dim Sum, Bao Buns, Momos, Rice & Vegetables
+  asin: B0FX4VFDXR
+  url: https://www.amazon.com/dp/B0FX4VFDXR?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/816+wkh29cL._AC_UL640_.jpg
+  price: $29.99
+- title: "Empanada Maker Press, 6-Inch Extra Large Dumpling Maker Set with Dough Cutter, Dumpling Mold Set for Pierogi, Pastelitos, Calzone, Turnovers, Chinese Dumpling, 5Sizes (6\"/5\"/4\"/3\"/2.6\")"
+  asin: "B0CPDD6WCL"
+  url: https://www.amazon.com/dp/B0CPDD6WCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71PogXpSodL._AC_UL640_.jpg
+  price: "SGD 38.73"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

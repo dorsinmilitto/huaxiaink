@@ -1,4 +1,4 @@
----
+﻿---
 title: 重庆8D魔幻城：物理定律在这里失效
 description: 重庆是8D魔幻城——轻轨穿楼、桥梁盖楼、屋顶当街，中国赛博朋克山城让物理定律失效。
 youtubeId: IbnSuon2nrI
@@ -21,16 +21,16 @@ affiliate:
   url: https://www.amazon.com/dp/1788687930?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91D0NAgnTTL._AC_UL640_.jpg
   price: $28.99
-- title: LOVEVOOK 40L Travel Backpack
-  asin: B0CJY9LHK4
-  url: https://www.amazon.com/dp/B0CJY9LHK4?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71fYV55XVXL._AC_UL640_.jpg
-  price: $34.18
-- title: coowoz Travel Backpack Waterproof
-  asin: B0B426KSXP
-  url: https://www.amazon.com/dp/B0B426KSXP?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71iOgIj8UZL._AC_UL640_.jpg
-  price: $23.99
+- title: "LOVEVOOK"
+  asin: "B0CLVBFRX1"
+  url: https://www.amazon.com/dp/B0CLVBFRX1?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71UaSetQlzL._AC_UL640_.jpg
+  price: "SGD 44.14"
+- title: "G4Free"
+  asin: "B07S5XHTSP"
+  url: https://www.amazon.com/dp/B07S5XHTSP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71xg0IAmVDL._AC_UL640_.jpg
+  price: "S$51.05"
 - asin: B0CKXBLLWV
   title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20

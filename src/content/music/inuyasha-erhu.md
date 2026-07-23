@@ -1,4 +1,4 @@
----
+﻿---
 title: A Frenchman Plays Anime's Most Heartbreaking Song on a Chinese Erhu
 description: A Frenchman plays Inuyasha's most heartbreaking song on a Chinese erhu
   — when anime emotion meets traditional timbre, bridges get built.
@@ -21,11 +21,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0CP6V9473?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71ejTbbjqHL._SY342_.jpg
   price: $35
-- title: ABING Erhu Strings (Double Gold) - Steel Core Gold Plated
-  asin: B09B4JMBCY
-  url: https://www.amazon.com/dp/B09B4JMBCY?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61vEXh+EyNL._AC_UL640_.jpg
-  price: $16.99
+- title: "ABING Erhu Strings (Silver) 1 Set Inner & Outer Strings | Steel Core | Silver Plated | Chinese Traditional Instrument"
+  asin: "B09B4HNTG8"
+  url: https://www.amazon.com/dp/B09B4HNTG8?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71-b98dvGeL._AC_UL640_.jpg
+  price: "SGD 14.19"
 - title: Professional Erhu Bow - Purple Bamboo Horsehair
   asin: B0FD7VD5MD
   url: https://www.amazon.com/dp/B0FD7VD5MD?tag=huaxiaink-20

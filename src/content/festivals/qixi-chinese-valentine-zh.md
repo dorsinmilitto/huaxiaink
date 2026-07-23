@@ -1,4 +1,4 @@
----
+﻿---
 title: 七夕——写在星星上的爱情故事（字面意义上的）
 description: 七夕——被银河隔开的两颗星每年相会一次。两千六百年前写在星座里的中国情人节。
 youtubeId: WCbztd58LLE
@@ -20,11 +20,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg
   price: $21.51
-- title: Winged Sirenny Short Silk Folding Fan
-  asin: B01NCJU3SI
-  url: https://www.amazon.com/dp/B01NCJU3SI?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81FVBVKtN7L._AC_UL640_.jpg
-  price: $16.99
+- title: "OMyTea"
+  asin: "B01MS6U5TT"
+  url: https://www.amazon.com/dp/B01MS6U5TT?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71fQe0KVfWL._AC_UL640_.jpg
+  price: "SGD 16.78"
 - title: 'Chinese Children''s Favorite Stories: Fables, Myths and Fairy Tales'
   asin: 0804851492
   url: https://www.amazon.com/dp/0804851492?tag=huaxiaink-20

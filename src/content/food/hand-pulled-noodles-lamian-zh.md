@@ -16,21 +16,21 @@ tags:
 - 面条
 featured: false
 affiliate:
-- title: Sailnovo 3 in 1 Pasta Maker Machine - 9 Adjustable Thickness Settings
-  asin: B07DP15B53
-  url: https://www.amazon.com/dp/B07DP15B53?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81AfFhddn1L._AC_UL640_.jpg
-  price: $29.99
+- title: KitchenAid All Metal Pasta Maker Attachment, 3-In-1 Pasta Attachment for KitchenAid Stand Mixer, 8-Gear Adjustable Pasta Roller
+  asin: B0D3CDNC46
+  url: https://www.amazon.com/dp/B0D3CDNC46?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sZ6rXG+LL._AC_UL640_.jpg
+  price: $54.99
 - title: 'Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant'
   asin: B0049B1VRW
   url: https://www.amazon.com/dp/B0049B1VRW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81YOF-WabWL._AC_UL640_.jpg
   price: $16.99
-- title: Hiware Extra Large Bamboo Cutting Board for Kitchen, 18 x 12 Inch
-  asin: B08LCXZ3WD
-  url: https://www.amazon.com/dp/B08LCXZ3WD?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71Z6yX-uMcL._AC_UL640_.jpg
-  price: $15.99
+- title: Garvee Extra Large Bamboo Cutting Board and Tray, 18 x 12 x 0.65 Inch Thick - with Deep Juice Groove, Knife Safe Surface
+  asin: B0G4QVJW22
+  url: https://www.amazon.com/dp/B0G4QVJW22?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71wIQ2PNmkL._AC_UL640_.jpg
+  price: $18.99
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

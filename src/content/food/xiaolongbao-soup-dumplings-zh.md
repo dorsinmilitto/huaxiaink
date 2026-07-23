@@ -15,16 +15,16 @@ tags:
 - 中华美食
 featured: true
 affiliate:
-- title: Bamboo Steamer 10 Inch Deep Dim Sum Steamer Basket
-  asin: B08FTFP2YN
-  url: https://www.amazon.com/dp/B08FTFP2YN?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81pobfRKPEL._AC_UL640_.jpg
-  price: $38.99
-- title: 10-Inch 2-Tier Bamboo Steamer Basket for Dumplings and Buns
-  asin: B08B39WLZ7
-  url: https://www.amazon.com/dp/B08B39WLZ7?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71ZcAdZYdhL._AC_UL640_.jpg
-  price: $32.95
+- title: Deep Bamboo Steamer Basket 10-Inch | 2-Tier Steamer for Cooking | 50 Liners, 4 Chopsticks, 2 Sauce Dishes | Steaming Asian Food
+  asin: B0GV7SDHBH
+  url: https://www.amazon.com/dp/B0GV7SDHBH?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71YMveI3E+L._AC_UL640_.jpg
+  price: $25.99
+- title: Bamboo Steamer Basket - 10 Inch 2 Tier Bamboo Dumpling Steamer, Steaming Basket Bun Vegetable Bao Buns, Chopsticks, Sauce Dishes
+  asin: B0FWN2871J
+  url: https://www.amazon.com/dp/B0FWN2871J?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71W7ukf3+oL._AC_UL640_.jpg
+  price: $32.99
 - title: Chinese Breakfast Waterproof Vinyl Stickers 50Pcs
   asin: B0H1S23GY4
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

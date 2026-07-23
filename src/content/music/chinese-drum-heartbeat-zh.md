@@ -1,4 +1,4 @@
----
+﻿---
 title: 中国鼓——每个节日、每场战役和每个王朝背后的心跳
 description: 中国鼓是每个节日、战役和王朝的心跳——从秦军信号到春节庆典，鼓声即是权力。
 youtubeId: 9NSej1sFr3g
@@ -20,11 +20,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0F6V79JDC?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51dTNl-wIBL._AC_UL640_.jpg
   price: $37.29
-- title: Drums Percussion Chinese Hand Tambourine Taiko Bongos
-  asin: B0BC5YRPS8
-  url: https://www.amazon.com/dp/B0BC5YRPS8?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/613YlFd0ZjL._AC_UL640_.jpg
-  price: $40.99
+- title: "Drums Percussion Chinese Drum Hand Tambourine Taiko Bongos Musical Gifts Instruments for Kids Sensory Learning Set Little Boy Kids Toys"
+  asin: "B098MGFJHT"
+  url: https://www.amazon.com/dp/B098MGFJHT?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71+uB5U8wvL._AC_SX679_.jpg
+  price: "S$40.02"
 - asin: B0GYCXY8TD
   title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20

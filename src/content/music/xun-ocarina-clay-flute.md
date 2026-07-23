@@ -9,8 +9,8 @@ tags: [ancient-instruments, ocarina, clay-flute, chinese-music, archaeological]
 featured: true
 affiliate:
   - title: 'Zelda Ocarina 12 Hole Alto C with Song Book'
-    asin: "B076DX5PBY"
-    url: https://www.amazon.com/dp/B076DX5PBY?tag=huaxiaink-20
+    asin: B0FQ4TBMR6
+    url: https://www.amazon.com/dp/B0FQ4TBMR6?tag=huaxiaink-20
     imageUrl: https://m.media-amazon.com/images/I/61rj6L6e1yL._AC_UL640_.jpg
     price: "$29.99"
   - title: 'Hand Painting 6 Hole Ceramic Ocarina Alto C'

@@ -20,8 +20,8 @@ featured: false
 affiliate:
 - title: LANDTOM Professional Chinese Lute Traditional National Stringed Instrument
     PiPa
-  asin: B085MFNYMN
-  url: https://www.amazon.com/dp/B085MFNYMN?tag=huaxiaink-20
+  asin: B0F344F87W
+  url: https://www.amazon.com/dp/B0F344F87W?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/413KqIQD4uL._AC_UL640_.jpg
   price: $159.99
 - title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'

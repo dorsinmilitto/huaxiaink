@@ -14,11 +14,11 @@ tags:
 - 中国游艺
 featured: true
 affiliate:
-- title: MAGICYOYO Pro Triple Bearing Diabolo Chinese Yoyo
-  asin: "B07QCSLX8Q"
-  url: https://www.amazon.com/dp/B07QCSLX8Q?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71X2392fiiL._AC_UL640_.jpg
-  price: $31.99
+- title: Chinese Diabolo Set Triple Bearing Chinese Yoyo with Sticks & String & Net Bag for Adults Fitness Tricks, Skills Training
+  asin: B0H7QM97XF
+  url: https://www.amazon.com/dp/B0H7QM97XF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71sCcBPZi8L._AC_UL640_.jpg
+  price: $21.99
 - title: Chinese Yo-Yo Juggling Toy Set with Hand Sticks
   asin: "B0FKN4K3HZ"
   url: https://www.amazon.com/dp/B0FKN4K3HZ?tag=huaxiaink-20

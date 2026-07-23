@@ -1,4 +1,4 @@
----
+﻿---
 title: 悬空寺：挂在悬崖上的千年奇迹
 description: 悬空寺挂在悬崖上一千五百年——离地50米的木构寺庙融合佛道儒三教，世界建筑史上的悬空奇迹。
 youtubeId: Je9Y3pRyfX8
@@ -26,11 +26,10 @@ affiliate:
   url: https://www.amazon.com/dp/1566955920?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/91ylx+JLWoL._AC_UL640_.jpg
   price: $21.99
-- title: Chinese Temple Architecture Photo Book - Sacred Spaces of Shanxi
-  asin: B084WVWNK1
-  url: https://www.amazon.com/dp/B084WVWNK1?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81nJmAGbfQL._AC_UL640_.jpg
-  price: $32.00
+- title: "Migrations in New World Culture History"
+  asin: "B00KES5KYE"
+  url: https://www.amazon.com/dp/B00KES5KYE?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61HQoN7aHeL._AC_UL640_.jpg
 - asin: B0CKXBLLWV
   title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   url: https://www.amazon.com/dp/B0CKXBLLWV?tag=huaxiaink-20

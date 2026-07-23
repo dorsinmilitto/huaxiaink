@@ -15,11 +15,11 @@ tags:
 - 鸳鸯锅
 featured: false
 affiliate:
-- title: Stainless Steel Shabu Shabu Hot Pot with Divider
-  asin: B08GKBNVF2
-  url: https://www.amazon.com/dp/B08GKBNVF2?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61wYYSonWSL._AC_UL640_.jpg
-  price: $29.99
+- title: Peohud 304 Stainless Steel Hot Pot with Divider, 12 Inch Dual Flavor Hot Pot with Spoon and Slotted Spoon, Double Side Soup Pot
+  asin: B0DT6VHZ8F
+  url: https://www.amazon.com/dp/B0DT6VHZ8F?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71lQf4hHfRL._AC_UL640_.jpg
+  price: $22.99
 - title: 7-QT Shabu Shabu Hot Pot with Divider Double Flavor
   asin: B0FMK3FGN6
   url: https://www.amazon.com/dp/B0FMK3FGN6?tag=huaxiaink-20

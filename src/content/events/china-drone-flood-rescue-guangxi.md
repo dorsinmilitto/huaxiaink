@@ -1,4 +1,4 @@
----
+﻿---
 title: "Drones Save Lives in China Floods: Heavy-Lift UAVs Airlift People and Supplies When Roads Vanish"
 description: 'When Typhoon Maysak submerged Guangxi, heavy-lift drones carrying 400 kg payloads airlifted stranded residents and delivered tons of supplies to flood-isolated villages — rewriting disaster rescue playbook.'
 youtubeId: a7qKxRO0ZLI
@@ -15,21 +15,20 @@ tags:
 - guangxi
 featured: true
 affiliate:
-- title: DJI Mini 4 Pro Fly More Combo
-  asin: "B0CFF4RYDM"
-  url: https://www.amazon.com/dp/B0CFF4RYDM?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61ED-SY-s9L._AC_UL640_.jpg
-  price: $859.00
-- title: Potensic ATOM SE GPS Drone with 4K Camera
-  asin: "B0CBLQDJ98"
-  url: https://www.amazon.com/dp/B0CBLQDJ98?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61l8VATjG8L._AC_UL640_.jpg
-  price: $249.99
-- title: Emergency Survival Kit 250pcs
-  asin: "B0CQ2HVJ7Y"
-  url: https://www.amazon.com/dp/B0CQ2HVJ7Y?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61GhZXLYSjL._AC_UL640_.jpg
-  price: $4.99
+- title: "Lekufee"
+  asin: "B0F87VSVZF"
+  url: https://www.amazon.com/dp/B0F87VSVZF?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81i5XtMWFKL._AC_UL640_.jpg
+  price: "SGD 129.14"
+- title: "GPS Drone with EIS Camera for Adults Beginners,4.5\" HD LCD RC Screen,Al Track&Orbit Mode,32G SD Card with Drone Professional Auto Return, Drones Long Range Follow Me,Gesture Control,under 249g"
+  asin: "B0H3LW66X7"
+  url: https://www.amazon.com/dp/B0H3LW66X7?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/61TIH19pf3L._AC_UL640_.jpg
+  price: "SGD 180.79"
+- title: "Survival Kit, 268 Pcs Emergency Survival Gear and Equipment Supplies with First Aid Kit, Camping Axe, Headlamp, Crossbody Bag for Camping Hiking, Hunting, Gift for Christmas Men, Dads, Black"
+  asin: "B0FHQDJ2H9"
+  url: https://www.amazon.com/dp/B0FHQDJ2H9?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81d9heaBplL._AC_UL640_.jpg
 ---
 
 When Typhoon Maysak slammed into southern China in early July 2026, it dumped unprecedented rainfall across the Guangxi Zhuang Autonomous Region. Rivers overflowed, reservoirs breached, roads vanished under two meters of muddy water — and over 15,000 people found themselves stranded on rooftops and hillsides, cut off from the world.

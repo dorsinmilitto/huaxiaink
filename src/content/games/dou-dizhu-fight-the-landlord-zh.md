@@ -1,4 +1,4 @@
----
+﻿---
 title: 斗地主——3亿中国人每天都在打的牌
 description: 斗地主是中国最受欢迎的纸牌游戏——三人博弈、叫分抢地主、炸弹火箭齐飞，日活跃玩家远超扑克。
 youtubeId: ZEZe7seOH1Y
@@ -19,7 +19,7 @@ affiliate:
   url: https://www.amazon.com/dp/B003M2O1J4?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81AmbpMdVoL._AC_UL640_.jpg
   price: $14.99
-- asin: 'B009DWUIIK'
+- asin: B009DWUIIK
   title: Chinese Chess (Xiangqi) Magnetic Travel Board Game Set
   url: https://www.amazon.com/dp/B009DWUIIK?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81H0qbeH+DL._AC_UL640_.jpg

@@ -1,4 +1,4 @@
----
+﻿---
 title: Zhajiangmian — The Bowl of Noodles That Defines Beijing More Than Peking Duck
 description: Peking duck is for tourists. Zhajiangmian is what Beijingers actually eat — a bowl of hand-pulled noodles with fermented sauce that took 200 years to perfect.
 youtubeId: dUNDlW3W0l8
@@ -20,12 +20,12 @@ affiliate:
   url: https://www.amazon.com/dp/B09CG2JG5N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81IqkOnG6uL._AC_UL640_.jpg
   price: $32.99
-- asin: 'B08FTFP2YN'
+- asin: B0GV7SDHBH
   title: Bamboo Steamer 10 Inch Deep Dim Sum Steamer Basket
-  url: https://www.amazon.com/dp/B08FTFP2YN?tag=huaxiaink-20
+  url: https://www.amazon.com/dp/B0GV7SDHBH?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81pobfRKPEL._AC_UL640_.jpg
   price: $38.99
-- asin: 'B07JRGRRBX'
+- asin: B07JRGRRBX
   title: HIWARE 10 Pairs Fiberglass Chopsticks Reusable Dishwasher Safe
   url: https://www.amazon.com/dp/B07JRGRRBX?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51+5AdFaguL._AC_UL640_.jpg

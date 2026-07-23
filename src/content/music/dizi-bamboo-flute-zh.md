@@ -1,4 +1,4 @@
----
+﻿---
 title: 笛子：一根竹管吹出的山水长卷
 description: 笛子——一根竹管六个孔，吹出中国山水——八千年来用声音画风景的竹笛。
 youtubeId: lI1L2l6vi-4
@@ -17,14 +17,14 @@ featured: false
 affiliate:
 - title: C Key Dizi Bitter Bamboo Flute for Beginners with Free Membrane and Glue
     Set
-  asin: B07KXBJHWF
-  url: https://www.amazon.com/dp/B07KXBJHWF?tag=huaxiaink-20
+  asin: B0DPXJ3RQQ
+  url: https://www.amazon.com/dp/B0DPXJ3RQQ?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61hP4aI747L._AC_UL640_.jpg
   price: $25.99
 - title: Vintage Style Bamboo Flute Chinese Musical Instrument Traditional Dizi Key
     D
-  asin: B08HQ9ML9R
-  url: https://www.amazon.com/dp/B08HQ9ML9R?tag=huaxiaink-20
+  asin: B0DPXJWF8N
+  url: https://www.amazon.com/dp/B0DPXJWF8N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71iFz9IvudL._AC_UL640_.jpg
   price: $19.99
 - title: 'Top 18 Traditional Chinese Musical Instruments: An Easy-to-follow Guide'

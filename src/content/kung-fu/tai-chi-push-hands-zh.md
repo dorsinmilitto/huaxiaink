@@ -1,4 +1,4 @@
----
+﻿---
 title: 太极推手——不战而胜的艺术
 description: 太极推手是双人练习，学会化力而非抗力——孙子的哲学变成身体实践，也是世界上最被误解的武术。
 youtubeId: EHEUkj8F_pM
@@ -15,11 +15,11 @@ tags:
 - 柔劲
 featured: true
 affiliate:
-- title: Tai Chi Fan Bamboo Dragon Phoenix 13-Inch Folding Kung Fu Fan
-  asin: B01LYX47II
-  url: https://www.amazon.com/dp/B01LYX47II?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/712J0dUuCpL._AC_UL640_.jpg
-  price: $11.99
+- title: "Chinese Kung Fu Tai Chi Fan Martial Arts Dance Folding Fan Stainless Steel Written Kung Fu Fan"
+  asin: "B0CWTRBDC5"
+  url: https://www.amazon.com/dp/B0CWTRBDC5?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71Y7Ucm-+QL._AC_SX522_.jpg
+  price: "S$21.30"
 - title: Traditional Tai Chi Kung Fu Fan Silk Bamboo Rib
   asin: B0DY73L5YF
   url: https://www.amazon.com/dp/B0DY73L5YF?tag=huaxiaink-20

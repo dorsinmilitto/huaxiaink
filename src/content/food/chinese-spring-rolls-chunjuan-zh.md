@@ -1,4 +1,4 @@
----
+﻿---
 title: "春卷：从树皮包裹到金黄酥脆的两千五百年进化史"
 description: '从春秋时期田间实用的树皮包饭，到每家中餐馆菜单上的金黄开胃菜——春卷已经进化了两千五百年。物理学原理、地域变体，以及决定一个春卷成败的封口。'
 youtubeId: zWHKmI3yPco
@@ -19,16 +19,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0963168FR?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81Pcw948hAL._AC_UL640_.jpg
   price: $22.99
-- title: Spring Roll Maker Water Bowl Dipper for Rice Paper Wrappers
-  asin: "B0CGNNK1Z8"
-  url: https://www.amazon.com/dp/B0CGNNK1Z8?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/610bLTC3dSL._AC_UL640_.jpg
-  price: $17.99
-- title: Cathay Fresh Spring Roll Rice Paper Wrappers 30 Sheets Non-GMO
-  asin: "B08778TKZQ"
-  url: https://www.amazon.com/dp/B08778TKZQ?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71LP9i+lPTL._AC_UL640_.jpg
-  price: $6.99
+- title: "WRINGKIT 2 Pack Rice Paper Water Bowl Dipper, Spring Roll Water Bowl with Side Pocket, Plastic Rice Paper Holder for Spring Summer Roll Maker, Rices Papers Wrappers"
+  asin: "B0DMV6P8YP"
+  url: https://www.amazon.com/dp/B0DMV6P8YP?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71K8HybxLpL._AC_UL640_.jpg
+  price: "SGD 21.94"
+- title: "TANISA"
+  asin: "B07QBYQQVS"
+  url: https://www.amazon.com/dp/B07QBYQQVS?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81s2J5pURUL._AC_UL640_.jpg
+  price: "SGD 29.17"
 ---
 
 外酥里嫩。一口咬下去，金黄酥脆的外壳碎裂，然后是蔬菜、肉和鲜味的迸发。中国春卷是史上最完美的食物之一——而它的故事跨越了两千五百年。

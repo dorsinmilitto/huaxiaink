@@ -1,4 +1,4 @@
----
+﻿---
 title: 饺子之道：把一千八百年的故事包进面皮里
 description: 饺子把一千八百年的故事包进面皮——从汉代战场救急到春节团圆饭的绝对主角。
 youtubeId: EcqqhQqemxU
@@ -20,16 +20,16 @@ affiliate:
   url: https://www.amazon.com/dp/B0D5HJ3JBL?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61QfR6ad65L._AC_UL640_.jpg
   price: $15.99
-- title: Empanada/Dumpling Maker Press
-  asin: B0CZ8YS2F9
-  url: https://www.amazon.com/dp/B0CZ8YS2F9?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71Pqsc8-kwL._AC_UL640_.jpg
-  price: $18.99
-- title: Bamboo Steamer 10 Inch 2 Tier
-  asin: B09YWK6CWW
+- title: "Empanada Maker Press, 6-Inch Extra Large Dumpling Maker Set with Dough Cutter, Dumpling Mold Set for Pierogi, Pastelitos, Calzone, Turnovers, Chinese Dumpling, 5Sizes (6\"/5\"/4\"/3\"/2.6\")"
+  asin: "B0CPDD6WCL"
+  url: https://www.amazon.com/dp/B0CPDD6WCL?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71PogXpSodL._AC_UL640_.jpg
+  price: "SGD 38.73"
+- title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
+  asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: $29.59
+  price: "SGD 40.60"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

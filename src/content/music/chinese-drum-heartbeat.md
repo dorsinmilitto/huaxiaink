@@ -1,4 +1,4 @@
----
+﻿---
 title: Chinese Drum — The Heartbeat Behind Every Festival, Battle, and Dynasty
 description: The Chinese drum is the heartbeat behind every festival, battle, and
   dynasty — from Qin army signals to Spring Festival celebrations, rhythm is power.
@@ -21,11 +21,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0F6V79JDC?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/51dTNl-wIBL._AC_UL640_.jpg
   price: $37.29
-- title: Drums Percussion Chinese Hand Tambourine Taiko Bongos
-  asin: B0BC5YRPS8
-  url: https://www.amazon.com/dp/B0BC5YRPS8?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/613YlFd0ZjL._AC_UL640_.jpg
-  price: $40.99
+- title: "Drums Percussion Chinese Drum Hand Tambourine Taiko Bongos Musical Gifts Instruments for Kids Sensory Learning Set Little Boy Kids Toys"
+  asin: "B098MGFJHT"
+  url: https://www.amazon.com/dp/B098MGFJHT?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71+uB5U8wvL._AC_SX679_.jpg
+  price: "S$40.02"
 - asin: B0GYCXY8TD
   title: Chinese Japanese Vintage Bamboo Silk Folding Fan Handheld
   url: https://www.amazon.com/dp/B0GYCXY8TD?tag=huaxiaink-20

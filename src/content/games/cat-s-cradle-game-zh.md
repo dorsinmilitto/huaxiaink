@@ -1,4 +1,4 @@
----
+﻿---
 title: "翻花绳——一根绳子变出的指尖魔术"
 description: 一根简单的绳子，如何在两只手中变成精美的图案？这个游戏跨越了所有文化和时代。
 youtubeId: HFp68u7mmbI
@@ -18,11 +18,11 @@ affiliate:
     url: https://www.amazon.com/dp/B09JVM1DBP?tag=huaxiaink-20
     imageUrl: https://m.media-amazon.com/images/I/91YpNGpQxyL._AC_UL640_.jpg
     price: "$19.99"
-  - title: 'Rainbow Embroidery Floss Pack 109 Skeins'
-    asin: "B0BNN26R6T"
-    url: https://www.amazon.com/dp/B0BNN26R6T?tag=huaxiaink-20
-    imageUrl: https://m.media-amazon.com/images/I/71-dyYlBj7L._AC_UL640_.jpg
-    price: "$5.99"
+  - title: "Paxcoo 124 Skeins Embroidery Floss Cross Stitch Thread with Needles"
+    asin: "B0747JY5Q2"
+    url: https://www.amazon.com/dp/B0747JY5Q2?tag=huaxiaink-20
+    imageUrl: https://m.media-amazon.com/images/I/61lazF8OahL._AC_UL640_.jpg
+    price: "SGD 12.90"
 ---
 
 *喜欢这篇文章？分享给那些需要放下手机、拿起一根绳子的人。*

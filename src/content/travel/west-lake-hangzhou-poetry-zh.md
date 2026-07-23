@@ -17,14 +17,14 @@ featured: true
 affiliate:
 - title: Oriarm 2026 Chinese Longjing Green Tea Loose Leaf - West Lake Dragon Well
     Tea
-  asin: B07QYJB5NT
-  url: https://www.amazon.com/dp/B07QYJB5NT?tag=huaxiaink-20
+  asin: B09R4MZC9H
+  url: https://www.amazon.com/dp/B09R4MZC9H?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61hHfKJCmYL._AC_UL640_.jpg
   price: $28.90
-- title: JQ Pre-Qingming Dragon Well Green Tea Loose Leaf Classic Grade Longjing
-  asin: B07CG54Z37
-  url: https://www.amazon.com/dp/B07CG54Z37?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/51NFgGEnFtL._AC_UL640_.jpg
+- title: FullChea - Dragon Well Tea - Longjing Tea - Chinese Green Tea Loose Leaf - First Grade - Natural Longqing Longjing - 8 oz/226 g
+  asin: B079MBKFVK
+  url: https://www.amazon.com/dp/B079MBKFVK?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/618ehIvNkCL._AC_UL640_.jpg
   price: $25.99
 - title: 50Pcs Ancient Chinese Architecture Waterproof Vinyl Stickers
   asin: B0CKXBLLWV
