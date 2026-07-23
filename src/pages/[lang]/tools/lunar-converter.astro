@@ -1,0 +1,420 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+const isZh = l === 'zh';
+
+const pageData = isZh ? {
+  title: '农历阳历转换器',
+  description: '免费在线农历阳历双向转换工具，精准支持1900-2100年农历日期查询，包含天干地支、生肖、节气信息。',
+  h1: '农历阳历转换器',
+  intro: '输入公历或农历日期，即时获取对应的农历或公历日期，同时显示天干地支、生肖、节气等详细信息。',
+  tabSolar: '公历转农历',
+  tabLunar: '农历转公历',
+  solarLabel: '请选择公历日期',
+  convertBtn: '转换',
+  lunarYearLabel: '农历年',
+  lunarMonthLabel: '月份',
+  lunarDayLabel: '日',
+  resultTitle: '转换结果',
+  lunarDate: '农历日期',
+  solarDate: '公历日期',
+  ganZhiYear: '干支年',
+  ganZhiMonth: '干支月',
+  ganZhiDay: '干支日',
+  zodiac: '生肖',
+  jieqi: '节气',
+  festival: '节日',
+  noFestival: '无',
+  leapMonth: '闰',
+  months: ['正','二','三','四','五','六','七','八','九','十','冬','腊'],
+  seoH2: '关于中国农历',
+  seoP1: '中国农历是一种阴阳合历，兼顾月相变化和太阳运行周期。以月相定月（朔望月约29.53天），以节气定年（回归年约365.24天）。为协调两者差异，采用十九年七闰月的置闰法，即每19年中插入7个闰月。',
+  seoP2: '农历日期用天干地支纪年（六十年一循环），十干配十二支，形成六十甲子。十二地支又对应十二生肖：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。',
+  seoP3: '本工具覆盖1900年至2100年，支持公历与农历双向转换，并显示干支、生肖、二十四节气等完整信息，适用于传统节日查询、生辰八字推算、老黄历查阅等场景。',
+  relatedTitle: '其他工具',
+} : {
+  title: 'Chinese Lunar Calendar Converter',
+  description: 'Free online Chinese lunar calendar converter. Convert between Gregorian and Chinese lunar dates from 1900-2100 with GanZhi, zodiac, and solar terms info.',
+  h1: 'Chinese Lunar Calendar Converter',
+  intro: 'Enter a Gregorian or Chinese lunar date to instantly get the converted date, along with Heavenly Stems & Earthly Branches (GanZhi), zodiac animal, and solar terms.',
+  tabSolar: 'Solar → Lunar',
+  tabLunar: 'Lunar → Solar',
+  solarLabel: 'Select a Gregorian date',
+  convertBtn: 'Convert',
+  lunarYearLabel: 'Lunar Year',
+  lunarMonthLabel: 'Month',
+  lunarDayLabel: 'Day',
+  resultTitle: 'Result',
+  lunarDate: 'Lunar Date',
+  solarDate: 'Gregorian Date',
+  ganZhiYear: 'GanZhi Year',
+  ganZhiMonth: 'GanZhi Month',
+  ganZhiDay: 'GanZhi Day',
+  zodiac: 'Zodiac Animal',
+  jieqi: 'Solar Term',
+  festival: 'Festival',
+  noFestival: 'None',
+  leapMonth: 'Leap ',
+  months: ['1st','2nd','3rd','4th','5th','6th','7th','8th','9th','10th','11th','12th'],
+  seoH2: 'About the Chinese Lunar Calendar',
+  seoP1: 'The Chinese calendar is a lunisolar calendar that tracks both the phases of the moon and the position of the sun. Months follow lunar cycles (synodic month ~29.53 days), while years align with solar terms (tropical year ~365.24 days). To reconcile the difference, a leap month is inserted roughly every 3 years — 7 leap months in every 19-year cycle.',
+  seoP2: 'Years are counted using the Sexagenary Cycle (GanZhi), combining 10 Heavenly Stems with 12 Earthly Branches to form a 60-year cycle. The 12 Branches correspond to the 12 Chinese zodiac animals: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig.',
+  seoP3: 'This tool covers years 1900–2100 and supports bidirectional conversion between Gregorian and Chinese lunar dates, displaying GanZhi, zodiac signs, and 24 solar terms — ideal for finding traditional festival dates and exploring Chinese calendrical traditions.',
+  relatedTitle: 'Other Tools',
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": pageData.title,
+  "url": `https://www.huaxiaink.com/${l}/tools/lunar-converter/`,
+  "description": pageData.description,
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "inLanguage": isZh ? "zh-CN" : "en",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+};
+---
+
+<BaseLayout title={pageData.title} description={pageData.description} lang={l}>
+  <div class="tool-page">
+    <nav class="breadcrumb">
+      <a href={`/${l}/`}>{isZh ? '首页' : 'Home'}</a>
+      <span class="sep">›</span>
+      <a href={`/${l}/tools/`}>{isZh ? '工具' : 'Tools'}</a>
+      <span class="sep">›</span>
+      <span class="current">{pageData.h1}</span>
+    </nav>
+
+    <h1>{pageData.h1}</h1>
+    <p class="tool-intro">{pageData.intro}</p>
+
+    <div class="tool-container">
+      <div class="tab-switcher">
+        <button class="tab active" data-tab="s2l">{pageData.tabSolar}</button>
+        <button class="tab" data-tab="l2s">{pageData.tabLunar}</button>
+      </div>
+
+      <!-- Solar to Lunar -->
+      <div class="tab-panel active" id="panel-s2l">
+        <div class="form-row">
+          <label for="solar-date">{pageData.solarLabel}</label>
+          <input type="date" id="solar-date" value={new Date().toISOString().split('T')[0]} />
+        </div>
+        <button class="convert-btn" id="btn-s2l">{pageData.convertBtn}</button>
+      </div>
+
+      <!-- Lunar to Solar -->
+      <div class="tab-panel" id="panel-l2s">
+        <div class="form-row form-row-multi">
+          <div class="form-field">
+            <label for="lunar-year">{pageData.lunarYearLabel}</label>
+            <select id="lunar-year"></select>
+          </div>
+          <div class="form-field">
+            <label for="lunar-month">{pageData.lunarMonthLabel}</label>
+            <select id="lunar-month"></select>
+          </div>
+          <div class="form-field">
+            <label for="lunar-day">{pageData.lunarDayLabel}</label>
+            <select id="lunar-day"></select>
+          </div>
+        </div>
+        <button class="convert-btn" id="btn-l2s">{pageData.convertBtn}</button>
+      </div>
+
+      <!-- Result -->
+      <div class="result-panel" id="result" style="display:none;">
+        <h3>{pageData.resultTitle}</h3>
+        <div class="result-grid" id="result-grid"></div>
+      </div>
+    </div>
+
+    <section class="seo-content">
+      <h2>{pageData.seoH2}</h2>
+      <p>{pageData.seoP1}</p>
+      <p>{pageData.seoP2}</p>
+      <p>{pageData.seoP3}</p>
+    </section>
+
+    <section class="related-tools">
+      <h2>{pageData.relatedTitle}</h2>
+      <div class="related-grid">
+        <a href={`/${l}/tools/zodiac-calculator/`} class="related-card">
+          <span class="related-icon">🐉</span>
+          <span class="related-name">{isZh ? '生肖查询' : 'Zodiac Calculator'}</span>
+        </a>
+        <a href={`/${l}/tools/festival-finder/`} class="related-card">
+          <span class="related-icon">🧧</span>
+          <span class="related-name">{isZh ? '节日查询' : 'Festival Finder'}</span>
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <script is:inline src="/js/lunar.js"></script>
+  <script is:inline define:vars={{ pd: pageData, isZh }}>
+    document.addEventListener('DOMContentLoaded', function() {
+      var monthsZh = ['正月','二月','三月','四月','五月','六月','七月','八月','九月','十月','冬月','腊月'];
+      var monthsEn = ['1st Month','2nd Month','3rd Month','4th Month','5th Month','6th Month','7th Month','8th Month','9th Month','10th Month','11th Month','12th Month'];
+      var months = isZh ? monthsZh : monthsEn;
+      var leapPrefix = pd.leapMonth;
+
+      // Tab switching
+      document.querySelectorAll('.tab').forEach(function(tab) {
+        tab.addEventListener('click', function() {
+          document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
+          tab.classList.add('active');
+          document.querySelectorAll('.tab-panel').forEach(function(p) { p.classList.remove('active'); });
+          document.getElementById('panel-' + tab.dataset.tab).classList.add('active');
+          document.getElementById('result').style.display = 'none';
+        });
+      });
+
+      // Populate lunar year dropdown
+      var yearSel = document.getElementById('lunar-year');
+      for (var y = 1900; y <= 2100; y++) {
+        var opt = document.createElement('option');
+        opt.value = y;
+        opt.textContent = y + (isZh ? '年' : '');
+        yearSel.appendChild(opt);
+      }
+
+      function updateLunarMonths() {
+        var year = parseInt(yearSel.value);
+        var monthSel = document.getElementById('lunar-month');
+        monthSel.innerHTML = '';
+        var lunarYear = LunarYear.fromYear(year);
+        var leapMonth = lunarYear.getLeapMonth();
+        var lunarMonths = lunarYear.getMonths();
+        lunarMonths.forEach(function(m) {
+          var opt = document.createElement('option');
+          var mNum = m.getMonth();
+          var isLeap = m.isLeap();
+          var absM = Math.abs(mNum);
+          var label = (isZh ? months[absM - 1] : monthsEn[absM - 1]);
+          if (isLeap) label = leapPrefix + label;
+          opt.value = mNum;
+          opt.textContent = label;
+          monthSel.appendChild(opt);
+        });
+        updateLunarDays();
+      }
+
+      function updateLunarDays() {
+        var year = parseInt(yearSel.value);
+        var monthSel = document.getElementById('lunar-month');
+        var monthVal = parseInt(monthSel.value);
+        var daySel = document.getElementById('lunar-day');
+        daySel.innerHTML = '';
+        var absMonth = Math.abs(monthVal);
+        var lunarMonth = LunarMonth.fromYm(year, monthVal);
+        var dayCount = lunarMonth.getDayCount();
+        for (var d = 1; d <= dayCount; d++) {
+          var opt = document.createElement('option');
+          opt.value = d;
+          var dayLabel = isZh
+            ? (d < 11 ? '初' + ['一','二','三','四','五','六','七','八','九','十'][d-1]
+              : d === 11 ? '十一' : d === 12 ? '十二' : d === 13 ? '十三'
+              : d === 14 ? '十四' : d === 15 ? '十五' : d === 16 ? '十六'
+              : d === 17 ? '十七' : d === 18 ? '十八' : d === 19 ? '十九'
+              : d === 20 ? '二十' : d === 21 ? '廿一' : d === 22 ? '廿二'
+              : d === 23 ? '廿三' : d === 24 ? '廿四' : d === 25 ? '廿五'
+              : d === 26 ? '廿六' : d === 27 ? '廿七' : d === 28 ? '廿八'
+              : d === 29 ? '廿九' : '三十')
+            : String(d);
+          opt.textContent = dayLabel;
+          daySel.appendChild(opt);
+        }
+      }
+
+      yearSel.addEventListener('change', updateLunarMonths);
+      document.getElementById('lunar-month').addEventListener('change', updateLunarDays);
+
+      updateLunarMonths();
+
+      // Solar to Lunar conversion
+      document.getElementById('btn-s2l').addEventListener('click', function() {
+        var dateVal = document.getElementById('solar-date').value;
+        if (!dateVal) return;
+        var parts = dateVal.split('-');
+        var solar = Solar.fromYmd(parseInt(parts[0]), parseInt(parts[1]), parseInt(parts[2]));
+        var lunar = solar.getLunar();
+        displayResult(lunar, solar, true);
+      });
+
+      // Lunar to Solar conversion
+      document.getElementById('btn-l2s').addEventListener('click', function() {
+        var year = parseInt(yearSel.value);
+        var month = parseInt(document.getElementById('lunar-month').value);
+        var day = parseInt(document.getElementById('lunar-day').value);
+        try {
+          var lunar = Lunar.fromYmd(year, month, day);
+          var solar = lunar.getSolar();
+          displayResult(lunar, solar, false);
+        } catch(e) {
+          var grid = document.getElementById('result-grid');
+          grid.innerHTML = '<p class="error">' + (isZh ? '日期无效，请重新选择' : 'Invalid date, please try again') + '</p>';
+          document.getElementById('result').style.display = 'block';
+        }
+      });
+
+      function displayResult(lunar, solar, isS2L) {
+        var zodiacEn = ['Rat','Ox','Tiger','Rabbit','Dragon','Snake','Horse','Goat','Monkey','Rooster','Dog','Pig'];
+        var zodiacZh = ['鼠','牛','虎','兔','龙','蛇','马','羊','猴','鸡','狗','猪'];
+        var zodiac = isZh ? lunar.getYearShengXiao() : (function() {
+          var idx = zodiacZh.indexOf(lunar.getYearShengXiao());
+          return idx >= 0 ? zodiacEn[idx] : lunar.getYearShengXiao();
+        })();
+
+        var festivals = lunar.getFestivals().concat(lunar.getSolarFestivals());
+        var festivalStr = festivals.length > 0 ? festivals.join('、') : pd.noFestival;
+
+        var jieqi = lunar.getJieQi();
+        var jieqiStr = jieqi || pd.noFestival;
+
+        var lunarStr = isZh
+          ? lunar.getYearInChinese() + '年' + (lunar.getMonth() < 0 ? '闰' : '') + lunar.getMonthInChinese() + '月' + lunar.getDayInChinese()
+          : lunar.toString();
+        var solarStr = solar.getYear() + '-' + String(solar.getMonth()).padStart(2,'0') + '-' + String(solar.getDay()).padStart(2,'0');
+
+        var ganZhiYear = lunar.getYearInGanZhi();
+        var ganZhiMonth = lunar.getMonthInGanZhi();
+        var ganZhiDay = lunar.getDayInGanZhi();
+
+        var rows = isS2L ? [
+          { label: pd.lunarDate, value: lunarStr },
+          { label: pd.ganZhiYear, value: ganZhiYear },
+          { label: pd.ganZhiMonth, value: ganZhiMonth },
+          { label: pd.ganZhiDay, value: ganZhiDay },
+          { label: pd.zodiac, value: zodiac + (isZh ? '年' : ' Year') },
+          { label: pd.jieqi, value: jieqiStr },
+          { label: pd.festival, value: festivalStr },
+        ] : [
+          { label: pd.solarDate, value: solarStr },
+          { label: pd.lunarDate, value: lunarStr },
+          { label: pd.ganZhiYear, value: ganZhiYear },
+          { label: pd.ganZhiMonth, value: ganZhiMonth },
+          { label: pd.ganZhiDay, value: ganZhiDay },
+          { label: pd.zodiac, value: zodiac + (isZh ? '年' : ' Year') },
+          { label: pd.jieqi, value: jieqiStr },
+          { label: pd.festival, value: festivalStr },
+        ];
+
+        var html = '';
+        rows.forEach(function(row) {
+          html += '<div class="result-row"><span class="result-label">' + row.label + '</span><span class="result-value">' + row.value + '</span></div>';
+        });
+        if (!isS2L) {
+          html += '<div class="result-weekday">' + weekdayStr(solar.getWeek()) + '</div>';
+        }
+        document.getElementById('result-grid').innerHTML = html;
+        document.getElementById('result').style.display = 'block';
+      }
+
+      function weekdayStr(week) {
+        var weekdaysZh = ['日','一','二','三','四','五','六'];
+        var weekdaysEn = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        return isZh ? '星期' + weekdaysZh[week] : weekdaysEn[week];
+      }
+
+      // Auto-convert on load
+      document.getElementById('btn-s2l').click();
+    });
+  </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <style>
+    .tool-page { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+    .breadcrumb { font-family: var(--font-sans); font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+    .breadcrumb a { color: var(--link); }
+    .breadcrumb .sep { margin: 0 0.5rem; }
+    .breadcrumb .current { color: var(--text); }
+    .tool-page h1 { font-size: 2rem; color: var(--ink-black); margin-bottom: 0.5rem; }
+    .tool-intro { color: var(--text-muted); font-size: 1rem; margin-bottom: 2rem; }
+
+    .tool-container {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      margin-bottom: 3rem;
+    }
+
+    .tab-switcher { display: flex; gap: 0; margin-bottom: 1.5rem; border-bottom: 2px solid var(--border); }
+    .tab {
+      padding: 0.6rem 1.5rem; border: none; background: none; cursor: pointer;
+      font-family: var(--font-sans); font-size: 0.95rem; color: var(--text-muted);
+      border-bottom: 3px solid transparent; margin-bottom: -2px; transition: all 0.2s;
+    }
+    .tab.active { color: var(--vermillion); border-bottom-color: var(--vermillion); font-weight: 600; }
+    .tab:hover { color: var(--accent-hover); }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    .form-row { margin-bottom: 1.5rem; }
+    .form-row label { display: block; font-family: var(--font-sans); font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.5rem; font-weight: 500; }
+    .form-row input[type="date"] {
+      width: 100%; padding: 0.7rem 1rem; border: 1px solid var(--border); border-radius: 8px;
+      font-size: 1rem; font-family: var(--font-sans); background: #fff; color: var(--text);
+    }
+    .form-row input[type="date"]:focus { outline: none; border-color: var(--vermillion); box-shadow: 0 0 0 3px rgba(192,57,43,0.1); }
+
+    .form-row-multi { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .form-field { flex: 1; min-width: 140px; }
+    .form-field select {
+      width: 100%; padding: 0.7rem 1rem; border: 1px solid var(--border); border-radius: 8px;
+      font-size: 1rem; font-family: var(--font-sans); background: #fff; color: var(--text); cursor: pointer;
+    }
+    .form-field select:focus { outline: none; border-color: var(--vermillion); }
+
+    .convert-btn {
+      width: 100%; padding: 0.8rem; border: none; border-radius: 8px;
+      background: var(--vermillion); color: #fff; font-size: 1.05rem; font-weight: 600;
+      font-family: var(--font-sans); cursor: pointer; transition: background 0.2s;
+    }
+    .convert-btn:hover { background: var(--accent-hover); }
+
+    .result-panel {
+      margin-top: 1.5rem; padding: 1.5rem; background: #fff; border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    .result-panel h3 { font-size: 1.1rem; color: var(--ink-black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+    .result-row { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid #f0ebe0; }
+    .result-row:last-child { border-bottom: none; }
+    .result-label { font-family: var(--font-sans); font-size: 0.9rem; color: var(--text-muted); }
+    .result-value { font-size: 1rem; color: var(--text); font-weight: 600; text-align: right; }
+    .result-weekday { text-align: center; padding: 0.7rem 0 0; color: var(--gold); font-weight: 600; }
+    .error { color: var(--vermillion); text-align: center; padding: 1rem 0; }
+
+    .seo-content { margin-bottom: 3rem; }
+    .seo-content h2 { font-size: 1.5rem; color: var(--ink-black); margin-bottom: 1rem; }
+    .seo-content p { color: var(--text-muted); line-height: 1.8; margin-bottom: 1rem; }
+
+    .related-tools h2 { font-size: 1.3rem; margin-bottom: 1rem; }
+    .related-grid { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .related-card {
+      display: flex; align-items: center; gap: 0.6rem; padding: 1rem 1.5rem;
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px;
+      text-decoration: none; color: var(--text); transition: all 0.2s;
+    }
+    .related-card:hover { border-color: var(--vermillion); box-shadow: 0 2px 8px rgba(192,57,43,0.1); }
+    .related-icon { font-size: 1.5rem; }
+    .related-name { font-weight: 600; font-family: var(--font-sans); }
+
+    @media (max-width: 600px) {
+      .form-row-multi { flex-direction: column; }
+      .tab { padding: 0.5rem 0.8rem; font-size: 0.85rem; }
+    }
+  </style>
+</BaseLayout>
