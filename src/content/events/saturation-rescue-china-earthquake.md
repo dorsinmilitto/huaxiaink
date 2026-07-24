@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Saturation Rescue: How China Rewrites the Rules of Disaster Response"
 description: How China's 'saturation rescue' doctrine deploys overwhelming resources
   to save lives in earthquakes — redefining disaster response worldwide.

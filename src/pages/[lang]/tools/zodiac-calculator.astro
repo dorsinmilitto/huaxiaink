@@ -1,0 +1,480 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'zh' } }];
+}
+
+const { lang } = Astro.params;
+const l = lang as Lang;
+const isZh = l === 'zh';
+
+const pageData = isZh ? {
+  title: '生肖查询器',
+  description: '输入出生年份，免费查询你的中国生肖属相、五行属性、天干地支纪年、阴阳、性格特点和生肖配对（三合、六合、六冲）。',
+  h1: '生肖查询器',
+  intro: '输入出生年份，查看你的生肖属相、五行、天干地支、性格特点及配对关系。点击下方生肖轮盘也可快速查询。',
+  yearLabel: '出生年份',
+  calcBtn: '查询',
+  resultTitle: '查询结果',
+  zodiacSign: '生肖属相',
+  element: '五行',
+  yinYang: '阴阳',
+  ganZhi: '天干地支',
+  personality: '性格特点',
+  sanHe: '三合（最佳配对）',
+  liuHe: '六合（暗合）',
+  liuChong: '六冲（相冲）',
+  elementRelation: '五行关系',
+  generating: '相生',
+  overcoming: '相克',
+  prevYear: '上一年',
+  nextYear: '下一年',
+  seoH2: '关于中国十二生肖',
+  seoP1: '中国十二生肖以十二地支为基础，依次为鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。每十二年一循环，与天干地支纪年法配合，形成六十年一个甲子轮回。生肖不仅用于纪年，更渗透到中国人的日常生活中——婚配看属相、本命年穿红、生肖吉祥物等习俗延续至今。',
+  seoP2: '每个生肖年份还对应五行（金、木、水、火、土）和阴阳属性。天干决定五行：甲乙属木、丙丁属火、戊己属土、庚辛属金、壬癸属水。地支决定阴阳：子寅辰午申戌为阳，丑卯巳未酉亥为阴。五行之间有相生相克关系：木生火、火生土、土生金、金生水、水生木；木克土、土克水、水克火、火克金、金克木。',
+  seoP3: '生肖配对主要有三合与六合。三合指三个生肖为一组，能量共振、最为和谐：申子辰（猴鼠龙）、亥卯未（猪兔羊）、寅午戌（虎马狗）、巳酉丑（蛇鸡牛）。六合指两个生肖暗合，关系亲密：鼠牛合、虎猪合、兔狗合、龙鸡合、蛇猴合、马羊合。六冲则是相对冲的组合：鼠马冲、牛羊冲、虎猴冲、兔鸡冲、龙狗冲、蛇猪冲。',
+  relatedTitle: '其他工具',
+  aboutThisTool: '关于此工具',
+  toolDesc: '本工具基于专业天文算法计算，覆盖1900年至2100年。输入任意年份即可获得精准的生肖属相、天干地支纪年、五行阴阳属性及配对分析。所有计算在浏览器本地完成，无需联网，完全免费。',
+} : {
+  title: 'Chinese Zodiac Calculator',
+  description: 'Enter your birth year to find your Chinese zodiac animal, Five Elements, GanZhi year, Yin-Yang, personality traits, and compatibility (San He, Liu He, Liu Chong).',
+  h1: 'Chinese Zodiac Calculator',
+  intro: 'Enter your birth year to discover your zodiac animal, Five Elements, GanZhi, personality, and compatibility. Click any animal in the wheel below to look up a zodiac sign.',
+  yearLabel: 'Birth Year',
+  calcBtn: 'Calculate',
+  resultTitle: 'Your Result',
+  zodiacSign: 'Zodiac Animal',
+  element: 'Element',
+  yinYang: 'Yin-Yang',
+  ganZhi: 'GanZhi',
+  personality: 'Personality',
+  sanHe: 'San He (Best Match)',
+  liuHe: 'Liu He (Secret Match)',
+  liuChong: 'Liu Chong (Clash)',
+  elementRelation: 'Element Relations',
+  generating: 'Generating',
+  overcoming: 'Overcoming',
+  prevYear: 'Previous',
+  nextYear: 'Next',
+  seoH2: 'About the Chinese Zodiac',
+  seoP1: 'The Chinese zodiac is based on the 12 Earthly Branches, cycling through 12 animals: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. Each 12-year cycle combines with the 10 Heavenly Stems to form the 60-year Sexagenary Cycle. The zodiac permeates Chinese daily life — from marriage compatibility to zodiac-year traditions.',
+  seoP2: 'Each zodiac year corresponds to one of the Five Elements (Wood, Fire, Earth, Metal, Water) and Yin or Yang. Heavenly Stems determine the element: Jia-Yi = Wood, Bing-Ding = Fire, Wu-Ji = Earth, Geng-Xin = Metal, Ren-Gui = Water. The Five Elements follow generating and overcoming cycles: Wood generates Fire, Fire generates Earth, Earth generates Metal, Metal generates Water, Water generates Wood; Wood overcomes Earth, Earth overcomes Water, Water overcomes Fire, Fire overcomes Metal, Metal overcomes Wood.',
+  seoP3: 'Zodiac compatibility includes San He (Triple Harmony) and Liu He (Six Combinations). San He groups: Monkey-Rat-Dragon, Pig-Rabbit-Goat, Tiger-Horse-Dog, Snake-Rooster-Ox. Liu He pairs: Rat-Ox, Tiger-Pig, Rabbit-Dog, Dragon-Rooster, Snake-Monkey, Horse-Goat. Liu Chong (Six Clashes) are opposing pairs: Rat-Horse, Ox-Goat, Tiger-Monkey, Rabbit-Rooster, Dragon-Dog, Snake-Pig.',
+  relatedTitle: 'Other Tools',
+  aboutThisTool: 'About This Tool',
+  toolDesc: 'This tool uses professional astronomical algorithms covering years 1900–2100. Enter any year to get precise zodiac animal, GanZhi, Five Elements, Yin-Yang, and compatibility analysis. All calculations run locally in your browser — no internet needed, completely free.',
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": pageData.title,
+  "url": `https://www.huaxiaink.com/${l}/tools/zodiac-calculator/`,
+  "description": pageData.description,
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "inLanguage": isZh ? "zh-CN" : "en",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+};
+---
+
+<BaseLayout title={pageData.title} description={pageData.description} lang={l}>
+  <div class="tool-page">
+    <nav class="breadcrumb">
+      <a href={`/${l}/`}>{isZh ? '首页' : 'Home'}</a>
+      <span class="sep">›</span>
+      <a href={`/${l}/tools/`}>{isZh ? '工具' : 'Tools'}</a>
+      <span class="sep">›</span>
+      <span class="current">{pageData.h1}</span>
+    </nav>
+
+    <h1>{pageData.h1}</h1>
+    <p class="tool-intro">{pageData.intro}</p>
+
+    <div class="tool-container">
+      <!-- Zodiac wheel -->
+      <div class="zodiac-wheel" id="zodiac-wheel"></div>
+
+      <!-- Year input -->
+      <div class="form-row">
+        <label for="birth-year">{pageData.yearLabel}</label>
+        <div class="year-input-row">
+          <button class="year-nav-btn" id="year-prev" title={pageData.prevYear}>‹</button>
+          <input type="number" id="birth-year" min="1900" max="2100" value={new Date().getFullYear()} />
+          <button class="year-nav-btn" id="year-next" title={pageData.nextYear}>›</button>
+          <button class="calc-btn" id="btn-calc">{pageData.calcBtn}</button>
+        </div>
+      </div>
+
+      <!-- Result -->
+      <div class="result-panel" id="result" style="display:none;">
+        <h3>{pageData.resultTitle}</h3>
+        <div class="result-main" id="result-main"></div>
+      </div>
+    </div>
+
+    <section class="seo-content">
+      <h2>{pageData.seoH2}</h2>
+      <p>{pageData.seoP1}</p>
+      <p>{pageData.seoP2}</p>
+      <p>{pageData.seoP3}</p>
+    </section>
+
+    <section class="about-tool">
+      <h2>{pageData.aboutThisTool}</h2>
+      <p>{pageData.toolDesc}</p>
+    </section>
+
+    <section class="related-tools">
+      <h2>{pageData.relatedTitle}</h2>
+      <div class="related-grid">
+        <a href={`/${l}/tools/lunar-converter/`} class="related-card">
+          <span class="related-icon">📅</span>
+          <span class="related-name">{isZh ? '农历转换器' : 'Lunar Converter'}</span>
+        </a>
+        <a href={`/${l}/tools/festival-finder/`} class="related-card">
+          <span class="related-icon">🧧</span>
+          <span class="related-name">{isZh ? '节日查询' : 'Festival Finder'}</span>
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <script is:inline src="/js/lunar.js"></script>
+  <script is:inline define:vars={{ pd: pageData, isZh }}>
+    document.addEventListener('DOMContentLoaded', function() {
+      var zodiacZh = ['鼠','牛','虎','兔','龙','蛇','马','羊','猴','鸡','狗','猪'];
+      var zodiacEn = ['Rat','Ox','Tiger','Rabbit','Dragon','Snake','Horse','Goat','Monkey','Rooster','Dog','Pig'];
+      var zodiacEmoji = ['🐭','🐮','🐯','🐰','🐲','🐍','🐴','🐑','🐵','🐔','🐶','🐷'];
+
+      var elementsZh = ['木','火','土','金','水'];
+      var elementsEn = ['Wood','Fire','Earth','Metal','Water'];
+      var elementsEmoji = ['🌳','🔥','🏔️','⚙️','💧'];
+
+      // Generating cycle: Wood->Fire->Earth->Metal->Water->Wood
+      var generating = [1,2,3,4,0];
+      // Overcoming cycle: Wood->Earth->Water->Fire->Metal->Wood
+      var overcoming = [2,4,1,3,0];
+
+      var stemsZh = ['甲','乙','丙','丁','戊','己','庚','辛','壬','癸'];
+      var stemElements = [0,0,1,1,2,2,3,3,4,4]; // index into elements arrays
+      var stemYinYangZh = ['阳','阴','阳','阴','阳','阴','阳','阴','阳','阴'];
+      var stemYinYangEn = ['Yang','Yin','Yang','Yin','Yang','Yin','Yang','Yin','Yang','Yin'];
+
+      var traitsZh = [
+        '机智灵活，善于交际，注重细节，有很强的适应能力和洞察力。做事精打细算，好奇心旺盛，但有时过于谨慎。',
+        '勤劳踏实，责任心强，做事有条不紊，值得信赖，有耐心和毅力。为人忠厚老实，但有时过于固执。',
+        '勇敢果断，充满自信，具有领导才能，热情大方，喜欢冒险和挑战。天生有魄力，但有时过于冲动。',
+        '温柔善良，心思细腻，富有同情心，追求和谐，审美眼光独到。待人温和有礼，但有时优柔寡断。',
+        '志向远大，充满活力，具有创造力和想象力，自信果敢，天生有领导魅力。做事大气，但有时过于骄傲。',
+        '深思熟虑，冷静沉着，直觉敏锐，做事有计划，优雅神秘，追求完美。洞察力强，但有时过于多疑。',
+        '热情开朗，精力充沛，行动力强，热爱自由，善于表达，人缘极佳。思维敏捷，但有时缺乏耐性。',
+        '温和善良，富有创意，有艺术天赋，为人正直，注重家庭，内心坚韧。体贴入微，但有时过于依赖。',
+        '聪明机灵，幽默风趣，好奇心强，学习能力强，善于解决问题，灵活多变。社交达人，但有时不够踏实。',
+        '勤奋守时，一丝不苟，观察力强，直言不讳，有责任感，注重外表和秩序。办事利落，但有时过于挑剔。',
+        '忠诚可靠，正义感强，有保护欲，为人坦诚，工作认真，重情重义。值得托付，但有时过于严肃。',
+        '厚道诚实，心地善良，慷慨大方，待人真诚，享受生活，有福气。乐观豁达，但有时容易轻信。'
+      ];
+      var traitsEn = [
+        'Quick-witted, adaptable, sociable, detail-oriented with strong intuition. Resourceful and curious, but sometimes overly cautious.',
+        'Diligent, dependable, methodical, patient, with strong sense of responsibility. Honest and steadfast, but sometimes stubborn.',
+        'Brave, confident, natural leader, charismatic, loves adventure and challenge. Bold and decisive, but sometimes impulsive.',
+        'Gentle, compassionate, detail-minded, artistic, seeks harmony and beauty. Gracious and polite, but sometimes indecisive.',
+        'Ambitious, energetic, creative, self-assured, born leader with magnetic charm. Magnanimous, but sometimes proud.',
+        'Thoughtful, composed, intuitive, systematic, elegant, perfectionist. Insightful, but sometimes suspicious.',
+        'Enthusiastic, energetic, freedom-loving, expressive, popular and outgoing. Quick thinker, but sometimes impatient.',
+        'Gentle, creative, artistic, honest, family-oriented with inner strength. Considerate, but sometimes dependent.',
+        'Clever, humorous, curious, quick learner, versatile problem-solver. Social butterfly, but sometimes restless.',
+        'Hardworking, punctual, observant, straightforward, responsible, detail-oriented. Efficient, but sometimes critical.',
+        'Loyal, honest, protective, fair-minded, dutiful, values relationships deeply. Dependable, but sometimes serious.',
+        'Honest, kind-hearted, generous, sincere, enjoys life, naturally fortunate. Optimistic, but sometimes naive.'
+      ];
+
+      // San He (Triple Harmony) groups
+      var sanHe = [
+        [8,0,4],   // Monkey, Rat, Dragon
+        [11,3,7],  // Pig, Rabbit, Goat
+        [2,6,10],  // Tiger, Horse, Dog
+        [5,9,1]    // Snake, Rooster, Ox
+      ];
+
+      // Liu He (Six Combinations) pairs
+      var liuHe = [
+        [0,1],  // Rat - Ox
+        [2,11], // Tiger - Pig
+        [3,10], // Rabbit - Dog
+        [4,9],  // Dragon - Rooster
+        [5,8],  // Snake - Monkey
+        [6,7]   // Horse - Goat
+      ];
+
+      // Liu Chong (Six Clashes) pairs
+      var liuChong = [
+        [0,6],  // Rat - Horse
+        [1,7],  // Ox - Goat
+        [2,8],  // Tiger - Monkey
+        [3,9],  // Rabbit - Rooster
+        [4,10], // Dragon - Dog
+        [5,11]  // Snake - Pig
+      ];
+
+      // Build zodiac wheel
+      var wheel = document.getElementById('zodiac-wheel');
+      var wheelHtml = '';
+      for (var i = 0; i < 12; i++) {
+        wheelHtml += '<div class="zodiac-item" data-idx="' + i + '">'
+          + '<span class="zodiac-emoji">' + zodiacEmoji[i] + '</span>'
+          + '<span class="zodiac-label">' + (isZh ? zodiacZh[i] : zodiacEn[i]) + '</span>'
+          + '</div>';
+      }
+      wheel.innerHTML = wheelHtml;
+
+      function findYearByZodiac(idx) {
+        var currentYear = new Date().getFullYear();
+        var baseIdx = (currentYear - 4) % 12;
+        if (baseIdx < 0) baseIdx += 12;
+        var diff = idx - baseIdx;
+        if (diff < 0) diff += 12;
+        var year = currentYear + diff;
+        while (year > currentYear + 12) year -= 12;
+        while (year < currentYear - 12) year += 12;
+        if (year < 1900) year += 12;
+        return year;
+      }
+
+      document.querySelectorAll('.zodiac-item').forEach(function(item) {
+        item.addEventListener('click', function() {
+          var idx = parseInt(item.dataset.idx);
+          var year = findYearByZodiac(idx);
+          document.getElementById('birth-year').value = year;
+          calculate();
+        });
+      });
+
+      function calculate() {
+        var year = parseInt(document.getElementById('birth-year').value);
+        if (isNaN(year) || year < 1900 || year > 2100) {
+          alert(isZh ? '请输入1900至2100之间的年份' : 'Please enter a year between 1900 and 2100');
+          return;
+        }
+
+        // Use lunar year (正月初一) to ensure correct zodiac for the given year
+        var lunar = Lunar.fromYmd(year, 1, 1);
+        var ganZhi = lunar.getYearInGanZhi();
+        var stemChar = ganZhi.charAt(0);
+        var stemIdx = stemsZh.indexOf(stemChar);
+        var zodiacChar = lunar.getYearShengXiao();
+        var zodiacIdx = zodiacZh.indexOf(zodiacChar);
+
+        var elementIdx = stemElements[stemIdx];
+        var elementZh = elementsZh[elementIdx];
+        var elementEn = elementsEn[elementIdx];
+        var elementEm = elementsEmoji[elementIdx];
+        var yinYang = isZh ? stemYinYangZh[stemIdx] : stemYinYangEn[stemIdx];
+        var zodiacName = isZh ? zodiacZh[zodiacIdx] : zodiacEn[zodiacIdx];
+        var zodiacEm = zodiacEmoji[zodiacIdx];
+        var personality = isZh ? traitsZh[zodiacIdx] : traitsEn[zodiacIdx];
+
+        // San He
+        var bestGroup = sanHe.find(function(g) { return g.indexOf(zodiacIdx) >= 0; });
+        var bestMatches = bestGroup.filter(function(i) { return i !== zodiacIdx; })
+          .map(function(i) { return zodiacEmoji[i] + ' ' + (isZh ? zodiacZh[i] : zodiacEn[i]); });
+
+        // Liu He
+        var hePair = liuHe.find(function(p) { return p.indexOf(zodiacIdx) >= 0; });
+        var heIdx = hePair.filter(function(i) { return i !== zodiacIdx; })[0];
+        var heName = zodiacEmoji[heIdx] + ' ' + (isZh ? zodiacZh[heIdx] : zodiacEn[heIdx]);
+
+        // Liu Chong
+        var chongPair = liuChong.find(function(p) { return p.indexOf(zodiacIdx) >= 0; });
+        var chongIdx = chongPair.filter(function(i) { return i !== zodiacIdx; })[0];
+        var chongName = zodiacEmoji[chongIdx] + ' ' + (isZh ? zodiacZh[chongIdx] : zodiacEn[chongIdx]);
+
+        // Element relations
+        var genIdx = generating[elementIdx];
+        var overIdx = overcoming[elementIdx];
+        var genName = elementsEmoji[genIdx] + ' ' + (isZh ? elementsZh[genIdx] : elementsEn[genIdx]);
+        var overName = elementsEmoji[overIdx] + ' ' + (isZh ? elementsZh[overIdx] : elementsEn[overIdx]);
+        var selfElement = elementEm + ' ' + (isZh ? elementZh : elementEn);
+
+        var html = '<div class="result-hero">'
+          + '<div class="result-zodiac-emoji">' + zodiacEm + '</div>'
+          + '<div class="result-zodiac-name">' + zodiacName + (isZh ? '年' : ' Year') + '</div>'
+          + '<div class="result-year">' + year + '</div>'
+          + '</div>'
+
+          + '<div class="result-grid">'
+          + '<div class="result-row"><span class="result-label">' + pd.ganZhi + '</span><span class="result-value">' + ganZhi + (isZh ? '年' : '') + '</span></div>'
+          + '<div class="result-row"><span class="result-label">' + pd.element + '</span><span class="result-value">' + selfElement + '</span></div>'
+          + '<div class="result-row"><span class="result-label">' + pd.yinYang + '</span><span class="result-value">' + yinYang + '</span></div>'
+          + '</div>'
+
+          + '<div class="compatibility-section">'
+          + '<div class="compat-row best"><span class="compat-icon">✓</span><span class="compat-label">' + pd.sanHe + '</span><span class="compat-value">' + bestMatches.join(isZh ? '、' : ', ') + '</span></div>'
+          + '<div class="compat-row good"><span class="compat-icon">♡</span><span class="compat-label">' + pd.liuHe + '</span><span class="compat-value">' + heName + '</span></div>'
+          + '<div class="compat-row bad"><span class="compat-icon">✗</span><span class="compat-label">' + pd.liuChong + '</span><span class="compat-value">' + chongName + '</span></div>'
+          + '</div>'
+
+          + '<div class="element-relation">'
+          + '<div class="er-title">' + pd.elementRelation + '</div>'
+          + '<div class="er-row"><span class="er-label ' + (isZh ? '' : '') + '">' + selfElement + ' → ' + pd.generating + ' →</span><span class="er-value">' + genName + '</span></div>'
+          + '<div class="er-row"><span class="er-label">' + selfElement + ' → ' + pd.overcoming + ' →</span><span class="er-value">' + overName + '</span></div>'
+          + '</div>'
+
+          + '<div class="result-personality">'
+          + '<div class="result-label-bold">' + pd.personality + '</div>'
+          + '<p>' + personality + '</p>'
+          + '</div>';
+
+        document.getElementById('result-main').innerHTML = html;
+        document.getElementById('result').style.display = 'block';
+
+        // Highlight selected zodiac in wheel
+        document.querySelectorAll('.zodiac-item').forEach(function(item) {
+          item.classList.toggle('active', parseInt(item.dataset.idx) === zodiacIdx);
+        });
+      }
+
+      document.getElementById('btn-calc').addEventListener('click', calculate);
+      document.getElementById('birth-year').addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') calculate();
+      });
+      document.getElementById('year-prev').addEventListener('click', function() {
+        var input = document.getElementById('birth-year');
+        input.value = parseInt(input.value) - 1;
+        calculate();
+      });
+      document.getElementById('year-next').addEventListener('click', function() {
+        var input = document.getElementById('birth-year');
+        input.value = parseInt(input.value) + 1;
+        calculate();
+      });
+
+      calculate();
+    });
+  </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <style>
+    .tool-page { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+    .breadcrumb { font-family: var(--font-sans); font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+    .breadcrumb a { color: var(--link); }
+    .breadcrumb .sep { margin: 0 0.5rem; }
+    .breadcrumb .current { color: var(--text); }
+    .tool-page h1 { font-size: 2rem; color: var(--ink-black); margin-bottom: 0.5rem; }
+    .tool-intro { color: var(--text-muted); font-size: 1rem; margin-bottom: 2rem; }
+
+    .tool-container {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+      padding: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 3rem;
+    }
+
+    /* Zodiac Wheel */
+    .zodiac-wheel {
+      display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem;
+      margin-bottom: 1.5rem; padding: 1rem; background: #fff;
+      border-radius: 8px; border: 1px solid var(--border);
+    }
+    .zodiac-item {
+      display: flex; flex-direction: column; align-items: center; gap: 0.2rem;
+      padding: 0.6rem 0.3rem; border-radius: 8px; cursor: pointer;
+      transition: all 0.2s; border: 2px solid transparent;
+    }
+    .zodiac-item:hover { background: var(--pale-ink); transform: translateY(-2px); }
+    .zodiac-item.active {
+      background: rgba(192,57,43,0.08); border-color: var(--vermillion);
+      box-shadow: 0 2px 8px rgba(192,57,43,0.15);
+    }
+    .zodiac-emoji { font-size: 1.8rem; line-height: 1; }
+    .zodiac-label { font-family: var(--font-sans); font-size: 0.72rem; color: var(--text-muted); }
+    .zodiac-item.active .zodiac-label { color: var(--vermillion); font-weight: 600; }
+
+    /* Form */
+    .form-row { margin-bottom: 1.5rem; }
+    .form-row label { display: block; font-family: var(--font-sans); font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.5rem; font-weight: 500; }
+    .year-input-row { display: flex; align-items: center; gap: 0.5rem; }
+    .year-input-row input {
+      width: 120px; text-align: center; padding: 0.65rem; border: 1px solid var(--border);
+      border-radius: 8px; font-size: 1.1rem; font-family: var(--font-sans);
+      background: #fff; color: var(--text); font-weight: 600;
+    }
+    .year-input-row input:focus { outline: none; border-color: var(--vermillion); box-shadow: 0 0 0 3px rgba(192,57,43,0.1); }
+    .year-nav-btn {
+      width: 2.5rem; height: 2.5rem; border: 1px solid var(--border); border-radius: 8px;
+      background: #fff; font-size: 1.3rem; cursor: pointer; color: var(--text-muted);
+      transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+    }
+    .year-nav-btn:hover { background: var(--vermillion); color: #fff; border-color: var(--vermillion); }
+    .calc-btn {
+      margin-left: auto; padding: 0.65rem 2rem; border: none; border-radius: 8px;
+      background: var(--vermillion); color: #fff; font-size: 1rem; font-weight: 600;
+      font-family: var(--font-sans); cursor: pointer; transition: background 0.2s; white-space: nowrap;
+    }
+    .calc-btn:hover { background: var(--accent-hover); }
+
+    /* Result */
+    .result-panel { margin-top: 1.5rem; padding: 1.5rem; background: #fff; border-radius: 8px; border: 1px solid var(--border); }
+    .result-panel h3 { font-size: 1.1rem; color: var(--ink-black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+
+    .result-hero { text-align: center; margin-bottom: 1.5rem; padding: 1rem 0; }
+    .result-zodiac-emoji { font-size: 4rem; line-height: 1; }
+    .result-zodiac-name { font-size: 1.6rem; font-weight: 700; color: var(--vermillion); margin-top: 0.3rem; }
+    .result-year { font-size: 0.9rem; color: var(--text-muted); font-family: var(--font-sans); }
+
+    .result-grid { margin-bottom: 1.2rem; }
+    .result-row { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid #f0ebe0; gap: 1rem; }
+    .result-row:last-child { border-bottom: none; }
+    .result-label { font-family: var(--font-sans); font-size: 0.9rem; color: var(--text-muted); flex-shrink: 0; }
+    .result-value { font-size: 1rem; color: var(--text); font-weight: 600; text-align: right; }
+
+    /* Compatibility */
+    .compatibility-section { margin-bottom: 1.2rem; padding: 0.8rem; background: var(--bg-card); border-radius: 8px; }
+    .compat-row { display: flex; align-items: center; gap: 0.6rem; padding: 0.4rem 0; }
+    .compat-icon { width: 1.5rem; text-align: center; font-weight: 700; }
+    .compat-row.best .compat-icon { color: var(--jade-green); }
+    .compat-row.good .compat-icon { color: var(--gold); }
+    .compat-row.bad .compat-icon { color: var(--vermillion); }
+    .compat-label { font-family: var(--font-sans); font-size: 0.85rem; color: var(--text-muted); min-width: 100px; }
+    .compat-value { font-size: 0.95rem; font-weight: 600; color: var(--text); }
+
+    /* Element Relations */
+    .element-relation { margin-bottom: 1.2rem; padding: 0.8rem; background: var(--bg-card); border-radius: 8px; }
+    .er-title { font-family: var(--font-sans); font-size: 0.85rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.5rem; }
+    .er-row { display: flex; justify-content: space-between; align-items: center; padding: 0.3rem 0; font-size: 0.9rem; }
+    .er-label { color: var(--text-muted); font-family: var(--font-sans); }
+    .er-value { font-weight: 600; color: var(--text); }
+
+    /* Personality */
+    .result-personality { padding-top: 1rem; border-top: 1px solid var(--border); }
+    .result-label-bold { font-family: var(--font-sans); font-size: 0.9rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.3rem; }
+    .result-personality p { font-size: 0.95rem; line-height: 1.7; color: var(--text); }
+
+    /* SEO content */
+    .seo-content { margin-bottom: 3rem; }
+    .seo-content h2 { font-size: 1.5rem; color: var(--ink-black); margin-bottom: 1rem; }
+    .seo-content p { color: var(--text-muted); line-height: 1.8; margin-bottom: 1rem; }
+
+    .about-tool { margin-bottom: 3rem; }
+    .about-tool h2 { font-size: 1.5rem; color: var(--ink-black); margin-bottom: 1rem; }
+    .about-tool p { color: var(--text-muted); line-height: 1.8; }
+
+    /* Related tools */
+    .related-tools h2 { font-size: 1.3rem; margin-bottom: 1rem; }
+    .related-grid { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .related-card { display: flex; align-items: center; gap: 0.6rem; padding: 1rem 1.5rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; text-decoration: none; color: var(--text); transition: all 0.2s; }
+    .related-card:hover { border-color: var(--vermillion); box-shadow: 0 2px 8px rgba(192,57,43,0.1); }
+    .related-icon { font-size: 1.5rem; }
+    .related-name { font-weight: 600; font-family: var(--font-sans); }
+
+    @media (max-width: 600px) {
+      .zodiac-wheel { grid-template-columns: repeat(4, 1fr); }
+      .year-input-row { flex-wrap: wrap; }
+      .calc-btn { margin-left: 0; width: 100%; margin-top: 0.5rem; }
+      .compat-label { min-width: 80px; }
+    }
+  </style>
+</BaseLayout>

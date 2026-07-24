@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Chuanr: How China''s Street-Side Skewers Became a Midnight Institution'
 description: Chuanr — China's cumin-dusted lamb skewers sizzling on midnight streets
   — the street food that turned midnight snacking into a cultural institution.
@@ -27,11 +27,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0H6QW8BQ9?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61Sv7ts3sdL._AC_UL640_.jpg
   price: $12.99
-- title: "Royal Gourmet"
+- title: "Royal Gourmet CD1824ET Movable Charcoal BBQ Grill 24-Inch"
   asin: "B0DNM17XWR"
   url: https://www.amazon.com/dp/B0DNM17XWR?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/7103PD2-qyL._AC_UL640_.jpg
-  price: "SGD 170.31"
+  price: "$126.03"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

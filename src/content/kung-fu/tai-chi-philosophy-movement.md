@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Philosophy of Tai Chi: Movement as Meditation"
 description: "Tai Chi blends Daoist philosophy with martial power — slow movements hiding devastating force. From Chen Village to Harvard Medical School, discover why the world is embracing this ancient art."
 youtubeId: YWZas2KPJPg
@@ -14,21 +14,21 @@ tags:
 - martial-arts
 featured: true
 affiliate:
-- title: Kung Fu Tai Chi Martial Arts Shoes Rubber Sole
-  asin: "B0D4QX9T5L"
-  url: https://www.amazon.com/dp/B0D4QX9T5L?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/71wmQMF3etL._AC_UL640_.jpg
-  price: "$18.99"
+- title: Martial Arts Tai Chi Kung Fu Shoes for Men and Women Traditional Chinese Canvas Sneakers
+  asin: "B0G58GJVX2"
+  url: https://www.amazon.com/dp/B0G58GJVX2?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/71xRXKP+tgL._AC_UL640_.jpg
+  price: "$19.99"
 - title: "YunPeng Chinese Traditional Old Beijing Shoes Unisex Martial Art Kung Fu Tai Chi Rubber Sole Shoes"
   asin: "B07B8DSVWD"
   url: https://www.amazon.com/dp/B07B8DSVWD?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61tPRXUKQ6L._AC_UL640_.jpg
-  price: "SGD 23.23"
+  price: "$17.19"
 - title: "Men's Martial Art Kung Fu Tai Chi Cotton Sole Canvas Shoes (11) Black"
   asin: "B00HXNJYD6"
   url: https://www.amazon.com/dp/B00HXNJYD6?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/41Ma2g5I92L._AC_UL640_.jpg
-  price: "SGD 23.25"
+  price: "$17.20"
 ---
 
 ## Daoist Roots: Where Philosophy Meets Flesh

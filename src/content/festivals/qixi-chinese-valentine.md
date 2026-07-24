@@ -1,4 +1,4 @@
-﻿---
+---
 title: Qixi — The Love Story Written in the Stars (Literally)
 description: Qixi — where two stars separated by the Milky Way meet once a year. The
   real Chinese Valentine's Day, written in constellations 2,600 years ago.
@@ -21,11 +21,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0DB2P1LBF?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/617g7iclA3L._AC_UL640_.jpg
   price: $21.51
-- title: "OMyTea"
+- title: "OMyTea Folding Hand Fan for Women - Chinese/Japanese Vintage Retro Style"
   asin: "B01MS6U5TT"
   url: https://www.amazon.com/dp/B01MS6U5TT?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71fQe0KVfWL._AC_UL640_.jpg
-  price: "SGD 16.78"
+  price: "$12.42"
 - title: 'Chinese Children''s Favorite Stories: Fables, Myths and Fairy Tales'
   asin: 0804851492
   url: https://www.amazon.com/dp/0804851492?tag=huaxiaink-20

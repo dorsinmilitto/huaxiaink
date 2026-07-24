@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Art of Chinese Dumplings: Folding 1,800 Years of Story Into Dough"
 description: Chinese dumplings fold 1,800 years of story into dough — from Han dynasty
   battlefield medicine to the must-have dish of Spring Festival reunion dinners.
@@ -25,12 +25,12 @@ affiliate:
   asin: "B0CPDD6WCL"
   url: https://www.amazon.com/dp/B0CPDD6WCL?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71PogXpSodL._AC_UL640_.jpg
-  price: "SGD 38.73"
+  price: "$28.66"
 - title: "Bamboo Steamer 10 Inch 2 Tier Wooden Basket With Handle, Ring Adapter, Reusable Silicone Liner, Kit For Cooking Dumpling Baby Bao Bun, Dim Sum, Rice Potsticker Steaming Chinese Asian Food & Vegetables"
   asin: "B09YWK6CWW"
   url: https://www.amazon.com/dp/B09YWK6CWW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81tgrXX8u1L._AC_UL640_.jpg
-  price: "SGD 40.60"
+  price: "$30.04"
 - asin: B0H1S23GY4
   title: 50Pcs Chinese Breakfast Stickers - Waterproof Vinyl Food Decals
   url: https://www.amazon.com/dp/B0H1S23GY4?tag=huaxiaink-20

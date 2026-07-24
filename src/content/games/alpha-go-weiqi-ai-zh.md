@@ -20,11 +20,11 @@ affiliate:
   url: https://www.amazon.com/dp/B0008EJXEW?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81DwYl8cMXL._AC_UL640_.jpg
   price: $39.99
-- title: AlphaGo Documentary - The AI That Mastered the Ancient Game of Go
-  asin: B0GXC84B4S
-  url: https://www.amazon.com/dp/B0GXC84B4S?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/61+oTH66+KL._AC_UY218_.jpg
-  price: $13.99
+- title: Bamboo Go Game Set - Wooden Board with Pull-Out Storage Drawers and Double Convex Melamine Stones
+  asin: B0FLG938G6
+  url: https://www.amazon.com/dp/B0FLG938G6?tag=huaxiaink-20
+  imageUrl: https://m.media-amazon.com/images/I/81dQ2l43QeL._AC_UL640_.jpg
+  price: $49.99
 - title: Yin Yang Beaded Bookmark
   asin: '1441306447'
   url: https://www.amazon.com/dp/1441306447?tag=huaxiaink-20

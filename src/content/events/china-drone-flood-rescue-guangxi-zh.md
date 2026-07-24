@@ -1,4 +1,4 @@
-﻿---
+---
 title: "无人机从洪水中吊人：广西洪灾重载无人机改写救援规则"
 description: 台风美莎克淹没广西后，载重400公斤的重载无人机直接空运被困群众、投送数吨物资，在道路中断的孤岛中架起空中生命线，改写救灾规则。
 youtubeId: a7qKxRO0ZLI
@@ -15,20 +15,21 @@ tags:
 - 重载无人机
 featured: true
 affiliate:
-- title: "Lekufee"
+- title: "Lekufee Waterproof Hard Carrying Case for DJI Mavic 4 Pro Drone"
   asin: "B0F87VSVZF"
   url: https://www.amazon.com/dp/B0F87VSVZF?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81i5XtMWFKL._AC_UL640_.jpg
-  price: "SGD 129.14"
+  price: "$95.56"
 - title: "GPS Drone with EIS Camera for Adults Beginners,4.5\" HD LCD RC Screen,Al Track&Orbit Mode,32G SD Card with Drone Professional Auto Return, Drones Long Range Follow Me,Gesture Control,under 249g"
   asin: "B0H3LW66X7"
   url: https://www.amazon.com/dp/B0H3LW66X7?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/61TIH19pf3L._AC_UL640_.jpg
-  price: "SGD 180.79"
+  price: "$133.78"
 - title: "Survival Kit, 268 Pcs Emergency Survival Gear and Equipment Supplies with First Aid Kit, Camping Axe, Headlamp, Crossbody Bag for Camping Hiking, Hunting, Gift for Christmas Men, Dads, Black"
   asin: "B0FHQDJ2H9"
   url: https://www.amazon.com/dp/B0FHQDJ2H9?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81d9heaBplL._AC_UL640_.jpg
+  price: "$39.99"
 ---
 
 2026年7月初，台风"美莎克"横扫中国南方，广西壮族自治区遭遇了史无前例的暴雨。河流漫溢、水库出险、道路在两米深的洪水中消失——超过15000名群众被困在屋顶和山岗上，与世隔绝。

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 欧洲热浪危机：中国物理降温智慧为何比空调更管用
 description: 欧洲热浪频发之际，探索中国物理降温智慧——从竹席到绿豆汤，比空调更自然的消暑之道。
 youtubeId: WvftmYJgHno
@@ -21,22 +21,17 @@ affiliate:
   asin: "B09WXP1Z1N"
   url: https://www.amazon.com/dp/B09WXP1Z1N?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/71TmpQA2GOL._AC_UL640_.jpg
-  price: "SGD 12.90"
+  price: "$9.55"
 - title: WEARXI Hand Fan, 4 Pcs Hand Fan Women Folding Fan Silk Bamboo Handheld Fan Paper Hand Fan
   asin: B0F1N72M4R
   url: https://www.amazon.com/dp/B0F1N72M4R?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81qeYEc02fL._AC_UL640_.jpg
   price: $11.99
-- title: "Bedsure"
+- title: "Bedsure Cooling Blankets for Hot Sleepers, Ice Breathable Comforter"
   asin: "B0BV6PMWCK"
   url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
   imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
-  price: "SGD 59.40"
-- title: "Bedsure"
-  asin: "B0BV6PMWCK"
-  url: https://www.amazon.com/dp/B0BV6PMWCK?tag=huaxiaink-20
-  imageUrl: https://m.media-amazon.com/images/I/81i2NgMojOL._AC_UL640_.jpg
-  price: "SGD 59.40"
+  price: "$43.96"
 - asin: B0GKPNC74V
   title: Chinese New Year Red Envelope - 18Pcs Lucky Money Hongbao
   url: https://www.amazon.com/dp/B0GKPNC74V?tag=huaxiaink-20
