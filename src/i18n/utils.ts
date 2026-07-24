@@ -27,8 +27,8 @@ const translations = {
     'section.latest': 'Latest Stories',
     'section.related': 'You May Also Like',
     'section.cultural_context': 'Cultural Context',
-    'section.dive_deeper': 'Dive Deeper',
-    'section.dive_deeper_desc': 'Explore related products handpicked for this topic:',
+    'section.dive_deeper': 'Recommended Products',
+    'section.dive_deeper_desc': 'Products related to this topic, automatically recommended by Amazon:',
     'section.affiliate_disclosure': 'As an Amazon Associate, we earn from qualifying purchases.',
     'section.no_videos': 'No stories yet. Check back soon!',
 
@@ -99,8 +99,8 @@ const translations = {
     'section.latest': '最新发布',
     'section.related': '相关推荐',
     'section.cultural_context': '文化背景',
-    'section.dive_deeper': '深入了解',
-    'section.dive_deeper_desc': '为你精选的相关产品：',
+    'section.dive_deeper': '推荐产品',
+    'section.dive_deeper_desc': '与本文相关的产品，由Amazon智能推荐：',
     'section.affiliate_disclosure': '作为亚马逊联盟成员，我们通过符合条件的购买获得收益。',
     'section.no_videos': '暂无内容，敬请期待！',
 

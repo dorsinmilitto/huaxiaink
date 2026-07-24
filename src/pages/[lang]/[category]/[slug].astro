@@ -2,6 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
 import AffiliateCard from '../../../components/AffiliateCard.astro';
+import NativeShoppingAd from '../../../components/NativeShoppingAd.astro';
 import VideoCard from '../../../components/VideoCard.astro';
 import GiscusComments from '../../../components/GiscusComments.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
@@ -93,6 +94,22 @@ const articleSchema = {
 };
 
 const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`;
+
+// Amazon Native Shopping Ads: derive search keywords from category + tags
+const categorySearchKey: Record<string, string> = {
+  'events': 'Chinese culture gifts',
+  'games': 'Chinese board games',
+  'music': 'Chinese traditional music',
+  'travel': 'China travel guide book',
+  'festivals': 'Chinese festival decorations',
+  'food': 'Chinese cooking ingredients',
+  'kung-fu': 'Chinese martial arts training',
+};
+const adSearchKey = frontmatter.tags.length >= 2
+  ? frontmatter.tags.slice(0, 2).join(' ').replace(/[-_]/g, ' ')
+  : frontmatter.tags.length === 1
+    ? frontmatter.tags[0].replace(/[-_]/g, ' ')
+    : (categorySearchKey[category as string] || 'Chinese culture');
 ---
 
 <BaseLayout title={frontmatter.title} description={articleDesc} lang={l} image={ogImage}
@@ -160,20 +177,15 @@ const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 
       </section>
     )}
 
-    {frontmatter.affiliate && frontmatter.affiliate.length > 0 && (
-      <div class="affiliate-section" id="affiliate-section">
-        <h3>{t(l, 'section.dive_deeper')}</h3>
-        <p>{t(l, 'section.dive_deeper_desc')}</p>
-        <div class="affiliate-cards">
-          {frontmatter.affiliate.map((item: any) => (
-            <AffiliateCard title={item.title} asin={item.asin} url={item.url} imageUrl={item.imageUrl} price={item.price} />
-          ))}
-        </div>
-        <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
-          {t(l, 'section.affiliate_disclosure')}
-        </p>
-      </div>
-    )}
+    {/* Amazon Native Shopping Ads — auto-recommends products, no manual ASIN maintenance */}
+    <div class="affiliate-section" id="affiliate-section">
+      <h2 class="section-title">{t(l, 'section.dive_deeper')}</h2>
+      <p>{t(l, 'section.dive_deeper_desc')}</p>
+      <NativeShoppingAd searchKey={adSearchKey} />
+      <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.75rem">
+        {t(l, 'section.affiliate_disclosure')}
+      </p>
+    </div>
 
     <div class="comments-section">
       <GiscusComments lang={l} mapping="pathname" term={`/${l}/${category}/${slug}/`} />

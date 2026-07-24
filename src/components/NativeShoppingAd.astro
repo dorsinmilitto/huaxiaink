@@ -1,0 +1,179 @@
+---
+/**
+ * Amazon Native Shopping Ads Component
+ * 
+ * Auto-recommends Amazon products based on search keywords.
+ * Amazon handles product availability — delisted products are auto-replaced.
+ * No manual ASIN maintenance needed.
+ * 
+ * Usage: <NativeShoppingAd searchKey="chinese tea" />
+ */
+export interface Props {
+  searchKey: string;
+  trackingId?: string;
+}
+
+const { 
+  searchKey, 
+  trackingId = 'huaxiaink-20'
+} = Astro.props;
+
+// Capitalize search key for display
+const displayKey = searchKey.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+// Unique div ID per search key to avoid conflicts
+const divId = 'amzn-ad-' + Buffer.from(searchKey).toString('base64').replace(/[^a-zA-Z0-9]/g, '').slice(0, 16);
+---
+
+<div class="native-ad-container" id={divId}>
+  <!-- Fallback: shown if Amazon ad doesn't load (ad blocker, network issue, etc.) -->
+  <div class="native-ad-fallback">
+    <div class="native-ad-fallback-inner">
+      <div class="native-ad-fallback-icon">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+          <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+        </svg>
+      </div>
+      <div class="native-ad-fallback-content">
+        <span class="native-ad-fallback-title">Related Products on Amazon</span>
+        <span class="native-ad-fallback-key">{displayKey}</span>
+      </div>
+      <a 
+        href={`https://www.amazon.com/s?k=${encodeURIComponent(searchKey)}&tag=${trackingId}`}
+        target="_blank" 
+        rel="noopener noreferrer sponsored nofollow"
+        class="native-ad-fallback-btn"
+      >
+        Browse <span class="native-ad-fallback-arrow">&rarr;</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script is:inline define:vars={{ searchKey, trackingId, divId }}>
+  // Amazon Native Shopping Ads — Responsive Search Widget
+  amzn_assoc_ad_type = "responsive_search_widget";
+  amzn_assoc_tracking_id = trackingId;
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = divId;
+  amzn_assoc_search_type = "search_widget";
+  amzn_assoc_width = "auto";
+  amzn_assoc_height = "auto";
+  amzn_assoc_default_search_category = "";
+  amzn_assoc_default_search_key = searchKey;
+  amzn_assoc_theme = "light";
+  amzn_assoc_bg_color = "FFF8EF";
+  amzn_assoc_text_color = "1A1A2E";
+  amzn_assoc_linkid = "huaxiaink_native_001";
+
+  // Hide fallback once ad renders (Amazon injects iframe/products into container)
+  (function() {
+    var observer = new MutationObserver(function() {
+      var container = document.getElementById(divId);
+      if (container) {
+        var adContent = container.querySelector('iframe, .amzn-product, [id^="amzn-"]:not(#' + divId + ')');
+        if (adContent) {
+          var fallback = container.querySelector('.native-ad-fallback');
+          if (fallback) fallback.style.display = 'none';
+          observer.disconnect();
+        }
+      }
+    });
+    var target = document.getElementById(divId);
+    if (target) observer.observe(target, { childList: true, subtree: true });
+    // Safety: stop observing after 10s
+    setTimeout(function() { observer.disconnect(); }, 10000);
+  })();
+</script>
+<script is:inline src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<style>
+  .native-ad-container {
+    width: 100%;
+    min-height: 100px;
+    margin: 1rem 0;
+  }
+  .native-ad-fallback {
+    padding: 1.25rem 1.5rem;
+    background: #fff;
+    border: 1px solid var(--border, #e0d5c0);
+    border-radius: 10px;
+    transition: box-shadow 0.2s;
+  }
+  .native-ad-fallback:hover {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  }
+  .native-ad-fallback-inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .native-ad-fallback-icon {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #fef9e7, #fdebd0);
+    border-radius: 10px;
+    color: var(--vermillion, #c0392b);
+  }
+  .native-ad-fallback-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 120px;
+  }
+  .native-ad-fallback-title {
+    font-family: var(--font-sans, sans-serif);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--ink-black, #1a1a2e);
+  }
+  .native-ad-fallback-key {
+    font-family: var(--font-sans, sans-serif);
+    font-size: 0.82rem;
+    color: var(--text-muted, #888);
+  }
+  .native-ad-fallback-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.6rem 1.4rem;
+    background: var(--vermillion, #c0392b);
+    color: #fff !important;
+    border-radius: 8px;
+    font-family: var(--font-sans, sans-serif);
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: all 0.2s;
+  }
+  .native-ad-fallback-btn:hover {
+    background: #a93226;
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(192,57,43,0.3);
+  }
+  .native-ad-fallback-arrow {
+    font-size: 1.1rem;
+    transition: transform 0.2s;
+  }
+  .native-ad-fallback-btn:hover .native-ad-fallback-arrow {
+    transform: translateX(3px);
+  }
+  @media (max-width: 600px) {
+    .native-ad-fallback-inner {
+      gap: 0.75rem;
+    }
+    .native-ad-fallback-btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
