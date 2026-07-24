@@ -96,6 +96,7 @@ const articleSchema = {
 const articleDesc = frontmatter.description || `${frontmatter.title} — ${t(l, 'detail.on')}`;
 
 // Amazon Native Shopping Ads: derive search keywords from category + tags
+// EN pages use article tags for specific results; ZH pages use category keyword (Amazon.com is US market)
 const categorySearchKey: Record<string, string> = {
   'events': 'Chinese culture gifts',
   'games': 'Chinese board games',
@@ -105,9 +106,9 @@ const categorySearchKey: Record<string, string> = {
   'food': 'Chinese cooking ingredients',
   'kung-fu': 'Chinese martial arts training',
 };
-const adSearchKey = frontmatter.tags.length >= 2
+const adSearchKey = l === 'en' && frontmatter.tags.length >= 2
   ? frontmatter.tags.slice(0, 2).join(' ').replace(/[-_]/g, ' ')
-  : frontmatter.tags.length === 1
+  : l === 'en' && frontmatter.tags.length === 1
     ? frontmatter.tags[0].replace(/[-_]/g, ' ')
     : (categorySearchKey[category as string] || 'Chinese culture');
 ---
