@@ -164,8 +164,15 @@ const jsonLd = {
             }
             if (!solar) solar = Solar.fromYmd(year, 4, 5);
           } else if (f.lastDay) {
+            // 除夕 = 农历年腊月最后一天，需过滤出属于当前农历年的月份
             var months = lunarYear.getMonths();
-            var lastMonth = months[months.length - 1];
+            var lastMonth;
+            for (var mi = months.length - 1; mi >= 0; mi--) {
+              if (months[mi].getYear() === year) {
+                lastMonth = months[mi];
+                break;
+              }
+            }
             var dayCount = lastMonth.getDayCount();
             var lunar = Lunar.fromYmd(year, lastMonth.getMonth(), dayCount);
             solar = lunar.getSolar();
@@ -275,10 +282,12 @@ const jsonLd = {
       font-size: 0.85rem; color: var(--text-muted); font-weight: 600; white-space: nowrap;
     }
     .festival-table td { padding: 0.7rem 0.5rem; border-bottom: 1px solid #f0ebe0; font-size: 0.9rem; color: var(--text); }
-    .festival-table tr.today { background: rgba(39,174,96,0.08); }
-    .festival-table tr.today .festival-countdown { color: var(--jade-green); font-weight: 700; }
-    .festival-table tr.upcoming { background: rgba(212,160,23,0.05); }
-    .festival-table tr.upcoming .festival-countdown { color: var(--gold); font-weight: 600; }
+    .festival-table :global(tr.today) { background: rgba(39,174,96,0.18); }
+    .festival-table :global(tr.today) .festival-countdown { color: #27ae60; font-weight: 700; font-size: 1rem; }
+    .festival-table :global(tr.upcoming) { background: rgba(212,160,23,0.14); }
+    .festival-table :global(tr.upcoming) .festival-countdown { color: #b8860b; font-weight: 700; }
+    .festival-table :global(tr.past) { opacity: 0.55; }
+    .festival-table :global(tr.past) .festival-countdown { color: #999; }
     .festival-name { font-weight: 600; white-space: nowrap; }
     .festival-countdown { white-space: nowrap; font-weight: 500; }
 
