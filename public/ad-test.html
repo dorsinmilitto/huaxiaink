@@ -7,13 +7,19 @@
 <style>
   body { font-family: sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; }
   h1 { color: #333; }
-  #status { padding: 10px; background: #f0f0f0; border-radius: 5px; margin-bottom: 20px; }
-  .ad-wrapper { min-height: 300px; border: 2px dashed #ccc; padding: 15px; }
+  .status-box { padding: 10px; border-radius: 5px; margin-bottom: 10px; }
+  #script-status { background: #fff3cd; color: #856404; }
+  #ad-status { background: #f0f0f0; color: #333; }
+  .ad-wrapper { min-height: 400px; border: 2px dashed #ccc; padding: 15px; }
+  .success { background: #d4edda !important; color: #155724 !important; }
+  .error { background: #f8d7da !important; color: #721c24 !important; }
 </style>
 </head>
 <body>
 <h1>Amazon Native Shopping Ad Test</h1>
-<div id="status">Loading Amazon ad script...</div>
+
+<div id="script-status" class="status-box">onejs script: PENDING...</div>
+<div id="ad-status" class="status-box">Ad content: PENDING...</div>
 
 <div class="ad-wrapper">
   <div id="amzn-ad-test"></div>
@@ -36,38 +42,55 @@ amzn_assoc_bg_color = "FFF8EF";
 amzn_assoc_text_color = "1A1A2E";
 amzn_assoc_linkid = "huaxiaink_test_001";
 </script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <script>
-// Monitor ad loading
-var checkCount = 0;
-var maxChecks = 30;
-var interval = setInterval(function() {
-  checkCount++;
-  var container = document.getElementById('amzn-ad-test');
-  var iframe = container.querySelector('iframe');
-  var amznEls = container.querySelectorAll('[id^="amzn-"]:not(#amzn-ad-test)');
-  var status = document.getElementById('status');
-  
-  if (iframe) {
-    status.textContent = 'SUCCESS: Amazon ad iframe detected! (check #' + checkCount + ')';
-    status.style.background = '#d4edda';
-    status.style.color = '#155724';
-    clearInterval(interval);
-  } else if (amznEls.length > 0) {
-    status.textContent = 'SUCCESS: Amazon ad elements detected! (check #' + checkCount + ')';
-    status.style.background = '#d4edda';
-    status.style.color = '#155724';
-    clearInterval(interval);
-  } else if (checkCount >= maxChecks) {
-    status.textContent = 'TIMEOUT: No Amazon ad detected after ' + maxChecks + ' checks. Ad script may be blocked or account not approved.';
-    status.style.background = '#f8d7da';
-    status.style.color = '#721c24';
-    clearInterval(interval);
-  } else {
-    status.textContent = 'Checking... (' + checkCount + '/' + maxChecks + ') - no ad content yet';
-  }
-}, 500);
+// Track onejs script load status
+var onejs = document.createElement('script');
+onejs.src = '//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US';
+onejs.onload = function() {
+  document.getElementById('script-status').textContent = 'onejs script: LOADED SUCCESSFULLY';
+  document.getElementById('script-status').className = 'status-box success';
+};
+onejs.onerror = function() {
+  document.getElementById('script-status').textContent = 'onejs script: FAILED TO LOAD (blocked by adblocker or network error)';
+  document.getElementById('script-status').className = 'status-box error';
+};
+document.head.appendChild(onejs);
 </script>
+
+<script>
+// Monitor ad loading - start after 2 second delay
+setTimeout(function() {
+  var checkCount = 0;
+  var maxChecks = 30;
+  var interval = setInterval(function() {
+    checkCount++;
+    var container = document.getElementById('amzn-ad-test');
+    var iframe = container ? container.querySelector('iframe') : null;
+    var amznEls = container ? container.querySelectorAll('[id^="amzn-"]:not(#amzn-ad-test)') : [];
+    var status = document.getElementById('ad-status');
+    var allIframes = document.querySelectorAll('iframe');
+    
+    if (iframe) {
+      status.textContent = 'Ad content: SUCCESS! iframe detected (check #' + checkCount + ')';
+      status.className = 'status-box success';
+      clearInterval(interval);
+    } else if (amznEls.length > 0) {
+      status.textContent = 'Ad content: SUCCESS! ' + amznEls.length + ' Amazon elements detected (check #' + checkCount + ')';
+      status.className = 'status-box success';
+      clearInterval(interval);
+    } else if (allIframes.length > 0) {
+      status.textContent = 'Ad content: PARTIAL - ' + allIframes.length + ' iframe(s) found on page but not in ad container (check #' + checkCount + ')';
+    } else if (checkCount >= maxChecks) {
+      status.textContent = 'Ad content: TIMEOUT after ' + maxChecks + ' checks (' + (maxChecks * 0.5 + 2) + 's total). No ad rendered.';
+      status.className = 'status-box error';
+      clearInterval(interval);
+    } else {
+      status.textContent = 'Ad content: Checking... (' + checkCount + '/' + maxChecks + ') - elapsed ' + (checkCount * 0.5 + 2) + 's';
+    }
+  }, 500);
+}, 2000);
+</script>
+
 </body>
 </html>
