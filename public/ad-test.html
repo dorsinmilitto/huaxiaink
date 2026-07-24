@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Amazon Ad Test</title>
+<style>
+  body { font-family: sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; }
+  h1 { color: #333; }
+  #status { padding: 10px; background: #f0f0f0; border-radius: 5px; margin-bottom: 20px; }
+  .ad-wrapper { min-height: 300px; border: 2px dashed #ccc; padding: 15px; }
+</style>
+</head>
+<body>
+<h1>Amazon Native Shopping Ad Test</h1>
+<div id="status">Loading Amazon ad script...</div>
+
+<div class="ad-wrapper">
+  <div id="amzn-ad-test"></div>
+</div>
+
+<script>
+// Amazon Native Shopping Ads config
+amzn_assoc_ad_type = "responsive_search_widget";
+amzn_assoc_tracking_id = "huaxiaink-20";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_placement = "amzn-ad-test";
+amzn_assoc_search_type = "search_widget";
+amzn_assoc_width = "auto";
+amzn_assoc_height = "auto";
+amzn_assoc_default_search_category = "";
+amzn_assoc_default_search_key = "Chinese hot pot";
+amzn_assoc_theme = "light";
+amzn_assoc_bg_color = "FFF8EF";
+amzn_assoc_text_color = "1A1A2E";
+amzn_assoc_linkid = "huaxiaink_test_001";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<script>
+// Monitor ad loading
+var checkCount = 0;
+var maxChecks = 30;
+var interval = setInterval(function() {
+  checkCount++;
+  var container = document.getElementById('amzn-ad-test');
+  var iframe = container.querySelector('iframe');
+  var amznEls = container.querySelectorAll('[id^="amzn-"]:not(#amzn-ad-test)');
+  var status = document.getElementById('status');
+  
+  if (iframe) {
+    status.textContent = 'SUCCESS: Amazon ad iframe detected! (check #' + checkCount + ')';
+    status.style.background = '#d4edda';
+    status.style.color = '#155724';
+    clearInterval(interval);
+  } else if (amznEls.length > 0) {
+    status.textContent = 'SUCCESS: Amazon ad elements detected! (check #' + checkCount + ')';
+    status.style.background = '#d4edda';
+    status.style.color = '#155724';
+    clearInterval(interval);
+  } else if (checkCount >= maxChecks) {
+    status.textContent = 'TIMEOUT: No Amazon ad detected after ' + maxChecks + ' checks. Ad script may be blocked or account not approved.';
+    status.style.background = '#f8d7da';
+    status.style.color = '#721c24';
+    clearInterval(interval);
+  } else {
+    status.textContent = 'Checking... (' + checkCount + '/' + maxChecks + ') - no ad content yet';
+  }
+}, 500);
+</script>
+</body>
+</html>
