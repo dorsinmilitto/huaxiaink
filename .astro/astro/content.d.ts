@@ -1369,6 +1369,20 @@ declare module 'astro:content' {
   collection: "music";
   data: InferEntrySchema<"music">
 } & { render(): Render[".md"] };
+"hulusi-gourd-flute-zh.md": {
+	id: "hulusi-gourd-flute-zh.md";
+  slug: "hulusi-gourd-flute-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"hulusi-gourd-flute.md": {
+	id: "hulusi-gourd-flute.md";
+  slug: "hulusi-gourd-flute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
 "inuyasha-erhu-zh.md": {
 	id: "inuyasha-erhu-zh.md";
   slug: "inuyasha-erhu-zh";
@@ -1407,6 +1421,20 @@ declare module 'astro:content' {
 "lemon-tree-guzheng-cello.md": {
 	id: "lemon-tree-guzheng-cello.md";
   slug: "lemon-tree-guzheng-cello";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"morin-khuur-horse-head-fiddle-zh.md": {
+	id: "morin-khuur-horse-head-fiddle-zh.md";
+  slug: "morin-khuur-horse-head-fiddle-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"morin-khuur-horse-head-fiddle.md": {
+	id: "morin-khuur-horse-head-fiddle.md";
+  slug: "morin-khuur-horse-head-fiddle";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
@@ -1519,6 +1547,20 @@ declare module 'astro:content' {
 "xun-ocarina-clay-flute.md": {
 	id: "xun-ocarina-clay-flute.md";
   slug: "xun-ocarina-clay-flute";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"yangqin-chinese-hammered-dulcimer-zh.md": {
+	id: "yangqin-chinese-hammered-dulcimer-zh.md";
+  slug: "yangqin-chinese-hammered-dulcimer-zh";
+  body: string;
+  collection: "music";
+  data: InferEntrySchema<"music">
+} & { render(): Render[".md"] };
+"yangqin-chinese-hammered-dulcimer.md": {
+	id: "yangqin-chinese-hammered-dulcimer.md";
+  slug: "yangqin-chinese-hammered-dulcimer";
   body: string;
   collection: "music";
   data: InferEntrySchema<"music">
