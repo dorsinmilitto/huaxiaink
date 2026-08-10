@@ -311,6 +311,34 @@ declare module 'astro:content' {
   collection: "festivals";
   data: InferEntrySchema<"festivals">
 } & { render(): Render[".md"] };
+"hanshi-cold-food-festival-zh.md": {
+	id: "hanshi-cold-food-festival-zh.md";
+  slug: "hanshi-cold-food-festival-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"hanshi-cold-food-festival.md": {
+	id: "hanshi-cold-food-festival.md";
+  slug: "hanshi-cold-food-festival";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"huazhao-flower-festival-zh.md": {
+	id: "huazhao-flower-festival-zh.md";
+  slug: "huazhao-flower-festival-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"huazhao-flower-festival.md": {
+	id: "huazhao-flower-festival.md";
+  slug: "huazhao-flower-festival";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
 "laba-festival-congee-zh.md": {
 	id: "laba-festival-congee-zh.md";
   slug: "laba-festival-congee-zh";
@@ -391,6 +419,20 @@ declare module 'astro:content' {
 "qixi-double-seventh.md": {
 	id: "qixi-double-seventh.md";
   slug: "qixi-double-seventh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"shangsi-double-third-festival-zh.md": {
+	id: "shangsi-double-third-festival-zh.md";
+  slug: "shangsi-double-third-festival-zh";
+  body: string;
+  collection: "festivals";
+  data: InferEntrySchema<"festivals">
+} & { render(): Render[".md"] };
+"shangsi-double-third-festival.md": {
+	id: "shangsi-double-third-festival.md";
+  slug: "shangsi-double-third-festival";
   body: string;
   collection: "festivals";
   data: InferEntrySchema<"festivals">
