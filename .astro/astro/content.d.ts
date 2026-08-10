@@ -791,6 +791,34 @@ declare module 'astro:content' {
   collection: "games";
   data: InferEntrySchema<"games">
 } & { render(): Render[".md"] };
+"chinese-top-spinning-tuoluo-zh.md": {
+	id: "chinese-top-spinning-tuoluo-zh.md";
+  slug: "chinese-top-spinning-tuoluo-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"chinese-top-spinning-tuoluo.md": {
+	id: "chinese-top-spinning-tuoluo.md";
+  slug: "chinese-top-spinning-tuoluo";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"cuju-ancient-chinese-football-zh.md": {
+	id: "cuju-ancient-chinese-football-zh.md";
+  slug: "cuju-ancient-chinese-football-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"cuju-ancient-chinese-football.md": {
+	id: "cuju-ancient-chinese-football.md";
+  slug: "cuju-ancient-chinese-football";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
 "dou-dizhu-fight-the-landlord-zh.md": {
 	id: "dou-dizhu-fight-the-landlord-zh.md";
   slug: "dou-dizhu-fight-the-landlord-zh";
@@ -815,6 +843,20 @@ declare module 'astro:content' {
 "jianzi-shuttlecock-kicking.md": {
 	id: "jianzi-shuttlecock-kicking.md";
   slug: "jianzi-shuttlecock-kicking";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"nine-linked-rings-puzzle-zh.md": {
+	id: "nine-linked-rings-puzzle-zh.md";
+  slug: "nine-linked-rings-puzzle-zh";
+  body: string;
+  collection: "games";
+  data: InferEntrySchema<"games">
+} & { render(): Render[".md"] };
+"nine-linked-rings-puzzle.md": {
+	id: "nine-linked-rings-puzzle.md";
+  slug: "nine-linked-rings-puzzle";
   body: string;
   collection: "games";
   data: InferEntrySchema<"games">
