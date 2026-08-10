@@ -481,6 +481,34 @@ declare module 'astro:content' {
   collection: "food";
   data: InferEntrySchema<"food">
 } & { render(): Render[".md"] };
+"baozi-chinese-steamed-buns-zh.md": {
+	id: "baozi-chinese-steamed-buns-zh.md";
+  slug: "baozi-chinese-steamed-buns-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"baozi-chinese-steamed-buns.md": {
+	id: "baozi-chinese-steamed-buns.md";
+  slug: "baozi-chinese-steamed-buns";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"biang-biang-noodles-shaanxi-zh.md": {
+	id: "biang-biang-noodles-shaanxi-zh.md";
+  slug: "biang-biang-noodles-shaanxi-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"biang-biang-noodles-shaanxi.md": {
+	id: "biang-biang-noodles-shaanxi.md";
+  slug: "biang-biang-noodles-shaanxi";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
 "chinese-bbq-chuanr-zh.md": {
 	id: "chinese-bbq-chuanr-zh.md";
   slug: "chinese-bbq-chuanr-zh";
@@ -617,6 +645,20 @@ declare module 'astro:content' {
 "peking-duck-imperial-cuisine.md": {
 	id: "peking-duck-imperial-cuisine.md";
   slug: "peking-duck-imperial-cuisine";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"scallion-pancake-cong-you-bing-zh.md": {
+	id: "scallion-pancake-cong-you-bing-zh.md";
+  slug: "scallion-pancake-cong-you-bing-zh";
+  body: string;
+  collection: "food";
+  data: InferEntrySchema<"food">
+} & { render(): Render[".md"] };
+"scallion-pancake-cong-you-bing.md": {
+	id: "scallion-pancake-cong-you-bing.md";
+  slug: "scallion-pancake-cong-you-bing";
   body: string;
   collection: "food";
   data: InferEntrySchema<"food">
