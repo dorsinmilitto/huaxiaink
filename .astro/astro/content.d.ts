@@ -1553,6 +1553,20 @@ declare module 'astro:content' {
   collection: "travel";
   data: InferEntrySchema<"travel">
 } & { render(): Render[".md"] };
+"fenghuang-ancient-town-zh.md": {
+	id: "fenghuang-ancient-town-zh.md";
+  slug: "fenghuang-ancient-town-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"fenghuang-ancient-town.md": {
+	id: "fenghuang-ancient-town.md";
+  slug: "fenghuang-ancient-town";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
 "forbidden-city-beijing-zh.md": {
 	id: "forbidden-city-beijing-zh.md";
   slug: "forbidden-city-beijing-zh";
@@ -1661,6 +1675,34 @@ declare module 'astro:content' {
 "lijiang-ancient-town-jade-dragon.md": {
 	id: "lijiang-ancient-town-jade-dragon.md";
   slug: "lijiang-ancient-town-jade-dragon";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"mount-emei-buddhist-peak-zh.md": {
+	id: "mount-emei-buddhist-peak-zh.md";
+  slug: "mount-emei-buddhist-peak-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"mount-emei-buddhist-peak.md": {
+	id: "mount-emei-buddhist-peak.md";
+  slug: "mount-emei-buddhist-peak";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"pingyao-ancient-city-zh.md": {
+	id: "pingyao-ancient-city-zh.md";
+  slug: "pingyao-ancient-city-zh";
+  body: string;
+  collection: "travel";
+  data: InferEntrySchema<"travel">
+} & { render(): Render[".md"] };
+"pingyao-ancient-city.md": {
+	id: "pingyao-ancient-city.md";
+  slug: "pingyao-ancient-city";
   body: string;
   collection: "travel";
   data: InferEntrySchema<"travel">
