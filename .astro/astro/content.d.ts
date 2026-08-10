@@ -961,6 +961,34 @@ declare module 'astro:content' {
   collection: "kung-fu";
   data: InferEntrySchema<"kung-fu">
 } & { render(): Render[".md"] };
+"chinese-sword-dance-jianwu-zh.md": {
+	id: "chinese-sword-dance-jianwu-zh.md";
+  slug: "chinese-sword-dance-jianwu-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"chinese-sword-dance-jianwu.md": {
+	id: "chinese-sword-dance-jianwu.md";
+  slug: "chinese-sword-dance-jianwu";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"drunken-fist-zui-quan-zh.md": {
+	id: "drunken-fist-zui-quan-zh.md";
+  slug: "drunken-fist-zui-quan-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"drunken-fist-zui-quan.md": {
+	id: "drunken-fist-zui-quan.md";
+  slug: "drunken-fist-zui-quan";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
 "emei-kung-fu-art-of-peace-zh.md": {
 	id: "emei-kung-fu-art-of-peace-zh.md";
   slug: "emei-kung-fu-art-of-peace-zh";
@@ -971,6 +999,20 @@ declare module 'astro:content' {
 "emei-kung-fu-art-of-peace.md": {
 	id: "emei-kung-fu-art-of-peace.md";
   slug: "emei-kung-fu-art-of-peace";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"praying-mantis-kung-fu-zh.md": {
+	id: "praying-mantis-kung-fu-zh.md";
+  slug: "praying-mantis-kung-fu-zh";
+  body: string;
+  collection: "kung-fu";
+  data: InferEntrySchema<"kung-fu">
+} & { render(): Render[".md"] };
+"praying-mantis-kung-fu.md": {
+	id: "praying-mantis-kung-fu.md";
+  slug: "praying-mantis-kung-fu";
   body: string;
   collection: "kung-fu";
   data: InferEntrySchema<"kung-fu">
